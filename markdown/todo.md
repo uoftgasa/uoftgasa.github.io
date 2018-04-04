@@ -7,7 +7,7 @@
  - [Get your TCard](http://tcard.utoronto.ca/getting-your-new-tcard-2/).
  - [Activate your UTORid](http://tcard.utoronto.ca/activate-your-utorid/).
  - [Set up your wifi](http://help.ic.utoronto.ca/content/20/704/en/wireless-access.html).
- - [Log in to ACORN].(https://acorn.utoronto.ca) 
+ - [Log in to ACORN](https://acorn.utoronto.ca) 
 	 - Set up direct deposit
 	 - Defer your tuition payment (see the [Funding Package](#funding-package) section for more details)
 	 - Enrol in AST1501Y and additional optional courses (see [Courses](#courses)) for more details.
@@ -31,5 +31,5 @@
  - Get your printer/copier codes from Lillian Lanca
  - Get the library door code from librarian Lee Robbins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM3MjA5ODVdfQ==
+eyJoaXN0b3J5IjpbMjAzNDQ2MjE3M119
 -->
