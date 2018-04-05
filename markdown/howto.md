@@ -1,6 +1,8 @@
 # Updating the Grad Guide
 Editing this grad school guide takes a little more work than the previous wiki, but the good news is that this guide is backed up to the cloud and deeply customizable. There are a couple ways you can update this document, but all of them start with going to [the github page](https://github.com/uoftgasa/uoftgasa.github.io). We'll list your options from there from least to most involved, but all will require a github account. 
 
+**Important**: Everything about this website is public, do not record any passwords or other sensitive information here! If you 
+
 ## Table of Contents
 
 - [Submit an Issue](#submit-an-issue)
@@ -110,5 +112,5 @@ Until I figure out a better way to do this, every section should have a table of
 [**Table of Contents**](#table-of-contents)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MzcyMzI2Nl19
+eyJoaXN0b3J5IjpbLTExNzI5MTg3ODddfQ==
 -->
