@@ -448,7 +448,7 @@ Apartments
 ## Public Services
 
 ### [Service Canada](https://www.canada.ca/en/employment-social-development/corporate/portfolio/service-canada.html)
-Service Canada provides a contact point for federal government services so you don't need to apply by mail. You can visit a branch to apply for a Social Insurance Number (SIN), along with their other services. The nearest Service Canada locations to campus are
+Service Canada provides a contact point for federal government services so you don't need to apply by mail. You can visit a branch to apply for a Social Insurance Number (SIN) or renew a Canadian s. The nearest Service Canada locations to campus are
 
 [559 College Street](https://maps.google.com/?q=559+College+Street&entry=gmail&source=g)
 
@@ -457,7 +457,7 @@ Service Canada provides a contact point for federal government services so you d
 [25 St Clair Avenue East](https://maps.google.com/?q=25+St+Clair+Avenue+East+(St.+Clair+Avenue&entry=gmail&source=g)) 
 
 ### Service Ontario
-Service Ontario provides a contact point for provincial government services like driver's lise
+Service Ontario provides a contact point for provincial government services like driver's license renewal, health car applications
 
 
 ### Toronto Public Library
@@ -507,5 +507,5 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NDY0Mjk5MV19
+eyJoaXN0b3J5IjpbLTE4ODY2NTA4MzRdfQ==
 -->
