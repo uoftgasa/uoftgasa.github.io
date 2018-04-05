@@ -357,7 +357,7 @@ McLennan Physical Labs is at [60 St George St](https://goo.gl/maps/ShCfL48w2iF2)
 
 ## GASA
 
-All 
+GASA is the Graduate Astronomy Student Association, and all astronomy graduate students are members unless they choose to opt out. The opt out process is as simple as speaking to one of the executive members (President, Secretary or Treasurer), and can be reverted at any time.
 
 ### Positions
 
@@ -541,5 +541,5 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNDc3MTA1XX0=
+eyJoaXN0b3J5IjpbLTIwNTgxOTA2OTBdfQ==
 -->
