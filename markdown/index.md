@@ -50,14 +50,15 @@ This is a living document, you can contribute to its creation by forking the [uo
 - [GASA](#gasa)
 	- [Positions](#positions)
 	- [AstroTours](#astrotours)
-- [Weekly Events](#weekly-events)
+- [Regular Events](#regular-events)
 	- [Scientific](#scientific)
 		- [Colloquium](#colloquium)
 		- [CITA Seminars](#cita-seminars)
 		- [Blackboard Talks](#blackboard-talks)
 		- [astro-ph Coffee](#astro-ph-coffee)
 		- [Stars and Planets Discussion Group](#stars-and-planets-discussion-group)
-		- [Pulsar Coffee](#pulsar-coffeee
+		- [Pulsar Coffee](#pulsar-coffee)
+		- [Talk Show](#talk-show)
 	 
 
 
@@ -436,5 +437,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE1NTEzOTExXX0=
+eyJoaXN0b3J5IjpbLTExNjQxNTQ5MTddfQ==
 -->
