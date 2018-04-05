@@ -64,11 +64,11 @@ The contents of this document, accompanied by a frequently asked question that m
 		- [GO Transit](#go-transit)
 	- [Cycling](#cycling)
 	- [Cars](#cars)
-- [Public Services](#public-services) - Where can I get 
+- [**Public Services**](#public-services) - Where can I register for OHIP?
 	- [Service Canada](#service-canada)
 	- [Service Ontario](#service-ontario)
 	- [Toronto Public Library](#toronto-public-library)
-- [Tourist Attractions](#tourist-attractions)
+- [Things to do in Toronto](#things-to-
 
 	 
 
@@ -452,5 +452,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMzE4MjEwM119
+eyJoaXN0b3J5IjpbNzMwNzg5NzAzXX0=
 -->
