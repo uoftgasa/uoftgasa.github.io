@@ -460,7 +460,7 @@ Apartments
 ### [The Art Gallery of Ontario](https://ago.ca)
 
 ### [The Don Valley Park](https://donrivervalleypark.ca/park-map/)
-If big city living has you hungry for greenery, look no farther than the Don River Valley Park. While Don Valley in casual conversation almost exclusively refers to the major highway that runs along the valley, the park is surprisingly tranquil. There is an extensive trail system suitable for walking or cycling, and at the right time of year you can visit the river to see the salmon run. At the south end of the park you can visit [Riverdale Farm](https://www.toronto.ca/explore-enjoy/parks-gardens-beaches/zoos-farms/riverdalefarm/), a working  while in the north you can find the [Evergreen Brick Works](https://www.evergreen.ca/evergreen-brick-works/)
+If big city living has you hungry for greenery, look no farther than the Don River Valley Park. While Don Valley in casual conversation almost exclusively refers to the major highway that runs along the valley, the park is surprisingly tranquil. There is an extensive trail system suitable for walking or cycling, and at the right time of year you can visit the river to see the salmon run. At the south end of the park you can visit [Riverdale Farm](https://www.toronto.ca/explore-enjoy/parks-gardens-beaches/zoos-farms/riverdalefarm/), a working farm hosting beautiful gardens, historic buildings, and  while in the north you can find the [Evergreen Brick Works](https://www.evergreen.ca/evergreen-brick-works/)
 
 ### [The PATH](http://torontopath.com/path-map/)
 
@@ -493,5 +493,5 @@ The only park in Toronto that I've visited that you can get in deep enough to lo
 ### [Scarborough Bluffs]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE2NjcxOTA1XX0=
+eyJoaXN0b3J5IjpbMTg2NzI5OTI0N119
 -->
