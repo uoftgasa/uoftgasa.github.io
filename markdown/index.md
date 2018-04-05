@@ -61,6 +61,9 @@ This is a living document, you can contribute to its creation by forking the [uo
 		- [Talk Show](#talk-show)
 		- [Cosmology Lunch](#cosmology-lunch)
 	- [Non-scientific](#non-scientific)
+		- [Morning Coffee]
+		- [GASA Tea](#gasa-tea)
+		- [Dunlap Outreach Meeting](#dunlap-outreach-meeting)
 		- 
 	 
 
@@ -440,5 +443,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU2NDc4Mjk5XX0=
+eyJoaXN0b3J5IjpbLTExMTY2MTkxMV19
 -->
