@@ -514,6 +514,7 @@ Sadly there are no links to these courses, as they are offered only sporadically
 [**Table of Contents**](#table-of-contents)
 
 ### [Service Canada](https://www.canada.ca/en/employment-social-development/corporate/portfolio/service-canada.html)
+
 Service Canada provides a contact point for federal government services so you don't need to apply by mail. You can visit a branch to apply for a Social Insurance Number (SIN) or renew a Canadian passport. The nearest Service Canada locations to campus are
 
 - [559 College Street](https://maps.google.com/?q=559+College+Street&entry=gmail&source=g)
@@ -532,6 +533,7 @@ Service Ontario provides a contact point for provincial government services like
 As they say, having fun isn't hard if you have a library card. The [UofT Library](#uoft-library) can certainly meet your academic needs, but the TPL has more on offer than astronomy text books. Getting a TPL card requires proof that you live at a Toronto address (addressed mail to where you live will do), and once you have one it's good for a year. The card gives you access to the TPL's enormous catalogue, including their collection of ebooks,  digital newspapers, and audiobooks. But in addition to this traditional library offerings, the TPL offers access to 'digital innovation hubs', where you can use 3D printers, digital design workstations and recording studios. They also have a partnership with the Toronto Tool Library for all of your tinkering needs. The TPL also offers plenty of programming to give you a chance to pick up a new skill or hone an old one, so there's no reason not to get a card. However, if all of this blatant fawning hasn't convinced you you, you can still work in any of the 100 branches. I can certainly attest to the fact that the atmosphere in the Toronto Reference Library at Yonge and Bloor is much more positive than that in Robarts.
 
 ## Things to do in Toronto
+[**Table of Contents**](#table-of-contents)
 
 ### [The Royal Ontario Museum](https://www.rom.on.ca/en)
 Canada's largest museum is a marvel inside and out - the interesting architechtural choices made for this building are best experienced in person. The special exhibitions bring extra variety to the usual displays on the museum's four floors. The geology exhibit is a close favourite of mine, but locals will have fond memories of the bat cave, and the new dinosaur exhibit can't help but impress. If you want to take a look, visit on a Tuesday with your student card for free entry. The museum is easily accessible from the Line 1 subway Museum Station, or by a 10 minute walk from the DAA.
@@ -576,5 +578,5 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY1NjYxODQ2XX0=
+eyJoaXN0b3J5IjpbLTU5NjA0MjgyOF19
 -->
