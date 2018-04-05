@@ -52,15 +52,7 @@ This is a living document, you can contribute to its creation by forking the [uo
 	- [AstroTours](#astrotours)
 - [Regular Events](#regular-events)
 	- [Scientific](#scientific)
-		- [Colloquium](#colloquium)
-		- [CITA Seminars](#cita-seminars)
-		- [Blackboard Talks](#blackboard-talks)
-		- [astro-ph Coffee](#astro-ph-coffee)
-		- [Stars and Planets Discussion Group](#stars-and-planets-discussion-group)
-		- [Pulsar Coffee](#pulsar-coffee)
-		- [Talk Show](#talk-show)
-		- [Cosmology Lunch](#cosmology-lunch)
-		- [CPS Planet Lunches]
+
 	- [Non-scientific](#non-scientific)
 		- [Morning Coffee](#morning-coffee)
 		- [GASA Tea](#gasa-tea)
@@ -361,14 +353,15 @@ McLennan Physical Labs is at [60 St George St](https://goo.gl/maps/ShCfL48w2iF2)
 ## Department Events
 
 Calendars
-
-### Colloquium
-
-### CITA Seminars
-
-### Scarborough Planet Lunches and Planet Days
-
-### Morning Coffee and Astro-ph Coffee 
+		- [Colloquium](#colloquium)
+		- [CITA Seminars](#cita-seminars)
+		- [Blackboard Talks](#blackboard-talks)
+		- [astro-ph Coffee](#astro-ph-coffee)
+		- [Stars and Planets Discussion Group](#stars-and-planets-discussion-group)
+		- [Pulsar Coffee](#pulsar-coffee)
+		- [Talk Show](#talk-show)
+		- [Cosmology Lunch](#cosmology-lunch)
+		- [CPS Planet Lunches](#cps-planet-lunches)
 
 
 
@@ -444,5 +437,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDE0MjkzMThdfQ==
+eyJoaXN0b3J5IjpbMjAwNjQ3MTIzNV19
 -->
