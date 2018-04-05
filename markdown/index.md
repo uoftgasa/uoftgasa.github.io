@@ -41,8 +41,8 @@ This is a living document, you can contribute to its creation by forking the [uo
  - [Computing](#computing)
 	 - [Scinet](#scinet)
 	 - [Sunnyvale](#sunnyvale)
-	 - [Communication Tools](#communication-tools)
-		 - [
+
+
 
 ## Jargon
 
@@ -418,5 +418,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MjYzNDE4XX0=
+eyJoaXN0b3J5IjpbMTg1NzE1MzQ3MF19
 -->
