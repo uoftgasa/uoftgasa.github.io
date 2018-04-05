@@ -10,7 +10,8 @@ This is a living document, you can contribute to its creation by forking the [uo
 
  - [Jargon](#jargon)
  - [Important Dates](#important-dates)
- - [Human Resour
+ - [Human Resources](#human-resources)
+	 - [Graduate Associate Chair Chris Matzner](graduate Associate Chair Chris Matzner
 
 ## Jargon
 
@@ -386,5 +387,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA0NzM1OTQzXX0=
+eyJoaXN0b3J5IjpbNTUwNDQ1NzE1XX0=
 -->
