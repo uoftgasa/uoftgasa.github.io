@@ -64,7 +64,10 @@ The contents of this document, accompanied by a frequently asked question that m
 		- [GO Transit](#go-transit)
 	- [Cycling](#cycling)
 	- [Cars](#cars)
-- [**UofT Services**](#toronto-services) - How can I find 
+- [**UofT Services**](#uoft-services) - How can I find a nearby doctor?
+	- [School of Graduate Studies Courses](#school-of-graduate-studies-courses)
+	- [Health and Wellness](#health-and-wellness)
+	- [UofT Library](#uoft-library)
 - [**Public Services**](#public-services) - Where can I register for OHIP?
 	- [Service Canada](#service-canada)
 	- [Service Ontario](#service-ontario)
@@ -453,5 +456,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc1MjMwMzc0XX0=
+eyJoaXN0b3J5IjpbLTY5NTcxNjgzXX0=
 -->
