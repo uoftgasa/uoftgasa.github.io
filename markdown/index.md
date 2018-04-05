@@ -36,6 +36,7 @@ This is a living document, you can contribute to its creation by forking the [uo
 		 - [AST1501Y and AST1500Y](#ast1501y-and-ast1500y)
 		 - [Courses](#courses)
 		 - [Mini-courses](#mini-courses)
+		 - [General Qualifier](
 
 ## Jargon
 
@@ -411,5 +412,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4ODQ5NTk4N119
+eyJoaXN0b3J5IjpbMzcyNzYwODc2XX0=
 -->
