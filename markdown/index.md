@@ -473,8 +473,8 @@ Just steps to the south of the Roundhouse park awaits a smorgasbord of free arti
 
 ### [Toronto Islands](http://www.torontoisland.com)
 
-The islands are a surprising escape from the city only a short ferry ride away from the bustling downtown core. Centre Island is often considered the jewel of the bunch, with public picnic sights, Centreville amusement park (including a petting zoo) and the massive Lake Ontario Pedestrian Pier. However, Centre Island ferries only travel in the summer months
+The islands are a surprising escape from the city only a short ferry ride away from the bustling downtown core. Centre Island is often considered the jewel of the bunch, with public picnic sights, Centreville amusement park (including a petting zoo) and the massive Lake Ontario Pedestrian Pier. However, Centre Island ferries only travel in the summer months, but Ward's Island ferries sail year-round to service the residents of the island. There isn't much in the way of tourist attraction
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDU2ODU2MzZdfQ==
+eyJoaXN0b3J5IjpbLTE4NzM5MjIyMjddfQ==
 -->
