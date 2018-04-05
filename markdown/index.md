@@ -38,13 +38,13 @@ The contents of this document, accompanied by a frequently asked question that m
 	 - [Scinet](#scinet)
 	 - [Sunnyvale](#sunnyvale)
 	 - [Printing and Copying](#printing-and-copying)
-- [GASA](#gasa)
+- [**GASA**](#gasa) - Who's really in charge around here anyway?
 	- [Positions](#positions)
 	- [AstroTours](#astrotours)
-- [Regular Department Events](#regular-department-events)
+- [**Regular Department Events**](#regular-department-events) - What weekly events do I actually need to go to?
 	- [Scientific](#scientific)
 	- [Non-scientific](#non-scientific)
-- [Finances](#finances)
+- [**Finances**](#finances) - How do I get money to go to that conference?
 	- [Funding Package](#funding-package)
 	- [Scholarships](#scholarship)
 		- [Domestic Scholarships](#domestic-scholarships)
@@ -452,5 +452,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNjkzMTczN119
+eyJoaXN0b3J5IjpbLTE5NzMzNTQ1MzFdfQ==
 -->
