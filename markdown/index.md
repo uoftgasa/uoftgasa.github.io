@@ -454,12 +454,12 @@ Service Canada provides a contact point for federal government services so you d
 - [100 Queen Street West](https://maps.google.com/?q=100+Queen+Street+West&entry=gmail&source=g)
 - [25 St Clair Avenue East](https://maps.google.com/?q=25+St+Clair+Avenue+East+(St.+Clair+Avenue&entry=gmail&source=g)) 
 
-### Service Ontario
+### [Service Ontario](https://www.ontario.ca/page/serviceontario)
 Service Ontario provides a contact point for provincial government services like driver's license renewal and health card applications. The nearest Service Ontario locations to campus are
 
--[777 Bay Street](https://goo.gl/maps/T31rgMt4hTt)
--[33 Victoria Street](https://goo.gl/maps/Sth1GacDvHC2)
--[839 Yonge Street](https://goo.gl/maps/PXGf5buEXvB2)
+- [777 Bay Street](https://goo.gl/maps/T31rgMt4hTt)
+- [33 Victoria Street](https://goo.gl/maps/Sth1GacDvHC2)
+- [839 Yonge Street](https://goo.gl/maps/PXGf5buEXvB2)
 
 
 
@@ -511,5 +511,5 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNDMyODExOF19
+eyJoaXN0b3J5IjpbLTE0ODc1NDQ2NDVdfQ==
 -->
