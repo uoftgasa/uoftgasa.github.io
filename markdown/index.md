@@ -469,16 +469,16 @@ If you've seen one Toronto sizzle reel, this area was probably heavily featured.
 
 ### [The Harbourfront Centre](http://www.harbourfrontcentre.com)
 
-Just steps to the south of the Roundhouse park awaits a smorgasbord of free artistic offerings spread along Toronto's waterfront. Two free art galleries, a winter skating rink and summer artisan markets make this area worth a visit at any time of the year. It's easily reachable by foot from Union Station or more directly by the 510 Spadina or 509 Harbourfront streetcar lines.
+Just steps to the south of the Roundhouse park awaits a smorgasbord of free artistic offerings spread along Toronto's waterfront. Two free art galleries, a winter skating rink and summer artisan markets make this area worth a visit at any time of the year. It's easily reachable by foot from Union Station at the bottom of the Line 1 subway or more directly by the 510 Spadina or 509 Harbourfront streetcar lines.
 
 ### [Toronto Islands](http://www.torontoisland.com)
 
-The islands are a surprising escape from the city only a 15 minute ferry ride away from the bustling downtown core. Centre Island is often considered the jewel of the bunch, with public picnic sights, Centreville amusement park (including a petting zoo) and the massive Lake Ontario Pedestrian Pier. However, Centre Island ferries only travel in the summer months, but Ward's Island ferries sail year-round to service the residents of the island. Visiting Ward's Island in the spring and fall is my preferred way to visit the lake while avoiding the crowds that throng Centre Island in the summer. You can also visit Hanlan's Point in the summer for this effect, with the added bonus of the option of visiting the clothing optional beach.
+The islands are a surprising escape from the city only a 15 minute ferry ride away from the bustling downtown core. Centre Island is often considered the jewel of the bunch, with public picnic sights, Centreville amusement park (including a petting zoo) and the massive Lake Ontario Pedestrian Pier. However, Centre Island ferries only travel in the summer months, but Ward's Island ferries sail year-round to service the residents of the island. Visiting Ward's Island in the spring and fall is my preferred way to visit the lake while avoiding the crowds that throng Centre Island in the summer. You can also visit Hanlan's Point in the summer for this effect, with the added bonus of the option of visiting the clothing optional beach. You can reach the ferry to the islands by walking south from Union Station at the bottom of the Line 1 subway or by taking the 510 Spadina or 590
 
-###[High Park](http://www.highparktoronto.com)
+### [High Park](http://www.highparktoronto.com)
 
-The only park in Toronto Th
+The only park in Toronto that I've visited
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTA5Mjc3NTddfQ==
+eyJoaXN0b3J5IjpbMTg2MjU3MTc4Nl19
 -->
