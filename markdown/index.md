@@ -55,7 +55,9 @@ This is a living document, you can contribute to its creation by forking the [uo
 		- [Colloquium](#colloquium)
 		- [CITA Seminars](#cita-seminars)
 		- [Blackboard Talks](#blackboard-talks)
-		- [astro-ph Cof
+		- [astro-ph Coffee](#astro-ph-coffee)
+		- [Stars and Planets Discussion Group](#stars-and-planets-discussion-group)
+		- [Pulsar Coffee](#pulsar-coffeee
 	 
 
 
@@ -434,5 +436,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg1MzczMDBdfQ==
+eyJoaXN0b3J5IjpbODE1NTEzOTExXX0=
 -->
