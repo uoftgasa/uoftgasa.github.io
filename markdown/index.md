@@ -31,6 +31,9 @@ This is a living document, you can contribute to its creation by forking the [uo
 	 - [McLennan Physical Labs and Burton Tower](#mclennan-physical-labs-and-burton-tower)
 		 - [MP Common Rooms](#mp-common-rooms)
 	 - [Other Relevant Locations](#other-relevant-locations)
+ - [Research](#research)
+	 - [Graduate Program](#graduate-program)
+		 - [AST1501Y and AST1500](
 
 ## Jargon
 
@@ -406,5 +409,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM4ODAxODI1XX0=
+eyJoaXN0b3J5IjpbLTEwMzg4Nzc0MDZdfQ==
 -->
