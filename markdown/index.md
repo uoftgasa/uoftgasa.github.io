@@ -183,7 +183,7 @@ Lillian Lanca is a good point of contact for additional administrative questions
  - [Get your TCard](http://tcard.utoronto.ca/getting-your-new-tcard-2/).
  - [Activate your UTORid](http://tcard.utoronto.ca/activate-your-utorid/).
  - [Set up your wifi](http://help.ic.utoronto.ca/content/20/704/en/wireless-access.html).
- - [Log in to ACORN].(https://acorn.utoronto.ca) 
+ - [Log in to ACORN](https://acorn.utoronto.ca) 
 	 - Set up direct deposit
 	 - Defer your tuition payment (see the [Funding Package](#funding-package) section for more details)
 	 - Enrol in AST1501Y and additional optional courses (see [Courses](#courses)) for more details.
@@ -578,5 +578,5 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NjA0MjgyOF19
+eyJoaXN0b3J5IjpbMjAzMjA5NzcyMF19
 -->
