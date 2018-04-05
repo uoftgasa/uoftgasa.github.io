@@ -69,7 +69,8 @@ This is a living document, you can contribute to its creation by forking the [uo
 	- [Off-Campus](#off-campus)
 - [Getting Around](#getting-around)
 	- [Public Transit](#public-transit)
-		- [Toronto Transit Commission](#
+		- [Toronto Transit Commission](#toronto-transit-commission)
+		- [GO Transit](#go-transit)
 
 	 
 
@@ -453,5 +454,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYwMTgzNjA1XX0=
+eyJoaXN0b3J5IjpbLTg5MDA1MTAxNV19
 -->
