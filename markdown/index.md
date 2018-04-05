@@ -58,13 +58,13 @@ The contents of this document, accompanied by a frequently asked question that m
 - [**Housing**](#housing) - How much is reasonable to spend on an apartment?
 	- [On-Campus](#on-campus)
 	- [Off-Campus](#off-campus)
-- [**Getting Around**](#getting-around)
+- [**Getting Around**](#getting-around) - What's the best way to get to campus?
 	- [Public Transit](#public-transit)
 		- [Toronto Transit Commission](#toronto-transit-commission)
 		- [GO Transit](#go-transit)
 	- [Cycling](#cycling)
 	- [Cars](#cars)
-- [Public Services](#public-services)
+- [Public Services](#public-services) - Where can I get 
 	- [Service Canada](#service-canada)
 	- [Service Ontario](#service-ontario)
 	- [Toronto Public Library](#toronto-public-library)
@@ -452,5 +452,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDEwODU2MTNdfQ==
+eyJoaXN0b3J5IjpbMTkzMzE4MjEwM119
 -->
