@@ -39,7 +39,10 @@ This is a living document, you can contribute to its creation by forking the [uo
 	 - [Thesis Qualifier](#thesis-qualifier)
 	 - [Thesis Committee](#thesis-committee)
  - [Computing](#computing)
-	 - [Scinet](#scinet
+	 - [Scinet](#scinet)
+	 - [Sunnyvale](#sunnyvale)
+	 - [Communication Tools](#communication-tools)
+		 - [
 
 ## Jargon
 
@@ -415,5 +418,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzIyNTkxMjZdfQ==
+eyJoaXN0b3J5IjpbMTU5MjYzNDE4XX0=
 -->
