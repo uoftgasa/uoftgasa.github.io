@@ -104,11 +104,11 @@ The HTML template we use to convert the Markdown files will automatically create
 - [Style Guide](#style-guide)
 ```
 
-Until I figure out a better way to do this, every section should have a table of contents link to prevent unnecessary scrolling, i.e.
+Until I figure out a better way to do this, every section should have a table of contents link to prevent unnecessary scrolling on mobile, i.e.
 
 ```
 [**Table of Contents**](#table-of-contents)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODU1MTczNDVdfQ==
+eyJoaXN0b3J5IjpbMTE2MzcyMzI2Nl19
 -->
