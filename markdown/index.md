@@ -59,7 +59,11 @@ This is a living document, you can contribute to its creation by forking the [uo
 		- [Domestic Scholarships](#domestic-scholarships)
 		- [International Scholarships](#international-scholarships)
 	- [Travel Grants](#travel-grants)
-	- [Saving Money as a Student](#saving-money-as-a-stud
+	- [Reimbursements](#reimbursements)
+	- [Saving Money as a Student](#saving-money-as-a-student)
+- [Health Insurance](#health-insurance)
+	- [OHIP and UHIP](#ohip-and-uhip)
+	- Gr
 
 	 
 
@@ -443,5 +447,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MTQyOTQ5MF19
+eyJoaXN0b3J5IjpbLTE5NjkzODA4Nl19
 -->
