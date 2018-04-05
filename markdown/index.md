@@ -496,7 +496,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 ### [Scarborough Bluffs](https://www.toronto.ca/explore-enjoy/parks-gardens-beaches/scarborough-bluffs/)
 
-Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike.
+Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails and parks
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4OTg3NDcyNF19
+eyJoaXN0b3J5IjpbMTM2MzkyMjY0MF19
 -->
