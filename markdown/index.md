@@ -451,6 +451,8 @@ Apartments
 
 ### Service Canada
 
+### Toronto Public Library
+
 ## Things to do in Toronto
 
 ### [The PATH](http://torontopath.com/path-map/)
@@ -471,8 +473,8 @@ Just steps to the south of the Roundhouse park awaits a smorgasbord of free arti
 
 ### [Toronto Islands](http://www.torontoisland.com)
 
-The islands are a surprising escape from the city only a short ferry ride away from the bustling downtown core. Centre Island is often considered the jewel of the bunch, with public picnic sights, Centreville amusement park (including a petting zoo) and the massive Lake Ontario Pedestrian Pier.
+The islands are a surprising escape from the city only a short ferry ride away from the bustling downtown core. Centre Island is often considered the jewel of the bunch, with public picnic sights, Centreville amusement park (including a petting zoo) and the massive Lake Ontario Pedestrian Pier. However, Centre Island ferries only travel in the summer months
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MTk5MTA4NF19
+eyJoaXN0b3J5IjpbLTE0MDU2ODU2MzZdfQ==
 -->
