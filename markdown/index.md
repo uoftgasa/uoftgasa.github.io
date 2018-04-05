@@ -359,18 +359,22 @@ McLennan Physical Labs is at [60 St George St](https://goo.gl/maps/ShCfL48w2iF2)
 ### ShareLatex
 
 ## Research
+[**Table of Contents**](#table-of-contents)
 
 ### Program
 
 ### Computing Resources
 
-## Classes 
+## Classes
+[**Table of Contents**](#table-of-contents) 
 
 ## Teaching
+[**Table of Contents**](#table-of-contents)
 
 ### TATP
 
 ## GASA
+[**Table of Contents**](#table-of-contents)
 
 GASA is the Graduate Astronomy Student Association, and all astronomy graduate students are members unless they choose to opt out.  All members of GASA are encouraged to take on one of the positions below, even in their first year.
 
@@ -390,6 +394,7 @@ The opt out process is as simple as speaking to one of the executive members (Pr
 ### AstroTours
 
 ## Department Events
+[**Table of Contents**](#table-of-contents)
 
 Calendars
 		- [Colloquium](#colloquium)
@@ -409,6 +414,7 @@ Calendars
 		- [Sci-Fi Friday](#sci-fi-friday)
 
 ## Housing
+[**Table of Contents**](#table-of-contents)
 
 ### On-Campus
 
@@ -419,6 +425,7 @@ Calendars
 Apartments
 
 ## Transit
+[**Table of Contents**](#table-of-contents)
 
 ### Public Transit
 
@@ -432,6 +439,7 @@ Apartments
 
 
 ## Finances
+[**Table of Contents**](#table-of-contents)
 
 ### Funding Package
 
@@ -465,10 +473,13 @@ Apartments
  - Royal Ontario Museum - Free on Tuesdays with a student card
 
 ## Health Insurance
+[**Table of Contents**](#table-of-contents)
 
 ## UofT Services
+[**Table of Contents**](#table-of-contents)
 
 ### School of Graduate Studies
+[**Table of Contents**](#table-of-contents)
 
 The School of Graduate Studies (SGS) sends out frequent emails with the many workshops and events they run for graduate students, which are primarily located in [Grad Room](http://www.sgs.utoronto.ca/currentstudents/Pages/Grad-Room.aspx) at the base of Grad House on the corner of Harbord Street and Spadina Ave. These events range from career focused to subsidized trips.
 
@@ -491,12 +502,16 @@ In addition, the SGS offers many courses to help you enhance skills that may not
 Sadly there are no links to these courses, as they are offered only sporadically. Checking the GPS link above will reveal the scheduled programming for the upcoming academic year.
 
 ### Health and Wellness
+[**Table of Contents**](#table-of-contents)
 
 ### Fitness
+[**Table of Contents**](#table-of-contents)
 
 ### UofT Library
+[**Table of Contents**](#table-of-contents)
 
 ## Public Services
+[**Table of Contents**](#table-of-contents)
 
 ### [Service Canada](https://www.canada.ca/en/employment-social-development/corporate/portfolio/service-canada.html)
 Service Canada provides a contact point for federal government services so you don't need to apply by mail. You can visit a branch to apply for a Social Insurance Number (SIN) or renew a Canadian passport. The nearest Service Canada locations to campus are
@@ -561,5 +576,5 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTU2NTY2NDRdfQ==
+eyJoaXN0b3J5IjpbNTY1NjYxODQ2XX0=
 -->
