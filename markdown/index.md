@@ -460,7 +460,7 @@ The ultimate test of your navigational abilities, the PATH will take only the ha
 
 ### [The Eaton Centre](https://www.cfshops.com/toronto-eaton-centre.html)
 
-Sitting between the Times Square wannabe of Yonge and Dundas Square to the North and Nathan Phillips Square to the South, this mall is equipped to help you shop until well after your standard dropping point with four floors of retail, and two food courts. If you 
+Sitting between the Times Square wannabe of Yonge and Dundas Square to the North and Nathan Phillips Square to the South, this mall is equipped to help you shop until well after your standard dropping point with four floors of retail, and two food courts. If you feel the need to step outside, there are good odds that either of the bounding squares are hosting an event; if nothing else the strange alien spaceship of Toronto's new City Hall is worth a look. Tucked away 
 
 ### [Roundhouse Park and CN Tower](https://goo.gl/maps/3oZbcarwnRr)
 
@@ -478,5 +478,5 @@ Just steps to the south of the Roundhouse park awaits a smorgasbord of free arti
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE2MjYzMjhdfQ==
+eyJoaXN0b3J5IjpbLTE4NDE3ODc3ODFdfQ==
 -->
