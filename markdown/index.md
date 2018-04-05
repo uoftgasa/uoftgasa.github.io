@@ -53,7 +53,11 @@ This is a living document, you can contribute to its creation by forking the [uo
 - [Regular Department Events](#regular-department-events)
 	- [Scientific](#scientific)
 	- [Non-scientific](#non-scientific)
-- [
+- [Finances](#finances)
+	- [Funding Package](#funding-package)
+	- [Scholarships](#scholarship)
+		- [Domestic Scholarships](#domestic-scholarships)
+		- [International Scholarships](#international-scholarships
 
 	 
 
@@ -437,5 +441,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjgxMDMyMTRdfQ==
+eyJoaXN0b3J5IjpbMTk1Nzc5NjA2OF19
 -->
