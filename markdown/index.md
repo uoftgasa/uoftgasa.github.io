@@ -80,6 +80,7 @@ The contents of this document, accompanied by a frequently asked question that m
 
 
 ## Jargon
+[**Table of Contents**](#table-of-contents)
 
 Here find a contextful definition for all those terms you hear thrown about the department.
 
@@ -124,6 +125,7 @@ Here find a contextful definition for all those terms you hear thrown about the 
  - **UTSG** - University of Toronto's [St George Campus](#st-george), also often referred to as the "downtown" campus. This is where UofT has the most students and where graduate student offices are located by default.
 
 ## Important Dates
+[**Table of Contents**](#table-of-contents)
 
 There's a lot that goes on at the beginning of the semester. UofT's Faculty of Arts and Science (of which this Department is a member), maintains an exhaustive list of the [sessional dates](https://fas.calendar.utoronto.ca/sessional-dates), but these are primarily undergraduate focused. In your first year, here are the deadlines you need to be aware of:
 
@@ -145,6 +147,7 @@ There's a lot that goes on at the beginning of the semester. UofT's Faculty of A
 - **End of May** - Third [GASA](#gasa) meeting
 
 ## Human Resources
+[**Table of Contents**](#table-of-contents)
 
 While this guide is meant to serve as a handy reference, it may not be able to answer all of your questions. Here are some friendly faces that may be able to help answer your questions
 
@@ -171,6 +174,7 @@ Lillian Lanca is a good point of contact for additional administrative questions
 #### CITA HPC Specialist Claire Yu
 
 ## New Student To Do List
+[**Table of Contents**](#table-of-contents)
 
  - Arrive in Toronto before Labour Day (first Monday in September) to be in time for orientation
  - Apply for your health insurance plan
@@ -205,6 +209,7 @@ Lillian Lanca is a good point of contact for additional administrative questions
 
 
 ## Units
+[**Table of Contents**](#table-of-contents)
 
 The Astronomy and Astrophysics community at UofT is composed of several units: the Department of Astronomy and Astrophysics, the Dunlap Institute, the Canadian Institute for Theoretical Astrophysics, and the Centre for Planetary Sciences. The relationships between these bodies can be a bit complex, but each unit is a part of the overall fabric of the department.
 
@@ -231,6 +236,7 @@ The Canadian Institute for Theoretical Astrophysics (CITA) focuses on theoretica
 The Centre for Planetary Sciences (CPS) is located on UofT's [Scarborough campus](#scarborough). Most offices are on the 5th floor of the Science Wing.
 
 ## Campuses
+[**Table of Contents**](#table-of-contents)
 
 ### St George
 
@@ -239,6 +245,7 @@ The Centre for Planetary Sciences (CPS) is located on UofT's [Scarborough campus
 ### Mississauga
 
 ## Buildings
+[**Table of Contents**](#table-of-contents)
 
 The [DAA's](#department-of-astronomy-and-astrophysics) two main buildings contain many common rooms, which are described below.
 
@@ -554,5 +561,5 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNTU2ODI3OF19
+eyJoaXN0b3J5IjpbLTE4MTU2NTY2NDRdfQ==
 -->
