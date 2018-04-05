@@ -454,12 +454,12 @@ Apartments
 
 ## Things to do in Toronto
 
-### Roundhouse Park and CN Tower
+### [Roundhouse Park and CN Tower](https://goo.gl/maps/3oZbcarwnRr)
 
-If you've seen one Toronto sizzle reel, this area was probably heavily featured. Surrounded by glass walled condos, this downtown destination is walking distance from the [SkyDome](https://www.mlb.com/bluejays/tickets) (now often known by the inferior moniker *The Rogers Centre*), the [Air Canada Centre](https://www.aircanadacentre.com) (go Raptors!),  [Ripley's Aquarium](https://www.ripleyaquariums.com), [Steamwhistle Breweries](https://steamwhistle.ca), and of course, the [CN Tower](http://www.cntower.ca/en-ca/home.html) (it's 553 m tall, if you read the [Table of Contents](#table-of-contents)).
+If you've seen one Toronto sizzle reel, this area was probably heavily featured. Surrounded by glass walled condos, the Roundhouse Park is easy walking distance from the [SkyDome](https://www.mlb.com/bluejays/tickets) (now often known by the inferior moniker *The Rogers Centre*), the [Air Canada Centre](https://www.aircanadacentre.com) (go Raptors!),  [Ripley's Aquarium](https://www.ripleyaquariums.com), [Steamwhistle Breweries](https://steamwhistle.ca), and of course, the [CN Tower](http://www.cntower.ca/en-ca/home.html) (it's 553 m tall, if you read the [Table of Contents](#table-of-contents)). This area is a short walk from Union Station 
 
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MDMyMzU3OV19
+eyJoaXN0b3J5IjpbNjIxNzIzNTA4XX0=
 -->
