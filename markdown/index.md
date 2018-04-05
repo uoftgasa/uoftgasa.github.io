@@ -454,10 +454,12 @@ Apartments
 
 ## Things to do in Toronto
 
-### 
+### Roundhouse Park
+
+If you've seen one Toronto sizzle reel, this area was probably heavily featured. Surrounded by glass walled condos, this downtown destination is walking distance
 
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzODc3MDkwMV19
+eyJoaXN0b3J5IjpbNDk0ODI4MzI4XX0=
 -->
