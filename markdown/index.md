@@ -12,14 +12,6 @@ This is a living document, you can contribute to its creation by forking the [uo
  - [Important Dates](#important-dates)
  - [New Student To Do List](#new-student-to-do-list)
  - [Human Resources](#human-resources)
-	 - [Graduate Associate Chair Chris Matzner](#graduate-associate-chair-chris-matzner)
-	 - [Graduate Administrator Margaret Meaney](#graduate-administrator-margaret-meaney)
-	 - [Undergraduate Administrator Lillian Lanca](#undergraduate-administrator-lillian-lanca)
-	 - [CITA Administrative Officer Jenny Jung](#cita-administrative-officer-jenny-jung)
-	 - [Financial Officer Gautam Patel](#financial-officer-gautam-patel)
-	 - [Computing Manager Hugh Zhao](#computing-manager-hugh-zhao)
-	 - [CITA Computing Manager John Dubinski](#cita-computing-manager-john-dubinski)
-	 - [CITA HPC Specialist Claire Yu](#cita-hpc-specialist-claire-yu)
 
  - [Units](#units)
  - [Campuses](#campuses)
@@ -75,7 +67,9 @@ This is a living document, you can contribute to its creation by forking the [uo
 	- [Cars](#cars)
 - [Public Services](#public-services)
 	- [Service Canada](#service-canada)
-	- [Service Ontario[
+	- [Service Ontario](#service-ontario)
+	- [Toronto Public Library](#toronto-public-library)
+- [Tourist Attractions](#tourist-attractions)
 
 	 
 
@@ -459,5 +453,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjE4NzczN119
+eyJoaXN0b3J5IjpbOTQ3NDAzNTE0XX0=
 -->
