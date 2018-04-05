@@ -11,7 +11,8 @@ This is a living document, you can contribute to its creation by forking the [uo
  - [Jargon](#jargon)
  - [Important Dates](#important-dates)
  - [Human Resources](#human-resources)
-	 - [Graduate Associate Chair Chris Matzner](graduate-associate-chair-chris-matzner
+	 - [Graduate Associate Chair Chris Matzner](graduate-associate-chair-chris-matzner)
+	 - [Graduate Administrator Margaret Meaney](graduate-administrator-margaret-meaney)
 
 ## Jargon
 
@@ -387,5 +388,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNDQzNjE2N119
+eyJoaXN0b3J5IjpbMTE0MzAwODU4M119
 -->
