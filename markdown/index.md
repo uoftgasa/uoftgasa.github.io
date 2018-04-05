@@ -456,7 +456,7 @@ Apartments
 ## Things to do in Toronto
 
 ### [The Royal Ontario Museum](https://www.rom.on.ca/en)
-Canada's largest museum is a marvel inside and out - the interesting architechtural choices made for this building are best experienced in person. The special exhibitions bring extra variety to the usual displays on the museum's four floors. Everything from ge
+Canada's largest museum is a marvel inside and out - the interesting architechtural choices made for this building are best experienced in person. The special exhibitions bring extra variety to the usual displays on the museum's four floors. The geology exhibit is a close favourite of mine, but locals will have fond memories of the bat cave, and the new dinosaur exhibit can't help but impress. If you want to take a look, vi
 
 
 ### [The Art Gallery of Ontario](https://ago.ca)
@@ -495,5 +495,5 @@ The only park in Toronto that I've visited that you can get in deep enough to lo
 ### [Scarborough Bluffs]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzcxNjA0MzZdfQ==
+eyJoaXN0b3J5IjpbLTQyNzI5NjU3OV19
 -->
