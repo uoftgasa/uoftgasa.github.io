@@ -17,20 +17,20 @@ The contents of this document, accompanied by a frequently asked question that m
 	 - [S George](#st-george)
 	 - [Scarborough](#scarborough)
 	 - [Mississauga](#mississauga)
- - [Buildings](#buildings)
+ - [**Buildings**](#buildings) - Where is my office?
 	 - [Astronomy Building](#astronomy-building)
 		 - [AB Common Rooms](#ab-common-rooms)
 	 - [McLennan Physical Labs and Burton Tower](#mclennan-physical-labs-and-burton-tower)
 		 - [MP Common Rooms](#mp-common-rooms)
 	 - [Other Relevant Locations](#other-relevant-locations)
- - [Graduate Program](#graduate-program)
+ - [**Graduate Program**](#graduate-program) - How do I graduate?
 	 - [AST1501Y and AST1500Y](#ast1501y-and-ast1500y)
 	 - [Courses](#courses)
 	 - [Mini Courses](#mini-courses)
 	 - [General Qualifier](#general-qualifier)
 	 - [Thesis Qualifier](#thesis-qualifier)
 	 - [Thesis Committee](#thesis-committee)
- - [Teaching](#teaching)
+ - [**Teaching**](#teaching) - How many h
 	 - [Courses to TA](#courses-to-ta)
 	 - [Teaching Assistant Training Program](#teaching-assistant-training-program)
  - [Computing](#computing)
@@ -452,5 +452,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTkzNzA2MTRdfQ==
+eyJoaXN0b3J5IjpbLTE2MTM2OTgxMjhdfQ==
 -->
