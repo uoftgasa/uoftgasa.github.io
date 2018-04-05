@@ -28,7 +28,7 @@ If you decide to edit the Markdown documents, you'll first need to fork the gith
 
 After forking the repository, you can add a new Markdown file, you can follow these steps.
 
-1. Open StackEdit in your browser
+1. Open [StackEdit](https://stackedit.io) in your browser
 2. Open the left hand menu by clicking on the folder icon in the top left of the page.
 3. Open an appropriately named new file by clicking on the plus file icon in the top left of the menu.
 4. Open the right hand menu by clicking on the StackEdit logo in the top right of the page.
@@ -45,7 +45,7 @@ You're now ready to add content to your file. Pressing the circular arrow  symbo
 
 After forking the repository, follow these steps to edit the existing Markdown files.
 
-1. Open StackEdit in your browser.
+1. Open [StackEdit](https://stackedit.io) in your browser.
 2. Open the right hand menu by clicking on the StackEdit logo in the top right of the page.
 3. Click on the '*Synchronize*' link
 4. Click '*Open from GitHub*'
@@ -97,5 +97,5 @@ The HTML template we use to convert the Markdown files will automatically create
 - [Style Guide](#style-guide)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MTQyOTE2OV19
+eyJoaXN0b3J5IjpbLTEwOTY5ODM5NDNdfQ==
 -->
