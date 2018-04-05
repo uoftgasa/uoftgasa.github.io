@@ -466,7 +466,7 @@ If you've seen one Toronto sizzle reel, this area was probably heavily featured.
 
 ### [The Harbourfront Centre](http://www.harbourfrontcentre.com)
 
-Just steps to the south of the Roundhouse park awaits a smorgasbord 
+Just steps to the south of the Roundhouse park awaits a smorgasbord of free artistic offerings spread along Toronto's waterfront. Two free art galleries and a winter skating
 
 ### [Toronto Islands](http://www.torontoisland.com)
 
@@ -476,5 +476,5 @@ Just steps to the south of the Roundhouse park awaits a smorgasbord
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjA5MDkwNjBdfQ==
+eyJoaXN0b3J5IjpbNTc0MTkwNjM5XX0=
 -->
