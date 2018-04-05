@@ -28,6 +28,7 @@ This is a living document, you can contribute to its creation by forking the [uo
  - [Buildings](#buildings)
 	 - [Astronomy Building](#astronomy-building)
 		 - [AB Common Rooms](#ab-common-rooms)
+	 - [McLennan Physical Labs and Burton Tower](#mclennan-physical-labs-and-burton-tower
 
 ## Jargon
 
@@ -188,7 +189,7 @@ The [DAA's](#department-of-astronomy-and-astrophysics) two main buildings contai
 
 Located at [50 St George Street](https://goo.gl/maps/jdwZv75EraG2), the Astronomy Building (AB) is a two storey building housing primarily graduate student, post-doc and professor offices, in addition to several basement labs and a couple of undergraduate lecture rooms. The building has two entrances, one from St George St and one from Russell St. Neither entrance is accessible; getting to any room inside this building requires climbing or descending stairs. The St George St doors are locked after 6pm, while the Russell St doors and the internal doors leading to the office sections of the building (which can be opened with your mailroom key) are locked after 9pm. 
 
-#### Common Rooms
+#### AB Common Rooms
 Rooms labelled ABXX are in the basement, those labelled AB1XX are on the first floor, and those labelled AB2XX are on the second (and top) floor. Some rooms require bookings through the online booking calendar 
 
  - **AB74** - Storage room for graduate students
@@ -236,7 +237,7 @@ Rooms labelled ABXX are in the basement, those labelled AB1XX are on the first f
 McLennan Physical Labs is at [60 St George St](https://goo.gl/maps/ShCfL48w2iF2). The lower two floors of the building are entirely undergraduate lecture halls and labs. The tower in the southwest corner of the building houses offices for the physics department, with the 12th, 13th and 14th floors containing [DAA](#department-of-astronomy-and-astrophysics) and [CITA](#canadian-institute-for-theoretical-astrophysics) offices. Unlike [AB](#astronomy-building), this building is accessible, and doors remain unlocked until 9pm.
 
 
-#### Common Rooms
+#### MP Common Rooms
 - **MP110** - Physics Lounge
 	- must be booked through third floor physics administrative office
 - **MP1318A** - Seminar Room
@@ -403,5 +404,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MjUxMTU1NV19
+eyJoaXN0b3J5IjpbMTI5MDkxMzA4Ml19
 -->
