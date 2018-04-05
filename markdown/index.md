@@ -481,8 +481,8 @@ The islands are a surprising escape from the city only a 15 minute ferry ride aw
 
 ### [High Park](http://www.highparktoronto.com)
 
-The only park in Toronto that I've visited that you can get in deep enough to lose sight of the city. High Park is a massive green space to the west of the city. In addition to more untamed woods of the off-leash dog park, you can enjoy more cultivated displays
+The only park in Toronto that I've visited that you can get in deep enough to lose sight of the city. High Park is a massive green space to the west of the city. In addition to more untamed woods of the off-leash dog park, you can enjoy more cultivated displays as well as the ever popular spring cherry blossoms. The park also includes numerous sports fields, picnic areas and mini zoo (with free admission).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY5NDE3NDE0XX0=
+eyJoaXN0b3J5IjpbLTEwMDY0NTIzNDFdfQ==
 -->
