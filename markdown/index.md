@@ -10,6 +10,7 @@ This is a living document, you can contribute to its creation by forking the [uo
 
  - [Jargon](#jargon)
  - [Important Dates](#important-dates)
+ - [New Student To Do List](#new-student-to-do-list)
  - [Human Resources](#human-resources)
 	 - [Graduate Associate Chair Chris Matzner](#graduate-associate-chair-chris-matzner)
 	 - [Graduate Administrator Margaret Meaney](#graduate-administrator-margaret-meaney)
@@ -19,10 +20,10 @@ This is a living document, you can contribute to its creation by forking the [uo
 	 - [Computing Manager Hugh Zhao](#computing-manager-hugh-zhao)
 	 - [CITA Computing Manager John Dubinski](#cita-computing-manager-john-dubinski)
 	 - [CITA HPC Specialist Claire Yu](#cita-hpc-specialist-claire-yu)
- - [New Student To Do List](#new-student-to-do-list)
+
  - [Units](#units)
  - [Campuses](#campuses)
-	 - [St George](#st-george)
+	 - [S George](#st-george)
 	 - [Scarborough](#scarborough)
 	 - [Mississauga](#mississauga)
  - [Buildings](#buildings)
@@ -424,5 +425,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMzAyODk0MV19
+eyJoaXN0b3J5IjpbLTIzMjgxMDY3MV19
 -->
