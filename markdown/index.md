@@ -456,7 +456,7 @@ Apartments
 ## Things to do in Toronto
 
 ### [The Royal Ontario Museum](https://www.rom.on.ca/en)
-Canada's largest museum is a marvel inside and out - the interesting architechtural choices made for this building are best experienced in person. The special exhibitions bring extra variety to the usual displays on the museum's four floors. The geology exhibit is a close favourite of mine, but locals will have fond memories of the bat cave, and the new dinosaur exhibit can't help but impress. If you want to take a look, visit on a Tuesday with your student card for free entry. The museum is easily accessible from the Line 1 subway Museum Station, or by a 10 minute walk from the C
+Canada's largest museum is a marvel inside and out - the interesting architechtural choices made for this building are best experienced in person. The special exhibitions bring extra variety to the usual displays on the museum's four floors. The geology exhibit is a close favourite of mine, but locals will have fond memories of the bat cave, and the new dinosaur exhibit can't help but impress. If you want to take a look, visit on a Tuesday with your student card for free entry. The museum is easily accessible from the Line 1 subway Museum Station, or by a 10 minute walk from the DAA.
 
 ### [The Art Gallery of Ontario](https://ago.ca)
 
@@ -472,7 +472,7 @@ The ultimate test of your navigational abilities, the PATH will take only the ha
 
 ### [The Eaton Centre](https://www.cfshops.com/toronto-eaton-centre.html)
 
-Sitting between the Times Square wannabe of Yonge and Dundas Square to the North and Nathan Phillips Square to the South, this mall is equipped to help you shop until well after your standard dropping point with four floors of retail, and two food courts. If you feel the need to step outside, there are good odds that either of the bounding squares are hosting an event; if nothing else the strange alien spaceship of Toronto's new City Hall is worth a look. Nearer to the mall you can also find the [Toronto Public Labyrinth](http://www.labyrinthnetwork.ca/toronto-public-labyrinth/). You can easily reach the mall by taking the Line 1 subway to to Queen or Dundas stations.
+Sitting between the Times Square wannabe of Yonge and Dundas Square to the North and Nathan Phillips Square to the South, this mall is equipped to help you shop until well after your standard dropping point with four floors of retail, and two food courts. If you feel the need to step outside, there are good odds that either of the bounding squares are hosting an event; if nothing else the strange alien spaceship of Toronto's new City Hall is worth a look. Nearer to the mall you can also find the [Toronto Public Labyrinth](http://www.labyrinthnetwork.ca/toronto-public-labyrinth/). You can easily reach the mall by taking the Line 1 subway to Queen or Dundas stations.
 
 ### [Roundhouse Park and CN Tower](https://goo.gl/maps/3oZbcarwnRr)
 
@@ -490,12 +490,12 @@ The islands are a surprising escape from the city only a 15 minute ferry ride aw
 
 The only park in Toronto that I've visited that you can get in deep enough to lose sight of the city. High Park is a massive green space to the west of the city. In addition to the wilder woods of the off-leash dog park, you can enjoy more cultivated gardens as well as the ever popular spring cherry blossoms. The park also includes numerous sports fields, picnic areas and mini zoo (with free admission). The park can be reached from the Line 2 High Park station, or by the 506 Carlton or 508 Lakeshore streetcar lines.
 
-### [The Science Centre]
+### [Ontario Science Centre](
 
 ### [Blackcreek Pioneer Village]
 
 ### [Scarborough Bluffs]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NTk2MzA4M119
+eyJoaXN0b3J5IjpbLTE0NjExODE2Ml19
 -->
