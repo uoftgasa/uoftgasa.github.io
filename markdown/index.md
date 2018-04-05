@@ -19,6 +19,11 @@ This is a living document, you can contribute to its creation by forking the [uo
 	 - [Computing Manager Hugh Zhao](#computing-manager-hugh-zhao)
 	 - [CITA Computing Manager John Dubinski](#cita-computing-manager-john-dubinski)
 	 - [CITA HPC Specialist Claire Yu](#cita-hpc-specialist-claire-yu)
+ - [New Student To Do List](#new-student-to-do-list)
+ - [Units](#units)
+ - [Campuses](#campuses)
+	 - [St George](#st-george)
+	 - [Scarborough](#scarborou
 
 ## Jargon
 
@@ -394,5 +399,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5OTI1MzMxOF19
+eyJoaXN0b3J5IjpbODM2MDM1MzUyXX0=
 -->
