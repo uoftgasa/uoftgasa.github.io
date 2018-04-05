@@ -137,9 +137,10 @@ There's a lot that goes on at the beginning of the semester. UofT's Faculty of A
 - **Early December** - classes end, exam period begins
 - **First week of January** - Second semester classes begin 
 - **Last Monday of January** - Deadline to enroll in courses on [ACORN](acorn.utoronto.ca)
+- **End of January** - Second [GASA](#gas
 - **Last Monday in February** - Deadline to drop courses on [ACORN](acorn.utoronto.ca
 - **Early April** - Classes end, exam period begins
-- **Mid-May** - [OGS](
+- **Mid-May** - [OGS](#ogs) scholarship deadline for domestic and international students
 
 ## Human Resources
 
@@ -551,5 +552,5 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDYyNjYwMTVdfQ==
+eyJoaXN0b3J5IjpbLTM3ODI4NjgyMl19
 -->
