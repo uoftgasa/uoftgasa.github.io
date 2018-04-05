@@ -14,7 +14,7 @@ The contents of this document, accompanied by a frequently asked question that m
  - [**Human Resources**](#human-resources) - Who do I ask about setting up a printer?
  - [**Units**](#units) - How is CITA related to DAA?
  - [**Campuses**](#campuses) - What's the difference between UTSG and UTSC?
-	 - [S George](#st-george)
+	 - [St George](#st-george)
 	 - [Scarborough](#scarborough)
 	 - [Mississauga](#mississauga)
  - [**Buildings**](#buildings) - Where is my office?
@@ -46,6 +46,7 @@ The contents of this document, accompanied by a frequently asked question that m
 	- [Non-scientific](#non-scientific)
 - [**Finances**](#finances) - How do I get money to go to that conference?
 	- [Funding Package](#funding-package)
+	- [Payrolls](#payrolls)
 	- [Scholarships](#scholarship)
 		- [Domestic Scholarships](#domestic-scholarships)
 		- [International Scholarships](#international-scholarships)
@@ -451,10 +452,12 @@ Apartments
 
 #### Service Canada
 
-### Tourist Attractions
+## Things to do in Toronto
+
+### 
 
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NTcxNjgzXX0=
+eyJoaXN0b3J5IjpbMTUzODc3MDkwMV19
 -->
