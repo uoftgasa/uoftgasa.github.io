@@ -468,7 +468,7 @@ If big city living has you hungry for greenery, look no farther than the Don Riv
 
 ### [The PATH](http://torontopath.com/path-map/)
 
-The ultimate test of your navigational abilities, the PATH will take only the hardiest souls to their intended destinations. Much of Toronto's business district is connected by underground tunnels filled with shops, food courts, and desperately turned around tourists. Hop off the Line 1 subway 
+The ultimate test of your navigational abilities, the PATH will take only the hardiest souls to their intended destinations. Much of Toronto's business district is connected by underground tunnels filled with shops, food courts, and desperately turned around tourists. Hop off the Line 1 subway at any station south of Queen St and follow the signs for the PATH to start exploring.
 
 ### [The Eaton Centre](https://www.cfshops.com/toronto-eaton-centre.html)
 
@@ -497,5 +497,5 @@ The only park in Toronto that I've visited that you can get in deep enough to lo
 ### [Scarborough Bluffs]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE5NjI5NTUzXX0=
+eyJoaXN0b3J5IjpbMTg5Mzk0NTg1Ml19
 -->
