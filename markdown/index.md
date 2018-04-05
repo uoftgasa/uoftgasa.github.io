@@ -450,9 +450,7 @@ Apartments
 
 The School of Graduate Studies (SGS) sends out frequent emails with the many workshops and events they run for graduate students, which are primarily located in [Grad Room](http://www.sgs.utoronto.ca/currentstudents/Pages/Grad-Room.aspx) at the base of Grad House on the corner of Harbord Street and Spadina Ave. These events range from career focused to subsidized trips.
 
-In addition, SGS maintains the [Graduate Centre for Academic Communication]
-
-http://www.sgs.utoronto.ca/currentstudents/Pages/GCAC.aspx
+In addition, SGS maintains the [Graduate Centre for Academic Communication](http://www.sgs.utoronto.ca/currentstudents/Pages/GCAC.aspx), which runs workshops and course on academic communication as well as one-on-one writing consultations. This is an excellent service; with enough advance notice they can 
 
 offers many courses to help you enhance skills that may not be explicitly taught elsewhere. These courses are offered under the umbrella of the [Graduate Professional Skills Program](http://www.sgs.utoronto.ca/currentstudents/Pages/Professional-Development.aspx)  (GPS), and categorized into Communication, Personal Effectiveness, Teaching Competency and Research-Related Skills. Completing enough courses will earn you a GPS notation on your transcript. Highlights for astronomy students include
 - Let's Talk Science: Introduction to Science Outreach
@@ -538,5 +536,5 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyODA2MDM4M119
+eyJoaXN0b3J5IjpbLTUwMjc3MjMzM119
 -->
