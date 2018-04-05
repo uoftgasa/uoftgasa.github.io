@@ -60,11 +60,12 @@ This is a living document, you can contribute to its creation by forking the [uo
 		- [Pulsar Coffee](#pulsar-coffee)
 		- [Talk Show](#talk-show)
 		- [Cosmology Lunch](#cosmology-lunch)
+		- [CPS Planet Lunches]
 	- [Non-scientific](#non-scientific)
-		- [Morning Coffee]
+		- [Morning Coffee](#morning-coffee)
 		- [GASA Tea](#gasa-tea)
 		- [Dunlap Outreach Meeting](#dunlap-outreach-meeting)
-		- 
+		- [Sci-Fi Friday](#sci-fi-friday)
 	 
 
 
@@ -443,5 +444,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTY2MTkxMV19
+eyJoaXN0b3J5IjpbLTE2MDE0MjkzMThdfQ==
 -->
