@@ -460,6 +460,8 @@ The ultimate test of your navigational abilities, the PATH will take only the ha
 
 ### [The Eaton Centre](https://www.cfshops.com/toronto-eaton-centre.html)
 
+Sitting between the Times Square wannabe of Yonge and Dundas Square to the North and Nathan Phillips Square to the S
+
 ### [Roundhouse Park and CN Tower](https://goo.gl/maps/3oZbcarwnRr)
 
 If you've seen one Toronto sizzle reel, this area was probably heavily featured. Surrounded by glass walled condos, the Roundhouse Park is easy walking distance from the [SkyDome](https://www.mlb.com/bluejays/tickets) (now often known by the inferior moniker *The Rogers Centre*), the [Air Canada Centre](https://www.aircanadacentre.com) (go Raptors!),  [Ripley's Aquarium](https://www.ripleyaquariums.com), [Steamwhistle Breweries](https://steamwhistle.ca), and of course, the [CN Tower](http://www.cntower.ca/en-ca/home.html) (it's 553 m tall, if you read the [Table of Contents](#table-of-contents)). This area is a short walk from Union Station and the 510 Spadina streetcar line.
@@ -476,5 +478,5 @@ Just steps to the south of the Roundhouse park awaits a smorgasbord of free arti
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODUwMzIwMl19
+eyJoaXN0b3J5IjpbMTc0NTEwMjYyOV19
 -->
