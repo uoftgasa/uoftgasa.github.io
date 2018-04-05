@@ -42,9 +42,11 @@ This is a living document, you can contribute to its creation by forking the [uo
 	 - [Courses to TA](#courses-to-ta)
 	 - [Teaching Assistant Training Program](#teaching-assistant-training-program)
  - [Computing](#computing)
+	 - [Personal Computers](#personal-computers)
 	 - [Scinet](#scinet)
 	 - [Sunnyvale](#sunnyvale)
-	 - [Personal C
+	 - [Printing and Copying](#printing-and-copying)
+	 
 
 
 
@@ -422,5 +424,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwOTkzNjg2NV19
+eyJoaXN0b3J5IjpbMjAwMzAyODk0MV19
 -->
