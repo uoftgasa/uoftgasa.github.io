@@ -458,9 +458,17 @@ Apartments
 
 The ultimate test of your navigational abilities, the PATH will take only the hardiest souls to their intended destinations. Much of Toronto's business district is connected by underground tunnels filled with shops, food courts, and desperately turned around tourists. 
 
+
+
 ### [Roundhouse Park and CN Tower](https://goo.gl/maps/3oZbcarwnRr)
 
 If you've seen one Toronto sizzle reel, this area was probably heavily featured. Surrounded by glass walled condos, the Roundhouse Park is easy walking distance from the [SkyDome](https://www.mlb.com/bluejays/tickets) (now often known by the inferior moniker *The Rogers Centre*), the [Air Canada Centre](https://www.aircanadacentre.com) (go Raptors!),  [Ripley's Aquarium](https://www.ripleyaquariums.com), [Steamwhistle Breweries](https://steamwhistle.ca), and of course, the [CN Tower](http://www.cntower.ca/en-ca/home.html) (it's 553 m tall, if you read the [Table of Contents](#table-of-contents)). This area is a short walk from Union Station and the 510 Spadina streetcar line.
+
+### [The Harbourfront Centre](http://www.harbourfrontcentre.com)
+
+Just steps to the south of the Roundhouse park awaits a smorgasbord 
+
+### [Toronto Islands](http://www.torontoisland.com)
 
 
 
@@ -468,5 +476,5 @@ If you've seen one Toronto sizzle reel, this area was probably heavily featured.
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzU3MzM2MjFdfQ==
+eyJoaXN0b3J5IjpbLTE4MjA5MDkwNjBdfQ==
 -->
