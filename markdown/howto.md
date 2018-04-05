@@ -65,8 +65,9 @@ If you want your Markdown changes to be implemented quickly, you can take the ex
 3. Click '*Publish to Github*'
 4. Enter the the URL of your forked repository, i.e. `github.com/<username>/uoftgasa.github.io`, where `<username>` is your github username.
 5. Enter the branch name you used for your change, i.e. `blue-truck-page`
-6. Choose a path for the HTML file. If, for example, you've editted `markdown/index.md`, your path should be `index.html`; html files live in the surface level of this repository.
-7. For the last box, click configure templates, and click the file plus icon to create a new template. Give the template a useful name for you and replace the text in the box with the template from `/github.com/uoftgasa/uoftgasa.github.io/tree/master/html-template/template.html`. Dates of changes to the template are included in commit messages on that file; if you make a lot of edits, you can keep using your template until it changes. Click '*OK*'.
+6. For the last box, click configure templates, and click the file plus icon to create a new template. Give the template a useful name for you and replace the text in the box with the template from `/github.com/uoftgasa/uoftgasa.github.io/tree/master/html-template/template.html`. Dates of changes to the template are included in commit messages on that file; if you make a lot of edits, you can keep using your template until it changes. Click '*OK*'.
+7. FinallyChoose a path for the HTML file. If, for example, you've editted `markdown/index.md`, your path should be `index.html`; html files live in the surface level of this repository.
+
 8. Click '*OK*'
 
 If you make further changes to your file after you've published it, you can update the published version any time by clicking the straight upward arrow in the top right of the page. However, you still need to submit a pull request.
@@ -97,5 +98,5 @@ The HTML template we use to convert the Markdown files will automatically create
 - [Style Guide](#style-guide)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTY5ODM5NDNdfQ==
+eyJoaXN0b3J5IjpbLTExMTM0NTY4MDRdfQ==
 -->
