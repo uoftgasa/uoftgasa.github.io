@@ -463,7 +463,7 @@ Service Ontario provides a contact point for provincial government services like
 
 ### [Toronto Public Library](https://www.torontopubliclibrary.ca)
 
-As they say, having fun isn't hard if you have a library card. The [UofT Library](#uoft-library) can certainly meet your academic needs, but the TPL has more on offer than astronomy text books. Getting a TPL card requires proof that you live at a Toronto address (addressed mail to where you live will do), and once you have one it's good for a year. The card gives you access to the TPL's enormous catalogue, including their collection of ebooks,  digital newspapers, and audiobooks. But in addition to this traditional library offerings, the TPL offers access to 'digital innovation hubs', where you can use 3D printers, digital design workstations and recording studios. They also have a partnership with the Toronto Tool Library for all of your tinkering needs. The TPL also offers plenty of programming to give you a chance to pick up a new skill or hone an old one, so there's no reason not to get a card. However, if all of this blatant fawning hasn't convinced you you, you can still work in any of the 100 branches, and I can certainly 
+As they say, having fun isn't hard if you have a library card. The [UofT Library](#uoft-library) can certainly meet your academic needs, but the TPL has more on offer than astronomy text books. Getting a TPL card requires proof that you live at a Toronto address (addressed mail to where you live will do), and once you have one it's good for a year. The card gives you access to the TPL's enormous catalogue, including their collection of ebooks,  digital newspapers, and audiobooks. But in addition to this traditional library offerings, the TPL offers access to 'digital innovation hubs', where you can use 3D printers, digital design workstations and recording studios. They also have a partnership with the Toronto Tool Library for all of your tinkering needs. The TPL also offers plenty of programming to give you a chance to pick up a new skill or hone an old one, so there's no reason not to get a card. However, if all of this blatant fawning hasn't convinced you you, you can still work in any of the 100 branches. I can certainly attest to the fact that the atmosphere in the Toronto Reference Library at Yonge and Bloor is much more positive than that in Robarts.
 
 ## Things to do in Toronto
 
@@ -510,5 +510,5 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzk1NDQ1NjFdfQ==
+eyJoaXN0b3J5IjpbLTUwMTQ2NjkyOV19
 -->
