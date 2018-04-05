@@ -475,6 +475,10 @@ Just steps to the south of the Roundhouse park awaits a smorgasbord of free arti
 
 The islands are a surprising escape from the city only a 15 minute ferry ride away from the bustling downtown core. Centre Island is often considered the jewel of the bunch, with public picnic sights, Centreville amusement park (including a petting zoo) and the massive Lake Ontario Pedestrian Pier. However, Centre Island ferries only travel in the summer months, but Ward's Island ferries sail year-round to service the residents of the island. Visiting Ward's Island in the spring and fall is my preferred way to visit the lake while avoiding the crowds that throng Centre Island in the summer. You can also visit Hanlan's Point in the summer for this effect, with the added bonus of the option of visiting the clothing optional beach.
 
+###[High Park](http://www.highparktoronto.com)
+
+The only park in Toronto Th
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDM1MjQ4NzNdfQ==
+eyJoaXN0b3J5IjpbLTEyNTA5Mjc3NTddfQ==
 -->
