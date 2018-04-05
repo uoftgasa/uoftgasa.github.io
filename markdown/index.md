@@ -8,7 +8,9 @@ This is a living document, you can contribute to its creation by forking the [uo
 
 ## Table of Contents
 
- - [Jargon](#jarh
+ - [Jargon](#jargon)
+ - [Important Dates](#important-dates)
+ - [Human Resour
 
 ## Jargon
 
@@ -384,5 +386,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NDY3MTI1M119
+eyJoaXN0b3J5IjpbMzA0NzM1OTQzXX0=
 -->
