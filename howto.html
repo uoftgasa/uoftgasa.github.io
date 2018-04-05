@@ -6,28 +6,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>howto</title>
   <link rel="stylesheet" href="https://stackedit.io/style.css" />
-  <style>
-
-#myBtn {
-  display: none;
-  position: fixed;
-  bottom: 20px;
-  right: 30px;
-  z-index: 99;
-  font-size: 18px;
-  border: none;
-  outline: none;
-  background-color: red;
-  color: white;
-  cursor: pointer;
-  padding: 15px;
-  border-radius: 4px;
-}
-
-#myBtn:hover {
-  background-color: #555;
-}
-</style>
 </head>
 
 <body class="stackedit">
@@ -109,8 +87,8 @@
 <li>Click ‘<em>Publish to Github</em>’</li>
 <li>Enter the the URL of your forked repository, i.e. <code>github.com/&lt;username&gt;/uoftgasa.github.io</code>, where <code>&lt;username&gt;</code> is your github username.</li>
 <li>Enter the branch name you used for your change, i.e. <code>blue-truck-page</code></li>
-<li>Choose a path for the HTML file. If, for example, you’ve editted <code>markdown/index.md</code>, your path should be <code>index.html</code>; html files live in the surface level of this repository.</li>
 <li>For the last box, click configure templates, and click the file plus icon to create a new template. Give the template a useful name for you and replace the text in the box with the template from <code>/github.com/uoftgasa/uoftgasa.github.io/tree/master/html-template/template.html</code>. Dates of changes to the template are included in commit messages on that file; if you make a lot of edits, you can keep using your template until it changes. Click ‘<em>OK</em>’.</li>
+<li>Finally, choose a path for the HTML file. If, for example, you’ve editted <code>markdown/index.md</code>, your path should be <code>index.html</code>; html files live in the surface level of this repository. You must do this after configuring the template because otherwise StackEdit will give your HTML file a Markdown file extension by default.</li>
 <li>Click ‘<em>OK</em>’</li>
 </ol>
 <p>If you make further changes to your file after you’ve published it, you can update the published version any time by clicking the straight upward arrow in the top right of the page. However, you still need to submit a pull request.</p>
@@ -138,27 +116,6 @@
 
     </div>
   </div>
-
-<script>
-// When the user scrolls down 20px from the top of the document, show the button
-window.onscroll = function() {scrollFunction()};
-
-function scrollFunction() {
-    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-        document.getElementById("myBtn").style.display = "block";
-    } else {
-        document.getElementById("myBtn").style.display = "none";
-    }
-}
-
-// When the user clicks on the button, scroll to the top of the document
-function topFunction() {
-    document.body.scrollTop = 0;
-    document.documentElement.scrollTop = 0;
-}
-</script>
-
-
 </body>
 
 </html>
