@@ -494,9 +494,9 @@ The only park in Toronto that I've visited that you can get in deep enough to lo
 
 Located north of the city centre, the Science Centre offers everyone an opportunity to get hands on with science. Despite my feelings being biased by the frankly horrifying human body exhibit I was forced to witness as a child, I still find myself able to enjoy the virtual koi pond, the kinetic experiment room, and the rainforest exhibit. The Science Centre had virtual reality eagle flight before it was trendy and also boasts a full sized IMAX theatre. The Science Centre can be reached by taking the Line 1 subway to Eglinton station, followed by a bus, or by taking the Line 2 subway to Pape Station, also followed by a bus.
 
-### [Scarborough Bluffs](
+### [Scarborough Bluffs](https://www.toronto.ca/explore-enjoy/parks-gardens-beaches/scarborough-bluffs/)
 
-Travel 
+Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular wi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDg2NDA2MTVdfQ==
+eyJoaXN0b3J5IjpbMTA2NTk3ODAwNF19
 -->
