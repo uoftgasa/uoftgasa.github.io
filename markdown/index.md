@@ -134,7 +134,8 @@ There's a lot that goes on at the beginning of the semester. UofT's Faculty of A
 - **Last Monday of October** - Deadline to drop courses on [ACORN](acorn.utoronto.ca)
 - **Early December** -[NSERC CGS-M](#nserc-cgsm) scholarship deadline for domestic first students
 - **Early December** - classes end, exam period begins
-- **First week of January** - Second semester classes begin
+- **First week of January** - Second semester classes begin 
+- **Last Monday of 
 
 ## Human Resources
 
@@ -546,5 +547,5 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyODk4Njk1Ml19
+eyJoaXN0b3J5IjpbLTEyNDE4NDU4NzhdfQ==
 -->
