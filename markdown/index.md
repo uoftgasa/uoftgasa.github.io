@@ -50,7 +50,11 @@ This is a living document, you can contribute to its creation by forking the [uo
 - [GASA](#gasa)
 	- [Positions](#positions)
 	- [AstroTours](#astrotours)
-- [Weekly Eve
+- [Weekly Events](#weekly-events)
+	- [Scientific](#scientific)
+		- [Colloquium](#colloquium)
+		- [CITA Seminars](#cita-seminars)
+		- 
 	 
 
 
@@ -429,5 +433,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMzQ2NTQ4N119
+eyJoaXN0b3J5IjpbNjA5NDE1NzVdfQ==
 -->
