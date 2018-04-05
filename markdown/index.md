@@ -14,6 +14,8 @@ This is a living document, you can contribute to its creation by forking the [uo
 	 - [Graduate Associate Chair Chris Matzner](#graduate-associate-chair-chris-matzner)
 	 - [Graduate Administrator Margaret Meaney](#graduate-administrator-margaret-meaney)
 	 - [Undergraduate Administrator Lillian Lanca](#undergraduate-administrator-lillian-lanca)
+	 - [CITA Administrative Officer Jenny Jung](#cita-administrative-officer-jenny-jung)
+	 - [F
 
 ## Jargon
 
@@ -389,5 +391,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNTMyNDgwNV19
+eyJoaXN0b3J5IjpbMzI4MDM4MDA0XX0=
 -->
