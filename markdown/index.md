@@ -15,7 +15,9 @@ This is a living document, you can contribute to its creation by forking the [uo
 	 - [Graduate Administrator Margaret Meaney](#graduate-administrator-margaret-meaney)
 	 - [Undergraduate Administrator Lillian Lanca](#undergraduate-administrator-lillian-lanca)
 	 - [CITA Administrative Officer Jenny Jung](#cita-administrative-officer-jenny-jung)
-	 - [F
+	 - [Financial Officer Gautam Patel](#financial-officer-gautam-patel)
+	 - [Computing Manager Hugh Zhao](#computing-manager-hugh-zhao)
+	 - [CITA Computing Manager 
 
 ## Jargon
 
@@ -391,5 +393,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI4MDM4MDA0XX0=
+eyJoaXN0b3J5IjpbLTIwNDkyMjA2NjZdfQ==
 -->
