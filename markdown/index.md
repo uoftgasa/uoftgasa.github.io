@@ -456,10 +456,10 @@ Apartments
 
 ### Roundhouse Park
 
-If you've seen one Toronto sizzle reel, this area was probably heavily featured. Surrounded by glass walled condos, this downtown destination is walking distance from the Skydome (now often known by the inferior moniker *The Rogers Centre*), the Air Canada Centre (go Raptors!),  Ripley's Aquarium, Steamwhistle Breweries, and of course, the CN Tower (it's 55
+If you've seen one Toronto sizzle reel, this area was probably heavily featured. Surrounded by glass walled condos, this downtown destination is walking distance from the [SkyDome](https://www.mlb.com/bluejays/tickets) (now often known by the inferior moniker *The Rogers Centre*), the Air Canada Centre (go Raptors!),  Ripley's Aquarium, Steamwhistle Breweries, and of course, the CN Tower (it's 553 m tall, if you read the [Table of Contents](#table-of-contents)).
 
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMTUwNTRdfQ==
+eyJoaXN0b3J5IjpbMTY5OTYwNDczOF19
 -->
