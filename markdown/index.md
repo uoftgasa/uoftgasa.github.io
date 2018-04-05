@@ -448,7 +448,7 @@ Apartments
 
 ### School of Graduate Studies Courses
 
-The School of Graduate Studies (SGS) offers many courses to help you enhance skills that may not be explicitly taught elsewhere. Taking enough of these 
+The School of Graduate Studies (SGS) offers many courses to help you enhance skills that may not be explicitly taught elsewhere. These courses are offered under the umbrella of the [Graduate Professional Skills Program](http://www.sgs.utoronto.ca/currentstudents/Pages/Professional-Development.aspx)  (GPS), and categorized into Communication, Personal Effectiveness, Teaching Compet
 
 ## Public Services
 
@@ -515,5 +515,5 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzODYwNzQ2NF19
+eyJoaXN0b3J5IjpbMTc1OTMwODM1MV19
 -->
