@@ -66,7 +66,7 @@ The contents of this document, accompanied by a frequently asked question that m
 	- [Cycling](#cycling)
 	- [Cars](#cars)
 - [**UofT Services**](#uoft-services) - How can I find a nearby doctor?
-	- [School of Graduate Studies Courses](#school-of-graduate-studies-courses)
+	- [School of Graduate Studies](#school-of-graduate-studies-courses)
 	- [Health and Wellness](#health-and-wellness)
 	- [UofT Library](#uoft-library)
 - [**Public Services**](#public-services) - Where can I register for OHIP?
@@ -446,9 +446,12 @@ Apartments
 
 ## UofT Services
 
-### School of Graduate Studies Courses
+### School of Graduate Studies
 
-The School of Graduate Studies (SGS) offers many courses to help you enhance skills that may not be explicitly taught elsewhere. These courses are offered under the umbrella of the [Graduate Professional Skills Program](http://www.sgs.utoronto.ca/currentstudents/Pages/Professional-Development.aspx)  (GPS), and categorized into Communication, Personal Effectiveness, Teaching Competency and Research-Related Skills. Completing enough courses will earn you a GPS notation on your transcript. Highlights for astronomy students include
+The School of Graduate Studies (SGS) 
+
+
+offers many courses to help you enhance skills that may not be explicitly taught elsewhere. These courses are offered under the umbrella of the [Graduate Professional Skills Program](http://www.sgs.utoronto.ca/currentstudents/Pages/Professional-Development.aspx)  (GPS), and categorized into Communication, Personal Effectiveness, Teaching Competency and Research-Related Skills. Completing enough courses will earn you a GPS notation on your transcript. Highlights for astronomy students include
 - Let's Talk Science: Introduction to Science Outreach
 - Oral Presentation Skills (for Native and Non-Native Speakers of English)
 - Understanding the Research Article: Reading Towards Writing
@@ -526,5 +529,5 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjA2NjY2MTNdfQ==
+eyJoaXN0b3J5IjpbMjEzNzYwNzIwNV19
 -->
