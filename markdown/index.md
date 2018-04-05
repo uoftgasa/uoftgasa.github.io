@@ -460,10 +460,10 @@ If you've seen one Toronto sizzle reel, this area was probably heavily featured.
 
 ### [The PATH](http://torontopath.com/path-map/)
 
-The ultimate test of your navigational abi
+The ultimate test of your navigational abilities, the PATH will take only the hardiest souls to their intended destinations. Much of Toronto's business district is connected by underground tunnels filled with shops, food courts, and desp
 
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTM0OTk5OTNdfQ==
+eyJoaXN0b3J5IjpbLTE5MDk2MjU5ODldfQ==
 -->
