@@ -472,7 +472,7 @@ Just steps to the south of the Roundhouse park awaits a smorgasbord of free arti
 
 ### [Toronto Islands](http://www.torontoisland.com)
 
-The islands are a surprising escape from the city
+The islands are a surprising escape from the city only a short ferry ride away from the bustling downtown core. Centre Island is often considered the jewel of the bunch, with public picnic sights, a water park
 
 
 
@@ -480,5 +480,5 @@ The islands are a surprising escape from the city
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MTQyNzQxOF19
+eyJoaXN0b3J5IjpbNTExNTAwMzJdfQ==
 -->
