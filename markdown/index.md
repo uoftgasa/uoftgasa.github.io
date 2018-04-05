@@ -357,6 +357,8 @@ McLennan Physical Labs is at [60 St George St](https://goo.gl/maps/ShCfL48w2iF2)
 
 ## GASA
 
+All 
+
 ### Positions
 
 #### Dinner with the Speaker
@@ -453,9 +455,10 @@ The School of Graduate Studies (SGS) sends out frequent emails with the many wor
 The SGS also maintains the [Graduate Centre for Academic Communication](http://www.sgs.utoronto.ca/currentstudents/Pages/GCAC.aspx), which runs workshops and courses on academic communication as well as one-on-one writing consultations. This is an excellent service; with enough advance notice they will help you edit your writing to make it truly excellent.
 
 In addition, the SGS offers many courses to help you enhance skills that may not be explicitly taught elsewhere. These courses are offered under the umbrella of the [Graduate Professional Skills Program](http://www.sgs.utoronto.ca/currentstudents/Pages/Professional-Development.aspx)  (GPS), and categorized into Communication, Personal Effectiveness, Teaching Competency and Research-Related Skills. Completing enough courses will earn you a GPS notation on your transcript. Highlights for astronomy students include
-- Let's Talk Science: Introduction to Science Outreach
+
 - Oral Presentation Skills (for Native and Non-Native Speakers of English)
 - Understanding the Research Article: Reading Towards Writing
+- Let's Talk Science: Introduction to Science Outreach
 - Writing NSERC Proposals
 - Time Management
 - Prewriting Strategies for Developing and Organizing Your Ideas
@@ -464,6 +467,8 @@ In addition, the SGS offers many courses to help you enhance skills that may not
 - Introduction to Data and Information Visualization
 - Introduction to Research Management
 - Online Tools for Organizing your Research
+
+Sadly there are no links to these courses, as they are offered only sporadically. Checking the GPS link above will reveal the scheduled programming for the upcoming academic year.
 
 ### Health and Wellness
 
@@ -536,5 +541,5 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc4MjE3NDE1XX0=
+eyJoaXN0b3J5IjpbLTUzNDc3MTA1XX0=
 -->
