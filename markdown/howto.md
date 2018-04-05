@@ -103,6 +103,10 @@ The HTML template we use to convert the Markdown files will automatically create
 	- [Pull request](#pull-request)
 - [Style Guide](#style-guide)
 ```
+
+Until I figure out a better way to do this, every section should have a table of contents link to prevent unnecessary scrolling, i.e.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MjA5OTc3XX0=
+eyJoaXN0b3J5IjpbMTA4ODg5NzAwN119
 -->
