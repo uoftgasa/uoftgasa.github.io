@@ -490,12 +490,14 @@ The islands are a surprising escape from the city only a 15 minute ferry ride aw
 
 The only park in Toronto that I've visited that you can get in deep enough to lose sight of the city. High Park is a massive green space to the west of the city. In addition to the wilder woods of the off-leash dog park, you can enjoy more cultivated gardens as well as the ever popular spring cherry blossoms. The park also includes numerous sports fields, picnic areas and mini zoo (with free admission). The park can be reached from the Line 2 High Park station, or by the 506 Carlton or 508 Lakeshore streetcar lines.
 
-### [Ontario Science Centre](
+### [Ontario Science Centre](https://www.ontariosciencecentre.ca)
+
+The Science Centre can be reached by taking a subway 
 
 ### [Blackcreek Pioneer Village]
 
 ### [Scarborough Bluffs]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjExODE2Ml19
+eyJoaXN0b3J5IjpbLTExODQxMzI4NDZdfQ==
 -->
