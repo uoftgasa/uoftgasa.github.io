@@ -4,7 +4,7 @@
 
 Welcome to graduate school at UofT's Department of Astronomy and Astrophysics! We (the current graduate students) have written this guide to try and help you through all of the administrative details so you can get straight to your research. If you like, you can skip ahead to our suggested [to-do list](#new-student-to-do-list) for new students, or use the table of contents on the left to navigate to the appropriate section (note that the table of contents is not currently available on small screens).
 
-This is a living document, you can contribute to its creation by frepository.
+This is a living document, you can contribute to its creation by following the directions on the [how-to page](howto.html).
 
 ## Table of Contents
 The contents of this document, accompanied by a frequently asked question that may be answered in each question.
@@ -554,5 +554,5 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5Nzc4MzQ0XX0=
+eyJoaXN0b3J5IjpbMTMyNTU2ODI3OF19
 -->
