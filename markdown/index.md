@@ -52,13 +52,13 @@ The contents of this document, accompanied by a frequently asked question that m
 	- [Travel Grants](#travel-grants)
 	- [Reimbursements](#reimbursements)
 	- [Saving Money as a Student](#saving-money-as-a-student)
-- [Health Insurance](#health-insurance)
+- [**Health Insurance**](#health-insurance) - Where do I get the money to have my doctor cure me of the lurgy?
 	- [OHIP and UHIP](#ohip-and-uhip)
 	- [Greenshield](#greenshield)
-- [Housing](#housing)
+- [**Housing**](#housing) - How much is reasonable to spend on an apartment?
 	- [On-Campus](#on-campus)
 	- [Off-Campus](#off-campus)
-- [Getting Around](#getting-around)
+- [**Getting Around**](#getting-around)
 	- [Public Transit](#public-transit)
 		- [Toronto Transit Commission](#toronto-transit-commission)
 		- [GO Transit](#go-transit)
@@ -452,5 +452,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzMzNTQ1MzFdfQ==
+eyJoaXN0b3J5IjpbLTE5MDEwODU2MTNdfQ==
 -->
