@@ -458,7 +458,7 @@ Apartments
 
 The ultimate test of your navigational abilities, the PATH will take only the hardiest souls to their intended destinations. Much of Toronto's business district is connected by underground tunnels filled with shops, food courts, and desperately turned around tourists. 
 
-
+### [The Eaton Centre](https://www.cfshops.com/toronto-eaton-centre.html)
 
 ### [Roundhouse Park and CN Tower](https://goo.gl/maps/3oZbcarwnRr)
 
@@ -466,7 +466,7 @@ If you've seen one Toronto sizzle reel, this area was probably heavily featured.
 
 ### [The Harbourfront Centre](http://www.harbourfrontcentre.com)
 
-Just steps to the south of the Roundhouse park awaits a smorgasbord of free artistic offerings spread along Toronto's waterfront. Two free art galleries, a winter skating rink and summer artisan markets make this area worth a visit at anytime of the year. It's easily reachable by foot from Union
+Just steps to the south of the Roundhouse park awaits a smorgasbord of free artistic offerings spread along Toronto's waterfront. Two free art galleries, a winter skating rink and summer artisan markets make this area worth a visit at any time of the year. It's easily reachable by foot from Union Station or more directly by the 510 Spadina or 509 Harbourfront streetcar lines.
 
 ### [Toronto Islands](http://www.torontoisland.com)
 
@@ -476,5 +476,5 @@ Just steps to the south of the Roundhouse park awaits a smorgasbord of free arti
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NTkxOTgwXX0=
+eyJoaXN0b3J5IjpbLTExODUwMzIwMl19
 -->
