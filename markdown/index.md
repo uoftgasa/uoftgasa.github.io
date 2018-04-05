@@ -35,8 +35,10 @@ This is a living document, you can contribute to its creation by forking the [uo
 	 - [Graduate Program](#graduate-program)
 		 - [AST1501Y and AST1500Y](#ast1501y-and-ast1500y)
 		 - [Courses](#courses)
-		 - [Mini-courses](#mini-courses)
-		 - [General Qualifier](
+		 - [Mini Courses](#mini-courses)
+		 - [General Qualifier](#general-qualifier)
+		 - [Thesis Qualifier](#thesis-qualifier)
+		 - [Thesis Committee
 
 ## Jargon
 
@@ -412,5 +414,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcyNzYwODc2XX0=
+eyJoaXN0b3J5IjpbLTg4NTAzNjA3M119
 -->
