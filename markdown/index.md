@@ -64,11 +64,12 @@ The contents of this document, accompanied by a frequently asked question that m
 		- [GO Transit](#go-transit)
 	- [Cycling](#cycling)
 	- [Cars](#cars)
+- [**UofT Services**](#toronto-services) - How can I find 
 - [**Public Services**](#public-services) - Where can I register for OHIP?
 	- [Service Canada](#service-canada)
 	- [Service Ontario](#service-ontario)
 	- [Toronto Public Library](#toronto-public-library)
-- [Things to do in Toronto](#things-to-
+- [**Things to do in Toronto**](#things-to-do-in-toronto) - How tall is the CN Tower anyway?
 
 	 
 
@@ -452,5 +453,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwNzg5NzAzXX0=
+eyJoaXN0b3J5IjpbMzc1MjMwMzc0XX0=
 -->
