@@ -492,12 +492,13 @@ The only park in Toronto that I've visited that you can get in deep enough to lo
 
 ### [Ontario Science Centre](https://www.ontariosciencecentre.ca)
 
-The Science Centre can be reached by taking a subway 
+Located to the nort
+The Science Centre can be reached by taking the Line 1 subway to Eglinton station, followed by a bus, or by taking the Line 2 subway to Pape Station, also followed by a bus.
 
 ### [Blackcreek Pioneer Village]
 
 ### [Scarborough Bluffs]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODQxMzI4NDZdfQ==
+eyJoaXN0b3J5IjpbMTA3NDIzMzU1M119
 -->
