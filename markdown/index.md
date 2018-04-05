@@ -6,6 +6,10 @@ Welcome to graduate school at UofT's Department of Astronomy and Astrophysics! W
 
 This is a living document, you can contribute to its creation by forking the [uoftgasa](https://github.com/uoftgasa/uoftgasa.github.io) repository.
 
+## Table of Contents
+
+
+
 ## Jargon
 
 Here find a contextful definition for all those terms you hear thrown about the department.
@@ -380,5 +384,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2ODkxMzk0MF19
+eyJoaXN0b3J5IjpbMTA0MzU1NDU3OV19
 -->
