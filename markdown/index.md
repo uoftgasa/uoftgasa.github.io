@@ -54,7 +54,7 @@ This is a living document, you can contribute to its creation by forking the [uo
 	- [Scientific](#scientific)
 		- [Colloquium](#colloquium)
 		- [CITA Seminars](#cita-seminars)
-		- 
+		- [Blackboard Talks](#blackboard-talks)
 	 
 
 
@@ -433,5 +433,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA5NDE1NzVdfQ==
+eyJoaXN0b3J5IjpbLTExMzIxMzc4NDBdfQ==
 -->
