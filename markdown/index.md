@@ -11,10 +11,9 @@ The contents of this document, accompanied by a frequently asked question that m
  - [**Jargon**](#jargon) - What's a UofT time?
  - [**Important Dates**](#important-dates) - When do I need to enroll in courses? 
  - [**New Student To Do List**](#new-student-to-do-list) - I just got here, what's next?
- - [Human Resources](#human-resources)
-
- - [Units](#units)
- - [Campuses](#campuses)
+ - [**Human Resources**](#human-resources) - Who do I ask about setting up a printer?
+ - [**Units**](#units) - How is CITA related to DAA?
+ - [**Campuses**](#campuses) - What's the difference between UTSG and UTSC?
 	 - [S George](#st-george)
 	 - [Scarborough](#scarborough)
 	 - [Mississauga](#mississauga)
@@ -453,5 +452,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMwMjMwNzE2XX0=
+eyJoaXN0b3J5IjpbLTEyMTkzNzA2MTRdfQ==
 -->
