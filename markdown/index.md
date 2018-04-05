@@ -28,7 +28,9 @@ This is a living document, you can contribute to its creation by forking the [uo
  - [Buildings](#buildings)
 	 - [Astronomy Building](#astronomy-building)
 		 - [AB Common Rooms](#ab-common-rooms)
-	 - [McLennan Physical Labs and Burton Tower](#mclennan-physical-labs-and-burton-tower
+	 - [McLennan Physical Labs and Burton Tower](#mclennan-physical-labs-and-burton-tower)
+		 - [MP Common Rooms](#mp-common-rooms)
+	 - [Other Relevant Locations](#other-relevant-locations)
 
 ## Jargon
 
@@ -404,5 +406,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MDkxMzA4Ml19
+eyJoaXN0b3J5IjpbNzM4ODAxODI1XX0=
 -->
