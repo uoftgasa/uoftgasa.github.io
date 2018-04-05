@@ -7,9 +7,9 @@ Welcome to graduate school at UofT's Department of Astronomy and Astrophysics! W
 This is a living document, you can contribute to its creation by forking the [uoftgasa](https://github.com/uoftgasa/uoftgasa.github.io) repository.
 
 ## Table of Contents
-
- - [Jargon](#jargon)
- - [Important Dates](#important-dates)
+The contents of this document, accompanied by a frequently asked question that may be answered in each question.
+ - [Jargon](#jargon) - what's a UofT time? here
+ - [Important Dates](#important-dates) - when do you need to enrol in courses? 
  - [New Student To Do List](#new-student-to-do-list)
  - [Human Resources](#human-resources)
 
@@ -453,5 +453,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ3NDAzNTE0XX0=
+eyJoaXN0b3J5IjpbMTM5MjMyNDkyXX0=
 -->
