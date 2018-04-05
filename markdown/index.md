@@ -40,10 +40,11 @@ This is a living document, you can contribute to its creation by forking the [uo
 	 - [Thesis Committee](#thesis-committee)
  - [Teaching](#teaching)
 	 - [Courses to TA](#courses-to-ta)
-	 - [TATP](
+	 - [Teaching Assistant Training Program](#teaching-assistant-training-program)
  - [Computing](#computing)
 	 - [Scinet](#scinet)
 	 - [Sunnyvale](#sunnyvale)
+	 - [Personal C
 
 
 
@@ -421,5 +422,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzM0OTUzMTRdfQ==
+eyJoaXN0b3J5IjpbLTcwOTkzNjg2NV19
 -->
