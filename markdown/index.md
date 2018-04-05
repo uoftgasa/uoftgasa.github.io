@@ -59,6 +59,9 @@ This is a living document, you can contribute to its creation by forking the [uo
 		- [Stars and Planets Discussion Group](#stars-and-planets-discussion-group)
 		- [Pulsar Coffee](#pulsar-coffee)
 		- [Talk Show](#talk-show)
+		- [Cosmology Lunch](#cosmology-lunch)
+	- [Non-scientific](#non-scientific)
+		- 
 	 
 
 
@@ -437,5 +440,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjQxNTQ5MTddfQ==
+eyJoaXN0b3J5IjpbNzU2NDc4Mjk5XX0=
 -->
