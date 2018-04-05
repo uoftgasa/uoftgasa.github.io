@@ -17,7 +17,8 @@ This is a living document, you can contribute to its creation by forking the [uo
 	 - [CITA Administrative Officer Jenny Jung](#cita-administrative-officer-jenny-jung)
 	 - [Financial Officer Gautam Patel](#financial-officer-gautam-patel)
 	 - [Computing Manager Hugh Zhao](#computing-manager-hugh-zhao)
-	 - [CITA Computing Manager 
+	 - [CITA Computing Manager John Dubinski](#cita-computing-manager-john-dubinski)
+	 - [CITA HPC Specialist Claire Yu](#cita-hpc-specialist-claire-yu)
 
 ## Jargon
 
@@ -393,5 +394,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDkyMjA2NjZdfQ==
+eyJoaXN0b3J5IjpbLTU5OTI1MzMxOF19
 -->
