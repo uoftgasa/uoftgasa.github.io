@@ -455,6 +455,10 @@ Apartments
 
 ## Things to do in Toronto
 
+### [The Royal Ontario Museum](https://www.rom.on.ca/en)
+
+### [The Art Gallery of Ontario](https://ago.ca)
+
 ### [The PATH](http://torontopath.com/path-map/)
 
 The ultimate test of your navigational abilities, the PATH will take only the hardiest souls to their intended destinations. Much of Toronto's business district is connected by underground tunnels filled with shops, food courts, and desperately turned around tourists. 
@@ -480,5 +484,5 @@ The islands are a surprising escape from the city only a 15 minute ferry ride aw
 The only park in Toronto that I've visited that you can get in deep enough to lose sight of the city. High Park is a massive green space to the west of the city
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkxMjQ5ODFdfQ==
+eyJoaXN0b3J5IjpbMTcwMjQxOTQwOV19
 -->
