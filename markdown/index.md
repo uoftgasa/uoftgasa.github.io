@@ -455,7 +455,8 @@ The School of Graduate Studies (SGS) offers many courses to help you enhance ski
 - Writing NSERC Proposals
 - Time Management
 - Prewriting Strategies for Developing and Organizing Your Ideas
-- Teaching Fundamental Certificate and the Advanced University Teaching Preparation Certificate (see [TATP](#tatp) for more information on these
+- Teaching Fundamental Certificate and the Advanced University Teaching Preparation Certificate (see the [TATP](#teaching-assistant-training-program) section for more information on these)
+- Effective Journal Research for 
 
 ## Public Services
 
@@ -522,5 +523,5 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MTIzMTA0M119
+eyJoaXN0b3J5IjpbLTE2NDI5Mzk5OTZdfQ==
 -->
