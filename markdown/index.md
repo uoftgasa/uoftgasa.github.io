@@ -33,7 +33,9 @@ This is a living document, you can contribute to its creation by forking the [uo
 	 - [Other Relevant Locations](#other-relevant-locations)
  - [Research](#research)
 	 - [Graduate Program](#graduate-program)
-		 - [AST1501Y and AST1500](
+		 - [AST1501Y and AST1500Y](#ast1501y-and-ast1500y)
+		 - [Courses](#courses)
+		 - [Mini-courses](#mini-courses)
 
 ## Jargon
 
@@ -409,5 +411,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzg4Nzc0MDZdfQ==
+eyJoaXN0b3J5IjpbMTE4ODQ5NTk4N119
 -->
