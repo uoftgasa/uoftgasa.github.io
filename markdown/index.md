@@ -47,6 +47,10 @@ This is a living document, you can contribute to its creation by forking the [uo
 	 - [Scinet](#scinet)
 	 - [Sunnyvale](#sunnyvale)
 	 - [Printing and Copying](#printing-and-copying)
+- [GASA](#gasa)
+	- [Positions](#positions)
+	- [AstroTours](#astrotours)
+- [Weekly Eve
 	 
 
 
@@ -425,5 +429,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMjgxMDY3MV19
+eyJoaXN0b3J5IjpbLTQwMzQ2NTQ4N119
 -->
