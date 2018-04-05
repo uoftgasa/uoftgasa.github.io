@@ -456,11 +456,11 @@ Apartments
 ## Things to do in Toronto
 
 ### [The Royal Ontario Museum](https://www.rom.on.ca/en)
-Canada's largest museum is a marvel inside and out - the interesting architechtural choices made for this building are best experienced in person. The special exhibitions bring extra variety to the usual displays on the museum's four floors. The geology exhibit is a close favourite of mine, but locals will have fond memories of the bat cave, and the new dinosaur exhibit can't help but impress. If you want to take a look, visit on a Tuesday with your student card for free entry. The museum is easily accessible from the Line 1 subway Museum Station.
+Canada's largest museum is a marvel inside and out - the interesting architechtural choices made for this building are best experienced in person. The special exhibitions bring extra variety to the usual displays on the museum's four floors. The geology exhibit is a close favourite of mine, but locals will have fond memories of the bat cave, and the new dinosaur exhibit can't help but impress. If you want to take a look, visit on a Tuesday with your student card for free entry. The museum is easily accessible from the Line 1 subway Museum Station, or by a 10 minute walk from the C
 
 ### [The Art Gallery of Ontario](https://ago.ca)
 
-This art gallery is another architechtural marvel, and is embedded in a neighbourhood of other smaller galleries and art stores. Arrive after 6pm on a Wednesday for free admission (no student id required!). The AGO curates a huge selection of classical and modern art in its light filled space, although my personal highlight is the collection of model ships in the basement. The AGO is easily reachable by the 
+This art gallery is another architechtural marvel, and is embedded in a neighbourhood of other smaller galleries and art stores. Arrive after 6pm on a Wednesday for free admission (no student id required!). The AGO curates a huge selection of classical and modern art in its light filled space, although my personal highlight is the collection of model ships in the basement. The AGO is easily reachable by the 505 Dundas streetcar line or by walking from St Patrick Station on the Line 1 subway. It's also only a 10 minute walk from the DAA.
 
 ### [The Don Valley Park](https://donrivervalleypark.ca/park-map/)
 If big city living has you hungry for greenery, look no farther than the Don River Valley Park. While Don Valley in casual conversation almost exclusively refers to the major highway that runs along the valley, the park is surprisingly tranquil. There is an extensive trail system suitable for walking or cycling, and at the right time of year you can visit the river to see the salmon run. At the south end of the park you can visit [Riverdale Farm](https://www.toronto.ca/explore-enjoy/parks-gardens-beaches/zoos-farms/riverdalefarm/), a working farm hosting beautiful gardens, historic buildings, and a pig and poultry barn. In the north you can find the [Evergreen Brick Works](https://www.evergreen.ca/evergreen-brick-works/), a former brick making factory that now hosts a variety of events to encourage sustainability, including regular markets, swap meets and art exhibitions. The Evergreen Brick Works runs a shuttle from the Line 2 subway Broadway Station, but one can also walk down into the valley from the Line 2 subway Castle Frank Station.
@@ -497,5 +497,5 @@ The only park in Toronto that I've visited that you can get in deep enough to lo
 ### [Scarborough Bluffs]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNTU0MTM5Ml19
+eyJoaXN0b3J5IjpbMTA0NTk2MzA4M119
 -->
