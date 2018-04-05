@@ -8,9 +8,9 @@ This is a living document, you can contribute to its creation by forking the [uo
 
 ## Table of Contents
 The contents of this document, accompanied by a frequently asked question that may be answered in each question.
- - [Jargon](#jargon) - what's a UofT time? here
- - [Important Dates](#important-dates) - when do you need to enrol in courses? 
- - [New Student To Do List](#new-student-to-do-list)
+ - [**Jargon**](#jargon) - What's a UofT time?
+ - [**Important Dates**](#important-dates) - When do I need to enroll in courses? 
+ - [**New Student To Do List**](#new-student-to-do-list) - I just got here, what's next?
  - [Human Resources](#human-resources)
 
  - [Units](#units)
@@ -453,5 +453,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MjMyNDkyXX0=
+eyJoaXN0b3J5IjpbNjMwMjMwNzE2XX0=
 -->
