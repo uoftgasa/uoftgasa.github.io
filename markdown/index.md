@@ -30,10 +30,10 @@ The contents of this document, accompanied by a frequently asked question that m
 	 - [General Qualifier](#general-qualifier)
 	 - [Thesis Qualifier](#thesis-qualifier)
 	 - [Thesis Committee](#thesis-committee)
- - [**Teaching**](#teaching) - How many h
+ - [**Teaching**](#teaching) - How many hours do I have to spend marking?
 	 - [Courses to TA](#courses-to-ta)
 	 - [Teaching Assistant Training Program](#teaching-assistant-training-program)
- - [Computing](#computing)
+ - [**Computing**](#computing) - How do I run my monster parallelized code?
 	 - [Personal Computers](#personal-computers)
 	 - [Scinet](#scinet)
 	 - [Sunnyvale](#sunnyvale)
@@ -452,5 +452,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTM2OTgxMjhdfQ==
+eyJoaXN0b3J5IjpbMTAwNjkzMTczN119
 -->
