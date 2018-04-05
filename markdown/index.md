@@ -128,13 +128,13 @@ Here find a contextful definition for all those terms you hear thrown about the 
 There's a lot that goes on at the beginning of the semester. UofT's Faculty of Arts and Science (of which this Department is a member), maintains an exhaustive list of the [sessional dates](https://fas.calendar.utoronto.ca/sessional-dates), but these are primarily undergraduate focused. In your first year, here are the deadlines you need to be aware of:
 
 - **First week of September** - Graduate student orientation and teaching assistant training
-- **Second week of September** - Classes begin
+- **Second week of September** - First semester classes begin
 - **End of September** - First [GASA](#gasa) meeting
 - **Last Monday of September** - Deadline to enrol in courses on [ACORN](acorn.utoronto.ca)
 - **Last Monday of October** - Deadline to drop courses on [ACORN](acorn.utoronto.ca)
 - **Early December** -[NSERC CGS-M](#nserc-cgsm) scholarship deadline for domestic first students
 - **Early December** - classes end, exam period begins
-- **First week of January** - Classes begin
+- **First week of January** - Second semester classes begin
 
 ## Human Resources
 
@@ -546,5 +546,5 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTQ0MTQ4NjBdfQ==
+eyJoaXN0b3J5IjpbMTYyODk4Njk1Ml19
 -->
