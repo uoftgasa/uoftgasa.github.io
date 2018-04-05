@@ -31,14 +31,15 @@ This is a living document, you can contribute to its creation by forking the [uo
 	 - [McLennan Physical Labs and Burton Tower](#mclennan-physical-labs-and-burton-tower)
 		 - [MP Common Rooms](#mp-common-rooms)
 	 - [Other Relevant Locations](#other-relevant-locations)
- - [Research](#research)
-	 - [Graduate Program](#graduate-program)
-		 - [AST1501Y and AST1500Y](#ast1501y-and-ast1500y)
-		 - [Courses](#courses)
-		 - [Mini Courses](#mini-courses)
-		 - [General Qualifier](#general-qualifier)
-		 - [Thesis Qualifier](#thesis-qualifier)
-		 - [Thesis Committee
+ - [Graduate Program](#graduate-program)
+	 - [AST1501Y and AST1500Y](#ast1501y-and-ast1500y)
+	 - [Courses](#courses)
+	 - [Mini Courses](#mini-courses)
+	 - [General Qualifier](#general-qualifier)
+	 - [Thesis Qualifier](#thesis-qualifier)
+	 - [Thesis Committee](#thesis-committee)
+ - [Computing](#computing)
+	 - [Scinet](#scinet
 
 ## Jargon
 
@@ -414,5 +415,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NTAzNjA3M119
+eyJoaXN0b3J5IjpbLTEwNzIyNTkxMjZdfQ==
 -->
