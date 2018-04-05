@@ -448,6 +448,8 @@ Apartments
 ## Public Services
 
 ### [Service Canada](https://www.canada.ca/en/employment-social-development/corporate/portfolio/service-canada.html)
+Service Canada provides a contact point for government services so you don't need to apply by mail. You can visit a branch to apply for a Soc
+
 
 ### Service Ontario
 
@@ -498,5 +500,5 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDQyOTA0MjVdfQ==
+eyJoaXN0b3J5IjpbNzE4NjUxMjQ2XX0=
 -->
