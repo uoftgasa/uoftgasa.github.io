@@ -38,6 +38,9 @@ This is a living document, you can contribute to its creation by forking the [uo
 	 - [General Qualifier](#general-qualifier)
 	 - [Thesis Qualifier](#thesis-qualifier)
 	 - [Thesis Committee](#thesis-committee)
+ - [Teaching](#teaching)
+	 - [Courses to TA](#courses-to-ta)
+	 - [TATP](
  - [Computing](#computing)
 	 - [Scinet](#scinet)
 	 - [Sunnyvale](#sunnyvale)
@@ -418,5 +421,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NzE1MzQ3MF19
+eyJoaXN0b3J5IjpbLTE0MzM0OTUzMTRdfQ==
 -->
