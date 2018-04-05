@@ -50,14 +50,11 @@ This is a living document, you can contribute to its creation by forking the [uo
 - [GASA](#gasa)
 	- [Positions](#positions)
 	- [AstroTours](#astrotours)
-- [Regular Events](#regular-events)
+- [Regular Department Events](#regular-department-events)
 	- [Scientific](#scientific)
-
 	- [Non-scientific](#non-scientific)
-		- [Morning Coffee](#morning-coffee)
-		- [GASA Tea](#gasa-tea)
-		- [Dunlap Outreach Meeting](#dunlap-outreach-meeting)
-		- [Sci-Fi Friday](#sci-fi-friday)
+- [
+
 	 
 
 
@@ -364,7 +361,10 @@ Calendars
 		- [CPS Planet Lunches](#cps-planet-lunches)
 
 
-
+		- [Morning Coffee](#morning-coffee)
+		- [GASA Tea](#gasa-tea)
+		- [Dunlap Outreach Meeting](#dunlap-outreach-meeting)
+		- [Sci-Fi Friday](#sci-fi-friday)
 
 ## Housing
 
@@ -437,5 +437,5 @@ Apartments
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNjQ3MTIzNV19
+eyJoaXN0b3J5IjpbLTEzMjgxMDMyMTRdfQ==
 -->
