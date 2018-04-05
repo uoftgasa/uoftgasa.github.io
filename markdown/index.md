@@ -492,7 +492,7 @@ The only park in Toronto that I've visited that you can get in deep enough to lo
 
 ### [Ontario Science Centre](https://www.ontariosciencecentre.ca)
 
-Located north of the city centre, the Science Centre offers everyone an opportunity to get hands on with science. Despite my feelings being biased by the frankly horrifying human body  
+Located north of the city centre, the Science Centre offers everyone an opportunity to get hands on with science. Despite my feelings being biased by the frankly horrifying human body exhibit I was forced to witness as a child, I still find myself able to enjoy the virtual koi pond, the kinetic experiment room and the rainforest exhibit. The Science Centre had virtual reality eagle flight before it was trendy.  
 The Science Centre can be reached by taking the Line 1 subway to Eglinton station, followed by a bus, or by taking the Line 2 subway to Pape Station, also followed by a bus.
 
 ### [Blackcreek Pioneer Village]
@@ -500,5 +500,5 @@ The Science Centre can be reached by taking the Line 1 subway to Eglinton statio
 ### [Scarborough Bluffs]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NTI5Nzk4OF19
+eyJoaXN0b3J5IjpbLTEwNzI5MDc5NF19
 -->
