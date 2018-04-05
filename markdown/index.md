@@ -460,7 +460,7 @@ Canada's largest museum is a marvel inside and out - the interesting architechtu
 
 ### [The Art Gallery of Ontario](https://ago.ca)
 
-This art gallery is another architechtural marvel, and is embedded in a neighbourhood of other smaller galleries and art stores. 
+This art gallery is another architechtural marvel, and is embedded in a neighbourhood of other smaller galleries and art stores. Arrive after 6pm on a Wednesday for free admission (not 
 
 ### [The Don Valley Park](https://donrivervalleypark.ca/park-map/)
 If big city living has you hungry for greenery, look no farther than the Don River Valley Park. While Don Valley in casual conversation almost exclusively refers to the major highway that runs along the valley, the park is surprisingly tranquil. There is an extensive trail system suitable for walking or cycling, and at the right time of year you can visit the river to see the salmon run. At the south end of the park you can visit [Riverdale Farm](https://www.toronto.ca/explore-enjoy/parks-gardens-beaches/zoos-farms/riverdalefarm/), a working farm hosting beautiful gardens, historic buildings, and a pig and poultry barn. In the north you can find the [Evergreen Brick Works](https://www.evergreen.ca/evergreen-brick-works/), a former brick making factory that now hosts a variety of events to encourage sustainability, including regular markets, swap meets and art exhibitions. The Evergreen Brick Works runs a shuttle from the Line 2 subway Broadway Station, but one can also walk down into the valley from the Line 2 subway Castle Frank Station.
@@ -497,5 +497,5 @@ The only park in Toronto that I've visited that you can get in deep enough to lo
 ### [Scarborough Bluffs]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5Mzk0NTg1Ml19
+eyJoaXN0b3J5IjpbMTIyMjE5Mzk5NV19
 -->
