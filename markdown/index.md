@@ -464,7 +464,7 @@ Sitting between the Times Square wannabe of Yonge and Dundas Square to the North
 
 ### [Roundhouse Park and CN Tower](https://goo.gl/maps/3oZbcarwnRr)
 
-If you've seen one Toronto sizzle reel, this area was probably heavily featured. Surrounded by glass walled condos, the Roundhouse Park is easy walking distance from the [SkyDome](https://www.mlb.com/bluejays/tickets) (now often known by the inferior moniker *The Rogers Centre*), the [Air Canada Centre](https://www.aircanadacentre.com) (go Raptors!),  [Ripley's Aquarium](https://www.ripleyaquariums.com), [Steamwhistle Breweries](https://steamwhistle.ca), and of course, the [CN Tower](http://www.cntower.ca/en-ca/home.html) (it's 553 m tall, if you read the [Table of Contents](#table-of-contents)). This area is a short walk from Union Station and the 510 Spadina streetcar line.
+If you've seen one Toronto sizzle reel, this area was probably heavily featured. Surrounded by glass walled condos, the Roundhouse Park is easy walking distance from the [SkyDome](https://www.mlb.com/bluejays/tickets) (now often known by the inferior moniker *The Rogers Centre*), the [Air Canada Centre](https://www.aircanadacentre.com) (go Raptors!),  [Ripley's Aquarium](https://www.ripleyaquariums.com), [Steamwhistle Breweries](https://steamwhistle.ca), and of course, the [CN Tower](http://www.cntower.ca/en-ca/home.html) (it's 553 m tall, if you read the [Table of Contents](#table-of-contents)). This area is a short walk from Union Station at the bottom of the Line 1 subway or from the 510 Spadina and 509 Harbourfront streetcar lines.
 
 ### [The Harbourfront Centre](http://www.harbourfrontcentre.com)
 
@@ -472,11 +472,13 @@ Just steps to the south of the Roundhouse park awaits a smorgasbord of free arti
 
 ### [Toronto Islands](http://www.torontoisland.com)
 
+The islands are a surprising escape from the city
+
 
 
 
 ### Toronto Public Library
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAxMDExNjY0XX0=
+eyJoaXN0b3J5IjpbLTQ3MTQyNzQxOF19
 -->
