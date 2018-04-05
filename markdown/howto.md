@@ -106,7 +106,9 @@ The HTML template we use to convert the Markdown files will automatically create
 
 Until I figure out a better way to do this, every section should have a table of contents link to prevent unnecessary scrolling, i.e.
 
-
+```
+[**Table of Contents**](#table-of-contents)
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4ODg5NzAwN119
+eyJoaXN0b3J5IjpbLTE4ODU1MTczNDVdfQ==
 -->
