@@ -13,10 +13,10 @@ The contents of this document, accompanied by a frequently asked question that m
  - [**New Student To Do List**](#new-student-to-do-list) - I just got here, what's next?
  - [**Human Resources**](#human-resources) - Who do I ask about setting up a printer?
  - [**Units**](#units) - How is CITA related to DAA?
-	 - [Department of Astronomy and Astrophysics](#department-of-astronomy-and-astrophysics)
-	 - [Dunlap Institute](#dunlap-institute)
-	 - [Canadian Institute for Theoretical Astrophysics](#canadian-institute-for-theoretical-astrophysics)
-	 - [Centre for Planetary Sciences](#centre-for-planetary-sciences)
+	 - [Department of Astronomy and Astrophysics (DAA)](#department-of-astronomy-and-astrophysics)
+	 - [Dunlap Institute (Dunlap)](#dunlap-institute)
+	 - [Canadian Institute for Theoretical Astrophysics (CITA)](#canadian-institute-for-theoretical-astrophysics)
+	 - [Centre for Planetary Sciences (CPS)](#centre-for-planetary-sciences)
  - [**Campuses**](#campuses) - What's the difference between UTSG and UTSC?
 	 - [St George](#st-george)
 	 - [Scarborough](#scarborough)
@@ -689,7 +689,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk0NTYyMDk0LC05MDAxODYyNiwtNjYzMT
-M4NjI3LC05NzY2OTYwMDcsLTQxMjgwMzQ1MCwyMTc2NTUxNV19
-
+eyJoaXN0b3J5IjpbMjEwNjk1NDI3NSwtOTAwMTg2MjYsLTY2Mz
+EzODYyNywtOTc2Njk2MDA3LC00MTI4MDM0NTAsMjE3NjU1MTVd
+fQ==
 -->
