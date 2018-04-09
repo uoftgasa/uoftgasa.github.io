@@ -368,7 +368,11 @@ Next to Koffler House.
 	- [GSU Gym](https://www.utgsu.ca/gym/), a single room available by registration only.
 
 #### Gerstein Library
-A broad science library, with extensive stacks of reference texts and ample places to study. Books can be borrowed with your TCard
+A broad science library, with extensive stacks of reference texts and ample places to study. Books can be borrowed with your TCard.
+
+- Contains
+	- group study rooms
+	- presentation practice rooms
 
 #### Hart House
 
@@ -640,6 +644,6 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a busrking the [uoftgasa](https://github.com/uoftgasa/uoftgasa.github.io) repository.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA1NTU5MjcsLTQxMjgwMzQ1MCwyMTc2NT
-UxNV19
+eyJoaXN0b3J5IjpbMTMyOTI5NTIyMiwtNDEyODAzNDUwLDIxNz
+Y1NTE1XX0=
 -->
