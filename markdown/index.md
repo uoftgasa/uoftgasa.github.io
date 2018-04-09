@@ -350,7 +350,6 @@ On the next block south of [AB](#astronomy-building) and [MP](#mclennan-physical
 
 #### Bahen Centre
 On the next block south of [AB](#astronomy-building) and [MP](#mclennan-physical-labs-and-burton-tower).
-
 - Contains
 	- Multi-Faith Prayer Room
 	- [The Cube](https://ueat.utoronto.ca/the-cube/) lunch spot
@@ -362,13 +361,14 @@ Surprisingly not all that close to the Koffler Centre. A frequent location for [
 	-  Veda - Healthy Indian Takeout *some students dispute the validity of calling this Indian food*
 
 #### UTGSU Building
+Next to Koffler House.
 - Contains:
 	- [UTGSU](#gsu-rep) offices
 	- [GSU pub](https://www.utgsu.ca/pubcafe/)
 	- [GSU Gym](https://www.utgsu.ca/gym/), a single room available by registration only.
 
 #### Gerstein Library
-
+A broad science library, with extensive stacks of reference texts and ample places to study. Books can be borrowed with your TCard
 
 #### Hart House
 
@@ -640,6 +640,6 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a busrking the [uoftgasa](https://github.com/uoftgasa/uoftgasa.github.io) repository.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NTE4MzM0LC00MTI4MDM0NTAsMjE3Nj
-U1MTVdfQ==
+eyJoaXN0b3J5IjpbNTA1NTU5MjcsLTQxMjgwMzQ1MCwyMTc2NT
+UxNV19
 -->
