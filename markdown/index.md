@@ -162,7 +162,7 @@ Office: [MP](#mclennan-physical-labs-and-burton-tower)1207A
 Chris has done a great job as graduate chair ensuring that graduate concerns are represented in the department and updating some of the more dated parts of the PhD assessment process.  Chris is a good first point of contact for questions and concerns about the graduate program.
 
 #### Graduate Administrator Margaret Meaney
-Office: [AB]
+Office: [AB](#astronomy-building)101
 Margaret works hard to coordinate all of the administrative details of graduate student life, and is an excellent resource for many of your questions. She can help you understand your financial account, outline the details of the program, and deadlines of [scholarship applications](#scholarships),
 
 #### Undergraduate Administrator Lillian Lanca
@@ -694,7 +694,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTk2NDc0MzMsMTI1MjkxMzE5OCwyMT
-A2OTU0Mjc1LC05MDAxODYyNiwtNjYzMTM4NjI3LC05NzY2OTYw
-MDcsLTQxMjgwMzQ1MCwyMTc2NTUxNV19
+eyJoaXN0b3J5IjpbLTIzODU1OTYwMCwxMjUyOTEzMTk4LDIxMD
+Y5NTQyNzUsLTkwMDE4NjI2LC02NjMxMzg2MjcsLTk3NjY5NjAw
+NywtNDEyODAzNDUwLDIxNzY1NTE1XX0=
 -->
