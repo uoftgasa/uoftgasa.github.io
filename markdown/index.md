@@ -162,7 +162,7 @@ Chris has done a great job as graduate chair ensuring that graduate concerns are
 
 #### Graduate Administrator Margaret Meaney
 
-Margaret works hard to coordinate all of the administrative details of graduate student life, and is an excellent resource for many of your questions. She can help you understand your financial account, outline the details and deadlines of [scholarship applications](#scholarships),
+Margaret works hard to coordinate all of the administrative details of graduate student life, and is an excellent resource for many of your questions. She can help you understand your financial account, outline the details of the program, and deadlines of [scholarship applications](#scholarships),
 
 #### Undergraduate Administrator Lillian Lanca
 
@@ -689,7 +689,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NTgwMTkzOCwyMTA2OTU0Mjc1LC05MD
+eyJoaXN0b3J5IjpbMTI1MjkxMzE5OCwyMTA2OTU0Mjc1LC05MD
 AxODYyNiwtNjYzMTM4NjI3LC05NzY2OTYwMDcsLTQxMjgwMzQ1
 MCwyMTc2NTUxNV19
 -->
