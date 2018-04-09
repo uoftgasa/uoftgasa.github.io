@@ -177,9 +177,9 @@ Office: [MP](#mclennan-physical-labs-and-burton-tower)14XX
 Jenny Jung is the person to talk to about all things CITA, and she's the one who can assist you with getting keys to the [15th floor conference room](#meeting-rooms).
 
 #### Financial Officer Gautam Patel
+Office: [AB](#astronomy-building)101-**X**
 
-
-Gautam Patel processes reimbursement claims for the department
+Gautam Patel processes reimbursement claims for the department. He'll go through your expenses with you and make sure they get charged to the correct account.
 
 #### Computing Manager Hugh Zhao
 
@@ -698,7 +698,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQ0MTQ1NTQsLTM5NzI5MTk2LDEyNT
-I5MTMxOTgsMjEwNjk1NDI3NSwtOTAwMTg2MjYsLTY2MzEzODYy
-NywtOTc2Njk2MDA3LC00MTI4MDM0NTAsMjE3NjU1MTVdfQ==
+eyJoaXN0b3J5IjpbLTE5MjQ4MCwtMzk3MjkxOTYsMTI1MjkxMz
+E5OCwyMTA2OTU0Mjc1LC05MDAxODYyNiwtNjYzMTM4NjI3LC05
+NzY2OTYwMDcsLTQxMjgwMzQ1MCwyMTc2NTUxNV19
 -->
