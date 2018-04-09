@@ -414,7 +414,9 @@ If the [AC](#athletic-centre) is the gymiest gym, Robarts is the librariest libr
 [Goldring](https://kpe.utoronto.ca/facility/goldring-centre-high-performance-sport) is UofT's newest athletic space.
 
 - Contains:
-	- Strength and condit
+	- Strength and conditioning centre
+	- [Sport medicine clinic](https://kpe.utoronto.ca/david-l-macintosh-sport-medicine-clinic)
+	- Fitness studio (for classes)
 
 #### The Varsity Centre
 
@@ -676,6 +678,6 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a busrking the [uoftgasa](https://github.com/uoftgasa/uoftgasa.github.io) repository.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzkzODc0NDUsLTQxMjgwMzQ1MCwyMT
+eyJoaXN0b3J5IjpbLTEyMzI4Njk4MjAsLTQxMjgwMzQ1MCwyMT
 c2NTUxNV19
 -->
