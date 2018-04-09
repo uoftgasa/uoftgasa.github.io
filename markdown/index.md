@@ -162,14 +162,17 @@ Office: [MP](#mclennan-physical-labs-and-burton-tower)1207A
 Chris has done a great job as graduate chair ensuring that graduate concerns are represented in the department and updating some of the more dated parts of the PhD assessment process.  Chris is a good first point of contact for questions and concerns about the graduate program.
 
 #### Graduate Administrator Margaret Meaney
-Office: [AB](#astronomy-building)101
+Office: [AB](#astronomy-building)101-**X**
+
 Margaret works hard to coordinate all of the administrative details of graduate student life, and is an excellent resource for many of your questions. She can help you understand your financial account, outline the details of the program, and deadlines of [scholarship applications](#scholarships),
 
 #### Undergraduate Administrator Lillian Lanca
+Office: [AB](#astronomy-building)101-**X**
 
 Lillian Lanca is a good point of contact for additional administrative questions. She can assist with getting keys, as well as booking rooms that are not on the department's booking calendar (accessible in the internal section of the department's website).
 
 #### CITA Administrative Officer Jenny Jung
+Office: [MP](#mclennan-physical-labs-and-burton-tower)14XX
 
 Jenny Jung is the person to talk to about all things CITA, and she's the one who can assist you with getting keys to the [15th floor conference room](#meeting-rooms).
 
@@ -694,7 +697,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzODU1OTYwMCwxMjUyOTEzMTk4LDIxMD
-Y5NTQyNzUsLTkwMDE4NjI2LC02NjMxMzg2MjcsLTk3NjY5NjAw
-NywtNDEyODAzNDUwLDIxNzY1NTE1XX0=
+eyJoaXN0b3J5IjpbLTM5NzI5MTk2LDEyNTI5MTMxOTgsMjEwNj
+k1NDI3NSwtOTAwMTg2MjYsLTY2MzEzODYyNywtOTc2Njk2MDA3
+LC00MTI4MDM0NTAsMjE3NjU1MTVdfQ==
 -->
