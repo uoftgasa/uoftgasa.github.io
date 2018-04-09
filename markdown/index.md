@@ -358,6 +358,7 @@ On the next block south of [AB](#astronomy-building) and [MP](#mclennan-physical
 Surprisingly not all that close to the Koffler Centre. A frequent location for [GSU](#gsu-rep) meetings.
 - Contains:
 	- The Multi-Faith Centre
+	-  Veda Health Indian
 
 #### UTGSU Building
 - Contains:
@@ -637,6 +638,6 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a busrking the [uoftgasa](https://github.com/uoftgasa/uoftgasa.github.io) repository.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MDA0MzA5NSwtNDEyODAzNDUwLDIxNz
+eyJoaXN0b3J5IjpbMTMwMjk0NDY0OSwtNDEyODAzNDUwLDIxNz
 Y1NTE1XX0=
 -->
