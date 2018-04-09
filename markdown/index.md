@@ -380,14 +380,14 @@ A broad science library, with extensive stacks of reference texts and ample plac
 There is so much in Hart House, and their [website](http://harthouse.ca) has it all, but highlights are listed below.
 
 - Contains
-	- [Hart House Fitness Centre](http://harthouse.ca/fitness/)
+	- [Hart House Fitness Centre](http://harthouse.ca/fitness/) (entry requires your TCard)
 	- [Hart House Theatre](http://harthouse.ca/hart-house-theatre/)
 	- [Justina M. Barnicke Gallery](http://harthouse.ca/justina-m-barnicke-gallery/)
 	- [Gallery Grill and Hart House Cafe](http://harthouse.ca/gallery-grill/)
 	- [rentable rooms for all of your events](http://harthouse.ca/rooms-spaces/)
 
 #### Athletic Centre
-The AC is the gymiest gym at UofT.  Like Hart House, there's way too much here to list it all, but highlights are below. The rest can be found on their [website](https://kpe.utoronto.ca/facility/athletic-centre).
+The AC is the gymiest gym at UofT.  Your TCard is required to enter. Like Hart House, there's way too much here to list it all, but highlights are below. The rest can be found on their [website](https://kpe.utoronto.ca/facility/athletic-centre).
 
 - Contains
 	- [Field house](https://kpe.utoronto.ca/node/358): strength and cardio machines, a running track and courts for a variety of sports
@@ -402,7 +402,7 @@ The AC is the gymiest gym at UofT.  Like Hart House, there's way too much here t
 If the [AC](#athletic-centre) is the gymiest gym, Robarts is the librariest library. It is a massive space for reference material, and a reasonably quiet space to study (outside of undergraduate exam periods). Books may be borrowed with your TCard.
 
 - Contains
-	- Stacks (floors 9-13) - requires your TCard to access
+	- Stacks (floors 9-13) - your TCard is required to enter
 	- [Cafetaria](https://ueat.utoronto.ca/robarts-cafeteria/)
 	- Multi-Faith space
 
@@ -414,7 +414,7 @@ If the [AC](#athletic-centre) is the gymiest gym, Robarts is the librariest libr
 [Goldring](https://kpe.utoronto.ca/facility/goldring-centre-high-performance-sport) is UofT's newest athletic space.
 
 - Contains:
-- 
+	- Strength and condit
 
 #### The Varsity Centre
 
@@ -676,6 +676,6 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a busrking the [uoftgasa](https://github.com/uoftgasa/uoftgasa.github.io) repository.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDcxMDI0MzgsLTQxMjgwMzQ1MCwyMT
+eyJoaXN0b3J5IjpbLTEzMzkzODc0NDUsLTQxMjgwMzQ1MCwyMT
 c2NTUxNV19
 -->
