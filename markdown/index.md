@@ -356,7 +356,10 @@ Surprisingly not all that close to the Koffler Centre
 
 #### Hart House
 
-#### Grad House
+#### Grad House and Grad Room
+
+#### UTGSU Building
+This building contains the UTGSU offices, the GSU 
 
  - Koffler Centre - contains UofT Bookstore, Health Services, T-Card services
  - Robarts Library
@@ -620,6 +623,6 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a busrking the [uoftgasa](https://github.com/uoftgasa/uoftgasa.github.io) repository.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njg3Nzc4NDQsLTQxMjgwMzQ1MCwyMT
-c2NTUxNV19
+eyJoaXN0b3J5IjpbMTU4MjIzOTAwMSwtNDEyODAzNDUwLDIxNz
+Y1NTE1XX0=
 -->
