@@ -320,6 +320,7 @@ McLennan Physical Labs is at [60 St George St](https://goo.gl/maps/ShCfL48w2iF2)
 - **Astronomy Library** - 13th floor	
 	- turn right out of the elevators
 	- gain access by asking for the code from [Lee Robbins](#astronomy-librarian-lee-robbins)
+	- books are borrowed by filling out one of the slips on the front desk, and may be checked out until the next inventory
 - **CITA Administrative Office**
 	- across from the elevators 
 - **Mailroom** 
@@ -398,10 +399,11 @@ The AC is the gymiest gym at UofT.  Like Hart House, there's way too much here t
 	- [Varsity Pool](https://kpe.utoronto.ca/node/85)
 
 #### Robarts Library
-If the [AC](#athletic-centre) is the gymiest gym, Robarts is the librariest library. It is a massive space for reference material, and a reasonably quiet space to study (outside of undergraduate exam periods).
+If the [AC](#athletic-centre) is the gymiest gym, Robarts is the librariest library. It is a massive space for reference material, and a reasonably quiet space to study (outside of undergraduate exam periods). Books may be borrowed with your TCard.
 
 - Contains
 	- Stacks (floors 9-13)
+	- Cafetaria
 
 #### Grad House and Grad Room
 
@@ -667,6 +669,6 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a busrking the [uoftgasa](https://github.com/uoftgasa/uoftgasa.github.io) repository.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA3MjMxNDYwLC00MTI4MDM0NTAsMjE3Nj
-U1MTVdfQ==
+eyJoaXN0b3J5IjpbLTU0MTQyOTE1MCwtNDEyODAzNDUwLDIxNz
+Y1NTE1XX0=
 -->
