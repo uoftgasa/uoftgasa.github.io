@@ -157,6 +157,7 @@ There's a lot that goes on at the university. UofT's Faculty of Arts and Science
 While this guide is meant to serve as a handy reference, it may not be able to answer all of your questions. Here are some friendly faces that may be able to help answer your questions
 
 #### Graduate Associate Chair Chris Matzner
+Office: [MP[
 
 Chris has done a great job as graduate chair ensuring that graduate concerns are represented in the department and updating some of the more dated parts of the PhD assessment process.  Chris is a good first point of contact for questions and concerns about the graduate program.
 
@@ -174,7 +175,7 @@ Jenny Jung is the person to talk to about all things CITA, and she's the one who
 
 #### Financial Officer Gautam Patel
 
-Gautam Patel processes reimb
+Gautam Patel processes reimbursement claims for the department
 
 #### Computing Manager Hugh Zhao
 
@@ -693,7 +694,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE2NjYxNTk2LDEyNTI5MTMxOTgsMjEwNj
-k1NDI3NSwtOTAwMTg2MjYsLTY2MzEzODYyNywtOTc2Njk2MDA3
-LC00MTI4MDM0NTAsMjE3NjU1MTVdfQ==
+eyJoaXN0b3J5IjpbLTg4Nzk3MDE1MSwxMjUyOTEzMTk4LDIxMD
+Y5NTQyNzUsLTkwMDE4NjI2LC02NjMxMzg2MjcsLTk3NjY5NjAw
+NywtNDEyODAzNDUwLDIxNzY1NTE1XX0=
 -->
