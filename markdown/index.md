@@ -305,7 +305,7 @@ Rooms labelled ABXX are in the basement, those labelled AB1XX are on the first f
 
 
 ### McLennan Physical Labs and Burton Tower
-McLennan Physical Labs is at [60 St George St](https://goo.gl/maps/ShCfL48w2iF2). The lower two floors of the building are entirely undergraduate lecture halls and labs. The tower in the southwest corner of the building houses offices for the physics department, with the 12th, 13th and 14th floors containing [DAA](#department-of-astronomy-and-astrophysics) and [CITA](#canadian-institute-for-theoretical-astrophysics) offices. Unlike [AB](#astronomy-building), this building is accessible, and doors remain unlocked until 9pm.
+McLennan Physical Labs is at [60 St George St](https://goo.gl/maps/ShCfL48w2iF2). The lower two floors of the building are entirely undergraduate lecture halls and labs, but also feature a snack shop and vending machines. The tower in the southwest corner of the building houses offices for the physics department, with the 12th, 13th and 14th floors containing [DAA](#department-of-astronomy-and-astrophysics) and [CITA](#canadian-institute-for-theoretical-astrophysics) offices. Unlike [AB](#astronomy-building), this building is accessible up to the 14th floor, and doors remain unlocked until 9pm.
 
 
 #### MP Common Rooms
@@ -358,7 +358,7 @@ On the next block south of [AB](#astronomy-building) and [MP](#mclennan-physical
 Surprisingly not all that close to the Koffler Centre. A frequent location for [GSU](#gsu-rep) meetings.
 - Contains:
 	- The Multi-Faith Centre
-	-  Veda Health Indian
+	-  Veda - Healthy Indian Takeout *some students dispute the validity of calling this Indian food*
 
 #### UTGSU Building
 - Contains:
@@ -638,6 +638,6 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a busrking the [uoftgasa](https://github.com/uoftgasa/uoftgasa.github.io) repository.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMjk0NDY0OSwtNDEyODAzNDUwLDIxNz
+eyJoaXN0b3J5IjpbMTc1Mzc0ODkxOCwtNDEyODAzNDUwLDIxNz
 Y1NTE1XX0=
 -->
