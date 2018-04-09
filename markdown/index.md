@@ -227,13 +227,13 @@ All astronomy graduate students at UofT are officially affiliated with the Depar
 
 [Website](http://www.dunlap.utoronto.ca)
 
-The Dunlap Institute (Dunlap) is primarily focused on instrumentation and outreach. Dunlap members (professors and post-docs) are located in the [Astronomy Building](#astronomy-building). Graduate students can become affiliated with the Dunlap if they are supervised by a Dunlap professor. These students can apply for additional funding not available to the rest of their cohort and are invited to Dunlap specific events like holiday parties and the 3 day Dunlap Retreat.
+The Dunlap Institute (Dunlap) is primarily focused on instrumentation and outreach. Dunlap members (professors and post-docs) are located in the [Astronomy Building](#astronomy-building). Graduate students can become affiliated with the Dunlap if they are supervised by a Dunlap prof. These students can apply for additional funding not available to the rest of their cohort and are invited to Dunlap specific events like holiday parties and the 3 day Dunlap Retreat.
 
 ### Canadian Institute for Theoretical Astrophysics
 
 [Website](https://www.cita.utoronto.ca)
 
-The Canadian Institute for Theoretical Astrophysics (CITA) focuses on theoretical work CITA is located on the 13th and 14th floors of the [Burton Tower attached to McLennan Physical Labs](#mclennan-physical-labs-and-burton-tower), and graduate students are 
+The Canadian Institute for Theoretical Astrophysics (CITA) focuses on theoretical work CITA is located on the 13th and 14th floors of the [Burton Tower attached to McLennan Physical Labs](#mclennan-physical-labs-and-burton-tower), and graduate students working with a CITA prof usually have offices on the 12th, 13th, and 14th floors of that building.
 
 ### Centre for Planetary Sciences
 [Website](https://cps.utoronto.ca)
@@ -685,6 +685,6 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAyNTI1NTM2LC02NjMxMzg2MjcsLTk3Nj
+eyJoaXN0b3J5IjpbLTkwMDE4NjI2LC02NjMxMzg2MjcsLTk3Nj
 Y5NjAwNywtNDEyODAzNDUwLDIxNzY1NTE1XX0=
 -->
