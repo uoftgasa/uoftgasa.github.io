@@ -131,7 +131,7 @@ Here find a contextful definition for all those terms you hear thrown about the 
 ## Important Dates
 [**Table of Contents**](#table-of-contents)
 
-There's a lot that goes on at the university. UofT's Faculty of Arts and Science (of which this Department is a member), maintains an exhaustive list of the [sessional dates](https://fas.calendar.utoronto.ca/sessional-dates), but these are primarily undergraduate focused. In your first year, here are the deadlines you need to be aware of:
+There's a lot that goes on at the university. UofT's Faculty of Arts and Science (of which this Department is a member), maintains an exhaustive list of the [sessional dates](https://fas.calendar.utoronto.ca/sessional-dates), but these are primarily undergraduate focused. The list below is a summary of some relevant dates:
 
 - **First week of September** - Graduate student orientation and teaching assistant training meeting, [NSERC PGS-D](#nserc-pgsd) and [Vanier](#vanier) scholarship deadlines for domestic upper year students
 - **Second week of September** - First semester classes begin
@@ -689,7 +689,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNjk1NDI3NSwtOTAwMTg2MjYsLTY2Mz
-EzODYyNywtOTc2Njk2MDA3LC00MTI4MDM0NTAsMjE3NjU1MTVd
-fQ==
+eyJoaXN0b3J5IjpbLTQ5NTgwMTkzOCwyMTA2OTU0Mjc1LC05MD
+AxODYyNiwtNjYzMTM4NjI3LC05NzY2OTYwMDcsLTQxMjgwMzQ1
+MCwyMTc2NTUxNV19
 -->
