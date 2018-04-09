@@ -407,7 +407,7 @@ If the [AC](#athletic-centre) is the gymiest gym, Robarts is the librariest libr
 	- Multi-Faith space
 
 #### Grad House and Grad Room
-[Grad House](http://gradhouse.utoronto.ca) is a suite-style graduate residence. [Grad Room](http://www.sgs.utoronto.ca/currentstudents/Pages/Grad-Room.aspx) is located in its base, and offers graduate pr
+[Grad House](http://gradhouse.utoronto.ca) is a suite-style graduate residence. [Grad Room](http://www.sgs.utoronto.ca/currentstudents/Pages/Grad-Room.aspx) is located in its base, and offers coffee shop fare and graduate student specific programming, including regular writing groups, yoga and meditation.
 
 #### Goldring Centre for High Perfomance Sport
 
@@ -671,6 +671,6 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a busrking the [uoftgasa](https://github.com/uoftgasa/uoftgasa.github.io) repository.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2OTkwMjU3MSwtNDEyODAzNDUwLDIxNz
-Y1NTE1XX0=
+eyJoaXN0b3J5IjpbOTE3OTMxMDAyLC00MTI4MDM0NTAsMjE3Nj
+U1MTVdfQ==
 -->
