@@ -250,7 +250,7 @@ The Centre for Planetary Sciences (CPS) is located on UofT's [Scarborough campus
 ## Buildings
 [**Table of Contents**](#table-of-contents)
 
-The [DAA's](#department-of-astronomy-and-astrophysics) two main buildings contain many common rooms, which are described below.
+The [DAA's](#department-of-astronomy-and-astrophysics) two main buildings contain many common rooms, which are described below. You can also find a [list of all meeting rooms](#meeting-rooms) below.
 
 ### Astronomy Building
 
@@ -315,8 +315,10 @@ McLennan Physical Labs is at [60 St George St](https://goo.gl/maps/ShCfL48w2iF2)
 	- gain access by asking for the code from [Lee Robbins](#astronomy-librarian-lee-robbins)
 - **Mailroom** - 
 - **CITA Lounge**
-- 15th Floor Conference Room
-- Telescope Domes
+- **15th Floor Conference Room**
+	- must be booked through the CITA administrative office
+	- pick up keys from CITA administrative office
+- **Telescope Domes**
 
 ### Other Relevant Locations
 
@@ -582,6 +584,6 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a busrking the [uoftgasa](https://github.com/uoftgasa/uoftgasa.github.io) repository.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxMDM2NTc3LC00MTI4MDM0NTAsMjE3Nj
-U1MTVdfQ==
+eyJoaXN0b3J5IjpbLTE1MjYzMDQwMzMsLTQxMjgwMzQ1MCwyMT
+c2NTUxNV19
 -->
