@@ -588,7 +588,7 @@ Apartments
 ### School of Graduate Studies
 [**Table of Contents**](#table-of-contents)
 
-The School of Graduate Studies (SGS) sends out frequent emails with the many workshops and events they run for graduate students, which are primarily located in [Grad Room](http://www.sgs.utoronto.ca/currentstudents/Pages/Grad-Room.aspx) at the base of Grad House on the corner of Harbord Street and Spadina Ave. These events range from career focused to subsidized trips.
+The School of Graduate Studies (SGS) sends out frequent emails with the many workshops and events they run for graduate students, which are primarily located in [Grad Room](http://www.sgs.utoronto.ca/currentstudents/Pages/Grad-Room.aspx) at the base of Grad House on the corner of Harbord Street and Spadina Ave. These events range from career focused workshops to subsidized trips.
 
 The SGS also maintains the [Graduate Centre for Academic Communication](http://www.sgs.utoronto.ca/currentstudents/Pages/GCAC.aspx), which runs workshops and courses on academic communication as well as one-on-one writing consultations. This is an excellent service; with enough advance notice they will help you edit your writing to make it truly excellent.
 
@@ -685,6 +685,6 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NzY4MTI5NywtOTc2Njk2MDA3LC00MT
+eyJoaXN0b3J5IjpbLTY2MzEzODYyNywtOTc2Njk2MDA3LC00MT
 I4MDM0NTAsMjE3NjU1MTVdfQ==
 -->
