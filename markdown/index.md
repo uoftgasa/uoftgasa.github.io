@@ -178,6 +178,7 @@ Jenny Jung is the person to talk to about all things CITA, and she's the one who
 
 #### Financial Officer Gautam Patel
 
+
 Gautam Patel processes reimbursement claims for the department
 
 #### Computing Manager Hugh Zhao
@@ -697,7 +698,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NzI5MTk2LDEyNTI5MTMxOTgsMjEwNj
-k1NDI3NSwtOTAwMTg2MjYsLTY2MzEzODYyNywtOTc2Njk2MDA3
-LC00MTI4MDM0NTAsMjE3NjU1MTVdfQ==
+eyJoaXN0b3J5IjpbLTEzMjQ0MTQ1NTQsLTM5NzI5MTk2LDEyNT
+I5MTMxOTgsMjEwNjk1NDI3NSwtOTAwMTg2MjYsLTY2MzEzODYy
+NywtOTc2Njk2MDA3LC00MTI4MDM0NTAsMjE3NjU1MTVdfQ==
 -->
