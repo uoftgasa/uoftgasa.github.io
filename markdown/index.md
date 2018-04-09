@@ -309,6 +309,7 @@ McLennan Physical Labs is at [60 St George St](https://goo.gl/maps/ShCfL48w2iF2)
 #### MP Common Rooms
 - **MP110** - Physics Lounge
 	- must be booked through third floor physics administrative office
+	- capacity ~ 50
 - **MP1318A** - Seminar Room
 	- must be booked through the CITA administrative office
 	- location of [CITA seminars](#cita-seminars)
@@ -327,8 +328,10 @@ McLennan Physical Labs is at [60 St George St](https://goo.gl/maps/ShCfL48w2iF2)
 	- must be booked through the CITA administrative office
 	- pick up keys from CITA administrative office
 	- access this room by taking the north side stairs up from the 14th floor (turn left out of the elevator)
+	- capacity ~15
 - **Telescope Domes**
 	- access the telescopes by taking the south side stairs up from the 14th floor (turn right out of the elevators)
+	- requires keys from 
 
 ### Other Relevant Locations
 
@@ -594,6 +597,6 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a busrking the [uoftgasa](https://github.com/uoftgasa/uoftgasa.github.io) repository.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIzMDkwNzE2LC00MTI4MDM0NTAsMjE3Nj
+eyJoaXN0b3J5IjpbNzkyMTgzMjUwLC00MTI4MDM0NTAsMjE3Nj
 U1MTVdfQ==
 -->
