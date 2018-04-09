@@ -299,6 +299,7 @@ Rooms labelled ABXX are in the basement, those labelled AB1XX are on the first f
 	 - capacity ~15
  - **AB201** - Lounge
 	 - open to all
+	 - contains a fridge, microwave and sink, as well as tables and couches
 
 
 ### McLennan Physical Labs and Burton Tower
@@ -317,8 +318,10 @@ McLennan Physical Labs is at [60 St George St](https://goo.gl/maps/ShCfL48w2iF2)
 - **CITA Administrative Office**
 	- across from the elevators 
 - **Mailroom** 
+	- south (or right) of the CITA administrative office
 	- contains CITA printer [violet](#printers)
 - **CITA Lounge**
+	- contains a fridge, microwave, sink and dishwasher, as well as some couches
 	- contains CITA printer [canna](#printers)
 - **15th Floor Conference Room**
 	- must be booked through the CITA administrative office
@@ -591,6 +594,6 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a busrking the [uoftgasa](https://github.com/uoftgasa/uoftgasa.github.io) repository.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcwMTIzNzgxLC00MTI4MDM0NTAsMjE3Nj
+eyJoaXN0b3J5IjpbNjIzMDkwNzE2LC00MTI4MDM0NTAsMjE3Nj
 U1MTVdfQ==
 -->
