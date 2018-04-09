@@ -317,6 +317,8 @@ McLennan Physical Labs is at [60 St George St](https://goo.gl/maps/ShCfL48w2iF2)
 - **MP1318A** - Seminar Room
 	- must be booked through the CITA administrative office
 	- location of [CITA seminars](#cita-seminars)
+- **MP1318C** - Undergraduate office
+	- contains CITA printer sunfl
 - **Astronomy Library** - 13th floor	
 	- turn right out of the elevators
 	- gain access by asking for the code from [Lee Robbins](#astronomy-librarian-lee-robbins)
@@ -385,6 +387,7 @@ There is so much in Hart House, and their [website](http://harthouse.ca) has it 
 	- [Justina M. Barnicke Gallery](http://harthouse.ca/justina-m-barnicke-gallery/)
 	- [Gallery Grill and Hart House Cafe](http://harthouse.ca/gallery-grill/)
 	- [rentable rooms for all of your events](http://harthouse.ca/rooms-spaces/)
+	- drop off point for [UTM](#mississauga) shuttle
 
 #### Athletic Centre
 The AC is the gymiest gym at UofT.  Your TCard is required to enter. Like Hart House, there's way too much here to list it all, but highlights are below. The rest can be found on their [website](https://kpe.utoronto.ca/facility/athletic-centre).
@@ -677,6 +680,6 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a busrking the [uoftgasa](https://github.com/uoftgasa/uoftgasa.github.io) repository.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMzkwODg0NywtNDEyODAzNDUwLDIxNz
+eyJoaXN0b3J5IjpbMTA3NDQzMDM5NiwtNDEyODAzNDUwLDIxNz
 Y1NTE1XX0=
 -->
