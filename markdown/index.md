@@ -405,7 +405,6 @@ If the [AC](#athletic-centre) is the gymiest gym, Robarts is the librariest libr
 	- Stacks (floors 9-13) - requires your TCard to access
 	- [Cafetaria](https://ueat.utoronto.ca/robarts-cafeteria/)
 	- Multi-Faith space
-	- 
 
 #### Grad House and Grad Room
 
@@ -671,6 +670,6 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a busrking the [uoftgasa](https://github.com/uoftgasa/uoftgasa.github.io) repository.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYxODA4NzIyLC00MTI4MDM0NTAsMjE3Nj
-U1MTVdfQ==
+eyJoaXN0b3J5IjpbLTc5NjE0OTY3NSwtNDEyODAzNDUwLDIxNz
+Y1NTE1XX0=
 -->
