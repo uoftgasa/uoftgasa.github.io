@@ -170,7 +170,11 @@ Lillian Lanca is a good point of contact for additional administrative questions
 
 #### CITA Administrative Officer Jenny Jung
 
+Jenny Jung is the person to talk to about all things CITA, and she's the one who can assist you with getting keys to the [15th floor conference room](#meeting-rooms).
+
 #### Financial Officer Gautam Patel
+
+Gautam Patel processes reimb
 
 #### Computing Manager Hugh Zhao
 
@@ -689,7 +693,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MjkxMzE5OCwyMTA2OTU0Mjc1LC05MD
-AxODYyNiwtNjYzMTM4NjI3LC05NzY2OTYwMDcsLTQxMjgwMzQ1
-MCwyMTc2NTUxNV19
+eyJoaXN0b3J5IjpbMjE2NjYxNTk2LDEyNTI5MTMxOTgsMjEwNj
+k1NDI3NSwtOTAwMTg2MjYsLTY2MzEzODYyNywtOTc2Njk2MDA3
+LC00MTI4MDM0NTAsMjE3NjU1MTVdfQ==
 -->
