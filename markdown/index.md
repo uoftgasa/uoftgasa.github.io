@@ -389,7 +389,8 @@ There is so much in Hart House, and their [website](http://harthouse.ca) has it 
 The gymiest gym at UofT.  Like Hart House, there's way too much here to list it all, but highlights are below. The rest can be found on their [website](https://kpe.utoronto.ca/facility/athletic-centre).
 
 - Contains
-	- 
+	- [Field house](https://kpe.utoronto.ca/node/358): strength and cardio machines, a running track and courts for a variety of sports
+	- [Upper Gym](
 
 #### Robarts Library
 
@@ -657,6 +658,6 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a busrking the [uoftgasa](https://github.com/uoftgasa/uoftgasa.github.io) repository.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTU3MDIzNTEsLTQxMjgwMzQ1MCwyMT
-c2NTUxNV19
+eyJoaXN0b3J5IjpbODE2MDEzMDQ5LC00MTI4MDM0NTAsMjE3Nj
+U1MTVdfQ==
 -->
