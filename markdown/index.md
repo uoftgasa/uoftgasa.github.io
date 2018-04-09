@@ -216,7 +216,7 @@ Lillian Lanca is a good point of contact for additional administrative questions
 ## Units
 [**Table of Contents**](#table-of-contents)
 
-The Astronomy and Astrophysics community at UofT is composed of several units: the Department of Astronomy and Astrophysics, the Dunlap Institute, the Canadian Institute for Theoretical Astrophysics, and the Centre for Planetary Sciences. The relationships between these bodies can be a bit complex, but each unit is a part of the overall fabric of the department.
+The Astronomy and Astrophysics community at UofT is composed of several units: the Department of Astronomy and Astrophysics, the Dunlap Institute, the Canadian Institute for Theoretical Astrophysics, and the Centre for Planetary Sciences. The relationships between these bodies can be a bit complex, but each unit is a part of the overall fabric of the department. Most importantly, a student can work with a professor affiliated with any of the units, and your payment
 
 ### Department of Astronomy and Astrophysics
 [Website](http://www.astro.utoronto.ca)
@@ -685,6 +685,6 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MzEzODYyNywtOTc2Njk2MDA3LC00MT
-I4MDM0NTAsMjE3NjU1MTVdfQ==
+eyJoaXN0b3J5IjpbLTEzODg5NDAxMjQsLTY2MzEzODYyNywtOT
+c2Njk2MDA3LC00MTI4MDM0NTAsMjE3NjU1MTVdfQ==
 -->
