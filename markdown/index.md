@@ -352,7 +352,7 @@ On the next block south of [AB](#astronomy-building) and [MP](#mclennan-physical
 #### Bahen Centre
 On the next block south of [AB](#astronomy-building) and [MP](#mclennan-physical-labs-and-burton-tower).
 - Contains
-	- Multi-Faith Prayer Room
+	- Multi-Faith space
 	- [The Cube](https://ueat.utoronto.ca/the-cube/) lunch spot
 
 #### Koffler House
@@ -402,8 +402,10 @@ The AC is the gymiest gym at UofT.  Like Hart House, there's way too much here t
 If the [AC](#athletic-centre) is the gymiest gym, Robarts is the librariest library. It is a massive space for reference material, and a reasonably quiet space to study (outside of undergraduate exam periods). Books may be borrowed with your TCard.
 
 - Contains
-	- Stacks (floors 9-13)
-	- Cafetaria
+	- Stacks (floors 9-13) - requires your TCard to access
+	- [Cafetaria](https://ueat.utoronto.ca/robarts-cafeteria/)
+	- Multi-Faith space
+	- 
 
 #### Grad House and Grad Room
 
@@ -669,6 +671,6 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a busrking the [uoftgasa](https://github.com/uoftgasa/uoftgasa.github.io) repository.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MTQyOTE1MCwtNDEyODAzNDUwLDIxNz
-Y1NTE1XX0=
+eyJoaXN0b3J5IjpbNzYxODA4NzIyLC00MTI4MDM0NTAsMjE3Nj
+U1MTVdfQ==
 -->
