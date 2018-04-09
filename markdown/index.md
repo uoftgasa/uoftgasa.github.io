@@ -174,6 +174,8 @@ Lillian Lanca is a good point of contact for additional administrative questions
 
 #### CITA HPC Specialist Claire Yu
 
+#### Astronomy Librarian Lee Robbins
+
 ## New Student To Do List
 [**Table of Contents**](#table-of-contents)
 
@@ -310,8 +312,9 @@ McLennan Physical Labs is at [60 St George St](https://goo.gl/maps/ShCfL48w2iF2)
 	- location of [CITA seminars](#cita-seminars)
 - **Astronomy Library** - 13th floor	
 	- turn right out of the elevators
-- Mailroom - 
-- CITA Lounge
+	- gain access by asking for the code from [Lee Robbins](#astronomy-librarian-lee-robbins)
+- **Mailroom** - 
+- **CITA Lounge**
 - 15th Floor Conference Room
 - Telescope Domes
 
@@ -579,5 +582,6 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a busrking the [uoftgasa](https://github.com/uoftgasa/uoftgasa.github.io) repository.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMjgwMzQ1MCwyMTc2NTUxNV19
+eyJoaXN0b3J5IjpbOTAxMDM2NTc3LC00MTI4MDM0NTAsMjE3Nj
+U1MTVdfQ==
 -->
