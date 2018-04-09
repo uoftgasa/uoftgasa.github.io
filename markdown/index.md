@@ -337,12 +337,19 @@ McLennan Physical Labs is at [60 St George St](https://goo.gl/maps/ShCfL48w2iF2)
 
 ### Other Relevant Locations
 
-#### The Koffler Centre
+#### The Koffler Student Centre
 - Contains:
 	- T-Card Services
 	- Health and Wellness Centre
 	- UofT Bookstore
 	- Career Centre
+
+#### Koffler House
+Surprisingly not all that close to the Koffler Centre
+- Contains
+	- The Multi-Faith Centre
+
+##
  - Koffler Centre - contains UofT Bookstore, Health Services, T-Card services
  - Robarts Library
  - Gerstein Library
@@ -605,6 +612,6 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a busrking the [uoftgasa](https://github.com/uoftgasa/uoftgasa.github.io) repository.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDE3NDg5NTMsLTQxMjgwMzQ1MCwyMT
-c2NTUxNV19
+eyJoaXN0b3J5IjpbMTAzODU1NTUwLC00MTI4MDM0NTAsMjE3Nj
+U1MTVdfQ==
 -->
