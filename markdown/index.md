@@ -317,6 +317,7 @@ McLennan Physical Labs is at [60 St George St](https://goo.gl/maps/ShCfL48w2iF2)
 	- across from the elevators 
 - **Mailroom** - 
 - **CITA Lounge**
+	- contains CITA printer [canna]
 - **15th Floor Conference Room**
 	- must be booked through the CITA administrative office
 	- pick up keys from CITA administrative office
@@ -588,6 +589,6 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a busrking the [uoftgasa](https://github.com/uoftgasa/uoftgasa.github.io) repository.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM3MjE4MDEyLC00MTI4MDM0NTAsMjE3Nj
-U1MTVdfQ==
+eyJoaXN0b3J5IjpbLTY5NzIxODQ0MiwtNDEyODAzNDUwLDIxNz
+Y1NTE1XX0=
 -->
