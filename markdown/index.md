@@ -176,6 +176,8 @@ Lillian Lanca is a good point of contact for additional administrative questions
 
 #### Astronomy Librarian Lee Robbins
 
+#### TA Admin and Observatory Dire
+
 ## New Student To Do List
 [**Table of Contents**](#table-of-contents)
 
@@ -331,7 +333,7 @@ McLennan Physical Labs is at [60 St George St](https://goo.gl/maps/ShCfL48w2iF2)
 	- capacity ~15
 - **Telescope Domes**
 	- access the telescopes by taking the south side stairs up from the 14th floor (turn right out of the elevators)
-	- requires keys from 
+	- requires keys from the [campus observer](#positions) or [Mike Williams](#observatory-director-michael-williams)
 
 ### Other Relevant Locations
 
@@ -597,6 +599,6 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a busrking the [uoftgasa](https://github.com/uoftgasa/uoftgasa.github.io) repository.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkyMTgzMjUwLC00MTI4MDM0NTAsMjE3Nj
-U1MTVdfQ==
+eyJoaXN0b3J5IjpbLTQyNTI0NjgyNCwtNDEyODAzNDUwLDIxNz
+Y1NTE1XX0=
 -->
