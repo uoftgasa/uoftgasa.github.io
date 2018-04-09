@@ -346,7 +346,7 @@ On the next block south of [AB](#astronomy-building) and [MP](#mclennan-physical
 	- Career Centre
 
 #### Koffler House
-Surprisingly not all that close to the Koffler Centre. A frequent location for [GSU](# meetings.
+Surprisingly not all that close to the Koffler Centre. A frequent location for [GSU](#gsu-rep) meetings.
 - Contains:
 	- The Multi-Faith Centre
 
@@ -360,8 +360,9 @@ Surprisingly not all that close to the Koffler Centre. A frequent location for [
 
 #### UTGSU Building
 - Contains:
-	- UTGSU offices
-	- 
+	- [UTGSU](#gsu-rep) offices
+	- [GSU pub](https://www.utgsu.ca/pubcafe/)
+	- [GSU Gym](https://www.utgsu.ca/gym/), av
 
  - Koffler Centre - contains UofT Bookstore, Health Services, T-Card services
  - Robarts Library
@@ -625,6 +626,6 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a busrking the [uoftgasa](https://github.com/uoftgasa/uoftgasa.github.io) repository.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczMjY1NzM4LC00MTI4MDM0NTAsMjE3Nj
-U1MTVdfQ==
+eyJoaXN0b3J5IjpbMTY4NTM1ODQ1MiwtNDEyODAzNDUwLDIxNz
+Y1NTE1XX0=
 -->
