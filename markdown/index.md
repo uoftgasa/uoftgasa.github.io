@@ -13,6 +13,7 @@ The contents of this document, accompanied by a frequently asked question that m
  - [**New Student To Do List**](#new-student-to-do-list) - I just got here, what's next?
  - [**Human Resources**](#human-resources) - Who do I ask about setting up a printer?
  - [**Units**](#units) - How is CITA related to DAA?
+	 - [Department of Astronomy and Astrophysics](#department-of-astronomy-and-astrophyiscs
  - [**Campuses**](#campuses) - What's the difference between UTSG and UTSC?
 	 - [St George](#st-george)
 	 - [Scarborough](#scarborough)
@@ -685,6 +686,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMDE4NjI2LC02NjMxMzg2MjcsLTk3Nj
-Y5NjAwNywtNDEyODAzNDUwLDIxNzY1NTE1XX0=
+eyJoaXN0b3J5IjpbLTEyNjM1NjkzMDIsLTkwMDE4NjI2LC02Nj
+MxMzg2MjcsLTk3NjY5NjAwNywtNDEyODAzNDUwLDIxNzY1NTE1
+XX0=
 -->
