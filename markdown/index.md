@@ -393,7 +393,9 @@ The gymiest gym at UofT.  Like Hart House, there's way too much here to list it 
 	- [Upper Gym](https://kpe.utoronto.ca/node/363): badminton, or basketball by appointment or drop in.
 	- [Lower Gym](https://kpe.utoronto.ca/node/359): a gymnastics gym accessible through classes
 	- [Sports Gym](https://kpe.utoronto.ca/node/360): drop in badminton, basketball, indoor cricket, volleyball and indoor hockey
-	- 
+	- [Strength and Conditioning Centre](https://kpe.utoronto.ca/node/362)
+	- [Squash and Table Tennis Courts](https://kpe.utoronto.ca/node/361)
+	- [Varsity Pool](https://kpe.utoronto.ca/node/85)
 
 #### Robarts Library
 
@@ -661,6 +663,6 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a busrking the [uoftgasa](https://github.com/uoftgasa/uoftgasa.github.io) repository.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQyNzg1MTQyLC00MTI4MDM0NTAsMjE3Nj
-U1MTVdfQ==
+eyJoaXN0b3J5IjpbMTM2ODgzMDk3MSwtNDEyODAzNDUwLDIxNz
+Y1NTE1XX0=
 -->
