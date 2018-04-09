@@ -341,6 +341,7 @@ McLennan Physical Labs is at [60 St George St](https://goo.gl/maps/ShCfL48w2iF2)
 	- requires keys from the [campus observer](#positions) or [Mike Williams](#ta-admin-and-observatory-director-michael-williams)
 
 ### Other Relevant Locations
+These locations currently organized in rough order from south to north.
 
 #### The Koffler Student Centre
 On the next block south of [AB](#astronomy-building) and [MP](#mclennan-physical-labs-and-burton-tower).
@@ -411,6 +412,10 @@ If the [AC](#athletic-centre) is the gymiest gym, Robarts is the librariest libr
 
 #### Grad House and Grad Room
 [Grad House](http://gradhouse.utoronto.ca) is a suite-style graduate residence. [Grad Room](http://www.sgs.utoronto.ca/currentstudents/Pages/Grad-Room.aspx) is located in its base, and offers coffee shop fare and graduate student specific programming, including weekly writing groups, yoga, and meditation.
+
+#### Massey College
+
+Graduate student residence that is affiliated 
 
 #### Goldring Centre for High Perfomance Sport
 
@@ -680,6 +685,6 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a busrking the [uoftgasa](https://github.com/uoftgasa/uoftgasa.github.io) repository.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjk1MDE1MDAsLTQxMjgwMzQ1MCwyMT
-c2NTUxNV19
+eyJoaXN0b3J5IjpbLTgwNzIxNTQ3MCwtNDEyODAzNDUwLDIxNz
+Y1NTE1XX0=
 -->
