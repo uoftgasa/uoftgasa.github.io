@@ -337,6 +337,14 @@ McLennan Physical Labs is at [60 St George St](https://goo.gl/maps/ShCfL48w2iF2)
 
 ### Other Relevant Locations
 
+#### The Koffler Student Centre
+On the next block south of [AB](#astronomy-building) and [MP](#mclennan-physical-labs-and-burton-tower).
+- Contains:
+	- T-Card Services
+	- Health and Wellness Centre
+	- UofT Bookstore
+	- Career Centre
+
 #### Bahen Centre
 On the next block south of [AB](#astronomy-building) and [MP](#mclennan-physical-labs-and-burton-tower).
 
@@ -344,23 +352,10 @@ On the next block south of [AB](#astronomy-building) and [MP](#mclennan-physical
 	- Multi-Faith Prayer Room
 	- [The Cube](https://ueat.utoronto.ca/the-cube/) lunch spot
 
-
-
-
 #### Koffler House
 Surprisingly not all that close to the Koffler Centre. A frequent location for [GSU](#gsu-rep) meetings.
 - Contains:
 	- The Multi-Faith Centre
-
-#### Hart House
-
-#### Athletic Centre
-
-#### Grad House and Grad Rom
-
-#### Goldring Centre for High Perfomance Sport
-
-
 
 #### UTGSU Building
 - Contains:
@@ -368,11 +363,21 @@ Surprisingly not all that close to the Koffler Centre. A frequent location for [
 	- [GSU pub](https://www.utgsu.ca/pubcafe/)
 	- [GSU Gym](https://www.utgsu.ca/gym/), a single room available by registration only.
 
- - Koffler Centre - contains UofT Bookstore, Health Services, T-Card services
- - Robarts Library
- - Gerstein Library
- - Earth Sciences Auditorium
- - Medical Sciences Auditorium
+#### Gerstein Library
+
+#### Hart House
+
+#### Athletic Centre
+
+#### Robarts Library
+
+#### Grad House and Grad Room
+
+#### Goldring Centre for High Perfomance Sport
+
+#### The Varsity Centre
+
+
 
 ## Online
 
@@ -630,6 +635,6 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a busrking the [uoftgasa](https://github.com/uoftgasa/uoftgasa.github.io) repository.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNTE0Mjc4MywtNDEyODAzNDUwLDIxNz
+eyJoaXN0b3J5IjpbLTg2MTgwMDU3NiwtNDEyODAzNDUwLDIxNz
 Y1NTE1XX0=
 -->
