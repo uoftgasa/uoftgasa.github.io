@@ -379,10 +379,10 @@ A broad science library, with extensive stacks of reference texts and ample plac
 There is so much in Hart House, and their [website](http://harthouse.ca) has it all, but highlights are listed below.
 
 - Contains
-	- a gym
-	- a theatre
+	- [Hart House Gym](http://harthouse.ca/fitness/)
+	- [Hart House Theatre](http://harthouse.ca/hart-house-theatre/)
 	- a library
-	- Gallery Grill
+	- [Gallery Grill and Hart House Cafe](http://harthouse.ca/gallery-grill/)
 
 #### Athletic Centre
 
@@ -652,6 +652,6 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a busrking the [uoftgasa](https://github.com/uoftgasa/uoftgasa.github.io) repository.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1Nzk1MDAxNiwtNDEyODAzNDUwLDIxNz
-Y1NTE1XX0=
+eyJoaXN0b3J5IjpbLTExODAxNTE4NTIsLTQxMjgwMzQ1MCwyMT
+c2NTUxNV19
 -->
