@@ -671,11 +671,11 @@ Just steps to the south of the Roundhouse park awaits a smorgasbord of free arti
 
 ### [Toronto Islands](http://www.torontoisland.com)
 
-The islands are a surprising escape from the city only a 15 minute ferry ride away from the bustling downtown core. Centre Island is often considered the jewel of the bunch, with public picnic sites, Centreville amusement park (including a petting zoo) and the massive Lake Ontario Pedestrian Pier. However, Centre Island ferries only travel in the summer months, but Ward's Island ferries sail year-round to service the residents of the island. Visiting Ward's Island in the spring and fall is my preferred way to visit the lake while avoiding the crowds that throng Centre Island in the summer. You can also visit Hanlan's Point in the summer for this effect, with the added bonus of the option of visiting the clothing optional beach. You can reach the ferry to the islands by walking south from Union Station at the bottom of the Line 1 subway or by taking the 510 Spadina or 509 Harbourfront streetcar lines.
+The islands are a surprising escape from the city only a 15 minute ferry ride away from the bustling downtown core. Centre Island is often considered the jewel of the bunch, with public picnic sites, Centreville amusement park (including a petting zoo) and the massive Lake Ontario Pedestrian Pier. However, while Centre Island ferries only travel in the summer months, Ward's Island ferries sail year-round to service the residents of that island. Visiting Ward's Island in the spring and fall is my preferred way to visit the lake while avoiding the crowds that throng Centre Island in the summer. You can also visit Hanlan's Point in the summer for this effect, with the added bonus of the option of visiting the clothing optional beach. You can reach the ferry to the islands by walking south from Union Station at the bottom of the Line 1 subway or by taking the 510 Spadina or 509 Harbourfront streetcar lines.
 
 ### [High Park](http://www.highparktoronto.com)
 
-The only park in Toronto that I've visited that you can get in deep enough to lose sight of the city. High Park is a massive green space to the west of the city. In addition to the wilder woods of the off-leash dog park, you can enjoy more cultivated gardens as well as the ever popular spring cherry blossoms. The park also includes numerous sports fields, picnic areas and mini zoo (with free admission). The park can be reached from the Line 2 High Park station, or by the 506 Carlton or 508 Lakeshore streetcar lines.
+The only park in Toronto that I've visited that you can get in deep enough to lose sight of the city. High Park is a massive green space to the west of the city. In addition to the wilder woods of the off-leash dog park, you can enjoy their more cultivated gardens as well as the ever popular spring cherry blossoms. The park also includes numerous sports fields, picnic areas and a mini zoo (with free admission). The park can be reached from the Line 2 High Park station, or by the 506 Carlton or 508 Lakeshore streetcar lines.
 
 ### [Ontario Science Centre](https://www.ontariosciencecentre.ca)
 
@@ -685,6 +685,6 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are externally popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a busrking the [uoftgasa](https://github.com/uoftgasa/uoftgasa.github.io) repository.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTIzOTg0NjksLTk3NjY5NjAwNywtND
-EyODAzNDUwLDIxNzY1NTE1XX0=
+eyJoaXN0b3J5IjpbNDU1OTU2MzkyLC05NzY2OTYwMDcsLTQxMj
+gwMzQ1MCwyMTc2NTUxNV19
 -->
