@@ -204,17 +204,17 @@ Lee Robbins works hard to make that [Astronomy Library](#mp-common-rooms) a valu
 #### TA Admin and Observatory Director Michael Williams
 Office: [AB](#astronomy-building)2**XX**
 
-Michael Williams is a great person to talk to about the on-campus instrumentation, whether it be for a class you're TAing or for a public event you want to run. Mike is also a 
+Michael Williams is a great person to talk to about the on-campus instrumentation, whether it be for a class you're TAing or for a public event you want to run. Mike is also very knowledgeable about our planetarium, and can get you started on adding your own content to the existing software.
 
 ## New Student To Do List
 [**Table of Contents**](#table-of-contents)
 
 You'll receive emails about nearly everything on this list, but its good to keep in mind that these are the things you'll need to do to get up and running.
 
- - Arrive in Toronto before Labour Day (first Monday in September) to be in time for orientation
- - Apply for your health insurance plan
-	 - If you are coming from another Canadian province, register for [OHIP](https://www.ontario.ca/page/apply-ohip-and-get-health-card) at a [Service Ontario](#service-ontario) 
-	 - If you are coming from another country,  register for [UHIP](http://uhip.ca/DefaultHome.aspx) online
+ 1) Arrive in Toronto before Labour Day (first Monday in September) to be in time for orientation
+ 2) Apply for your health insurance plan
+	 1) If you are coming from another Canadian province, register for [OHIP](https://www.ontario.ca/page/apply-ohip-and-get-health-card) at a [Service Ontario](#service-ontario) 
+	  If you are coming from another country,  register for [UHIP](http://uhip.ca/DefaultHome.aspx) online
  - [Get your TCard](http://tcard.utoronto.ca/getting-your-new-tcard-2/).
  - [Activate your UTORid](http://tcard.utoronto.ca/activate-your-utorid/).
  - [Set up your wifi](http://help.ic.utoronto.ca/content/20/704/en/wireless-access.html).
@@ -716,8 +716,8 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMzc4MDgyMywtNjY1MTgyNzY0LC0zOT
-cyOTE5NiwxMjUyOTEzMTk4LDIxMDY5NTQyNzUsLTkwMDE4NjI2
-LC02NjMxMzg2MjcsLTk3NjY5NjAwNywtNDEyODAzNDUwLDIxNz
-Y1NTE1XX0=
+eyJoaXN0b3J5IjpbNTQ3ODQ1MjM5LC02NjUxODI3NjQsLTM5Nz
+I5MTk2LDEyNTI5MTMxOTgsMjEwNjk1NDI3NSwtOTAwMTg2MjYs
+LTY2MzEzODYyNywtOTc2Njk2MDA3LC00MTI4MDM0NTAsMjE3Nj
+U1MTVdfQ==
 -->
