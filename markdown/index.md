@@ -177,7 +177,7 @@ Office: [MP](#mclennan-physical-labs-and-burton-tower)14**XX**
 Jenny Jung is the person to talk to about all things CITA, and she's the one who can assist you with getting keys to the [15th floor conference room](#meeting-rooms).
 
 #### Financial Officer Gautam Patel
-Office: [AB](#astronomy-building)101-**X**
+Office: [AB](#astronomy-building)101-D
 
 Gautam Patel processes reimbursement claims for the department. This can be for anything from purchasing something for a department event to claiming the flights for a trip. He'll go through your expenses with you and make sure they get charged to the correct account.
 
@@ -220,7 +220,7 @@ You'll receive emails about nearly everything on this list, but its good to keep
 	 - Set up direct deposit
 	 - Defer your tuition payment (see the [Funding Package](#funding-package) section for more details)
 	 - Enrol in AST1501Y and additional optional courses (see [Courses](#courses)) for more details.
- - Set up HRIS Payroll profile
+ - Set up HRIS Payroll profile with [Gautam Patel](#financial-officer-gautam-patel)
 	 - If you are an international student, you will need to get a [social insurance number](https://www.canada.ca/en/employment-social-development/services/sin.html) at a [Service Canada](#service-canada) location
 - Activate your 'astro' mail with [Hugh Zhao](#computing-manager-hugh-zhao)
 	- *Recommended*: set up forwarding of this email to another address
@@ -714,8 +714,8 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDc4NzM1MjYsLTY2NTE4Mjc2NCwtMz
-k3MjkxOTYsMTI1MjkxMzE5OCwyMTA2OTU0Mjc1LC05MDAxODYy
-NiwtNjYzMTM4NjI3LC05NzY2OTYwMDcsLTQxMjgwMzQ1MCwyMT
-c2NTUxNV19
+eyJoaXN0b3J5IjpbMzM3Mjc0MTYsLTY2NTE4Mjc2NCwtMzk3Mj
+kxOTYsMTI1MjkxMzE5OCwyMTA2OTU0Mjc1LC05MDAxODYyNiwt
+NjYzMTM4NjI3LC05NzY2OTYwMDcsLTQxMjgwMzQ1MCwyMTc2NT
+UxNV19
 -->
