@@ -172,7 +172,7 @@ Office: [AB](#astronomy-building)101-**X**
 Lillian Lanca is a good point of contact for additional administrative questions. She can assist with getting keys, as well as booking rooms that are not on the department's booking calendar (accessible in the internal section of the department's website).
 
 #### CITA Administrative Officer Jenny Jung
-Office: [MP](#mclennan-physical-labs-and-burton-tower)14XX
+Office: [MP](#mclennan-physical-labs-and-burton-tower)14**XX**
 
 Jenny Jung is the person to talk to about all things CITA, and she's the one who can assist you with getting keys to the [15th floor conference room](#meeting-rooms).
 
@@ -182,6 +182,8 @@ Office: [AB](#astronomy-building)101-**X**
 Gautam Patel processes reimbursement claims for the department. This can be for anything from purchasing something for a department event to claiming the flights for a trip. He'll go through your expenses with you and make sure they get charged to the correct account.
 
 #### Computing Manager Hugh Zhao
+
+Hugh Zha
 
 #### CITA Computing Manager John Dubinski
 
@@ -698,7 +700,8 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NTE4Mjc2NCwtMzk3MjkxOTYsMTI1Mj
-kxMzE5OCwyMTA2OTU0Mjc1LC05MDAxODYyNiwtNjYzMTM4NjI3
-LC05NzY2OTYwMDcsLTQxMjgwMzQ1MCwyMTc2NTUxNV19
+eyJoaXN0b3J5IjpbNjYwODMxODY1LC02NjUxODI3NjQsLTM5Nz
+I5MTk2LDEyNTI5MTMxOTgsMjEwNjk1NDI3NSwtOTAwMTg2MjYs
+LTY2MzEzODYyNywtOTc2Njk2MDA3LC00MTI4MDM0NTAsMjE3Nj
+U1MTVdfQ==
 -->
