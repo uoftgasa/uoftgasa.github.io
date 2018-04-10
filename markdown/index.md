@@ -274,7 +274,7 @@ The Centre for Planetary Sciences (CPS) is located on UofT's [Scarborough campus
 [**Table of Contents**](#table-of-contents)
 
 ### St George
-This is UofT's "downtown" campus, located 
+This is UofT's "downtown" campus, located in the heart of Toronto. You can reach this campus easily on foot, from Line 1 subway stations (Queen's Park, Museum, St George, Spadina), from Line 2 subwat
 
 ### Scarborough
 
@@ -717,8 +717,8 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5OTAyNjA0MywtODkyMzQyNzQyLC02Nj
-UxODI3NjQsLTM5NzI5MTk2LDEyNTI5MTMxOTgsMjEwNjk1NDI3
-NSwtOTAwMTg2MjYsLTY2MzEzODYyNywtOTc2Njk2MDA3LC00MT
-I4MDM0NTAsMjE3NjU1MTVdfQ==
+eyJoaXN0b3J5IjpbNzc4NDg0NDM2LC04OTIzNDI3NDIsLTY2NT
+E4Mjc2NCwtMzk3MjkxOTYsMTI1MjkxMzE5OCwyMTA2OTU0Mjc1
+LC05MDAxODYyNiwtNjYzMTM4NjI3LC05NzY2OTYwMDcsLTQxMj
+gwMzQ1MCwyMTc2NTUxNV19
 -->
