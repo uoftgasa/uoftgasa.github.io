@@ -187,9 +187,11 @@ Hugh Zhao provides technical support for the department, including managing the 
 
 #### CITA Computing Manager John Dubinski
 
-John Dubinksi is the primary manager of [CITA](#canadian-institute-for-theoretical-astrophysics)'s [Sunnyvale](#sunnyvale) computing cluster
+John Dubinksi is the primary manager of [CITA](#canadian-institute-for-theoretical-astrophysics)'s [Sunnyvale](#sunnyvale) computing cluster, and will be getting in touch with you about the jobs you run there.
 
 #### CITA HPC Specialist Claire Yu
+
+Claire Yu's position is well titled, as she
 
 #### Astronomy Librarian Lee Robbins
 
@@ -702,7 +704,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDgzMTAyNSwtNjY1MTgyNzY0LC0zOT
+eyJoaXN0b3J5IjpbMTkyMTg1MzMwNSwtNjY1MTgyNzY0LC0zOT
 cyOTE5NiwxMjUyOTEzMTk4LDIxMDY5NTQyNzUsLTkwMDE4NjI2
 LC02NjMxMzg2MjcsLTk3NjY5NjAwNywtNDEyODAzNDUwLDIxNz
 Y1NTE1XX0=
