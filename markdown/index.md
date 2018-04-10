@@ -195,7 +195,7 @@ Claire Yu's position is well titled, as she is indeed a high performance computi
 
 #### Astronomy Librarian Lee Robbins
 
-Lee Robbins works hard to make that [Astronomy Library](#mp-common-rooms) a valuable resource. The associated [website](http://www.astro.utoronto.ca/AALibrary/) is an excellent place to find quick links to online astronomical resources and her [Astronomy Reference Reccommendations]
+Lee Robbins works hard to make that [Astronomy Library](#mp-common-rooms) a valuable resource. The associated [website](http://www.astro.utoronto.ca/AALibrary/) is an excellent place to find quick links to online astronomical resources and her [Astronomy Reference Recommendations](http://www.astro.utoronto.ca/AALibrary/recommendations.html) is an excellent place to find introductory texts for those diving into new fields.
 
 
 #### TA Admin and Observatory Director Michael Williams
@@ -707,8 +707,8 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTEzNzI4MjUsLTY2NTE4Mjc2NCwtMz
-k3MjkxOTYsMTI1MjkxMzE5OCwyMTA2OTU0Mjc1LC05MDAxODYy
-NiwtNjYzMTM4NjI3LC05NzY2OTYwMDcsLTQxMjgwMzQ1MCwyMT
-c2NTUxNV19
+eyJoaXN0b3J5IjpbNjEzNzQ3MzczLC02NjUxODI3NjQsLTM5Nz
+I5MTk2LDEyNTI5MTMxOTgsMjEwNjk1NDI3NSwtOTAwMTg2MjYs
+LTY2MzEzODYyNywtOTc2Njk2MDA3LC00MTI4MDM0NTAsMjE3Nj
+U1MTVdfQ==
 -->
