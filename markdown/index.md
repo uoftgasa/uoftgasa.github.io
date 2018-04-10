@@ -398,11 +398,11 @@ You may have need of a room larger than your office in which to hold a meeting. 
 	 - accessible via key in the mailroom
 	 - this room must be booked prior to use with the booking calendar in the Internal tab of the [astronomy website](https://astro.utoronto.ca)
 	 - capacity of ~20 people
-- **MP1318A** - Seminar Room
+- **[MP](#mclennan-physical-labs-and-burton-tower)1318A** - Seminar Room
 	- must be booked through the CITA administrative office
 	- location of [CITA seminars](#cita-seminars)
 	- capacity ~ 30
-- **MP110** - Physics Lounge
+- **[MP](#mclennan-physical-labs-and-burton-tower)110** - Physics Lounge
 	- must be booked through third floor physics administrative office
 	- capacity ~ 50
 
@@ -754,8 +754,8 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNDU0NjkxNywtODkyMzQyNzQyLC02Nj
-UxODI3NjQsLTM5NzI5MTk2LDEyNTI5MTMxOTgsMjEwNjk1NDI3
-NSwtOTAwMTg2MjYsLTY2MzEzODYyNywtOTc2Njk2MDA3LC00MT
-I4MDM0NTAsMjE3NjU1MTVdfQ==
+eyJoaXN0b3J5IjpbMjIxNTAwOTAxLC04OTIzNDI3NDIsLTY2NT
+E4Mjc2NCwtMzk3MjkxOTYsMTI1MjkxMzE5OCwyMTA2OTU0Mjc1
+LC05MDAxODYyNiwtNjYzMTM4NjI3LC05NzY2OTYwMDcsLTQxMj
+gwMzQ1MCwyMTc2NTUxNV19
 -->
