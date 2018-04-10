@@ -606,6 +606,7 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 - The Annex
 - Palmerston and Little Italy
 - Trinity Bellwoods and West Queen West
+- Harbourfront (Front St to Queen's Quay, Bathurst o
 - Liberty Village and Fort York
 - Koreatown and Christie Pits
 - Bloordale Village
@@ -779,9 +780,9 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcwNDAyNzkyLC0yMDIwNTU5NTQ0LC00Nz
-U2MzQyNDksLTg5MjM0Mjc0MiwtNjY1MTgyNzY0LC0zOTcyOTE5
-NiwxMjUyOTEzMTk4LDIxMDY5NTQyNzUsLTkwMDE4NjI2LC02Nj
-MxMzg2MjcsLTk3NjY5NjAwNywtNDEyODAzNDUwLDIxNzY1NTE1
-XX0=
+eyJoaXN0b3J5IjpbODI1MDIwOTQ2LDY3MDQwMjc5MiwtMjAyMD
+U1OTU0NCwtNDc1NjM0MjQ5LC04OTIzNDI3NDIsLTY2NTE4Mjc2
+NCwtMzk3MjkxOTYsMTI1MjkxMzE5OCwyMTA2OTU0Mjc1LC05MD
+AxODYyNiwtNjYzMTM4NjI3LC05NzY2OTYwMDcsLTQxMjgwMzQ1
+MCwyMTc2NTUxNV19
 -->
