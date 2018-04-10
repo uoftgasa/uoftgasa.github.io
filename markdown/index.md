@@ -373,6 +373,10 @@ McLennan Physical Labs is at [60 St George St](https://goo.gl/maps/ShCfL48w2iF2)
 	- access the telescopes by taking the south side stairs up from the 14th floor (turn right out of the elevators)
 	- requires keys from the [campus observer](#positions) or [Mike Williams](#ta-admin-and-observatory-director-michael-williams)
 
+### Meeting Rooms
+
+You may have need of a room larger than your office in which to hold a meeting. Bookable rooms are summarized below.
+
 ### Other Relevant Locations
 These locations currently organized in rough order from south to north.
 
@@ -721,8 +725,8 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0Mjk0MSwtODkyMzQyNzQyLC02NjUxOD
-I3NjQsLTM5NzI5MTk2LDEyNTI5MTMxOTgsMjEwNjk1NDI3NSwt
-OTAwMTg2MjYsLTY2MzEzODYyNywtOTc2Njk2MDA3LC00MTI4MD
-M0NTAsMjE3NjU1MTVdfQ==
+eyJoaXN0b3J5IjpbNTI5Mjc2ODc0LC04OTIzNDI3NDIsLTY2NT
+E4Mjc2NCwtMzk3MjkxOTYsMTI1MjkxMzE5OCwyMTA2OTU0Mjc1
+LC05MDAxODYyNiwtNjYzMTM4NjI3LC05NzY2OTYwMDcsLTQxMj
+gwMzQ1MCwyMTc2NTUxNV19
 -->
