@@ -279,8 +279,7 @@ Also called UTSG, this is UofT's "downtown" campus, located in the heart of Toro
 ### Scarborough
 
 ### Mississauga
-Also called UTM, this is UofT's western satellite campus, located in the neighbouring city of Mississauga. There is a shuttle that runs between [Hart House](#hart-house) on the [UTSG](#st-george) campus and the UTM Instructional Centre. The shuttle is free for students with their [TCard]
-
+Also called UTM, this is UofT's western satellite campus, located in the neighbouring city of Mississauga. There is a shuttle that runs between [Hart House](#hart-house) on the [UTSG](#st-george) campus and the UTM Instructional Centre. The shuttle is free for students with their [TCard](#tcard)
 
 ## Buildings
 [**Table of Contents**](#table-of-contents)
@@ -619,6 +618,9 @@ Apartments
 ## UofT Services
 [**Table of Contents**](#table-of-contents)
 
+### TCard
+Students at UofT are furnished with a TCard. This card all
+
 ### School of Graduate Studies
 [**Table of Contents**](#table-of-contents)
 
@@ -719,8 +721,8 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NDI0ODI5MywtODkyMzQyNzQyLC02Nj
-UxODI3NjQsLTM5NzI5MTk2LDEyNTI5MTMxOTgsMjEwNjk1NDI3
-NSwtOTAwMTg2MjYsLTY2MzEzODYyNywtOTc2Njk2MDA3LC00MT
-I4MDM0NTAsMjE3NjU1MTVdfQ==
+eyJoaXN0b3J5IjpbLTE3NTAyMTg5ODksLTg5MjM0Mjc0MiwtNj
+Y1MTgyNzY0LC0zOTcyOTE5NiwxMjUyOTEzMTk4LDIxMDY5NTQy
+NzUsLTkwMDE4NjI2LC02NjMxMzg2MjcsLTk3NjY5NjAwNywtND
+EyODAzNDUwLDIxNzY1NTE1XX0=
 -->
