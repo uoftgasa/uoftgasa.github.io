@@ -381,20 +381,20 @@ You may have need of a room larger than your office in which to hold a meeting. 
 	 - accessible via your mailroom key
 	 - this room must be booked prior to use with the booking calendar in the Internal tab of the [astronomy website](https://astro.utoronto.ca)
 	 - capacity ~2
- - **AB101-H** - Conference room 
+ - **[AB](#astronomy-building)101-H** - Conference room 
 	 - accessible via your mailroom key
 	 - this room must be booked prior to use with the booking calendar in the Internal tab of the [astronomy website](https://astro.utoronto.ca)
 	 - capacity ~ 8
- - **AB113** - Conference room
+ - **[AB](#astronomy-building)113** - Conference room
 	 - accessible via a key in the mailroom
 	 - this room must be booked prior to use with the booking calendar in the Internal tab of the [astronomy website](https://astro.utoronto.ca)
 	 - capacity ~15
-- **15th Floor Conference Room**
+- **15th Floor Conference Room** - in [MP](#mclennan-physical-labs-and-burton-tower)
 	- must be booked through the CITA administrative office
 	- pick up keys from CITA administrative office
 	- access this room by taking the north side stairs up from the 14th floor (turn left out of the elevator)
 	- capacity ~15
- - **AB88** - Conference room
+ - **[AB](#astronomy-building)88** - Conference room
 	 - accessible via key in the mailroom
 	 - this room must be booked prior to use with the booking calendar in the Internal tab of the [astronomy website](https://astro.utoronto.ca)
 	 - capacity of ~20 people
@@ -754,8 +754,8 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIxNTAwOTAxLC04OTIzNDI3NDIsLTY2NT
-E4Mjc2NCwtMzk3MjkxOTYsMTI1MjkxMzE5OCwyMTA2OTU0Mjc1
-LC05MDAxODYyNiwtNjYzMTM4NjI3LC05NzY2OTYwMDcsLTQxMj
-gwMzQ1MCwyMTc2NTUxNV19
+eyJoaXN0b3J5IjpbMTIxNzE5NzkwMSwtODkyMzQyNzQyLC02Nj
+UxODI3NjQsLTM5NzI5MTk2LDEyNTI5MTMxOTgsMjEwNjk1NDI3
+NSwtOTAwMTg2MjYsLTY2MzEzODYyNywtOTc2Njk2MDA3LC00MT
+I4MDM0NTAsMjE3NjU1MTVdfQ==
 -->
