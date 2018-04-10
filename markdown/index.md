@@ -213,19 +213,19 @@ You'll receive emails about nearly everything on this list, but its good to keep
 
  1) Arrive in Toronto before Labour Day (first Monday in September) to be in time for orientation
  2) Apply for your health insurance plan
-	 1) If you are coming from another Canadian province, register for [OHIP](https://www.ontario.ca/page/apply-ohip-and-get-health-card) at a [Service Ontario](#service-ontario) 
-	  If you are coming from another country,  register for [UHIP](http://uhip.ca/DefaultHome.aspx) online
- - [Get your TCard](http://tcard.utoronto.ca/getting-your-new-tcard-2/).
- - [Activate your UTORid](http://tcard.utoronto.ca/activate-your-utorid/).
- - [Set up your wifi](http://help.ic.utoronto.ca/content/20/704/en/wireless-access.html).
- - [Log in to ACORN](https://acorn.utoronto.ca) 
-	 - Set up direct deposit
-	 - Defer your tuition payment (see the [Funding Package](#funding-package) section for more details)
-	 - Enrol in AST1501Y and additional optional courses (see [Courses](#courses)) for more details.
- - Set up HRIS Payroll profile with [Gautam Patel](#financial-officer-gautam-patel)
-	 - If you are an international student, you will need to get a [social insurance number](https://www.canada.ca/en/employment-social-development/services/sin.html) at a [Service Canada](#service-canada) location
-- Activate your 'astro' mail with [Hugh Zhao](#computing-manager-hugh-zhao)
-	- *Recommended*: set up forwarding of this email to another address
+	 i) If you are coming from another Canadian province, register for [OHIP](https://www.ontario.ca/page/apply-ohip-and-get-health-card) at a [Service Ontario](#service-ontario) 
+	  ii) If you are coming from another country,  register for [UHIP](http://uhip.ca/DefaultHome.aspx) online
+ 3) [Get your TCard](http://tcard.utoronto.ca/getting-your-new-tcard-2/).
+ 4) [Activate your UTORid](http://tcard.utoronto.ca/activate-your-utorid/).
+ 5) [Set up your wifi](http://help.ic.utoronto.ca/content/20/704/en/wireless-access.html).
+ 6) [Log in to ACORN](https://acorn.utoronto.ca) 
+	 i) Set up direct deposit
+	 ii) Defer your tuition payment (see the [Funding Package](#funding-package) section for more details)
+	 iii) Enrol in AST1501Y and additional optional courses (see [Courses](#courses)) for more details.
+ 7) Set up HRIS Payroll profile with [Gautam Patel](#financial-officer-gautam-patel)
+	 i) If you are an international student, you will need to get a [social insurance number](https://www.canada.ca/en/employment-social-development/services/sin.html) at a [Service Canada](#service-canada) location
+8) Activate your 'astro' mail with [Hugh Zhao](#computing-manager-hugh-zhao)
+	i) *Recommended*: set up forwarding of this email to another address
  - [Access the internal section of the DAA website](http://www.astro.utoronto.ca/internal/) - the password will be in your welcome packet.
  - Find your assigned desk from [Margaret Meaney](#graduate-administrator-margaret-meaney).
  - Get your keys.
@@ -716,8 +716,8 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ3ODQ1MjM5LC02NjUxODI3NjQsLTM5Nz
-I5MTk2LDEyNTI5MTMxOTgsMjEwNjk1NDI3NSwtOTAwMTg2MjYs
-LTY2MzEzODYyNywtOTc2Njk2MDA3LC00MTI4MDM0NTAsMjE3Nj
-U1MTVdfQ==
+eyJoaXN0b3J5IjpbLTI4NjgyMTM2NywtNjY1MTgyNzY0LC0zOT
+cyOTE5NiwxMjUyOTEzMTk4LDIxMDY5NTQyNzUsLTkwMDE4NjI2
+LC02NjMxMzg2MjcsLTk3NjY5NjAwNywtNDEyODAzNDUwLDIxNz
+Y1NTE1XX0=
 -->
