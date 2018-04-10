@@ -588,7 +588,12 @@ Calendars
 [**Table of Contents**](#table-of-contents)
 
 ### On-Campus
-Graduate students have a few on-campus residence options. Incoming graduate students are not guaranteed on-campus housing the same waa
+Graduate students have a few on-campus residence options. Incoming graduate students are not guaranteed on-campus housing the same way undergraduates are, but as most grad students opt for off-campus housing, it is possible to find an on-campus option. 
+
+#### Grad House
+
+
+#### Massey College
 
 
 ### Off-Campus
@@ -752,8 +757,8 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNTAxMzg3LC04OTIzNDI3NDIsLTY2NT
-E4Mjc2NCwtMzk3MjkxOTYsMTI1MjkxMzE5OCwyMTA2OTU0Mjc1
-LC05MDAxODYyNiwtNjYzMTM4NjI3LC05NzY2OTYwMDcsLTQxMj
-gwMzQ1MCwyMTc2NTUxNV19
+eyJoaXN0b3J5IjpbLTQ3NTYzNDI0OSwtODkyMzQyNzQyLC02Nj
+UxODI3NjQsLTM5NzI5MTk2LDEyNTI5MTMxOTgsMjEwNjk1NDI3
+NSwtOTAwMTg2MjYsLTY2MzEzODYyNywtOTc2Njk2MDA3LC00MT
+I4MDM0NTAsMjE3NjU1MTVdfQ==
 -->
