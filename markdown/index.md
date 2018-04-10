@@ -207,7 +207,7 @@ Office: [AB](#astronomy-building)2**XX**
 ## New Student To Do List
 [**Table of Contents**](#table-of-contents)
 
-You'll receive emails about nea
+You'll receive emails about nearly everything on this list, but its good to keep in mind that these are the things you'll need to do to get up and running.
 
  - Arrive in Toronto before Labour Day (first Monday in September) to be in time for orientation
  - Apply for your health insurance plan
@@ -714,8 +714,8 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM0MjAyNzQ2LC02NjUxODI3NjQsLTM5Nz
-I5MTk2LDEyNTI5MTMxOTgsMjEwNjk1NDI3NSwtOTAwMTg2MjYs
-LTY2MzEzODYyNywtOTc2Njk2MDA3LC00MTI4MDM0NTAsMjE3Nj
-U1MTVdfQ==
+eyJoaXN0b3J5IjpbLTIxMDc4NzM1MjYsLTY2NTE4Mjc2NCwtMz
+k3MjkxOTYsMTI1MjkxMzE5OCwyMTA2OTU0Mjc1LC05MDAxODYy
+NiwtNjYzMTM4NjI3LC05NzY2OTYwMDcsLTQxMjgwMzQ1MCwyMT
+c2NTUxNV19
 -->
