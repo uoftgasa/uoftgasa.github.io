@@ -377,7 +377,7 @@ McLennan Physical Labs is at [60 St George St](https://goo.gl/maps/ShCfL48w2iF2)
 
 You may have need of a room larger than your office in which to hold a meeting. Most rooms are managed centrally by UofT and must be booked through the [Office of Academic and Campus Events](http://www.ace.utoronto.ca). You can check the availability of a room with their [booking calendar](http://www.ace.utoronto.ca/bookings/f?p=200:3:1579470581440301::NO:::). However, some rooms can be booked more conveniently by visiting an administrative office in the building or through an online calendar. These are summarized below in order of increasing size.
 
- - **AB111** - Graduate student meeting room
+ - **[AB](#astronomy-building)111** - Graduate student meeting room
 	 - accessible via your mailroom key
 	 - this room must be booked prior to use with the booking calendar in the Internal tab of the [astronomy website](https://astro.utoronto.ca)
 	 - capacity ~2
@@ -473,7 +473,7 @@ If the [AC](#athletic-centre) is the gymiest gym, Robarts is the librariest libr
 
 - Contains
 	- Stacks (floors 9-13) - your TCard is required to enter
-	- [Cafetaria](https://ueat.utoronto.ca/robarts-cafeteria/)
+	- [Cafeteria](https://ueat.utoronto.ca/robarts-cafeteria/)
 	- Multi-Faith space
 
 #### Grad House and Grad Room
@@ -579,8 +579,6 @@ Calendars
 		- [Talk Show](#talk-show)
 		- [Cosmology Lunch](#cosmology-lunch)
 		- [CPS Planet Lunches](#cps-planet-lunches)
-
-
 		- [Morning Coffee](#morning-coffee)
 		- [GASA Tea](#gasa-tea)
 		- [Dunlap Outreach Meeting](#dunlap-outreach-meeting)
@@ -754,7 +752,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzE5NzkwMSwtODkyMzQyNzQyLC02Nj
+eyJoaXN0b3J5IjpbMTE3MDkxMjU5NiwtODkyMzQyNzQyLC02Nj
 UxODI3NjQsLTM5NzI5MTk2LDEyNTI5MTMxOTgsMjEwNjk1NDI3
 NSwtOTAwMTg2MjYsLTY2MzEzODYyNywtOTc2Njk2MDA3LC00MT
 I4MDM0NTAsMjE3NjU1MTVdfQ==
