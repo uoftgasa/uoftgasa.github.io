@@ -600,7 +600,7 @@ Graduate students have a few on-campus residence options. Incoming graduate stud
 Housing in Toronto is pricey, and off-campus options have a range of associated costs. In this section, we'll talk about what you can expect to rent and at what price point, as well as where you might expect to live.
 
 #### Neighbourhoods
-
+Below is a list of neighbourhoods in which graduate students have recently lived off campus.
 - Chinatown and Kensington Market
 - The Annex
 - Palmerston and Little Italy
@@ -778,7 +778,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDcwMjA3OTAsLTQ3NTYzNDI0OSwtOD
+eyJoaXN0b3J5IjpbLTIwMjA1NTk1NDQsLTQ3NTYzNDI0OSwtOD
 kyMzQyNzQyLC02NjUxODI3NjQsLTM5NzI5MTk2LDEyNTI5MTMx
 OTgsMjEwNjk1NDI3NSwtOTAwMTg2MjYsLTY2MzEzODYyNywtOT
 c2Njk2MDA3LC00MTI4MDM0NTAsMjE3NjU1MTVdfQ==
