@@ -182,6 +182,7 @@ Office: [AB](#astronomy-building)101-**X**
 Gautam Patel processes reimbursement claims for the department. This can be for anything from purchasing something for a department event to claiming the flights for a trip. He'll go through your expenses with you and make sure they get charged to the correct account.
 
 #### Computing Manager Hugh Zhao
+Office: [AB](#astronomy-building)101-**X**
 
 Hugh Zhao provides technical support for the department, including managing the [website](https://astro.utoronto.ca) where you can find plenty of useful information in the Internal tab. He's the person to talk to about registering your MAC address so you can use the department [printers](#printers-and-copiers).
 
@@ -191,12 +192,11 @@ John Dubinksi is the primary manager of [CITA](#canadian-institute-for-theoretic
 
 #### CITA HPC Specialist Claire Yu
 
-Claire Yu's position is well titled, as she is indeed a high performance computing expert. She can help with [CITA](#canadian-institute-for-theoretical-astrophysics)'s [Sunnyvale](#sunnyvale) computing cluster, as well as help you manage your CITA account.
+Claire Yu's position is well titled, as she is indeed a high performance computing expert. She can help with [CITA](#canadian-institute-for-theoretical-astrophysics)'s [Sunnyvale](#sunnyvale) computing cluster, as well as help you manage installations for your CITA account.
 
 #### Astronomy Librarian Lee Robbins
 
 Lee Robbins works hard to make that [Astronomy Library](#mp-common-rooms) a valuable resource. The associated [website](http://www.astro.utoronto.ca/AALibrary/) is an excellent place to find quick links to online astronomical resources and her [Astronomy Reference Recommendations](http://www.astro.utoronto.ca/AALibrary/recommendations.html) is an excellent place to find introductory texts for those diving into new fields.
-
 
 #### TA Admin and Observatory Director Michael Williams
 
@@ -344,6 +344,7 @@ McLennan Physical Labs is at [60 St George St](https://goo.gl/maps/ShCfL48w2iF2)
 - **Astronomy Library** - 13th floor	
 	- turn right out of the elevators
 	- gain access by asking for the code from [Lee Robbins](#astronomy-librarian-lee-robbins)
+	- books on this [reference list](http://www.astro.utoronto.ca/AALibrary/recommendations.html) can be found here
 	- books are borrowed by filling out one of the slips on the front desk, and may be checked out until the next inventory
 - **CITA Administrative Office**
 	- across from the elevators 
@@ -707,8 +708,8 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEzNzQ3MzczLC02NjUxODI3NjQsLTM5Nz
-I5MTk2LDEyNTI5MTMxOTgsMjEwNjk1NDI3NSwtOTAwMTg2MjYs
-LTY2MzEzODYyNywtOTc2Njk2MDA3LC00MTI4MDM0NTAsMjE3Nj
-U1MTVdfQ==
+eyJoaXN0b3J5IjpbMTQ2MjkwNjQ2NywtNjY1MTgyNzY0LC0zOT
+cyOTE5NiwxMjUyOTEzMTk4LDIxMDY5NTQyNzUsLTkwMDE4NjI2
+LC02NjMxMzg2MjcsLTk3NjY5NjAwNywtNDEyODAzNDUwLDIxNz
+Y1NTE1XX0=
 -->
