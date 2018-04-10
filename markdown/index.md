@@ -187,14 +187,17 @@ Office: [AB](#astronomy-building)101-**X**
 Hugh Zhao provides technical support for the department, including managing the [website](https://astro.utoronto.ca) where you can find plenty of useful information in the Internal tab. He's the person to talk to about registering your MAC address so you can use the department [printers](#printers-and-copiers).
 
 #### CITA Computing Manager John Dubinski
+Office: [MP](#mclennan-physical-labs-and-burton-tower)1408
 
 John Dubinksi is the primary manager of [CITA](#canadian-institute-for-theoretical-astrophysics)'s [Sunnyvale](#sunnyvale) computing cluster, and will be getting in touch with you about the jobs you run there.
 
 #### CITA HPC Specialist Claire Yu
+Office: [MP](#mclennan-physical-labs-and-burton-tower)1410
 
 Claire Yu's position is well titled, as she is indeed a high performance computing expert. She can help with [CITA](#canadian-institute-for-theoretical-astrophysics)'s [Sunnyvale](#sunnyvale) computing cluster, as well as help you manage installations for your CITA account.
 
 #### Astronomy Librarian Lee Robbins
+Office: Le
 
 Lee Robbins works hard to make that [Astronomy Library](#mp-common-rooms) a valuable resource. The associated [website](http://www.astro.utoronto.ca/AALibrary/) is an excellent place to find quick links to online astronomical resources and her [Astronomy Reference Recommendations](http://www.astro.utoronto.ca/AALibrary/recommendations.html) is an excellent place to find introductory texts for those diving into new fields.
 
@@ -708,7 +711,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MjkwNjQ2NywtNjY1MTgyNzY0LC0zOT
+eyJoaXN0b3J5IjpbMTE5MTc4MzE5OSwtNjY1MTgyNzY0LC0zOT
 cyOTE5NiwxMjUyOTEzMTk4LDIxMDY5NTQyNzUsLTkwMDE4NjI2
 LC02NjMxMzg2MjcsLTk3NjY5NjAwNywtNDEyODAzNDUwLDIxNz
 Y1NTE1XX0=
