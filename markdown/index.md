@@ -619,7 +619,7 @@ Apartments
 [**Table of Contents**](#table-of-contents)
 
 ### TCard
-Students at UofT are furnished with a TCard. This card all
+Students at UofT are furnished with a TCard. This card allows you to borrow books from the library, access card-locked areas to which you are entitled (e.g. limited access classrooms, athletic facilities, and purchase food if you choose a meal plan in residence.
 
 ### School of Graduate Studies
 [**Table of Contents**](#table-of-contents)
@@ -721,8 +721,8 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTAyMTg5ODksLTg5MjM0Mjc0MiwtNj
-Y1MTgyNzY0LC0zOTcyOTE5NiwxMjUyOTEzMTk4LDIxMDY5NTQy
-NzUsLTkwMDE4NjI2LC02NjMxMzg2MjcsLTk3NjY5NjAwNywtND
-EyODAzNDUwLDIxNzY1NTE1XX0=
+eyJoaXN0b3J5IjpbLTQ4MTU1NDE5MiwtODkyMzQyNzQyLC02Nj
+UxODI3NjQsLTM5NzI5MTk2LDEyNTI5MTMxOTgsMjEwNjk1NDI3
+NSwtOTAwMTg2MjYsLTY2MzEzODYyNywtOTc2Njk2MDA3LC00MT
+I4MDM0NTAsMjE3NjU1MTVdfQ==
 -->
