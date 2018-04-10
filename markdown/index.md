@@ -375,11 +375,11 @@ McLennan Physical Labs is at [60 St George St](https://goo.gl/maps/ShCfL48w2iF2)
 
 ### Meeting Rooms
 
-You may have need of a room larger than your office in which to hold a meeting. Other rooms are managed centrally by UofT and must be booked through the [Office of Academic and Campus Events](http://www.ace.utoronto.ca). You can check the availability of a room with their [booking calendar](http://www.ace.utoronto.ca/bookings/f?p=200:3:1579470581440301::NO:::). However, some rooms can be booked more conveniently by visi
+You may have need of a room larger than your office in which to hold a meeting. Most rooms are managed centrally by UofT and must be booked through the [Office of Academic and Campus Events](http://www.ace.utoronto.ca). You can check the availability of a room with their [booking calendar](http://www.ace.utoronto.ca/bookings/f?p=200:3:1579470581440301::NO:::). However, some rooms can be booked more conveniently by visiting an administrative office in the building or through an online calendar. These are summarized below in order of increasing size.
 
  - **AB111** - Graduate student meeting room
 	 - accessible via your mailroom key
-	 - this room must be booked prior to use
+	 - this room must be booked prior to use with the booking calendar in the Internal 
 	 - capacity ~2
  - **AB101-H** - Conference room 
 	 - accessible via your mailroom key
@@ -754,8 +754,8 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMxNjY1MTYwLC04OTIzNDI3NDIsLTY2NT
-E4Mjc2NCwtMzk3MjkxOTYsMTI1MjkxMzE5OCwyMTA2OTU0Mjc1
-LC05MDAxODYyNiwtNjYzMTM4NjI3LC05NzY2OTYwMDcsLTQxMj
-gwMzQ1MCwyMTc2NTUxNV19
+eyJoaXN0b3J5IjpbLTIwOTA3NTQyOTAsLTg5MjM0Mjc0MiwtNj
+Y1MTgyNzY0LC0zOTcyOTE5NiwxMjUyOTEzMTk4LDIxMDY5NTQy
+NzUsLTkwMDE4NjI2LC02NjMxMzg2MjcsLTk3NjY5NjAwNywtND
+EyODAzNDUwLDIxNzY1NTE1XX0=
 -->
