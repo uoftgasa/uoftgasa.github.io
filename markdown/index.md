@@ -619,7 +619,7 @@ Apartments
 [**Table of Contents**](#table-of-contents)
 
 ### TCard
-Students at UofT are furnished with a TCard. This card allows you to borrow books from the library, access card-locked areas to which you are entitled (e.g. limited access classrooms, athletic facilities), purchase food if you choose a meal plan in residence, and access the on campus health services. You'll need the card to gain access to UofT's online administrative tools like [Portal](#portalThe card also gives you access to student
+Students at UofT are furnished with a TCard. This card allows you to borrow books from the library, access card-locked areas to which you are entitled (e.g. limited access classrooms, athletic facilities), purchase food if you choose a meal plan in residence, and access the on campus health services. You'll need the card to gain access to UofT's online administrative tools like [Portal](#portal) and [ACORN](#acorn). The card also gives you access to student discounts at a variety of cultural and retail locations (see the [Saving Money as a Student](#saving-money-as-a-student) section).
 
 ### School of Graduate Studies
 [**Table of Contents**](#table-of-contents)
@@ -721,8 +721,8 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NTg1Njc1MSwtODkyMzQyNzQyLC02Nj
-UxODI3NjQsLTM5NzI5MTk2LDEyNTI5MTMxOTgsMjEwNjk1NDI3
-NSwtOTAwMTg2MjYsLTY2MzEzODYyNywtOTc2Njk2MDA3LC00MT
-I4MDM0NTAsMjE3NjU1MTVdfQ==
+eyJoaXN0b3J5IjpbLTIwMjI1MjE4MjgsLTg5MjM0Mjc0MiwtNj
+Y1MTgyNzY0LC0zOTcyOTE5NiwxMjUyOTEzMTk4LDIxMDY5NTQy
+NzUsLTkwMDE4NjI2LC02NjMxMzg2MjcsLTk3NjY5NjAwNywtND
+EyODAzNDUwLDIxNzY1NTE1XX0=
 -->
