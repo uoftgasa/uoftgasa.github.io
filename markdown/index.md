@@ -607,8 +607,10 @@ Housing in Toronto is pricey, and off-campus options have a range of associated 
 - Trinity Bellwoods and West Queen West
 - Liberty Village and Fort York
 - Koreatown and Christie Pits
-- Bloordale village
+- Bloordale Village
 - High Park
+- Church and Wellesley
+- Cabbagetown and St James Town
 
 
 Apartments
@@ -770,7 +772,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMzk3MTIyNCwtNDc1NjM0MjQ5LC04OT
+eyJoaXN0b3J5IjpbLTYyOTgwMDQ3MywtNDc1NjM0MjQ5LC04OT
 IzNDI3NDIsLTY2NTE4Mjc2NCwtMzk3MjkxOTYsMTI1MjkxMzE5
 OCwyMTA2OTU0Mjc1LC05MDAxODYyNiwtNjYzMTM4NjI3LC05Nz
 Y2OTYwMDcsLTQxMjgwMzQ1MCwyMTc2NTUxNV19
