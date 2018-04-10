@@ -204,6 +204,8 @@ Lee Robbins works hard to make that [Astronomy Library](#mp-common-rooms) a valu
 #### TA Admin and Observatory Director Michael Williams
 Office: [AB](#astronomy-building)2**XX**
 
+Michael Williams is a great person to talk to about the on-campus instrumentation, whether it be for a class you're TAing or for a public event you want to run. Mike is also a 
+
 ## New Student To Do List
 [**Table of Contents**](#table-of-contents)
 
@@ -714,8 +716,8 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM3Mjc0MTYsLTY2NTE4Mjc2NCwtMzk3Mj
-kxOTYsMTI1MjkxMzE5OCwyMTA2OTU0Mjc1LC05MDAxODYyNiwt
-NjYzMTM4NjI3LC05NzY2OTYwMDcsLTQxMjgwMzQ1MCwyMTc2NT
-UxNV19
+eyJoaXN0b3J5IjpbMTgzMzc4MDgyMywtNjY1MTgyNzY0LC0zOT
+cyOTE5NiwxMjUyOTEzMTk4LDIxMDY5NTQyNzUsLTkwMDE4NjI2
+LC02NjMxMzg2MjcsLTk3NjY5NjAwNywtNDEyODAzNDUwLDIxNz
+Y1NTE1XX0=
 -->
