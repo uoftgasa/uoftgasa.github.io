@@ -191,9 +191,12 @@ John Dubinksi is the primary manager of [CITA](#canadian-institute-for-theoretic
 
 #### CITA HPC Specialist Claire Yu
 
-Claire Yu's position is well titled, as she
+Claire Yu's position is well titled, as she is indeed a high performance computing expert. She can help with [CITA](#canadian-institute-for-theoretical-astrophysics)'s [Sunnyvale](#sunnyvale) computing cluster, as well as help you manage your CITA account.
 
 #### Astronomy Librarian Lee Robbins
+
+Lee Robbi
+
 
 #### TA Admin and Observatory Director Michael Williams
 
@@ -704,8 +707,8 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMTg1MzMwNSwtNjY1MTgyNzY0LC0zOT
-cyOTE5NiwxMjUyOTEzMTk4LDIxMDY5NTQyNzUsLTkwMDE4NjI2
-LC02NjMxMzg2MjcsLTk3NjY5NjAwNywtNDEyODAzNDUwLDIxNz
-Y1NTE1XX0=
+eyJoaXN0b3J5IjpbODM0MTc4NTMwLC02NjUxODI3NjQsLTM5Nz
+I5MTk2LDEyNTI5MTMxOTgsMjEwNjk1NDI3NSwtOTAwMTg2MjYs
+LTY2MzEzODYyNywtOTc2Njk2MDA3LC00MTI4MDM0NTAsMjE3Nj
+U1MTVdfQ==
 -->
