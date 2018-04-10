@@ -377,6 +377,52 @@ McLennan Physical Labs is at [60 St George St](https://goo.gl/maps/ShCfL48w2iF2)
 
 You may have need of a room larger than your office in which to hold a meeting. Bookable rooms are summarized below.
 
+ - **AB88** - conference room
+	 - accessible via key in the mailroom
+	 - this room must be booked prior to use
+	 - capacity of ~20 people
+ - **AB101-H** - Conference room 
+	 - accessible via your mailroom key
+	 - this room must be booked prior to use
+	 - capacity ~ 8
+ - **AB111** - Graduate student meeting room
+	 - accessible via your mailroom key
+	 - this room must be booked prior to use
+	 - capacity ~2
+ - **AB113** - Conference room
+	 - accessible via a key in the mailroom
+	 - this room must be booked prior to use
+	 - capacity ~15
+- **MP110** - Physics Lounge
+	- must be booked through third floor physics administrative office
+	- capacity ~ 50
+- **MP1318A** - Seminar Room
+	- must be booked through the CITA administrative office
+	- location of [CITA seminars](#cita-seminars)
+
+- **Astronomy Library** - 13th floor	
+	- turn right out of the elevators
+	- gain access by asking for the code from [Lee Robbins](#astronomy-librarian-lee-robbins)
+	- books on this [reference list](http://www.astro.utoronto.ca/AALibrary/recommendations.html) can be found here
+	- books are borrowed by filling out one of the slips on the front desk, and may be checked out until the next inventory
+- **CITA Administrative Office**
+	- across from the elevators 
+- **Mailroom** 
+	- south (or right) of the CITA administrative office
+	- contains CITA printer [violet](#printers)
+- **CITA Lounge**
+	- contains a fridge, microwave, sink and dishwasher, as well as some couches
+	- contains CITA printer [canna](#printers)
+- **15th Floor Conference Room**
+	- must be booked through the CITA administrative office
+	- pick up keys from CITA administrative office
+	- access this room by taking the north side stairs up from the 14th floor (turn left out of the elevator)
+	- capacity ~15
+- **Telescope Domes**
+	- access the telescopes by taking the south side stairs up from the 14th floor (turn right out of the elevators)
+	- requires keys from the [campus observer](#positions) or [Mike Williams](#ta-admin-and-observatory-director-michael-williams)
+
+
 ### Other Relevant Locations
 These locations currently organized in rough order from south to north.
 
@@ -725,8 +771,8 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI5Mjc2ODc0LC04OTIzNDI3NDIsLTY2NT
-E4Mjc2NCwtMzk3MjkxOTYsMTI1MjkxMzE5OCwyMTA2OTU0Mjc1
-LC05MDAxODYyNiwtNjYzMTM4NjI3LC05NzY2OTYwMDcsLTQxMj
-gwMzQ1MCwyMTc2NTUxNV19
+eyJoaXN0b3J5IjpbMTUzMTkwNjkxNywtODkyMzQyNzQyLC02Nj
+UxODI3NjQsLTM5NzI5MTk2LDEyNTI5MTMxOTgsMjEwNjk1NDI3
+NSwtOTAwMTg2MjYsLTY2MzEzODYyNywtOTc2Njk2MDA3LC00MT
+I4MDM0NTAsMjE3NjU1MTVdfQ==
 -->
