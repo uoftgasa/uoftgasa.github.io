@@ -251,7 +251,7 @@ The Astronomy and Astrophysics community at UofT is composed of several units: t
 ### Department of Astronomy and Astrophysics
 [Website](http://www.astro.utoronto.ca)
 
-All astronomy graduate students at UofT are officially affiliated with the Department of Astronomy and Astrophysics (DAA), primarily spread across two buildings, the [Astronomy Building](#astronomy-building) and the 12th, 13th and 14th floors of the [Burton Tower attached to McLennan Physical Labs](#mclennan-physical-labs-and-burton-tower).  The department is responsible for running the graduate program, and paying you in your first year, and offers scholarships abd travel grants. The der
+All astronomy graduate students at UofT are officially affiliated with the Department of Astronomy and Astrophysics (DAA), primarily spread across two buildings, the [Astronomy Building](#astronomy-building) and the 12th, 13th and 14th floors of the [Burton Tower attached to McLennan Physical Labs](#mclennan-physical-labs-and-burton-tower).  The department is responsible for running the graduate program, and paying you in your first year, and offers scholarships abd travel grants. The department is also responsible for offering graduate courses and employing you for TA work.
 
 ### Dunlap Institute
 
@@ -716,8 +716,8 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5Mjk3MDk0OSwtODkyMzQyNzQyLC02Nj
-UxODI3NjQsLTM5NzI5MTk2LDEyNTI5MTMxOTgsMjEwNjk1NDI3
-NSwtOTAwMTg2MjYsLTY2MzEzODYyNywtOTc2Njk2MDA3LC00MT
-I4MDM0NTAsMjE3NjU1MTVdfQ==
+eyJoaXN0b3J5IjpbNjA1ODU3MDYsLTg5MjM0Mjc0MiwtNjY1MT
+gyNzY0LC0zOTcyOTE5NiwxMjUyOTEzMTk4LDIxMDY5NTQyNzUs
+LTkwMDE4NjI2LC02NjMxMzg2MjcsLTk3NjY5NjAwNywtNDEyOD
+AzNDUwLDIxNzY1NTE1XX0=
 -->
