@@ -597,7 +597,12 @@ Graduate students have a few on-campus residence options. Incoming graduate stud
 
 
 ### Off-Campus
-Housing in Toronto is pricey, and off-campus options have a range of associated costs. In this section, we'll talk about what you can expect to rent and at what price point, as well as where you m
+Housing in Toronto is pricey, and off-campus options have a range of associated costs. In this section, we'll talk about what you can expect to rent and at what price point, as well as where you might expect to live.
+
+#### Neighbourhoods
+
+- Chinatown and Kensington Market
+- 
 
 
 Apartments
@@ -759,7 +764,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0OTc5MjA4OSwtNDc1NjM0MjQ5LC04OT
+eyJoaXN0b3J5IjpbMTMxODU1NTM3MSwtNDc1NjM0MjQ5LC04OT
 IzNDI3NDIsLTY2NTE4Mjc2NCwtMzk3MjkxOTYsMTI1MjkxMzE5
 OCwyMTA2OTU0Mjc1LC05MDAxODYyNiwtNjYzMTM4NjI3LC05Nz
 Y2OTYwMDcsLTQxMjgwMzQ1MCwyMTc2NTUxNV19
