@@ -375,7 +375,7 @@ McLennan Physical Labs is at [60 St George St](https://goo.gl/maps/ShCfL48w2iF2)
 
 ### Meeting Rooms
 
-You may have need of a room larger than your office in which to hold a meeting. Bookable rooms are summarized below, ranked in increasing size. Other rooms are managed centrally by 
+You may have need of a room larger than your office in which to hold a meeting. Bookable rooms are summarized below, ranked in increasing size. Other rooms are managed centrally by UofT and must be booked through the [Office of Academic and Campus Events](http://www.ace.utoronto.ca). You can check the availibility
 
  - **AB111** - Graduate student meeting room
 	 - accessible via your mailroom key
@@ -754,8 +754,8 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMDY0MTY4NywtODkyMzQyNzQyLC02Nj
-UxODI3NjQsLTM5NzI5MTk2LDEyNTI5MTMxOTgsMjEwNjk1NDI3
-NSwtOTAwMTg2MjYsLTY2MzEzODYyNywtOTc2Njk2MDA3LC00MT
-I4MDM0NTAsMjE3NjU1MTVdfQ==
+eyJoaXN0b3J5IjpbLTE1MDIyOTg5NDksLTg5MjM0Mjc0MiwtNj
+Y1MTgyNzY0LC0zOTcyOTE5NiwxMjUyOTEzMTk4LDIxMDY5NTQy
+NzUsLTkwMDE4NjI2LC02NjMxMzg2MjcsLTk3NjY5NjAwNywtND
+EyODAzNDUwLDIxNzY1NTE1XX0=
 -->
