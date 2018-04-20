@@ -237,52 +237,52 @@ I think the current setup works well - having one upper year, and one lower year
 
   
 
-Course Committee
+### Course Committee
 
 The Course Committee is tasked with monitoring how graduate students as an ensemble are progressing with their courses, how well the course offerings are meeting student needs, and general levels of satisfaction with course offerings, and then using that information to connect with the department in the spring to help inform course planning for future years. Time commitment is fairly minimal, requiring a few hours in Fall/Spring to put together a survey, analyze the data, and write a brief report to send to the Department Chair. Skills involved: some understanding of writing unbiased surveys, making plots, and report-writing.
 
   
 
-Mental Health Committee
+### Mental Health Committee
 
 Survey GASA on our mental health needs and to determine what workshops would be useful. Try to organize a workshop every semester or so based on that information. Ideally should have close contact with the Dunlap Diversity Committee, which runs DiversiTea events and also puts on workshops, which often overlap with the MHC’s goals. Time commitment is fairly minimal. Topics often covered: imposter syndrome, work life balance, stress management, etc.
 
   
 
-Mediation Committee (Justice League)
+### Mediation Committee (Justice League)
 
 The Mediation Committee (or Justice League) is a reactionary mechanism intended to step in when something goes wrong. This can be a dispute between students and faculty, dissatisfaction among students with something the department is doing (or not doing), etc. Sometimes a Justice League intervention results in the creation of a new committee to deal with the issue proactively (such as the Course Committee and the Qual Committee). The Justice League also surveys students on their financial situation each December, compares to previous years and other institutions, and makes a recommendation to the department as to whether or not the stipend should be increased and by how much. The time commitment varies widely: often no time at all, several hours a week or more when the stipend report is being researched and prepared, and sometimes a few hours a week when an active situation requiring intervention comes up. Skills used in this job: diplomacy, conflict de-escalation/resolution (rarely), research skills, making plots, and report writing.
 
   
 
-Secretary
+### Secretary
 
 The Secretary attends all GASA meetings and faculty meetings, takes notes, and distributes them to GASA (via email and posting on the GASA wiki). The Secretary is also responsible for all of the President’s duties in his/her absence.
 
   
 
-Treasurer
+### Treasurer
 
 As treasurer, you will be responsible for GASA's finances, including writing reimbursement checks, submitting head grant forms (to get financing from the GSU), and in general keeping records (including monthly expense reports) of financial transactions and budgets that will help GASA in making money-related decisions. In recent years the job has gotten a fair bit easier, since with the move away from grad student-purchased refreshments, the volume of checks you have to write has dropped significantly. Realistically, you're looking at a couple of hours work per month.
 
   
 
-President (Co-President)
+### President (Co-President)
 
 The job of the President (or Co-President) is to sit in at faculty meetings, represent graduate student interests to the faculty, handle political issues involving the faculty and grad student needs, help the Treasurer draft the budget, organize the New Student and Prospective Student Pub Nights along with parts of the prospective student visit, chair meetings, ultimately make sure people are doing their jobs, handle and delegate disputes that come up, and generally run the organization and serve as the outward face of the graduate astronomy students. The President (or Co-President) also chairs and leads GASA interviews with faculty candidates during a faculty search, and then writes a report summarizing GASA’s preferences at the end of the interviews. The time commitment varies, but can range from several hours a week to just a few hours a month. Skills required: should be personable, professional, reasonably organized, possess some diplomatic skills, and be excellent at delegating the hard work to everyone else.
 
   
 
-GASA Paint Master / Art Master
+### GASA Paint Master / Art Master
 
 GASA Paint Master is responsible for organizing the GASA paint night every so often. This projected started over the summer with 7-9 attendees per session. So far it’s have happen every 5 weeks or so. The Paint Master’s job is to provided all the supplies that is required for the event (they will be reimbursed by GASA). We have only used watercolours because they are easy to clean up. They need to organize the event and make sure it runs smoothly and there are no accidents. It doesn’t require lot of time commitment.
 
   
 
-AU Ambassador
+### AU Ambassador
 
 The GASA ambassador to the undergraduate astronomy union (AU) exists as a liaison between GASA and the AU. They will attend AU meetings when permitted, act as intermediaries, and represent AU interests to GASA and GASA interests to the AU. Skills involved: diplomacy, some familiarity with undergrads and their needs. This job may involve close collaboration with the GASA Presidents, who are ultimately responsible for all GASA diplomacy within the department.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3Njc3NTE0MiwxOTU0NDE3MTU1LC00MD
-E3MTkwODgsMTI3MjAzMzk2OF19
+eyJoaXN0b3J5IjpbNzE3NTUyNjI2LDE5NTQ0MTcxNTUsLTQwMT
+cxOTA4OCwxMjcyMDMzOTY4XX0=
 -->
