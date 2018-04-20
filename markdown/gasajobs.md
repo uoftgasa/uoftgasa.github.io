@@ -113,17 +113,17 @@ Skills involved: Carrying groceries, setting up tables, talking to people.
 
   
 
-AstroTours - Keynote
+### AstroTours - Keynote
 
 Keynote Lecture is a special annual AstroTour event, where we invite a speaker from outside of our own department sometime over the summer. It’s quite similar to Earth Hour event but topic varies every year. The two Keynote Directors are responsible for organizing the event. The job requires the director to find the a speaker, make the budget, get it approved, advertise, and make sure that the event runs smoothly.
 
   
 
-AstroTours - Photographer
+### AstroTours - Photographer
 
 As AstroTours photographer, your job is to take photos of everything interesting during our monthly events. This includes the public talk, telescopes, planetarium, etc. After the event, you'll need to upload a few of the photos to our social media pages (Instagram and Flickr) as well as the AstroTours Google Drive. The position is not very demanding; you'll need to attend each event and spend about an hour or so afterwards editing and uploading the photos.
 
-Proposed modification: head-shots for GASA
+Following the 2017 GASA Elections and subsequent Fall Meeting, this person is also the GASA Photographer and can provihead-shots for GASA
 
   
 
@@ -283,6 +283,6 @@ AU Ambassador
 
 The GASA ambassador to the undergraduate astronomy union (AU) exists as a liaison between GASA and the AU. They will attend AU meetings when permitted, act as intermediaries, and represent AU interests to GASA and GASA interests to the AU. Skills involved: diplomacy, some familiarity with undergrads and their needs. This job may involve close collaboration with the GASA Presidents, who are ultimately responsible for all GASA diplomacy within the department.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjczMjkxOTcsLTQwMTcxOTA4OCwxMj
+eyJoaXN0b3J5IjpbLTE4NDA1MDI1ODQsLTQwMTcxOTA4OCwxMj
 cyMDMzOTY4XX0=
 -->
