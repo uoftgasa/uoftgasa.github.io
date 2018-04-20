@@ -161,25 +161,25 @@ The GASA Tea-Masters are tasked with hosting GASA Tea every Tuesday at 4:10 pm i
 
   
 
-CUPE rep.
+### CUPE rep.
 
 The CUPE Representative's primary responsibility is to serve as the liaison between GASA members and CUPE Local 3902 (the Union Local representing TAs and CIs at UofT). Typical duties of the CUPE Rep. involves engaging members in Union activities, communicating important Union information, handling grievances if/when they arise, and assisting members in understanding their rights and responsibilities as CUPE members. The CUPE Rep. acts as the Department of Astronomy & Astrophysics Steward, and must attend monthly Stewards' Council meetings which are 3 hours in duration. The CUPE Rep. should have good communication skills, and ideally be a person who people can feel comfortable raising personal/confidential Union matters with.
 
   
 
-GSU Rep.
+### GSU Rep.
 
 As GSU rep your main duty is to attend monthly GSU meetings and vote on various proposals/initiatives affecting the Graduate Student Union as a whole and your department in particular. Time commitment of this job is dependent on the level of involvement you wish to have. A minimum of 3/4 hours a month is required to attend the monthly meetings but there are plenty of opportunities to sit on peripheral committees set up to address a wide range of issues affecting the grad student body.
 
   
 
-Building Committee Rep
+### Building Committee Rep
 
 Since having the position there hasn’t been a single building committee meeting, nor have I been contacted in relation to the position. We will still need to put a name forward, but because this is a University committee, not a department committee, there is no guarantee it will meet.
 
   
 
-CASCA Representative
+### CASCA Representative
 
 The CASCA representative's main duty is to represent the views and concerns of graduate astronomy students in the department. As a member of CASCA's Graduate Student Committee the representative should strive to collaborate with representative's of other departments on ways to improve the graduate student experience. This will include participation in organizing the graduate student workshop at the annual CASCA meeting and possibly conducting polls within their department.
 
@@ -187,7 +187,7 @@ The CASCA representative's main duty is to represent the views and concerns of g
 
   
 
-GASA Webmaster
+### GASA Webmaster
 
 The GASA Webmaster is responsible for maintaining the operation of the [GASA website](http://www.astro.utoronto.ca/%7Egasa). Specific duties are to update the site with new information, such as names and photos, as needed. This job is not particularly time-consuming, as it isn’t time-sensitive.
 
@@ -195,7 +195,7 @@ Pre-requisites: Knowledge of modern web standards (HTML5/CSS3/JavaScript) and li
 
   
 
-Friends of the Editor
+### Friends of the Editor
 
 Compile material and drum up contributions for comedic newsletter, due out in early December of the year. (though you should start trying to get people to submit things ASAP because it is kind of like pulling teeth.) Work with the GASA President to select an Editor who will also do a lot of the work. Significant time commitment in the fall; need to be good at breaking knees, working with software for laying out newsletter-type things (Photoshop has been used in the past I think), being able to strike the balance between funny and professional, etc.
 
@@ -283,6 +283,6 @@ AU Ambassador
 
 The GASA ambassador to the undergraduate astronomy union (AU) exists as a liaison between GASA and the AU. They will attend AU meetings when permitted, act as intermediaries, and represent AU interests to GASA and GASA interests to the AU. Skills involved: diplomacy, some familiarity with undergrads and their needs. This job may involve close collaboration with the GASA Presidents, who are ultimately responsible for all GASA diplomacy within the department.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MTc4NjgzLC00MDE3MTkwODgsMTI3Mj
-AzMzk2OF19
+eyJoaXN0b3J5IjpbMTQ4NTgwODk4NSwtNDAxNzE5MDg4LDEyNz
+IwMzM5NjhdfQ==
 -->
