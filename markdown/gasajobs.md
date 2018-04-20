@@ -201,23 +201,23 @@ Compile material and drum up contributions for comedic newsletter, due out in ea
 
   
 
-Social Committee
+### Social Committee
 
 The Social Committee’s primary recurring responsibility is organizing the annual department Christmas party, but members also help coordinate other social events like pizza dinners and board game nights. The main time commitments are a few hours of planning for each event, plus being on hand for the duration of the event itself. Some skills required for the position can be acquired after taking it, like learning to fill out reimbursement claims or finding the main administrative points of contact for each branch of the department. While not explicitly a skill, members should enjoy socializing with their peers and be able to effectively delegate tasks so no one member of the committee is overwhelmed with planning. Members should also have a variety of social preferences (e.g. daytime vs evening events, alcoholic vs non-alcoholic events), so that events aren’t too narrowly focussed on a particular demographic of students.
 
   
 
-This is perhaps something best reviewed at the GASA election, but in future I’d like to see the Social Committee curate a social calendar, so while the committee itself will organize some events, they can also coordinate with other graduate student events (like paint night, intramural team games or pub nights) to give students an easy place to find the particular events which might interest them. This would also help the committee plan events well in advance.
+The Social Committee should also curate a social calendar, so while the committee itself will organize some events, they can also coordinate with other graduate student events (like paint night, intramural team games or pub nights) to give students an easy place to find the particular events which might interest them. This would also help the committee plan events well in advance.
 
   
 
-Health and Safety Committee
+### Health and Safety Committee
 
 The Health and Safety Committee rep serves as a point of first contact for graduate student safety concerns related to the department. The rep also attends the regular meetings of the Health and Safety Committee (2-3 times a year), to bring forward graduate student concerns. Finally, the rep is charged with ensuring that graduate students who work as TAs complete the mandatory online health and safety training required of all university employees
 
   
 
-Professional Development Committee
+### Professional Development Committee
 
 This committee works figures out what GASA needs to be employable graduates and works with Suresh to put on professional development workshops (academic and non academic). 3-4 people.
 
@@ -283,6 +283,6 @@ AU Ambassador
 
 The GASA ambassador to the undergraduate astronomy union (AU) exists as a liaison between GASA and the AU. They will attend AU meetings when permitted, act as intermediaries, and represent AU interests to GASA and GASA interests to the AU. Skills involved: diplomacy, some familiarity with undergrads and their needs. This job may involve close collaboration with the GASA Presidents, who are ultimately responsible for all GASA diplomacy within the department.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NTgwODk4NSwtNDAxNzE5MDg4LDEyNz
+eyJoaXN0b3J5IjpbMTk1NDQxNzE1NSwtNDAxNzE5MDg4LDEyNz
 IwMzM5NjhdfQ==
 -->
