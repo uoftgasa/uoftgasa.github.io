@@ -7,17 +7,12 @@ Whenever someone passes their thesis qual or thesis defense, buy their favorite 
 
   
 
-G2000/Presentation Overlord ‘Talk Club’ Coordinator / Talk Show Host
-
-From one end, to incentivise discussion and collect ideas from GASA on how to improve the G2000’s format and pass them to the Vice Chair. From the other end, to talk with the Vice Chair and understand how the students can contribute to maintaining G2000 meaningful (high quality talks and high attendance.) (Note that G2000 is currently dead and might not be revived)
-
-  
+### ‘Talk Club’ Coordinator / Talk Show Host
 
 Create a regular-meeting group to discuss recent research and progress and give practice talks.
 
   
-
-AstroTours - 2 Directors
+### AstroTours - 2 Directors
 
 The AstroTours directors are primarily responsible for managing the other executive members to pull off each month’s tour. The main non-management responsibilities are to identify the speaker, help them identify a topic and practice their talk, advertise the upcoming event through relevant channels, book the room for the event, and MC the talk at the tour, including moderating the question period. Directors liase with the planetarium director, volunteer coordinator, telescope operator, refreshments coordinator and demo director to ensure all parts of the event will run smoothly. In addition, directors may be partially or wholly responsible for additional special events throughout the year like Earth Hour or the Keynote Lecture, though these often mimic the responsibilities of a regular tour on a larger scale. FInally, directors serve as the first point of contact for anyone interested in coordinating with AstroTours in some way.
 
@@ -286,5 +281,5 @@ AU Ambassador
 
 The GASA ambassador to the undergraduate astronomy union (AU) exists as a liaison between GASA and the AU. They will attend AU meetings when permitted, act as intermediaries, and represent AU interests to GASA and GASA interests to the AU. Skills involved: diplomacy, some familiarity with undergrads and their needs. This job may involve close collaboration with the GASA Presidents, who are ultimately responsible for all GASA diplomacy within the department.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc3ODI4NTYyLDEyNzIwMzM5NjhdfQ==
+eyJoaXN0b3J5IjpbMTQ4NjA3ODM2NSwxMjcyMDMzOTY4XX0=
 -->
