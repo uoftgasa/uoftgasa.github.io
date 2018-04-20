@@ -146,8 +146,9 @@ There's a lot that goes on at the university. UofT's Faculty of Arts and Science
 - **Last Monday of January** - Deadline to enroll in courses on [ACORN](acorn.utoronto.ca)
 - **End of January** - Second [GASA](#gasa) meeting
 - **Last Monday in February** - Deadline to drop courses on [ACORN](acorn.utoronto.ca)
+- **Late March** - [OGS](#ogs) scholarship deadline for international students
 - **Early April** - Classes end, exam period begins
-- **Mid-May** - [OGS](#ogs) scholarship deadline for domestic and international students
+- **Mid-May** - [OGS](#ogs) scholarship deadline for domestic students
 - **End of May** - Third [GASA](#gasa) meeting
 
 
@@ -780,9 +781,10 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODIzODA0NjksMjg1MzMyOTA1LDY3MD
-QwMjc5MiwtMjAyMDU1OTU0NCwtNDc1NjM0MjQ5LC04OTIzNDI3
-NDIsLTY2NTE4Mjc2NCwtMzk3MjkxOTYsMTI1MjkxMzE5OCwyMT
-A2OTU0Mjc1LC05MDAxODYyNiwtNjYzMTM4NjI3LC05NzY2OTYw
-MDcsLTQxMjgwMzQ1MCwyMTc2NTUxNV19
+eyJoaXN0b3J5IjpbLTY2MjU4MDkxMCwxNTY3OTc3NjU2LC0xMz
+gyMzgwNDY5LDI4NTMzMjkwNSw2NzA0MDI3OTIsLTIwMjA1NTk1
+NDQsLTQ3NTYzNDI0OSwtODkyMzQyNzQyLC02NjUxODI3NjQsLT
+M5NzI5MTk2LDEyNTI5MTMxOTgsMjEwNjk1NDI3NSwtOTAwMTg2
+MjYsLTY2MzEzODYyNywtOTc2Njk2MDA3LC00MTI4MDM0NTAsMj
+E3NjU1MTVdfQ==
 -->
