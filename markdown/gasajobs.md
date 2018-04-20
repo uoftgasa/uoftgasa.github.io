@@ -20,13 +20,13 @@ The AstroTours directors are primarily responsible for managing the other execut
 
   
 
-AstroTours - Personnel (Volunteer Coordinator)
+### AstroTours - Personnel (Volunteer Coordinator)
 
 This job involves collecting and organizing volunteers for the monthly AstroTours, as well as the two annual large events. Specifically, the volunteer manager sends out emails to call for volunteers before each Tour, instructs the volunteers as to their duties, arranges training for the volunteers where necessary, arrange volunteer lunches and provides support to the AstroTour Directors. The time commitment is a couple hours per tour, time spent attending the tours themselves, and a few extra hours per annual event.
 
   
 
-AstroTours - Telescope
+### AstroTours - Telescope
 
 Description for GRAND MASTER OF TELESCOPES AND ALL THINGS TELESCOPE RELATED (GMOTATER):
 
@@ -62,7 +62,7 @@ It probably works out to ~5-6 hours per month, 3-4 on the tour and ~2 to train p
 
   
 
-AstroTours - Planetarium Director
+### AstroTours - Planetarium Director
 
 The AstroTours Planetarium Director is responsible for ensuring the smooth operation of the planetarium during an AstroTour. Specific duties are to 1) train the planetarium show presenter, 2) organize and attend the practice show, 3) create the Eventbrite page for ticket reservations, and 4) print and hand out tickets to the non-reserved shows. The planetarium director is not expected to present the show, but may be required to do so if no volunteer is found. To avoid this, the planetarium director should work with the personnel director to find a volunteer presenter at least two weeks in advance.
 
@@ -80,26 +80,26 @@ Pre-requisites: none, but familiarity with the planetarium software (Uniview 2.0
 
   
 
-AstroTours - Interactive Media
+### AstroTours - Interactive Media
 
 It involves making sure the interactive demos are functional, there is somebody in charge of them for each astro tour and that they know how to use it. If we can't find a volunteer, they should be able to (in general) fill in for one of the demo volunteers. The interactive demos are the WorldWide Telescope, software using the Xbox Kinect to "swim" across the universe with your arms' motion. The other one is the Oculus Rift's "game" Titans of Space where you go around the solar system, as an astronaut inside the virtual reality.
 
   
 
-AstroTours - Webmaster
+### AstroTours - Webmaster
 
 Manage the AstroTours email account (daily), the AstroTours webpage (monthly), and the AstroTours Facebook page (monthly). Includes adding pages for new tours, updating the past tours section, and updating the exec roster once a year. The backend might be wordpress.
 
   
   
 
-AstroTours - Filmographer
+### AstroTours - Filmographer
 
 The filmographer gathers the filming equipment a day or two before the AstroTour, shows up ~ 15-30 minutes prior to the talk to set up and find a good seat, uses a simple video program to stitch the film files together, and posts to YouTube. I think the hours are comparable to the average AstroTour job.
 
   
 
-AstroTours - Refreshments
+### AstroTours - Refreshments
 
 Buy refreshments for AstroTours and set them up on the 15th floor of MP near the stairs to the telescopes for after the talk.
 
@@ -283,5 +283,6 @@ AU Ambassador
 
 The GASA ambassador to the undergraduate astronomy union (AU) exists as a liaison between GASA and the AU. They will attend AU meetings when permitted, act as intermediaries, and represent AU interests to GASA and GASA interests to the AU. Skills involved: diplomacy, some familiarity with undergrads and their needs. This job may involve close collaboration with the GASA Presidents, who are ultimately responsible for all GASA diplomacy within the department.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMTcxOTA4OCwxMjcyMDMzOTY4XX0=
+eyJoaXN0b3J5IjpbLTExMjczMjkxOTcsLTQwMTcxOTA4OCwxMj
+cyMDMzOTY4XX0=
 -->
