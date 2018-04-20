@@ -1,7 +1,7 @@
 # Positions
 These position descriptions were last updated for the 2017 GASA Elections, and are not ordered in any particular order of importance.
 
-Back to [Home](index.html)
+Back to [Home](../index.html)
 
 ### Quals/Thesis Drinks
 
@@ -283,6 +283,6 @@ GASA Paint Master is responsible for organizing the GASA paint night every so of
 
 The GASA ambassador to the undergraduate astronomy union (AU) exists as a liaison between GASA and the AU. They will attend AU meetings when permitted, act as intermediaries, and represent AU interests to GASA and GASA interests to the AU. Skills involved: diplomacy, some familiarity with undergrads and their needs. This job may involve close collaboration with the GASA Presidents, who are ultimately responsible for all GASA diplomacy within the department.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE3NTUyNjI2LDE5NTQ0MTcxNTUsLTQwMT
-cxOTA4OCwxMjcyMDMzOTY4XX0=
+eyJoaXN0b3J5IjpbMTI0NzU2NDcxMyw3MTc1NTI2MjYsMTk1ND
+QxNzE1NSwtNDAxNzE5MDg4LDEyNzIwMzM5NjhdfQ==
 -->
