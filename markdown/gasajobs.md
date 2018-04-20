@@ -123,24 +123,24 @@ Keynote Lecture is a special annual AstroTour event, where we invite a speaker f
 
 As AstroTours photographer, your job is to take photos of everything interesting during our monthly events. This includes the public talk, telescopes, planetarium, etc. After the event, you'll need to upload a few of the photos to our social media pages (Instagram and Flickr) as well as the AstroTours Google Drive. The position is not very demanding; you'll need to attend each event and spend about an hour or so afterwards editing and uploading the photos.
 
-Following the 2017 GASA Elections and subsequent Fall Meeting, this person is also the GASA Photographer and can provihead-shots for GASA
+Following the 2017 GASA Elections and subsequent Fall Meeting, this person is also the GASA Photographer and can provide head-shots for GASA, using the photography backdrop downstairs.
 
   
 
-DWTS (Dinner With The Speaker)
+### DWTS (Dinner With The Speaker)
 
 Graduate students are scheduled to have a dinner with invited colloquium speakers, usually every week. Your task is to find a host, who will then find a venue and handle the actual logistics of the dinner. Your job is to make sure it runs smoothly and be the backup host (as you will end up being many times) in case no one else is willing to take up the job. You should also make sure the hosts are aware of their budget and scheduling constraints. While the host coordinates with the invited guest and the students joining for dinner, you will coordinate with the administrative staff and the host in dealing with the scheduling and budget constraints and any other relevant information as it comes.
 
   
   
 
-Mini-Course Coordinator
+### Mini-Course Coordinator
 
 Needs revamping; faculty counterpart no longer exists/has been subsumed into Chris Matzner’s job as Grad Chair
 
   
 
-Coffee
+### Coffee
 
 Job duties: This person sends Lillian orders for colloqium coffee and cookies when supplies are low in stock. Before colloqium, this person makes two carafes of coffee and one of hot water for tea, as well as grabbing some cookies from the lounge shelves.
 
@@ -155,7 +155,7 @@ Skills required: sending emails to Lillian for purchasing cookies, pressing a bu
   
   
 
-GASA Tea Masters
+### GASA Tea Masters
 
 The GASA Tea-Masters are tasked with hosting GASA Tea every Tuesday at 4:10 pm in the AB Lounge. They also select a poem each week to include in the tea announcement email. The job requires roughly 2 hours per week; 1 hour to pick a poem and send the email, and 1 hour for tea itself. Tea-Masters also select and purchase teas on their own. Expenses are recouped over the year via donations, and GASA will step in if there's a shortfall. Skills required: appreciating tea and being able to pick something yummy, sitting around and chatting, and being able to pick a workplace-appropriate poem each week, often relevant to the weather, current events, space, etc.
 
@@ -283,6 +283,6 @@ AU Ambassador
 
 The GASA ambassador to the undergraduate astronomy union (AU) exists as a liaison between GASA and the AU. They will attend AU meetings when permitted, act as intermediaries, and represent AU interests to GASA and GASA interests to the AU. Skills involved: diplomacy, some familiarity with undergrads and their needs. This job may involve close collaboration with the GASA Presidents, who are ultimately responsible for all GASA diplomacy within the department.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDA1MDI1ODQsLTQwMTcxOTA4OCwxMj
-cyMDMzOTY4XX0=
+eyJoaXN0b3J5IjpbLTY2MTc4NjgzLC00MDE3MTkwODgsMTI3Mj
+AzMzk2OF19
 -->
