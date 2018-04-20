@@ -26,7 +26,7 @@ Submitting your issue will notify everyone who has access to the uoftgasa github
 
 If you feel a little more comfortable about modifying the guide yourself, you may want to try editing the Markdown documents used to generate the guide. These documents are converted into HTML, but Markdown is much more human readable. My favourite Markdown guide is [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-If you decide to edit the Markdown documents, you'll first need to fork the github repository to your own github account. The uoftgasa Grad Guide uses the StackEdit in-browser Markdwon editor to convert Markdown files into attractive HTML. 
+If you decide to edit the Markdown documents, you'll first need to fork the github repository to your own github account. The uoftgasa Grad Guide uses the StackEdit in-browser Markdown editor to convert Markdown files into attractive HTML. 
 
 ### Adding new files
 [**Table of Contents**](#table-of-contents)
@@ -112,6 +112,6 @@ Until I figure out a better way to do this, every section should have a table of
 [**Table of Contents**](#table-of-contents)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NjIyNzE2OSwtMjYxMzE3NTk3LDE0MD
-I5MTUxMjldfQ==
+eyJoaXN0b3J5IjpbNTE1MjI3NDczLC0yNjEzMTc1OTcsMTQwMj
+kxNTEyOV19
 -->
