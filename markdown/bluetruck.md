@@ -1,5 +1,10 @@
 # Blue Truck
 
+## What
+
+Unsurprisingly, this is a blue food truck. 
+It is a common source of fast food for astronomy graduate students.
+
 ## Where
 
 Outside AB
