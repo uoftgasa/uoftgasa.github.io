@@ -1,6 +1,8 @@
 # Positions
 These position descriptions were last updated for the 2017 GASA Elections, and are not ordered in any particular order of importance.
 
+Back to [Home]
+
 ### Quals/Thesis Drinks
 
 Whenever someone passes their thesis qual or thesis defense, buy their favorite drink or treat (enough to share, within the given budget), and help them celebrate in the lounge along with everyone else. Time commitment isn’t too bad.
@@ -281,5 +283,5 @@ AU Ambassador
 
 The GASA ambassador to the undergraduate astronomy union (AU) exists as a liaison between GASA and the AU. They will attend AU meetings when permitted, act as intermediaries, and represent AU interests to GASA and GASA interests to the AU. Skills involved: diplomacy, some familiarity with undergrads and their needs. This job may involve close collaboration with the GASA Presidents, who are ultimately responsible for all GASA diplomacy within the department.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NjA3ODM2NSwxMjcyMDMzOTY4XX0=
+eyJoaXN0b3J5IjpbODc5ODM4ODkwLDEyNzIwMzM5NjhdfQ==
 -->
