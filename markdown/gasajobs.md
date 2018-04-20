@@ -223,7 +223,7 @@ This committee works figures out what GASA needs to be employable graduates and 
 
   
 
-Qual Committee (temporary)
+### Qual Committee (temporary)
 
 The Qual Committee is made to be a voice for the students with regards to how the Qual is being changed. It involves meeting with the profs working on qual changes (Chris, Renee and Ray so far), and try to make the case of what the qual should be, what is currently working and what isn't.
 
@@ -283,6 +283,6 @@ AU Ambassador
 
 The GASA ambassador to the undergraduate astronomy union (AU) exists as a liaison between GASA and the AU. They will attend AU meetings when permitted, act as intermediaries, and represent AU interests to GASA and GASA interests to the AU. Skills involved: diplomacy, some familiarity with undergrads and their needs. This job may involve close collaboration with the GASA Presidents, who are ultimately responsible for all GASA diplomacy within the department.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NDQxNzE1NSwtNDAxNzE5MDg4LDEyNz
-IwMzM5NjhdfQ==
+eyJoaXN0b3J5IjpbMTg3Njc3NTE0MiwxOTU0NDE3MTU1LC00MD
+E3MTkwODgsMTI3MjAzMzk2OF19
 -->
