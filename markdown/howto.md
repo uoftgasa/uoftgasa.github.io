@@ -7,6 +7,7 @@ Editing this grad school guide takes a little more work than the previous wiki, 
 
 - [Submit an Issue](#submit-an-issue)
 - [Edit the Markdown](#edit-the-markdown)
+	- [Before you begin](#before-you-begin)
 	- [Adding new files](#adding-new-files)
 	- [Changing existing files](#changing-existing-files)
 	- [Publishing your file](#publishing-your-file)
@@ -27,6 +28,19 @@ Submitting your issue will notify everyone who has access to the uoftgasa github
 If you feel a little more comfortable about modifying the guide yourself, you may want to try editing the Markdown documents used to generate the guide. These documents are converted into HTML, but Markdown is much more human readable. My favourite Markdown guide is [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 If you decide to edit the Markdown documents, you'll first need to fork the github repository to your own github account. The uoftgasa Grad Guide uses the StackEdit in-browser Markdwon editor to convert Markdown files into attractive HTML. 
+
+### Before you begin
+[**Table of Contents**](#table-of-contents)
+
+Ensure that you have the latest copy of the Guide on your fork before you make any edits. The normal approach is to pull from the main repository (‘upstream’) using Terminal, as outlined [here](https://help.github.com/articles/syncing-a-fork/), but that requires you to clone the repository onto your machine. An alternate approach that does not require you to leave the browser is to make a ‘reverse pull request’ – i.e., you pull changes from the main repository onto your fork:
+
+1. From your forked repository, create a new pull request
+2. On the “Comparing changes” page, swap the **base fork** with the **head fork**; you should be comparing the master branches
+3. Submit the pull request
+4. Resolve any conflicts and confirm the changes
+5. Verify that you have the latest changes by checking the commit history
+
+Should you mess up, you can always delete your fork and re-fork a fresh copy from the main repository.
 
 ### Adding new files
 [**Table of Contents**](#table-of-contents)
