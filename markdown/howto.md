@@ -113,6 +113,7 @@ The HTML template we use to convert the Markdown files will automatically create
 
 - [Submit an Issue](#submit-an-issue)
 - [Edit the Markdown](#edit-the-markdown)
+	- [Before you begin](#before-you-begin)
 	- [Adding new files](#adding-new-files)
 	- [Changing existing files](#changing-existing-files)
 	- [Publishing your file](#publishing-your-file)
