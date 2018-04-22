@@ -34,7 +34,7 @@ If you decide to edit the Markdown documents, you'll first need to fork the gith
 
 Ensure that you have the latest copy of the Guide on your fork before you make any edits. The normal approach is to pull from the main repository (‘upstream’) using Terminal, as outlined [here](https://help.github.com/articles/syncing-a-fork/), but that requires you to clone the repository onto your machine. An alternate approach that does not require you to leave the browser is to make a ‘reverse pull request’ – i.e., you pull changes from the main repository onto your fork:
 
-1. From your forked repository, create a new pull request
+1. From your forked repository, create a new pull request (see [below](#pull-request) for details)
 2. On the “Comparing changes” page, swap the **base fork** with the **head fork**; you should be comparing the master branches
 3. Submit the pull request
 4. Resolve any conflicts and confirm the changes
