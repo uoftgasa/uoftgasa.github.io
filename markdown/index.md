@@ -541,8 +541,8 @@ Graduate student residence that is affiliated with but independent from UofT. Yo
 - [Portal](http://portal.utoronto.ca) - find class pages
 - [Health Services](https://www.studentlife.utoronto.ca/hwc/medical-services) - make doctor's appointments
 - [Accessibility Services](https://www.studentlife.utoronto.ca/as) - set up accommodations
-- [Greenshield Login](https://onlineservices.greenshield.ca/PlanMember/AccessMgmt/Public/SignOn.aspx)
-
+- [Greenshield Information](http://studentcare.ca/rte/en/IHaveAPlan_UniversityofTorontoGraduateStudentsUnionUTGSU_Home) - find out what the health plan covers
+- [Greenshield Login](https://onlineservices.greenshield.ca/PlanMember/AccessMgmt/Public/SignOn.aspx) - make insurance claims
 
 ## Common Tools
 
@@ -816,11 +816,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNzQ4MTE3LC03NDEyMzQ5MDUsLTE1NT
-U4MTA1NiwtNjYyNTgwOTEwLDE1Njc5Nzc2NTYsLTEzODIzODA0
-NjksMjg1MzMyOTA1LDY3MDQwMjc5MiwtMjAyMDU1OTU0NCwtND
-c1NjM0MjQ5LC04OTIzNDI3NDIsLTY2NTE4Mjc2NCwtMzk3Mjkx
-OTYsMTI1MjkxMzE5OCwyMTA2OTU0Mjc1LC05MDAxODYyNiwtNj
-YzMTM4NjI3LC05NzY2OTYwMDcsLTQxMjgwMzQ1MCwyMTc2NTUx
-NV19
+eyJoaXN0b3J5IjpbLTg3Mzg3NzI4MCwtNzQxMjM0OTA1LC0xNT
+U1ODEwNTYsLTY2MjU4MDkxMCwxNTY3OTc3NjU2LC0xMzgyMzgw
+NDY5LDI4NTMzMjkwNSw2NzA0MDI3OTIsLTIwMjA1NTk1NDQsLT
+Q3NTYzNDI0OSwtODkyMzQyNzQyLC02NjUxODI3NjQsLTM5NzI5
+MTk2LDEyNTI5MTMxOTgsMjEwNjk1NDI3NSwtOTAwMTg2MjYsLT
+Y2MzEzODYyNywtOTc2Njk2MDA3LC00MTI4MDM0NTAsMjE3NjU1
+MTVdfQ==
 -->
