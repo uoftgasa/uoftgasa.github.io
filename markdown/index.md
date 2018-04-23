@@ -534,6 +534,7 @@ Graduate student residence that is affiliated with but independent from UofT. Yo
 
 - [Department Internal Webpage](http://www.astro.utoronto.ca/internal/) - password is in your welcome packet
 	- Includes: facility booking calendar, printer set up, MAC address registration
+- [
 
 ## Common Tools
 
@@ -807,11 +808,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MjUxNjI0NywtNzQxMjM0OTA1LC0xNT
-U1ODEwNTYsLTY2MjU4MDkxMCwxNTY3OTc3NjU2LC0xMzgyMzgw
-NDY5LDI4NTMzMjkwNSw2NzA0MDI3OTIsLTIwMjA1NTk1NDQsLT
-Q3NTYzNDI0OSwtODkyMzQyNzQyLC02NjUxODI3NjQsLTM5NzI5
-MTk2LDEyNTI5MTMxOTgsMjEwNjk1NDI3NSwtOTAwMTg2MjYsLT
-Y2MzEzODYyNywtOTc2Njk2MDA3LC00MTI4MDM0NTAsMjE3NjU1
-MTVdfQ==
+eyJoaXN0b3J5IjpbNDQzOTI5MjMsLTc0MTIzNDkwNSwtMTU1NT
+gxMDU2LC02NjI1ODA5MTAsMTU2Nzk3NzY1NiwtMTM4MjM4MDQ2
+OSwyODUzMzI5MDUsNjcwNDAyNzkyLC0yMDIwNTU5NTQ0LC00Nz
+U2MzQyNDksLTg5MjM0Mjc0MiwtNjY1MTgyNzY0LC0zOTcyOTE5
+NiwxMjUyOTEzMTk4LDIxMDY5NTQyNzUsLTkwMDE4NjI2LC02Nj
+MxMzg2MjcsLTk3NjY5NjAwNywtNDEyODAzNDUwLDIxNzY1NTE1
+XX0=
 -->
