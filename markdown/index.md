@@ -44,7 +44,7 @@ The contents of this document, accompanied by a frequently asked question that m
 	 - [Sunnyvale](#sunnyvale)
 	 - [Printing and Copying](#printing-and-copying)
 - [**Useful Links**](#useful-links)
-- [**Common Tools**](#common-tools_
+- [**Common Tools**](#common-tools)
 - [**GASA**](#gasa) - Who's really in charge around here anyway?
 	- [Positions](#positions)
 	- [AstroTours](#astrotours)
@@ -816,7 +816,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3Mzg3NzI4MCwtNzQxMjM0OTA1LC0xNT
+eyJoaXN0b3J5IjpbMjA0Njc0NzY5MCwtNzQxMjM0OTA1LC0xNT
 U1ODEwNTYsLTY2MjU4MDkxMCwxNTY3OTc3NjU2LC0xMzgyMzgw
 NDY5LDI4NTMzMjkwNSw2NzA0MDI3OTIsLTIwMjA1NTk1NDQsLT
 Q3NTYzNDI0OSwtODkyMzQyNzQyLC02NjUxODI3NjQsLTM5NzI5
