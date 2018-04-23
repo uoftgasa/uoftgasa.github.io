@@ -749,7 +749,7 @@ As they say, having fun isn't hard if you have a library card. The [UofT Library
 
 - [Lillian H Smith - 239 College St](https://www.torontopubliclibrary.ca/lillianhsmith/)
 - [Toronto Reference Library - 789 Yonge St](https://www.torontopubliclibrary.ca/torontoreferencelibrary/)
-- 
+- [Spadina Road - 10 Spadina Road](https://www.torontopubliclibrary.ca/spadina/)
 
 ## Things to do in Toronto
 [**Table of Contents**](#table-of-contents)
@@ -797,7 +797,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTMyMTA2ODQsLTc0MTIzNDkwNSwtMT
+eyJoaXN0b3J5IjpbLTE3NjAyNTUwNTIsLTc0MTIzNDkwNSwtMT
 U1NTgxMDU2LC02NjI1ODA5MTAsMTU2Nzk3NzY1NiwtMTM4MjM4
 MDQ2OSwyODUzMzI5MDUsNjcwNDAyNzkyLC0yMDIwNTU5NTQ0LC
 00NzU2MzQyNDksLTg5MjM0Mjc0MiwtNjY1MTgyNzY0LC0zOTcy
