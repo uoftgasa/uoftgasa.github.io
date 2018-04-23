@@ -43,6 +43,7 @@ The contents of this document, accompanied by a frequently asked question that m
 	 - [Scinet](#scinet)
 	 - [Sunnyvale](#sunnyvale)
 	 - [Printing and Copying](#printing-and-copying)
+- [**Useful Links**](#useful-links)
 - [**GASA**](#gasa) - Who's really in charge around here anyway?
 	- [Positions](#positions)
 	- [AstroTours](#astrotours)
@@ -518,7 +519,9 @@ Graduate student residence that is affiliated with but independent from UofT. Yo
 
 ### Teaching Assistant Training Program
 
-## Online Res
+## Useful Links
+
+## Common Tools
 
 ## Computing
 
@@ -800,7 +803,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NjgxMDIyNywtMTU1NTgxMDU2LC02Nj
+eyJoaXN0b3J5IjpbLTc0MTIzNDkwNSwtMTU1NTgxMDU2LC02Nj
 I1ODA5MTAsMTU2Nzk3NzY1NiwtMTM4MjM4MDQ2OSwyODUzMzI5
 MDUsNjcwNDAyNzkyLC0yMDIwNTU5NTQ0LC00NzU2MzQyNDksLT
 g5MjM0Mjc0MiwtNjY1MTgyNzY0LC0zOTcyOTE5NiwxMjUyOTEz
