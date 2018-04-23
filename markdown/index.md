@@ -536,7 +536,8 @@ Graduate student residence that is affiliated with but independent from UofT. Yo
 - [arXiv astro-ph](https://arxiv.org/list/astro-ph/recent) - paper database
 - [Department Internal Webpage](http://www.astro.utoronto.ca/internal/) - password is in your welcome packet
 	- Includes: facility booking calendar, printer set up, MAC address registration
-- [School of Graduate Studies 
+- [School of Graduate Studies Website](http://www.sgs.utoronto.ca/Pages/default.aspx)
+- [Employee Self-Service Website](http://aws.utoronto.ca/services/employee-self-service-ess/) - update personal information, download taz
 
 
 ## Common Tools
@@ -811,7 +812,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1OTk1MjExNSwtNzQxMjM0OTA1LC0xNT
+eyJoaXN0b3J5IjpbMTc5ODU1NDc1MiwtNzQxMjM0OTA1LC0xNT
 U1ODEwNTYsLTY2MjU4MDkxMCwxNTY3OTc3NjU2LC0xMzgyMzgw
 NDY5LDI4NTMzMjkwNSw2NzA0MDI3OTIsLTIwMjA1NTk1NDQsLT
 Q3NTYzNDI0OSwtODkyMzQyNzQyLC02NjUxODI3NjQsLTM5NzI5
