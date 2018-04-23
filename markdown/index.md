@@ -44,6 +44,7 @@ The contents of this document, accompanied by a frequently asked question that m
 	 - [Sunnyvale](#sunnyvale)
 	 - [Printing and Copying](#printing-and-copying)
 - [**Useful Links**](#useful-links)
+- [**Common Tools**](#common-tools_
 - [**GASA**](#gasa) - Who's really in charge around here anyway?
 	- [Positions](#positions)
 	- [AstroTours](#astrotours)
@@ -519,10 +520,6 @@ Graduate student residence that is affiliated with but independent from UofT. Yo
 
 ### Teaching Assistant Training Program
 
-## Useful Links
-
-## Common Tools
-
 ## Computing
 
 ### Personal Computers
@@ -532,6 +529,12 @@ Graduate student residence that is affiliated with but independent from UofT. Yo
 ### Sunnyvale
 
 ### Printing and Copying
+
+## Useful Links
+
+- [Department Internal Webpage
+
+## Common Tools
 
 ## Online
 
@@ -803,10 +806,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MTIzNDkwNSwtMTU1NTgxMDU2LC02Nj
-I1ODA5MTAsMTU2Nzk3NzY1NiwtMTM4MjM4MDQ2OSwyODUzMzI5
-MDUsNjcwNDAyNzkyLC0yMDIwNTU5NTQ0LC00NzU2MzQyNDksLT
-g5MjM0Mjc0MiwtNjY1MTgyNzY0LC0zOTcyOTE5NiwxMjUyOTEz
-MTk4LDIxMDY5NTQyNzUsLTkwMDE4NjI2LC02NjMxMzg2MjcsLT
-k3NjY5NjAwNywtNDEyODAzNDUwLDIxNzY1NTE1XX0=
+eyJoaXN0b3J5IjpbLTE5OTMwNjYwODcsLTc0MTIzNDkwNSwtMT
+U1NTgxMDU2LC02NjI1ODA5MTAsMTU2Nzk3NzY1NiwtMTM4MjM4
+MDQ2OSwyODUzMzI5MDUsNjcwNDAyNzkyLC0yMDIwNTU5NTQ0LC
+00NzU2MzQyNDksLTg5MjM0Mjc0MiwtNjY1MTgyNzY0LC0zOTcy
+OTE5NiwxMjUyOTEzMTk4LDIxMDY5NTQyNzUsLTkwMDE4NjI2LC
+02NjMxMzg2MjcsLTk3NjY5NjAwNywtNDEyODAzNDUwLDIxNzY1
+NTE1XX0=
 -->
