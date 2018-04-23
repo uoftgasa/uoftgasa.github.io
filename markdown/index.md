@@ -497,41 +497,8 @@ Graduate student residence that is affiliated with but independent from UofT. Yo
 #### The Varsity Centre
 [The Varsity Centre](https://kpe.utoronto.ca/facility/varsity-centre) is UofT's stadium, and can be accessed through the Devonshire Place pavilion with your TCard. The outdoor stadium is covered in the fall and winter for intramural sports. The centre also includes a skating rink.
 
-## Online
 
-### Email
 
-### Department Internal
-
-### ADS
-
-### arXiv
-
-### ESS
-
-### ACORN
-
-### Portal
-
-### Greenshield Website
-
-### Health Services
-
-### SGS Website
-
-## Tools
-
-### Slack
-
-### Mendeley
-
-### Papers
-
-### Jupyter Notebooks
-
-### Astropy
-
-### ShareLatex
 
 ## Research
 [**Table of Contents**](#table-of-contents)
@@ -782,7 +749,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MTkwNTg5NCwtMTU1NTgxMDU2LC02Nj
+eyJoaXN0b3J5IjpbLTk3MDkzMTY2MCwtMTU1NTgxMDU2LC02Nj
 I1ODA5MTAsMTU2Nzk3NzY1NiwtMTM4MjM4MDQ2OSwyODUzMzI5
 MDUsNjcwNDAyNzkyLC0yMDIwNTU5NTQ0LC00NzU2MzQyNDksLT
 g5MjM0Mjc0MiwtNjY1MTgyNzY0LC0zOTcyOTE5NiwxMjUyOTEz
