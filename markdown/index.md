@@ -747,7 +747,9 @@ Service Ontario provides a contact point for provincial government services like
 
 As they say, having fun isn't hard if you have a library card. The [UofT Library](#uoft-library) can certainly meet your academic needs, but the TPL has more on offer than astronomy text books. Getting a TPL card requires proof that you live at a Toronto address (addressed mail to where you live will do), and once you have one it's good for a year. The card gives you access to the TPL's enormous catalogue, including their collection of ebooks,  digital newspapers, and audiobooks. But in addition to this traditional library offerings, the TPL offers access to 'digital innovation hubs', where you can use 3D printers, digital design workstations and recording studios. They also have a partnership with the Toronto Tool Library for all of your tinkering needs. The TPL also offers plenty of programming to give you a chance to pick up a new skill or hone an old one, so there's no reason not to get a card. However, if all of this blatant fawning hasn't convinced you to get a card, you can still work in any of the 100 branches. I can certainly attest to the fact that the atmosphere in the Toronto Reference Library at Yonge and Bloor is much more positive than that in [Robarts](#robarts). The nearest Toronto Public Library locations are 
 
-- [2
+- [Lillian H Smith - 239 College St](https://www.torontopubliclibrary.ca/lillianhsmith/)
+- [Toronto Reference Library - 789 Yonge St](https://www.torontopubliclibrary.ca/torontoreferencelibrary/)
+- 
 
 ## Things to do in Toronto
 [**Table of Contents**](#table-of-contents)
@@ -795,11 +797,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMjgwMDY4OCwtNzQxMjM0OTA1LC0xNT
-U1ODEwNTYsLTY2MjU4MDkxMCwxNTY3OTc3NjU2LC0xMzgyMzgw
-NDY5LDI4NTMzMjkwNSw2NzA0MDI3OTIsLTIwMjA1NTk1NDQsLT
-Q3NTYzNDI0OSwtODkyMzQyNzQyLC02NjUxODI3NjQsLTM5NzI5
-MTk2LDEyNTI5MTMxOTgsMjEwNjk1NDI3NSwtOTAwMTg2MjYsLT
-Y2MzEzODYyNywtOTc2Njk2MDA3LC00MTI4MDM0NTAsMjE3NjU1
-MTVdfQ==
+eyJoaXN0b3J5IjpbLTEyNTMyMTA2ODQsLTc0MTIzNDkwNSwtMT
+U1NTgxMDU2LC02NjI1ODA5MTAsMTU2Nzk3NzY1NiwtMTM4MjM4
+MDQ2OSwyODUzMzI5MDUsNjcwNDAyNzkyLC0yMDIwNTU5NTQ0LC
+00NzU2MzQyNDksLTg5MjM0Mjc0MiwtNjY1MTgyNzY0LC0zOTcy
+OTE5NiwxMjUyOTEzMTk4LDIxMDY5NTQyNzUsLTkwMDE4NjI2LC
+02NjMxMzg2MjcsLTk3NjY5NjAwNywtNDEyODAzNDUwLDIxNzY1
+NTE1XX0=
 -->
