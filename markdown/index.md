@@ -531,6 +531,7 @@ Graduate student residence that is affiliated with but independent from UofT. Yo
 ### Printing and Copying
 
 ## Useful Links
+[**Table of Contents**](#table-of-contents)
 
 - [NASA ADS](https://ui.adsabs.harvard.edu) - paper database with citation exports
 - [arXiv astro-ph](https://arxiv.org/list/astro-ph/recent) - paper database
@@ -788,7 +789,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NDQ2NTg1NCwtNzQxMjM0OTA1LC0xNT
+eyJoaXN0b3J5IjpbMTE4MjM1OTExNiwtNzQxMjM0OTA1LC0xNT
 U1ODEwNTYsLTY2MjU4MDkxMCwxNTY3OTc3NjU2LC0xMzgyMzgw
 NDY5LDI4NTMzMjkwNSw2NzA0MDI3OTIsLTIwMjA1NTk1NDQsLT
 Q3NTYzNDI0OSwtODkyMzQyNzQyLC02NjUxODI3NjQsLTM5NzI5
