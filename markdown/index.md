@@ -527,12 +527,15 @@ These two courses are the research component of the first year of the [direct en
 - **Submit monthly updates**
 	- One paragraph indicating progress and stumbling blocks
 	- *Deadline*
-		- AST1501Y and AST1500Y: End of each month after the project proposal 
+		- AST1501Y and AST1500Y: at the end of each month after the project proposal 
 - **Submit research report**
 	- If the project led to publication (either in prep, submitted or accepted) this may be submitted in lieu of a report
 	- No more than 10 pages describing the outcome of the project
 	- *Deadline*
-		- AST1501Y: End of Ap
+		- AST1501Y: by the end of April
+		- AST1500Y: by the end of August
+- **Mini-defense**
+	- 
 
 Both courses begin with the identification of a supervisor. The deadline to do this for AST1501Y is the end of October, and students will receive short presentations in the fall from faculty members taking on students about potential projects. Once a supervisor has been found, the student works with their supervisor to create a detailed outline the project, which they will write up in a project proposal of 3-4 pages, including a 
 
@@ -827,7 +830,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTM2MjI0NTAsMTg1MTI2NTU5Myw2MD
+eyJoaXN0b3J5IjpbLTE3ODE1NzU5MTgsMTg1MTI2NTU5Myw2MD
 EzMjM4MTksLTEyMzcyMDk5MzYsLTE3NjAyNTUwNTIsLTc0MTIz
 NDkwNSwtMTU1NTgxMDU2LC02NjI1ODA5MTAsMTU2Nzk3NzY1Ni
 wtMTM4MjM4MDQ2OSwyODUzMzI5MDUsNjcwNDAyNzkyLC0yMDIw
