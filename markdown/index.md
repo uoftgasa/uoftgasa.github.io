@@ -509,9 +509,11 @@ The graduate program is described in detail on the [department website](http://w
 
 ### Direct Entry vs Standard PhD
 
-The 'Direct Entry PhD' refers to the 5-year program in which most students are enrolled. Students attending UofT already in possession of a MSc will be entered into the 4-year 'Standard PhD' track. The sections below describe the direct entry PhD, but the requirements for the standard PhD are the same except that 
+The 'Direct Entry PhD' refers to the 5-year program in which most students are enrolled. Students attending UofT already in possession of a MSc will be entered into the 4-year 'Standard PhD' track. The sections below describe the direct entry PhD, but the requirements for the standard PhD are the same except that standard PhD students are not required to take any courses and complete the qualifying exams in their first year instead of their second.
 
 ### AST1501Y and AST1500Y
+
+These two courses are the research component of the 
 
 ### Courses
 
@@ -804,7 +806,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3ODg4Njg1NCwtMTIzNzIwOTkzNiwtMT
+eyJoaXN0b3J5IjpbMTQwNDg5MDMyMiwtMTIzNzIwOTkzNiwtMT
 c2MDI1NTA1MiwtNzQxMjM0OTA1LC0xNTU1ODEwNTYsLTY2MjU4
 MDkxMCwxNTY3OTc3NjU2LC0xMzgyMzgwNDY5LDI4NTMzMjkwNS
 w2NzA0MDI3OTIsLTIwMjA1NTk1NDQsLTQ3NTYzNDI0OSwtODky
