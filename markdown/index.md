@@ -513,19 +513,19 @@ The 'Direct Entry PhD' refers to the 5-year program in which most students are e
 
 ### AST1501Y and AST1500Y
 
-These two courses are the research component of the first year of the [direct entry](#direct-entry-vs-standard-phd) PhD program. Students must enrol in AST1501Y on [ACORN](acorn.utoronto.ca) in their first semester of the program, and the course continues until the end of the winter semester (the end of April). Students subsequently enrol in AST1500Y (also through [ACORN](acorn.utoronto.ca)) which takes them through until the end of August. Both courses are similar in both structure and requirements, but AST1500Y has a shorter timeline because students are expected to be more familiar with the department and will no longer have other [courses](#courses) or [teaching](#teaching) obligations. The courses have class discussion components, which are used to develop their research skills. The list below outlines all of the components and requirements of the two courses.
+These two courses are the research component of the first year of the [direct entry](#direct-entry-vs-standard-phd) PhD program. Students must enrol in AST1501Y on [ACORN](acorn.utoronto.ca) in their first semester of the program, and the course continues until the end of the winter semester (the end of April). Students subsequently enrol in AST1500Y (also through [ACORN](acorn.utoronto.ca)) which takes them through until the end of August. Both courses are similar in both structure and requirements, but AST1500Y has a shorter timeline because students are expected to be more familiar with the department and will no longer have other [courses](#courses) or [teaching](#teaching) obligations. The courses have class discussion components, which are used to develop their research skills. The list below outlines all of the components and requirements of the two courses. Written requirements are submitted to the graduate co-chair, as
 
 - **Identify a supervisor**
 	- *Deadline*:
 		- AST1501Y: by the end of October
 		- AST1500Y: by the second week of May
 - **Submit a project proposal**
-	- 3-4 pages, including a month-by-month timeline
+	- 3-4 pages single column, including a month-by-month timeline
 	- *Deadline*
 		- AST1501Y: by the second week of November
 		- AST1500Y: by the end of May
 - **Submit monthly updates**
-	- One paragra
+	- One paragraph indicating progress and stumbling blocks
 
 Both courses begin with the identification of a supervisor. The deadline to do this for AST1501Y is the end of October, and students will receive short presentations in the fall from faculty members taking on students about potential projects. Once a supervisor has been found, the student works with their supervisor to create a detailed outline the project, which they will write up in a project proposal of 3-4 pages, including a 
 
@@ -820,11 +820,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTUxMTcxMjcsMTg1MTI2NTU5Myw2MD
-EzMjM4MTksLTEyMzcyMDk5MzYsLTE3NjAyNTUwNTIsLTc0MTIz
-NDkwNSwtMTU1NTgxMDU2LC02NjI1ODA5MTAsMTU2Nzk3NzY1Ni
-wtMTM4MjM4MDQ2OSwyODUzMzI5MDUsNjcwNDAyNzkyLC0yMDIw
-NTU5NTQ0LC00NzU2MzQyNDksLTg5MjM0Mjc0MiwtNjY1MTgyNz
-Y0LC0zOTcyOTE5NiwxMjUyOTEzMTk4LDIxMDY5NTQyNzUsLTkw
-MDE4NjI2XX0=
+eyJoaXN0b3J5IjpbMzA0OTE0MTcxLDE4NTEyNjU1OTMsNjAxMz
+IzODE5LC0xMjM3MjA5OTM2LC0xNzYwMjU1MDUyLC03NDEyMzQ5
+MDUsLTE1NTU4MTA1NiwtNjYyNTgwOTEwLDE1Njc5Nzc2NTYsLT
+EzODIzODA0NjksMjg1MzMyOTA1LDY3MDQwMjc5MiwtMjAyMDU1
+OTU0NCwtNDc1NjM0MjQ5LC04OTIzNDI3NDIsLTY2NTE4Mjc2NC
+wtMzk3MjkxOTYsMTI1MjkxMzE5OCwyMTA2OTU0Mjc1LC05MDAx
+ODYyNl19
 -->
