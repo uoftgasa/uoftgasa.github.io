@@ -807,7 +807,7 @@ Toronto has two international airports: Pearson International Airport (YYZ) in t
 #### Pearson International Airport
 Pearson is a behemoth of an airport, reachable by car or a variety of [public transit options](https://www.torontopearson.com/en/toandfrom/public/#), including the Union Pearson Express, a train with $9 fares for Presto card users (see the [TTC](#toronto-transit-commission) section for more details on the Presto Card).
 
-Pearson has two terminals, helpfully labelled Terminal 1 (the main terminal, especially for international destinations) and Terminal 3. Both terminals are recently renovated, and they are connected by a free monorail. For a full list of which airline flies out of which terminal
+Pearson has two terminals, helpfully labelled Terminal 1 (for higher-end airlines and Air C) and Terminal 3 (typically budget airlines and domestic destinations). Both terminals are recently renovated, and they are connected by a free monorail. For a full list of which airline flies out of which terminal, you can check [Pearson's website](https://www.torontopearson.com/en/flights/airlines-destinations/#).
 
 
 #### Billy Bishop Airport
@@ -922,11 +922,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjYxOTk3ODcsODIxNzIwODM1LC02MD
-AzOTgyNTcsMTA5OTU5Nzg2MCwxODUxMjY1NTkzLDYwMTMyMzgx
-OSwtMTIzNzIwOTkzNiwtMTc2MDI1NTA1MiwtNzQxMjM0OTA1LC
-0xNTU1ODEwNTYsLTY2MjU4MDkxMCwxNTY3OTc3NjU2LC0xMzgy
-MzgwNDY5LDI4NTMzMjkwNSw2NzA0MDI3OTIsLTIwMjA1NTk1ND
-QsLTQ3NTYzNDI0OSwtODkyMzQyNzQyLC02NjUxODI3NjQsLTM5
-NzI5MTk2XX0=
+eyJoaXN0b3J5IjpbMTI5NTUwNTc3MCw4MjE3MjA4MzUsLTYwMD
+M5ODI1NywxMDk5NTk3ODYwLDE4NTEyNjU1OTMsNjAxMzIzODE5
+LC0xMjM3MjA5OTM2LC0xNzYwMjU1MDUyLC03NDEyMzQ5MDUsLT
+E1NTU4MTA1NiwtNjYyNTgwOTEwLDE1Njc5Nzc2NTYsLTEzODIz
+ODA0NjksMjg1MzMyOTA1LDY3MDQwMjc5MiwtMjAyMDU1OTU0NC
+wtNDc1NjM0MjQ5LC04OTIzNDI3NDIsLTY2NTE4Mjc2NCwtMzk3
+MjkxOTZdfQ==
 -->
