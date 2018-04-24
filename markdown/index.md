@@ -769,16 +769,9 @@ The proof of payment for each of the fares discussed above is as follows:
 - **Day Pass: Day Pass**
 - **Weekly Pass: Weekly Pass** 
 - **Post-secondary student Metropass: Metropass** 
-	- unlimited travel for a month carrying a [post-secondary ID card](https://www.ttc.ca/Fares_and_passes/Fare_information/Seniors_students_and_children/Post_Secondary_Students/index.jsp)
-	- make 36 trips to break even with the cash fare
-	- make 39 trips to break even with the Presto fare
-	- best for frequent users who use the TTC every weekday
-- **Adult monthly Metropass: $146.25/month** (although you can reduce this to $134.00/month by purchasing  a year's worth with the [Monthly Discount Plan](https://www.ttc.ca/Fares_and_passes/Passes/Metropass/Metropass_MDP/index.jsp))
-	- unlimited travel for a month
-	- make 45 trips to break even with the cash fare
-	- make 49 trips to break even with the Presto fare
-	- best for frequent users who use the TTC every weekday and do not have a [post-secondary ID card](https://www.ttc.ca/Fares_and_passes/Fare_information/Seniors_students_and_children/Post_Secondary_Students/index.jsp)
-	- this pass can be purchased as a card of loaded onto a Presto card
+- **Adult monthly Metropass: Metropass**
+
+Proof of payment is especially important on streetcars, where no one checks that you've paid when you board. If yo 
 
 **The Presto Card:**
 
@@ -903,11 +896,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA1MDcxNjc4LC02MDAzOTgyNTcsMTA5OT
-U5Nzg2MCwxODUxMjY1NTkzLDYwMTMyMzgxOSwtMTIzNzIwOTkz
-NiwtMTc2MDI1NTA1MiwtNzQxMjM0OTA1LC0xNTU1ODEwNTYsLT
-Y2MjU4MDkxMCwxNTY3OTc3NjU2LC0xMzgyMzgwNDY5LDI4NTMz
-MjkwNSw2NzA0MDI3OTIsLTIwMjA1NTk1NDQsLTQ3NTYzNDI0OS
-wtODkyMzQyNzQyLC02NjUxODI3NjQsLTM5NzI5MTk2LDEyNTI5
-MTMxOThdfQ==
+eyJoaXN0b3J5IjpbLTEyNTYyOTIxNjQsLTYwMDM5ODI1NywxMD
+k5NTk3ODYwLDE4NTEyNjU1OTMsNjAxMzIzODE5LC0xMjM3MjA5
+OTM2LC0xNzYwMjU1MDUyLC03NDEyMzQ5MDUsLTE1NTU4MTA1Ni
+wtNjYyNTgwOTEwLDE1Njc5Nzc2NTYsLTEzODIzODA0NjksMjg1
+MzMyOTA1LDY3MDQwMjc5MiwtMjAyMDU1OTU0NCwtNDc1NjM0Mj
+Q5LC04OTIzNDI3NDIsLTY2NTE4Mjc2NCwtMzk3MjkxOTYsMTI1
+MjkxMzE5OF19
 -->
