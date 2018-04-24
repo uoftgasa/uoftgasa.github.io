@@ -720,6 +720,8 @@ While many students opt to live close enough to campus to walk, this can be fina
 
 ### Public Transit
 
+There are two primary transit options in downtown Toronto, which connect to other transit agencies in nearby cities
+
 #### Toronto Transit Commission
 
 #### GO Transit
@@ -839,7 +841,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMjc1MTg5NiwtNjAwMzk4MjU3LDEwOT
+eyJoaXN0b3J5IjpbMTgyNzEyODEzNCwtNjAwMzk4MjU3LDEwOT
 k1OTc4NjAsMTg1MTI2NTU5Myw2MDEzMjM4MTksLTEyMzcyMDk5
 MzYsLTE3NjAyNTUwNTIsLTc0MTIzNDkwNSwtMTU1NTgxMDU2LC
 02NjI1ODA5MTAsMTU2Nzk3NzY1NiwtMTM4MjM4MDQ2OSwyODUz
