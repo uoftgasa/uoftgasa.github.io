@@ -771,9 +771,11 @@ The proof of payment for each of the fares discussed above is as follows:
 - **Post-secondary student Metropass: Metropass** 
 - **Adult monthly Metropass: Metropass**
 
-Proof of payment is especially important on streetcars, where no one checks that you've paid when you board. Streetcar riders are randomly checked by TTC Fare Inspectors to ensure they've paid their fare. You will get ticketed if you don't have proof, even if you did actually pay but forgot to pick up the transfer. A common point of confusion for this is at Union station, where its possible to disembark from the subway and walk right to the 509/510 streetcars without passing through any fare gates
+Proof of payment is especially important on streetcars, where no one checks that you've paid when you board. Streetcar riders are randomly checked by TTC Fare Inspectors to ensure they've paid their fare. You will get ticketed if you don't have proof, even if you did actually pay but forgot to pick up the transfer. A common point of confusion for this is at Union station, where its possible to disembark from the subway and walk right to the 509/510 streetcars without passing through any fare gates.  If you didn't pick up a transfer in the station where you boarded the subway, you'll be out of luck if your streetcar gets checked later on.
 
 **The Presto Card:**
+
+Local transit agencies are attempting to unify under 
 
 #### GO Transit
 
@@ -896,11 +898,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTc0NzM1NTIsLTYwMDM5ODI1NywxMD
-k5NTk3ODYwLDE4NTEyNjU1OTMsNjAxMzIzODE5LC0xMjM3MjA5
-OTM2LC0xNzYwMjU1MDUyLC03NDEyMzQ5MDUsLTE1NTU4MTA1Ni
-wtNjYyNTgwOTEwLDE1Njc5Nzc2NTYsLTEzODIzODA0NjksMjg1
-MzMyOTA1LDY3MDQwMjc5MiwtMjAyMDU1OTU0NCwtNDc1NjM0Mj
-Q5LC04OTIzNDI3NDIsLTY2NTE4Mjc2NCwtMzk3MjkxOTYsMTI1
-MjkxMzE5OF19
+eyJoaXN0b3J5IjpbMTc4NTU3OTkxOCwtNjAwMzk4MjU3LDEwOT
+k1OTc4NjAsMTg1MTI2NTU5Myw2MDEzMjM4MTksLTEyMzcyMDk5
+MzYsLTE3NjAyNTUwNTIsLTc0MTIzNDkwNSwtMTU1NTgxMDU2LC
+02NjI1ODA5MTAsMTU2Nzk3NzY1NiwtMTM4MjM4MDQ2OSwyODUz
+MzI5MDUsNjcwNDAyNzkyLC0yMDIwNTU5NTQ0LC00NzU2MzQyND
+ksLTg5MjM0Mjc0MiwtNjY1MTgyNzY0LC0zOTcyOTE5NiwxMjUy
+OTEzMTk4XX0=
 -->
