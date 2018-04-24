@@ -513,7 +513,7 @@ The 'Direct Entry PhD' refers to the 5-year program in which most students are e
 
 ### AST1501Y and AST1500Y
 
-These two courses are the research component of the first year of the [direct entry](#direct-entry-vs-standard-phd) PhD program. Students must enrol in AST1501Y on [ACORN](acorn.utoronto.ca) in their first semester of the program, and the course continues until the end of the winter semester (the end of April). Students subsequently enrol in AST1500Y over the summer
+These two courses are the research component of the first year of the [direct entry](#direct-entry-vs-standard-phd) PhD program. Students must enrol in AST1501Y on [ACORN](acorn.utoronto.ca) in their first semester of the program, and the course continues until the end of the winter semester (the end of April). Students subsequently enrol in AST1500Y (also through [ACORN](acorn.utoronto.ca)) over the four summer months, . Both courses are
 
 ### Courses
 
@@ -806,11 +806,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTA3NTg5ODQsLTEyMzcyMDk5MzYsLT
-E3NjAyNTUwNTIsLTc0MTIzNDkwNSwtMTU1NTgxMDU2LC02NjI1
-ODA5MTAsMTU2Nzk3NzY1NiwtMTM4MjM4MDQ2OSwyODUzMzI5MD
-UsNjcwNDAyNzkyLC0yMDIwNTU5NTQ0LC00NzU2MzQyNDksLTg5
-MjM0Mjc0MiwtNjY1MTgyNzY0LC0zOTcyOTE5NiwxMjUyOTEzMT
-k4LDIxMDY5NTQyNzUsLTkwMDE4NjI2LC02NjMxMzg2MjcsLTk3
-NjY5NjAwN119
+eyJoaXN0b3J5IjpbMTQ0MzcyMjA5MiwtMTIzNzIwOTkzNiwtMT
+c2MDI1NTA1MiwtNzQxMjM0OTA1LC0xNTU1ODEwNTYsLTY2MjU4
+MDkxMCwxNTY3OTc3NjU2LC0xMzgyMzgwNDY5LDI4NTMzMjkwNS
+w2NzA0MDI3OTIsLTIwMjA1NTk1NDQsLTQ3NTYzNDI0OSwtODky
+MzQyNzQyLC02NjUxODI3NjQsLTM5NzI5MTk2LDEyNTI5MTMxOT
+gsMjEwNjk1NDI3NSwtOTAwMTg2MjYsLTY2MzEzODYyNywtOTc2
+Njk2MDA3XX0=
 -->
