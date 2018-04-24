@@ -720,7 +720,7 @@ While many students opt to live close enough to campus to walk, this can be fina
 
 ### Public Transit
 
-There are two primary transit options in downtown Toronto, which connect to other transit agencies in nearby cities. Transit vehicle schedules are available online as well as through a variety of transit apps
+There are two primary transit options in downtown Toronto, which connect to other transit agencies in nearby cities. Transit vehicle schedules are available online as well as through a variety of transit apps (e.g. [Transit](https://transitapp.com)).
 
 #### Toronto Transit Commission
 
@@ -778,6 +778,8 @@ Proof of payment is especially important on streetcars, where no one checks that
 Local transit agencies are attempting to unify the Presto card, allowing you to have one piece of fare media to use in a variety of different systems. The card costs $6 to buy, and must be preloaded with either $10 (when purchased online or in a participating Shoppers Drug Mart), or $14 (when purchased in a subway station). An online card order will take 2 weeks to deliver by mail, so its worth investigating Presto's [exhaustive list of purchase locations](https://www.prestocard.ca/en/find-an-outlet/customer-service-outlets). Once purchased, the card can be refilled online, in participating Shoppers Drug Marts, or at machines in transit stations.
 
 The card is activated by tapping. On the TTC, this action either deducts the flat $3.00 fares, or algorithmically determines that you are making a valid transfer from another TTC vehicle (see the [TTC's Presto transfer rules](https://www.ttc.ca/Fares_and_passes/PRESTO/FAQ.jsp)). This algorithm is not perfect; keep an eye on your balance and dispute unfair charges. In other transit agencies, fares may be charged by distance travelled; in these cases it is essential to 'tap on' when you enter a vehicle and 'tap off' when you leave it.
+
+Presto card users enjoy reduced fares when switching between the following agencie
 
 **Rush Hours**
 
@@ -904,11 +906,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MTMwMDgyMCw4MjE3MjA4MzUsLTYwMD
-M5ODI1NywxMDk5NTk3ODYwLDE4NTEyNjU1OTMsNjAxMzIzODE5
-LC0xMjM3MjA5OTM2LC0xNzYwMjU1MDUyLC03NDEyMzQ5MDUsLT
-E1NTU4MTA1NiwtNjYyNTgwOTEwLDE1Njc5Nzc2NTYsLTEzODIz
-ODA0NjksMjg1MzMyOTA1LDY3MDQwMjc5MiwtMjAyMDU1OTU0NC
-wtNDc1NjM0MjQ5LC04OTIzNDI3NDIsLTY2NTE4Mjc2NCwtMzk3
-MjkxOTZdfQ==
+eyJoaXN0b3J5IjpbNzM3Mzc1MjI4LDgyMTcyMDgzNSwtNjAwMz
+k4MjU3LDEwOTk1OTc4NjAsMTg1MTI2NTU5Myw2MDEzMjM4MTks
+LTEyMzcyMDk5MzYsLTE3NjAyNTUwNTIsLTc0MTIzNDkwNSwtMT
+U1NTgxMDU2LC02NjI1ODA5MTAsMTU2Nzk3NzY1NiwtMTM4MjM4
+MDQ2OSwyODUzMzI5MDUsNjcwNDAyNzkyLC0yMDIwNTU5NTQ0LC
+00NzU2MzQyNDksLTg5MjM0Mjc0MiwtNjY1MTgyNzY0LC0zOTcy
+OTE5Nl19
 -->
