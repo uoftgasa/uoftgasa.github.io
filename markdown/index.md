@@ -513,7 +513,7 @@ The 'Direct Entry PhD' refers to the 5-year program in which most students are e
 
 ### AST1501Y and AST1500Y
 
-These two courses are the research component of the first year of the [direct entry](#direct-entry-vs-standard-phd) PhD program. Note that in this first year, students are paid by the department for their research, rather than being paid by an individual supervisor. Students must enrol in AST1501Y on [ACORN](acorn.utoronto.ca) in their first semester of the program, and the course continues until the end of the winter semester (the end of April). Students subsequently enrol in AST1500Y (also through [ACORN](acorn.utoronto.ca)) which takes them through until the end of August. Both courses are similar in both structure and requirements, but AST1500Y has a shorter timeline because students are expected to be more familiar with the department and will no longer have other [courses](#courses) or [teaching](#teaching) obligations. The courses have class discussion components, which are used to develop their research skills. The list below outlines all of the components and requirements of the two courses. Written requirements are submitted to the supervisor and the graduate co-chair.
+These two courses are the research component of the first year of the [direct entry](#direct-entry-vs-standard-phd) PhD program. Note that in this first year, students are paid by the department for their research, rather than being paid by an individual supervisor. Students must enrol in AST1501Y on [ACORN](acorn.utoronto.ca) in their first semester of the program, and the course continues until the end of the winter semester (the end of April). Students subsequently enrol in AST1500Y (also through [ACORN](acorn.utoronto.ca)) which takes them through until the end of August. Both courses are similar in both structure and requirements, but AST1500Y has a shorter timeline because students are expected to be more familiar with the department and will no longer have other [courses](#courses) or [teaching](#teaching) obligations. It is expected, but not strictly required, that students will explore two different fields of study in these courses, even if they have a clear idea of the thesis work they would like to pursue.  Bothcourses have class discussion components, which are used to develop their research skills. The list below outlines all of the components and requirements of the two courses. Written requirements are submitted to the supervisor and the graduate co-chair.
 
 - **Identify a supervisor**
 	- In the fall semester, faculty taking on students will give short presentations outlining potential projects.
@@ -837,11 +837,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTEzOTc2NjQsMTA5OTU5Nzg2MCwxOD
-UxMjY1NTkzLDYwMTMyMzgxOSwtMTIzNzIwOTkzNiwtMTc2MDI1
-NTA1MiwtNzQxMjM0OTA1LC0xNTU1ODEwNTYsLTY2MjU4MDkxMC
-wxNTY3OTc3NjU2LC0xMzgyMzgwNDY5LDI4NTMzMjkwNSw2NzA0
-MDI3OTIsLTIwMjA1NTk1NDQsLTQ3NTYzNDI0OSwtODkyMzQyNz
-QyLC02NjUxODI3NjQsLTM5NzI5MTk2LDEyNTI5MTMxOTgsMjEw
-Njk1NDI3NV19
+eyJoaXN0b3J5IjpbMjA5MzUyMjQyMCwxMDk5NTk3ODYwLDE4NT
+EyNjU1OTMsNjAxMzIzODE5LC0xMjM3MjA5OTM2LC0xNzYwMjU1
+MDUyLC03NDEyMzQ5MDUsLTE1NTU4MTA1NiwtNjYyNTgwOTEwLD
+E1Njc5Nzc2NTYsLTEzODIzODA0NjksMjg1MzMyOTA1LDY3MDQw
+Mjc5MiwtMjAyMDU1OTU0NCwtNDc1NjM0MjQ5LC04OTIzNDI3ND
+IsLTY2NTE4Mjc2NCwtMzk3MjkxOTYsMTI1MjkxMzE5OCwyMTA2
+OTU0Mjc1XX0=
 -->
