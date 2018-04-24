@@ -535,7 +535,7 @@ These two courses are the research component of the first year of the [direct en
 		- AST1501Y: by the end of April
 		- AST1500Y: by the end of August
 - **Mini-defense**
-	- 
+	- A final presentation of the results of the project to a committee of three: your supervisor, the graduate co-chair and a third faculty or post-doc not directly involved with the p
 
 Both courses begin with the identification of a supervisor. The deadline to do this for AST1501Y is the end of October, and students will receive short presentations in the fall from faculty members taking on students about potential projects. Once a supervisor has been found, the student works with their supervisor to create a detailed outline the project, which they will write up in a project proposal of 3-4 pages, including a 
 
@@ -830,7 +830,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDA4NjY5NjMsMTA5OTU5Nzg2MCwxOD
+eyJoaXN0b3J5IjpbLTEyMzMyOTQ3NzQsMTA5OTU5Nzg2MCwxOD
 UxMjY1NTkzLDYwMTMyMzgxOSwtMTIzNzIwOTkzNiwtMTc2MDI1
 NTA1MiwtNzQxMjM0OTA1LC0xNTU1ODEwNTYsLTY2MjU4MDkxMC
 wxNTY3OTc3NjU2LC0xMzgyMzgwNDY5LDI4NTMzMjkwNSw2NzA0
