@@ -730,8 +730,10 @@ This system of subways, streetcars, and buses is the primary public transit opti
 - **Presto fare**: $3.00 (although the card has a startup cost)- tap this reloadable card at every vehicle transfer, see [below](#the-presto-card) for more details
 - **Day pass**: $12.50 - unlimited travel for one day, make 4 trips to break even with the cash fare
 - **Weekly pass**: $43.75 - unlimited travel for a week, make 14 trips to break even with the cash fare
-- **Post-secondary student monthly pass**: $116.75 - unlimited travel for a month carrying a [post-secondary ID card](https://www.ttc.ca/Fares_and_passes/Fare_information/Seniors_students_and_children/Post_Secondary_Students/index.jsp), make 36 trips to break even with the cash fare or 39 trips to break even with the Presto fare
-- **Adult monthly pass**: $146.25 (although you can reduce this to $134.00 for buying a year's worth with the [Monthly Discount Plan](https://www.ttc.ca/Fares_and_passes/Passes/Metropass/Metropass_MDP/index.jsp)) - unlimited travel for a month, make 45 trips to break even with the cash fare or 49 trips to break even with the Presto fare
+- **Post-secondary student Metropass**: $116.75 - unlimited travel for a month carrying a [post-secondary ID card](https://www.ttc.ca/Fares_and_passes/Fare_information/Seniors_students_and_children/Post_Secondary_Students/index.jsp), make 36 trips to break even with the cash fare or 39 trips to break even with the Presto fare
+- **Adult monthly Metropass**: $146.25 (although you can reduce this to $134.00 for buying a year's worth with the [Monthly Discount Plan](https://www.ttc.ca/Fares_and_passes/Passes/Metropass/Metropass_MDP/index.jsp)) - unlimited travel for a month, make 45 trips to break even with the cash fare or 49 trips to break even with the Presto fare
+
+Note that as long as you get the [post-secondary ID card](https://www.ttc.ca/Fares_and_passes/Fare_information/Seniors_students_and_children/Post_Secondary_Students/index.jsp), there is no benefit to choosing the Adult Metropass over the Post-secondary Metropass. TTC passes are only valid on TTC veh
 
 Paying a cash fare 
 
@@ -858,11 +860,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5ODk5NzYsLTYwMDM5ODI1NywxMDk5NT
-k3ODYwLDE4NTEyNjU1OTMsNjAxMzIzODE5LC0xMjM3MjA5OTM2
-LC0xNzYwMjU1MDUyLC03NDEyMzQ5MDUsLTE1NTU4MTA1NiwtNj
-YyNTgwOTEwLDE1Njc5Nzc2NTYsLTEzODIzODA0NjksMjg1MzMy
-OTA1LDY3MDQwMjc5MiwtMjAyMDU1OTU0NCwtNDc1NjM0MjQ5LC
-04OTIzNDI3NDIsLTY2NTE4Mjc2NCwtMzk3MjkxOTYsMTI1Mjkx
-MzE5OF19
+eyJoaXN0b3J5IjpbODI0NDcyNzIxLC02MDAzOTgyNTcsMTA5OT
+U5Nzg2MCwxODUxMjY1NTkzLDYwMTMyMzgxOSwtMTIzNzIwOTkz
+NiwtMTc2MDI1NTA1MiwtNzQxMjM0OTA1LC0xNTU1ODEwNTYsLT
+Y2MjU4MDkxMCwxNTY3OTc3NjU2LC0xMzgyMzgwNDY5LDI4NTMz
+MjkwNSw2NzA0MDI3OTIsLTIwMjA1NTk1NDQsLTQ3NTYzNDI0OS
+wtODkyMzQyNzQyLC02NjUxODI3NjQsLTM5NzI5MTk2LDEyNTI5
+MTMxOThdfQ==
 -->
