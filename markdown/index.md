@@ -731,8 +731,7 @@ This system of subways, streetcars, and buses is the primary public transit opti
 - **Day pass**: $12.50 - unlimited travel for one day, make 4 trips to break even with the cash fare
 - **Weekly pass**: $43.75 - unlimited travel for a week, make 14 trips to break even with the cash fare
 - **Post-secondary student monthly pass**: $116.75 - unlimited travel for a month carrying a post-secondary ID card, make 36 trips to break even with the cash fare or 39 trips to break even with the Presto fare
-- **Adult monthly pass**:
-- 
+- **Adult monthly pass**: $146.25 (although you can get a discount for buying a year's worth with the [Monthly Discount Plan](https://www.ttc.ca/Fares_and_passes/Passes/Metropass/Metropass_MDP/index.jsp)
 
 #### GO Transit
 
@@ -857,11 +856,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzk0ODY5NzUsLTYwMDM5ODI1NywxMD
-k5NTk3ODYwLDE4NTEyNjU1OTMsNjAxMzIzODE5LC0xMjM3MjA5
-OTM2LC0xNzYwMjU1MDUyLC03NDEyMzQ5MDUsLTE1NTU4MTA1Ni
-wtNjYyNTgwOTEwLDE1Njc5Nzc2NTYsLTEzODIzODA0NjksMjg1
-MzMyOTA1LDY3MDQwMjc5MiwtMjAyMDU1OTU0NCwtNDc1NjM0Mj
-Q5LC04OTIzNDI3NDIsLTY2NTE4Mjc2NCwtMzk3MjkxOTYsMTI1
-MjkxMzE5OF19
+eyJoaXN0b3J5IjpbLTI1NjY3MzQ4NiwtNjAwMzk4MjU3LDEwOT
+k1OTc4NjAsMTg1MTI2NTU5Myw2MDEzMjM4MTksLTEyMzcyMDk5
+MzYsLTE3NjAyNTUwNTIsLTc0MTIzNDkwNSwtMTU1NTgxMDU2LC
+02NjI1ODA5MTAsMTU2Nzk3NzY1NiwtMTM4MjM4MDQ2OSwyODUz
+MzI5MDUsNjcwNDAyNzkyLC0yMDIwNTU5NTQ0LC00NzU2MzQyND
+ksLTg5MjM0Mjc0MiwtNjY1MTgyNzY0LC0zOTcyOTE5NiwxMjUy
+OTEzMTk4XX0=
 -->
