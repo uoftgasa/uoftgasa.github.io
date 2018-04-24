@@ -531,12 +531,15 @@ These two courses are the research component of the first year of the [direct en
 - **Submit research report**
 	- If the project led to publication (either in prep, submitted or accepted) this may be submitted in lieu of a report
 	- No more than 10 pages describing the outcome of the project, typically following the Introduction-Methods-Results-and-Discussion (IMRaD) format, although other sections may be necessary prior to Methods (e.g. Data if working with survey data, or Observations if taking observations). Examples of IMRaD in astronomy can be found [here](http://www.raa-journal.org/docs/RAA_Lectures/RAA_Lecture2.pdf).
-	- *Deadline*
+	- *Deadline* - note this must be su
 		- AST1501Y: by the end of April
 		- AST1500Y: by the end of August
 - **Mini-defense**
 	- A final presentation of the results of the project to a committee of three: your supervisor, the graduate co-chair and a third faculty or post-doc not directly involved with the project. 
-	- The
+	- The presentation is 10-15 minutes long, with 5 minutes for a follow-up question period.
+	- *Deadline*
+		- AST1501Y: by the end of April
+		- AST1500Y: by the end of August
 
 Both courses begin with the identification of a supervisor. The deadline to do this for AST1501Y is the end of October, and students will receive short presentations in the fall from faculty members taking on students about potential projects. Once a supervisor has been found, the student works with their supervisor to create a detailed outline the project, which they will write up in a project proposal of 3-4 pages, including a 
 
@@ -831,11 +834,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MDUzMzUwNywxMDk5NTk3ODYwLDE4NT
-EyNjU1OTMsNjAxMzIzODE5LC0xMjM3MjA5OTM2LC0xNzYwMjU1
-MDUyLC03NDEyMzQ5MDUsLTE1NTU4MTA1NiwtNjYyNTgwOTEwLD
-E1Njc5Nzc2NTYsLTEzODIzODA0NjksMjg1MzMyOTA1LDY3MDQw
-Mjc5MiwtMjAyMDU1OTU0NCwtNDc1NjM0MjQ5LC04OTIzNDI3ND
-IsLTY2NTE4Mjc2NCwtMzk3MjkxOTYsMTI1MjkxMzE5OCwyMTA2
-OTU0Mjc1XX0=
+eyJoaXN0b3J5IjpbLTExMDc2NTEyMDgsMTA5OTU5Nzg2MCwxOD
+UxMjY1NTkzLDYwMTMyMzgxOSwtMTIzNzIwOTkzNiwtMTc2MDI1
+NTA1MiwtNzQxMjM0OTA1LC0xNTU1ODEwNTYsLTY2MjU4MDkxMC
+wxNTY3OTc3NjU2LC0xMzgyMzgwNDY5LDI4NTMzMjkwNSw2NzA0
+MDI3OTIsLTIwMjA1NTk1NDQsLTQ3NTYzNDI0OSwtODkyMzQyNz
+QyLC02NjUxODI3NjQsLTM5NzI5MTk2LDEyNTI5MTMxOTgsMjEw
+Njk1NDI3NV19
 -->
