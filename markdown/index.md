@@ -73,6 +73,7 @@ The contents of this document, accompanied by a frequently asked question that m
 		- [GO Transit](#go-transit)
 	- [Cycling](#cycling)
 	- [Cars](#cars)
+	- [Air Travel](#air-travel)
 - [**UofT Services**](#uoft-services) - How can I find a nearby doctor?
 	- [TCard](#tcard)
 	- [School of Graduate Studies](#school-of-graduate-studies-courses)
@@ -720,7 +721,7 @@ While many students opt to live close enough to campus to walk, this can be fina
 
 ### Public Transit
 
-There are two primary transit options in downtown Toronto, the TTC and GO transit, which connect to other transit agencies in nearby cities. Also discussed in this section is the UP Express, which connects the city to 
+There are two primary transit options in downtown Toronto, the TTC and GO transit, which connect to other transit agencies in nearby cities. 
 
 Transit vehicle schedules are available online as well as through a variety of transit apps (e.g. [Transit](https://transitapp.com)).
 
@@ -798,6 +799,10 @@ As in any city, there are times of day when more people are trying to get around
 #### Car-share programs
 
 #### Taxis, Uber, and Lyft
+
+### Air Travel
+
+Toronto has two major airpor
 
 
 ## UofT Services
@@ -910,7 +915,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMjUzODM2Miw4MjE3MjA4MzUsLTYwMD
+eyJoaXN0b3J5IjpbMTgzMzUwODA0NSw4MjE3MjA4MzUsLTYwMD
 M5ODI1NywxMDk5NTk3ODYwLDE4NTEyNjU1OTMsNjAxMzIzODE5
 LC0xMjM3MjA5OTM2LC0xNzYwMjU1MDUyLC03NDEyMzQ5MDUsLT
 E1NTU4MTA1NiwtNjYyNTgwOTEwLDE1Njc5Nzc2NTYsLTEzODIz
