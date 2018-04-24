@@ -813,7 +813,7 @@ This airport has customs pre-clearance for destinations in the US, meaning you d
 
 #### Billy Bishop Airport
 
-This airport offers regular service
+This airport offers flights to domestic and US destinations, mostly via the budgePorter Airlines.
 
 ## UofT Services
 [**Table of Contents**](#table-of-contents)
@@ -925,7 +925,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNTIyMTQwNiw4MjE3MjA4MzUsLTYwMD
+eyJoaXN0b3J5IjpbLTE0NTU1ODM5MCw4MjE3MjA4MzUsLTYwMD
 M5ODI1NywxMDk5NTk3ODYwLDE4NTEyNjU1OTMsNjAxMzIzODE5
 LC0xMjM3MjA5OTM2LC0xNzYwMjU1MDUyLC03NDEyMzQ5MDUsLT
 E1NTU4MTA1NiwtNjYyNTgwOTEwLDE1Njc5Nzc2NTYsLTEzODIz
