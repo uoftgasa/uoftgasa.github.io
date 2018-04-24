@@ -760,7 +760,33 @@ Depending on your frequency of use, there are few payment options. For anyone li
 Note that as long as you get the [post-secondary ID card](https://www.ttc.ca/Fares_and_passes/Fare_information/Seniors_students_and_children/Post_Secondary_Students/index.jsp), there is no benefit to choosing the Adult Metropass over the Post-secondary Metropass. TTC passes are only valid on TTC vehicles, and do not extend to other transit agencies. Discounts when switching to other agencies from the TTC may be possible with a Presto card.
 
 **Transfers/Proof of Payment (PoP):**
-After paying a cash fare, be sure to pick up a paper transfer (also referred to as proof of payment), which will allow you to switch routes for free provided you are making a one way trip and board the next available vehicle towards your destination. Full transfer rules are [here](https://www.ttc.ca/Fares_and_passes/Fare_information/Transfers/index.jsp). Presto card users must tap their card at each route switch but do not require a paper transfer. Note that some users have reported double charges from this process, it is worth checking your transactions and disputi Pass holders do not require a 
+After paying a cash fare, be sure to pick up a paper transfer (also referred to as proof of payment), which will allow you to switch routes for free provided you are making a one way trip and board the next available vehicle towards your destination. Full transfer rules are [here](https://www.ttc.ca/Fares_and_passes/Fare_information/Transfers/index.jsp). Presto card users must tap their card at each route switch but do not require a paper transfer. Note that some users have reported double charges from this process, it is worth checking your transactions and disputing unfair charges. Pass holders do not require any form of transfer.
+
+The proof of payment for each of the fares discussed above is as follows:
+
+- **Cash fare: paper transfer**
+- **Presto fare: Presto 
+- **Day pass: $12.50/day** 
+	- unlimited travel for one day
+	- make 4 trips to break even with the cash fare
+	- make 5 trips to break even with the Presto fare
+	- best for infrequent users
+- **Weekly pass: $43.75/week** 
+	- unlimited travel for a week
+	- make 14 trips to break even with the cash fare
+	- make 15 trips to break even with the Presto fare
+	- best for infrequent users
+- **Post-secondary student Metropass: $116.75/month** 
+	- unlimited travel for a month carrying a [post-secondary ID card](https://www.ttc.ca/Fares_and_passes/Fare_information/Seniors_students_and_children/Post_Secondary_Students/index.jsp)
+	- make 36 trips to break even with the cash fare
+	- make 39 trips to break even with the Presto fare
+	- best for frequent users who use the TTC every weekday
+- **Adult monthly Metropass: $146.25/month** (although you can reduce this to $134.00/month by purchasing  a year's worth with the [Monthly Discount Plan](https://www.ttc.ca/Fares_and_passes/Passes/Metropass/Metropass_MDP/index.jsp))
+	- unlimited travel for a month
+	- make 45 trips to break even with the cash fare
+	- make 49 trips to break even with the Presto fare
+	- best for frequent users who use the TTC every weekday and do not have a [post-secondary ID card](https://www.ttc.ca/Fares_and_passes/Fare_information/Seniors_students_and_children/Post_Secondary_Students/index.jsp)
+	- this pass can be purchased as a card of loaded onto a Presto card
 
 **The Presto Card:**
 
@@ -885,11 +911,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDYxNzA3MTQsLTYwMDM5ODI1NywxMD
-k5NTk3ODYwLDE4NTEyNjU1OTMsNjAxMzIzODE5LC0xMjM3MjA5
-OTM2LC0xNzYwMjU1MDUyLC03NDEyMzQ5MDUsLTE1NTU4MTA1Ni
-wtNjYyNTgwOTEwLDE1Njc5Nzc2NTYsLTEzODIzODA0NjksMjg1
-MzMyOTA1LDY3MDQwMjc5MiwtMjAyMDU1OTU0NCwtNDc1NjM0Mj
-Q5LC04OTIzNDI3NDIsLTY2NTE4Mjc2NCwtMzk3MjkxOTYsMTI1
-MjkxMzE5OF19
+eyJoaXN0b3J5IjpbLTE5OTAxNTYyMCwtNjAwMzk4MjU3LDEwOT
+k1OTc4NjAsMTg1MTI2NTU5Myw2MDEzMjM4MTksLTEyMzcyMDk5
+MzYsLTE3NjAyNTUwNTIsLTc0MTIzNDkwNSwtMTU1NTgxMDU2LC
+02NjI1ODA5MTAsMTU2Nzk3NzY1NiwtMTM4MjM4MDQ2OSwyODUz
+MzI5MDUsNjcwNDAyNzkyLC0yMDIwNTU5NTQ0LC00NzU2MzQyND
+ksLTg5MjM0Mjc0MiwtNjY1MTgyNzY0LC0zOTcyOTE5NiwxMjUy
+OTEzMTk4XX0=
 -->
