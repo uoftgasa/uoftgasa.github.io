@@ -779,10 +779,9 @@ Local transit agencies are attempting to unify the Presto card, allowing you to 
 
 The card is activated by tapping. On the TTC, this action either deducts the flat $3.00 fares, or algorithmically determines that you are making a valid transfer from another TTC vehicle (see the [TTC's Presto transfer rules](https://www.ttc.ca/Fares_and_passes/PRESTO/FAQ.jsp)). This algorithm is not perfect; keep an eye on your balance and dispute unfair charges. In other transit agencies, fares may be charged by distance travelled; in these cases it is essential to 'tap on' when you enter a vehicle and 'tap off' when you leave it.
 
-Note that a Presto card **does not** automatically switch to a monthly Metropass when your fares equal
+Note that a Presto card **does not** automatically switch to a monthly Metropass when your fares equal the cost of the pass. It is up to you to purchase a monthly Metropass on your card at the beginning of the month if you think you will use it.
 
-Presto card users enjoy reduced fares when switching between the following agencies
-
+Presto card users typically enjoy reduced fares when switchi
 **Rush Hours**
 
 As in any city, there are times of day when more people are trying to get around. At these times, vehicles might be packed to crush depth, making it difficult or impossible to board. Graduate students are lucky to have typically flexible working hours; if you take transit regularly, it's worth investigating the times are which your routes are busiest so you can give yourself the option of a peaceful trip to the office.
@@ -908,11 +907,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODYzMzY5MzIsODIxNzIwODM1LC02MD
-AzOTgyNTcsMTA5OTU5Nzg2MCwxODUxMjY1NTkzLDYwMTMyMzgx
-OSwtMTIzNzIwOTkzNiwtMTc2MDI1NTA1MiwtNzQxMjM0OTA1LC
-0xNTU1ODEwNTYsLTY2MjU4MDkxMCwxNTY3OTc3NjU2LC0xMzgy
-MzgwNDY5LDI4NTMzMjkwNSw2NzA0MDI3OTIsLTIwMjA1NTk1ND
-QsLTQ3NTYzNDI0OSwtODkyMzQyNzQyLC02NjUxODI3NjQsLTM5
-NzI5MTk2XX0=
+eyJoaXN0b3J5IjpbLTg0OTc2ODA1MCw4MjE3MjA4MzUsLTYwMD
+M5ODI1NywxMDk5NTk3ODYwLDE4NTEyNjU1OTMsNjAxMzIzODE5
+LC0xMjM3MjA5OTM2LC0xNzYwMjU1MDUyLC03NDEyMzQ5MDUsLT
+E1NTU4MTA1NiwtNjYyNTgwOTEwLDE1Njc5Nzc2NTYsLTEzODIz
+ODA0NjksMjg1MzMyOTA1LDY3MDQwMjc5MiwtMjAyMDU1OTU0NC
+wtNDc1NjM0MjQ5LC04OTIzNDI3NDIsLTY2NTE4Mjc2NCwtMzk3
+MjkxOTZdfQ==
 -->
