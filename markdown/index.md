@@ -807,7 +807,7 @@ Toronto has two international airports: Pearson International Airport (YYZ) in t
 #### Pearson International Airport
 Pearson is a behemoth of an airport, reachable by car or a variety of [public transit options](https://www.torontopearson.com/en/toandfrom/public/#), including the Union Pearson Express, a train with $9 fares for Presto card users (see the [TTC](#toronto-transit-commission) section for more details on the Presto Card).
 
-Pearson has two terminals, helpfully labelled Terminal 1 (the main terminal, 
+Pearson has two terminals, helpfully labelled Terminal 1 (the main terminal, especially for international destinations) and Terminal 3. Both terminals are recently renovated, and they are connected by a free monorail. For a full list of which airline flies out of which terminal
 
 
 #### Billy Bishop Airport
@@ -922,11 +922,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA2NDcxMzMyLDgyMTcyMDgzNSwtNjAwMz
-k4MjU3LDEwOTk1OTc4NjAsMTg1MTI2NTU5Myw2MDEzMjM4MTks
-LTEyMzcyMDk5MzYsLTE3NjAyNTUwNTIsLTc0MTIzNDkwNSwtMT
-U1NTgxMDU2LC02NjI1ODA5MTAsMTU2Nzk3NzY1NiwtMTM4MjM4
-MDQ2OSwyODUzMzI5MDUsNjcwNDAyNzkyLC0yMDIwNTU5NTQ0LC
-00NzU2MzQyNDksLTg5MjM0Mjc0MiwtNjY1MTgyNzY0LC0zOTcy
-OTE5Nl19
+eyJoaXN0b3J5IjpbLTExNjYxOTk3ODcsODIxNzIwODM1LC02MD
+AzOTgyNTcsMTA5OTU5Nzg2MCwxODUxMjY1NTkzLDYwMTMyMzgx
+OSwtMTIzNzIwOTkzNiwtMTc2MDI1NTA1MiwtNzQxMjM0OTA1LC
+0xNTU1ODEwNTYsLTY2MjU4MDkxMCwxNTY3OTc3NjU2LC0xMzgy
+MzgwNDY5LDI4NTMzMjkwNSw2NzA0MDI3OTIsLTIwMjA1NTk1ND
+QsLTQ3NTYzNDI0OSwtODkyMzQyNzQyLC02NjUxODI3NjQsLTM5
+NzI5MTk2XX0=
 -->
