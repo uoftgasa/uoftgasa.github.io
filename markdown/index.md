@@ -779,7 +779,9 @@ Local transit agencies are attempting to unify the Presto card, allowing you to 
 
 The card is activated by tapping. On the TTC, this action either deducts the flat $3.00 fares, or algorithmically determines that you are making a valid transfer from another TTC vehicle (see the [TTC's Presto transfer rules](https://www.ttc.ca/Fares_and_passes/PRESTO/FAQ.jsp)). This algorithm is not perfect; keep an eye on your balance and dispute unfair charges. In other transit agencies, fares may be charged by distance travelled; in these cases it is essential to 'tap on' when you enter a vehicle and 'tap off' when you leave it.
 
-Presto card users enjoy reduced fares when switching between the following agencie
+Note that a Presto card **does not** automatically switch to a monthly Metropass when your fares equal
+
+Presto card users enjoy reduced fares when switching between the following agencies
 
 **Rush Hours**
 
@@ -906,11 +908,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM3Mzc1MjI4LDgyMTcyMDgzNSwtNjAwMz
-k4MjU3LDEwOTk1OTc4NjAsMTg1MTI2NTU5Myw2MDEzMjM4MTks
-LTEyMzcyMDk5MzYsLTE3NjAyNTUwNTIsLTc0MTIzNDkwNSwtMT
-U1NTgxMDU2LC02NjI1ODA5MTAsMTU2Nzk3NzY1NiwtMTM4MjM4
-MDQ2OSwyODUzMzI5MDUsNjcwNDAyNzkyLC0yMDIwNTU5NTQ0LC
-00NzU2MzQyNDksLTg5MjM0Mjc0MiwtNjY1MTgyNzY0LC0zOTcy
-OTE5Nl19
+eyJoaXN0b3J5IjpbLTEwODYzMzY5MzIsODIxNzIwODM1LC02MD
+AzOTgyNTcsMTA5OTU5Nzg2MCwxODUxMjY1NTkzLDYwMTMyMzgx
+OSwtMTIzNzIwOTkzNiwtMTc2MDI1NTA1MiwtNzQxMjM0OTA1LC
+0xNTU1ODEwNTYsLTY2MjU4MDkxMCwxNTY3OTc3NjU2LC0xMzgy
+MzgwNDY5LDI4NTMzMjkwNSw2NzA0MDI3OTIsLTIwMjA1NTk1ND
+QsLTQ3NTYzNDI0OSwtODkyMzQyNzQyLC02NjUxODI3NjQsLTM5
+NzI5MTk2XX0=
 -->
