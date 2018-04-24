@@ -754,7 +754,8 @@ Depending on your frequency of use, there are few payment options. For anyone li
 	- unlimited travel for a month
 	- make 45 trips to break even with the cash fare
 	- make 49 trips to break even with the Presto fare
-	- best for frequent users who use the TTC every weekd
+	- best for frequent users who use the TTC every weekday and do not have a [post-secondary ID card](https://www.ttc.ca/Fares_and_passes/Fare_information/Seniors_students_and_children/Post_Secondary_Students/index.jsp)
+	- this pass can be purchased as a card of loaded onto a Presto card
 
 Note that as long as you get the [post-secondary ID card](https://www.ttc.ca/Fares_and_passes/Fare_information/Seniors_students_and_children/Post_Secondary_Students/index.jsp), there is no benefit to choosing the Adult Metropass over the Post-secondary Metropass. TTC passes are only valid on TTC vehicles, and do not extend to other transit agencies. Discounts when switching to other agencies from the TTC may be possible with a Presto card.
 
@@ -884,7 +885,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NTMxOTI0NywtNjAwMzk4MjU3LDEwOT
+eyJoaXN0b3J5IjpbMTkzNDQzNzYxNCwtNjAwMzk4MjU3LDEwOT
 k1OTc4NjAsMTg1MTI2NTU5Myw2MDEzMjM4MTksLTEyMzcyMDk5
 MzYsLTE3NjAyNTUwNTIsLTc0MTIzNDkwNSwtMTU1NTgxMDU2LC
 02NjI1ODA5MTAsMTU2Nzk3NzY1NiwtMTM4MjM4MDQ2OSwyODUz
