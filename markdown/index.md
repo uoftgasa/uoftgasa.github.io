@@ -779,6 +779,10 @@ Proof of payment is especially important on streetcars, where no one checks that
 
 Local transit agencies are attempting to unify the Presto card, allowing you to have one piece of fare media to use in a variety of different systems. The card costs $6 to buy, and must be preloaded with either $10 (when purchased online or in a participating Shoppers Drug Mart), or $14 (when purchased in a subway station). An online card order will take 2 weeks to deliver by mail, so its worth investigating Presto's [exhaustive list of purchase locations](https://www.prestocard.ca/en/find-an-outlet/customer-service-outlets). Once purchased, the card can be refilled online, in participating Shoppers Drug Marts, or at machines in transit stations.
 
+The card is activated by tapping. On the TTC, this action either deducts the flat $3.00 fares, or algorithmically determines whe
+
+**Rush Hours**
+
 #### GO Transit
 
 ### Cycling
@@ -900,11 +904,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3ODUyMDIxOSwtNjAwMzk4MjU3LDEwOT
-k1OTc4NjAsMTg1MTI2NTU5Myw2MDEzMjM4MTksLTEyMzcyMDk5
-MzYsLTE3NjAyNTUwNTIsLTc0MTIzNDkwNSwtMTU1NTgxMDU2LC
-02NjI1ODA5MTAsMTU2Nzk3NzY1NiwtMTM4MjM4MDQ2OSwyODUz
-MzI5MDUsNjcwNDAyNzkyLC0yMDIwNTU5NTQ0LC00NzU2MzQyND
-ksLTg5MjM0Mjc0MiwtNjY1MTgyNzY0LC0zOTcyOTE5NiwxMjUy
-OTEzMTk4XX0=
+eyJoaXN0b3J5IjpbMTE1Nzg2OTY2LC02MDAzOTgyNTcsMTA5OT
+U5Nzg2MCwxODUxMjY1NTkzLDYwMTMyMzgxOSwtMTIzNzIwOTkz
+NiwtMTc2MDI1NTA1MiwtNzQxMjM0OTA1LC0xNTU1ODEwNTYsLT
+Y2MjU4MDkxMCwxNTY3OTc3NjU2LC0xMzgyMzgwNDY5LDI4NTMz
+MjkwNSw2NzA0MDI3OTIsLTIwMjA1NTk1NDQsLTQ3NTYzNDI0OS
+wtODkyMzQyNzQyLC02NjUxODI3NjQsLTM5NzI5MTk2LDEyNTI5
+MTMxOThdfQ==
 -->
