@@ -513,7 +513,7 @@ The 'Direct Entry PhD' refers to the 5-year program in which most students are e
 
 ### AST1501Y and AST1500Y
 
-These two courses are the research component of the first year of the [direct entry](#direct-entry-vs-standard-phd) PhD program. Note that in this first year, students are paid by the department for their reasearStudents must enrol in AST1501Y on [ACORN](acorn.utoronto.ca) in their first semester of the program, and the course continues until the end of the winter semester (the end of April). Students subsequently enrol in AST1500Y (also through [ACORN](acorn.utoronto.ca)) which takes them through until the end of August. Both courses are similar in both structure and requirements, but AST1500Y has a shorter timeline because students are expected to be more familiar with the department and will no longer have other [courses](#courses) or [teaching](#teaching) obligations. The courses have class discussion components, which are used to develop their research skills. The list below outlines all of the components and requirements of the two courses. Written requirements are submitted to the supervisor and the graduate co-chair.
+These two courses are the research component of the first year of the [direct entry](#direct-entry-vs-standard-phd) PhD program. Note that in this first year, students are paid by the department for their research, rather than being paid by an individual supervisor. Students must enrol in AST1501Y on [ACORN](acorn.utoronto.ca) in their first semester of the program, and the course continues until the end of the winter semester (the end of April). Students subsequently enrol in AST1500Y (also through [ACORN](acorn.utoronto.ca)) which takes them through until the end of August. Both courses are similar in both structure and requirements, but AST1500Y has a shorter timeline because students are expected to be more familiar with the department and will no longer have other [courses](#courses) or [teaching](#teaching) obligations. The courses have class discussion components, which are used to develop their research skills. The list below outlines all of the components and requirements of the two courses. Written requirements are submitted to the supervisor and the graduate co-chair.
 
 - **Identify a supervisor**
 	- *Deadline*:
@@ -541,7 +541,7 @@ These two courses are the research component of the first year of the [direct en
 		- AST1501Y: by the end of April
 		- AST1500Y: by the end of August
 
-Along with these formal requirements, students work with their supervisors to establish specific expectations such as hours worked in the office or one-on-one meeting times and frequency.
+Along with these formal requirements, students work with their supervisors to establish specific expectations such as hours worked in the office or one-on-one meeting times and frequency. 
 
 ### Courses
 
@@ -834,11 +834,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDU3MzY4NzIsMTA5OTU5Nzg2MCwxOD
-UxMjY1NTkzLDYwMTMyMzgxOSwtMTIzNzIwOTkzNiwtMTc2MDI1
-NTA1MiwtNzQxMjM0OTA1LC0xNTU1ODEwNTYsLTY2MjU4MDkxMC
-wxNTY3OTc3NjU2LC0xMzgyMzgwNDY5LDI4NTMzMjkwNSw2NzA0
-MDI3OTIsLTIwMjA1NTk1NDQsLTQ3NTYzNDI0OSwtODkyMzQyNz
-QyLC02NjUxODI3NjQsLTM5NzI5MTk2LDEyNTI5MTMxOTgsMjEw
-Njk1NDI3NV19
+eyJoaXN0b3J5IjpbMjE5MTEzODAxLDEwOTk1OTc4NjAsMTg1MT
+I2NTU5Myw2MDEzMjM4MTksLTEyMzcyMDk5MzYsLTE3NjAyNTUw
+NTIsLTc0MTIzNDkwNSwtMTU1NTgxMDU2LC02NjI1ODA5MTAsMT
+U2Nzk3NzY1NiwtMTM4MjM4MDQ2OSwyODUzMzI5MDUsNjcwNDAy
+NzkyLC0yMDIwNTU5NTQ0LC00NzU2MzQyNDksLTg5MjM0Mjc0Mi
+wtNjY1MTgyNzY0LC0zOTcyOTE5NiwxMjUyOTEzMTk4LDIxMDY5
+NTQyNzVdfQ==
 -->
