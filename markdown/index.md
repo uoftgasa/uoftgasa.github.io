@@ -813,7 +813,7 @@ This airport has customs pre-clearance for destinations in the US, meaning you d
 
 #### Billy Bishop Airport
 
-This airport offers flights to domestic and US destinations, mostly via the budget Porter Airlines. It's conveniently accessible at the foot of Bathurst street, with a free shuttle
+This airport offers flights to domestic and US destinations, mostly via the budget Porter Airlines. It's conveniently accessible at the foot of Bathurst street, with a free shuttle service between the main terminal and the Line 1 subway Union Station. It's also easily reachable by public transit, either by the 509 Harbourfront or 511
 
 ## UofT Services
 [**Table of Contents**](#table-of-contents)
@@ -925,11 +925,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTU0OTU5NzAsNjQ5OTU2NTk4LDgyMT
-cyMDgzNSwtNjAwMzk4MjU3LDEwOTk1OTc4NjAsMTg1MTI2NTU5
-Myw2MDEzMjM4MTksLTEyMzcyMDk5MzYsLTE3NjAyNTUwNTIsLT
-c0MTIzNDkwNSwtMTU1NTgxMDU2LC02NjI1ODA5MTAsMTU2Nzk3
-NzY1NiwtMTM4MjM4MDQ2OSwyODUzMzI5MDUsNjcwNDAyNzkyLC
-0yMDIwNTU5NTQ0LC00NzU2MzQyNDksLTg5MjM0Mjc0MiwtNjY1
-MTgyNzY0XX0=
+eyJoaXN0b3J5IjpbNjI3NDIyMjI0LDY0OTk1NjU5OCw4MjE3Mj
+A4MzUsLTYwMDM5ODI1NywxMDk5NTk3ODYwLDE4NTEyNjU1OTMs
+NjAxMzIzODE5LC0xMjM3MjA5OTM2LC0xNzYwMjU1MDUyLC03ND
+EyMzQ5MDUsLTE1NTU4MTA1NiwtNjYyNTgwOTEwLDE1Njc5Nzc2
+NTYsLTEzODIzODA0NjksMjg1MzMyOTA1LDY3MDQwMjc5MiwtMj
+AyMDU1OTU0NCwtNDc1NjM0MjQ5LC04OTIzNDI3NDIsLTY2NTE4
+Mjc2NF19
 -->
