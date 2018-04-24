@@ -29,6 +29,7 @@ The contents of this document, accompanied by a frequently asked question that m
 	 - [Meeting Rooms](#meeting-rooms)
 	 - [Other Relevant Locations](#other-relevant-locations)
  - [**Graduate Program**](#graduate-program) - How do I graduate?
+	 - [Direct Entry vs Standard PhD](#direct-entry-vs-standard-phd)
 	 - [AST1501Y and AST1500Y](#ast1501y-and-ast1500y)
 	 - [Courses](#courses)
 	 - [Mini Courses](#mini-courses)
@@ -506,6 +507,8 @@ Graduate student residence that is affiliated with but independent from UofT. Yo
 
 The graduate program is described in detail on the [department website](http://www.astro.utoronto.ca/academics/graduate-studies/current/program/). By default, students entering the program are in the 5-year direct entry PhD or 4-year PhD. The MSc degree is not typically used as a point of entry, but rather awarded to students who exit the direct entry program early having completed some of its requirements.
 
+### Direct Entry vs Standard PhD
+
 ### AST1501Y and AST1500Y
 
 ### Courses
@@ -799,11 +802,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMjUzMjMsLTE3NjAyNTUwNTIsLTc0MT
-IzNDkwNSwtMTU1NTgxMDU2LC02NjI1ODA5MTAsMTU2Nzk3NzY1
-NiwtMTM4MjM4MDQ2OSwyODUzMzI5MDUsNjcwNDAyNzkyLC0yMD
-IwNTU5NTQ0LC00NzU2MzQyNDksLTg5MjM0Mjc0MiwtNjY1MTgy
-NzY0LC0zOTcyOTE5NiwxMjUyOTEzMTk4LDIxMDY5NTQyNzUsLT
-kwMDE4NjI2LC02NjMxMzg2MjcsLTk3NjY5NjAwNywtNDEyODAz
-NDUwXX0=
+eyJoaXN0b3J5IjpbLTEyMzcyMDk5MzYsLTE3NjAyNTUwNTIsLT
+c0MTIzNDkwNSwtMTU1NTgxMDU2LC02NjI1ODA5MTAsMTU2Nzk3
+NzY1NiwtMTM4MjM4MDQ2OSwyODUzMzI5MDUsNjcwNDAyNzkyLC
+0yMDIwNTU5NTQ0LC00NzU2MzQyNDksLTg5MjM0Mjc0MiwtNjY1
+MTgyNzY0LC0zOTcyOTE5NiwxMjUyOTEzMTk4LDIxMDY5NTQyNz
+UsLTkwMDE4NjI2LC02NjMxMzg2MjcsLTk3NjY5NjAwNywtNDEy
+ODAzNDUwXX0=
 -->
