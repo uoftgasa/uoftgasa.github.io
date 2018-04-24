@@ -720,9 +720,7 @@ While many students opt to live close enough to campus to walk, this can be fina
 
 ### Public Transit
 
-There are two primary transit options in downtown Toronto, which connect to other transit agencies in nearby cities. 
-
-- transit app
+There are two primary transit options in downtown Toronto, which connect to other transit agencies in nearby cities. Transit vehicle schedules are available online as well as through a variety
 
 #### Toronto Transit Commission
 
@@ -783,7 +781,7 @@ The card is activated by tapping. On the TTC, this action either deducts the fla
 
 **Rush Hours**
 
-As in any city, there are times of day when more people are trying to get around. At these times, vehicles might be packed to crush depth, making it difficult or impossible to board. Graduate students are lucky to have typically flexible working hours; if you take transit regularly, 
+As in any city, there are times of day when more people are trying to get around. At these times, vehicles might be packed to crush depth, making it difficult or impossible to board. Graduate students are lucky to have typically flexible working hours; if you take transit regularly, it's worth investigating the times are which your routes are busiest so you can give yourself the option of a peaceful trip to the office.
 
 #### GO Transit
 
@@ -906,11 +904,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyODY1MDQ0NCw4MjE3MjA4MzUsLTYwMD
-M5ODI1NywxMDk5NTk3ODYwLDE4NTEyNjU1OTMsNjAxMzIzODE5
-LC0xMjM3MjA5OTM2LC0xNzYwMjU1MDUyLC03NDEyMzQ5MDUsLT
-E1NTU4MTA1NiwtNjYyNTgwOTEwLDE1Njc5Nzc2NTYsLTEzODIz
-ODA0NjksMjg1MzMyOTA1LDY3MDQwMjc5MiwtMjAyMDU1OTU0NC
-wtNDc1NjM0MjQ5LC04OTIzNDI3NDIsLTY2NTE4Mjc2NCwtMzk3
-MjkxOTZdfQ==
+eyJoaXN0b3J5IjpbLTE2Nzg2MTExNTYsODIxNzIwODM1LC02MD
+AzOTgyNTcsMTA5OTU5Nzg2MCwxODUxMjY1NTkzLDYwMTMyMzgx
+OSwtMTIzNzIwOTkzNiwtMTc2MDI1NTA1MiwtNzQxMjM0OTA1LC
+0xNTU1ODEwNTYsLTY2MjU4MDkxMCwxNTY3OTc3NjU2LC0xMzgy
+MzgwNDY5LDI4NTMzMjkwNSw2NzA0MDI3OTIsLTIwMjA1NTk1ND
+QsLTQ3NTYzNDI0OSwtODkyMzQyNzQyLC02NjUxODI3NjQsLTM5
+NzI5MTk2XX0=
 -->
