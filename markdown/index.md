@@ -775,7 +775,7 @@ Proof of payment is especially important on streetcars, where no one checks that
 
 **The Presto Card:**
 
-Local transit agencies are attempting to unify under 
+Local transit agencies are attempting to unify the Presto card, allowing you to have one piece of fare media to use in a variety of different systems. The card costs $6 to buy, and must be preloaded with either $10 (when pur
 
 #### GO Transit
 
@@ -898,7 +898,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NTU3OTkxOCwtNjAwMzk4MjU3LDEwOT
+eyJoaXN0b3J5IjpbMTE3MjMwNDEzMCwtNjAwMzk4MjU3LDEwOT
 k1OTc4NjAsMTg1MTI2NTU5Myw2MDEzMjM4MTksLTEyMzcyMDk5
 MzYsLTE3NjAyNTUwNTIsLTc0MTIzNDkwNSwtMTU1NTgxMDU2LC
 02NjI1ODA5MTAsMTU2Nzk3NzY1NiwtMTM4MjM4MDQ2OSwyODUz
