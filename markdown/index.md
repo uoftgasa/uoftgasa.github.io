@@ -783,6 +783,8 @@ The card is activated by tapping. On the TTC, this action either deducts the fla
 
 **Rush Hours**
 
+As in any city, there are times of day when more people are trying to get around. 
+
 #### GO Transit
 
 ### Cycling
@@ -904,11 +906,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIxNzIwODM1LC02MDAzOTgyNTcsMTA5OT
-U5Nzg2MCwxODUxMjY1NTkzLDYwMTMyMzgxOSwtMTIzNzIwOTkz
-NiwtMTc2MDI1NTA1MiwtNzQxMjM0OTA1LC0xNTU1ODEwNTYsLT
-Y2MjU4MDkxMCwxNTY3OTc3NjU2LC0xMzgyMzgwNDY5LDI4NTMz
-MjkwNSw2NzA0MDI3OTIsLTIwMjA1NTk1NDQsLTQ3NTYzNDI0OS
-wtODkyMzQyNzQyLC02NjUxODI3NjQsLTM5NzI5MTk2LDEyNTI5
-MTMxOThdfQ==
+eyJoaXN0b3J5IjpbNDQ1Nzk4MjM3LDgyMTcyMDgzNSwtNjAwMz
+k4MjU3LDEwOTk1OTc4NjAsMTg1MTI2NTU5Myw2MDEzMjM4MTks
+LTEyMzcyMDk5MzYsLTE3NjAyNTUwNTIsLTc0MTIzNDkwNSwtMT
+U1NTgxMDU2LC02NjI1ODA5MTAsMTU2Nzk3NzY1NiwtMTM4MjM4
+MDQ2OSwyODUzMzI5MDUsNjcwNDAyNzkyLC0yMDIwNTU5NTQ0LC
+00NzU2MzQyNDksLTg5MjM0Mjc0MiwtNjY1MTgyNzY0LC0zOTcy
+OTE5Nl19
 -->
