@@ -509,6 +509,8 @@ The graduate program is described in detail on the [department website](http://w
 
 ### Direct Entry vs Standard PhD
 
+The 'Direct Entry PhD' refers to the 5-year program in which most students are enrolled. Students attending UofT already in possession of a MSc wi
+
 ### AST1501Y and AST1500Y
 
 ### Courses
@@ -802,11 +804,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzcyMDk5MzYsLTE3NjAyNTUwNTIsLT
-c0MTIzNDkwNSwtMTU1NTgxMDU2LC02NjI1ODA5MTAsMTU2Nzk3
-NzY1NiwtMTM4MjM4MDQ2OSwyODUzMzI5MDUsNjcwNDAyNzkyLC
-0yMDIwNTU5NTQ0LC00NzU2MzQyNDksLTg5MjM0Mjc0MiwtNjY1
-MTgyNzY0LC0zOTcyOTE5NiwxMjUyOTEzMTk4LDIxMDY5NTQyNz
-UsLTkwMDE4NjI2LC02NjMxMzg2MjcsLTk3NjY5NjAwNywtNDEy
-ODAzNDUwXX0=
+eyJoaXN0b3J5IjpbLTQwMjI4MjY2LC0xMjM3MjA5OTM2LC0xNz
+YwMjU1MDUyLC03NDEyMzQ5MDUsLTE1NTU4MTA1NiwtNjYyNTgw
+OTEwLDE1Njc5Nzc2NTYsLTEzODIzODA0NjksMjg1MzMyOTA1LD
+Y3MDQwMjc5MiwtMjAyMDU1OTU0NCwtNDc1NjM0MjQ5LC04OTIz
+NDI3NDIsLTY2NTE4Mjc2NCwtMzk3MjkxOTYsMTI1MjkxMzE5OC
+wyMTA2OTU0Mjc1LC05MDAxODYyNiwtNjYzMTM4NjI3LC05NzY2
+OTYwMDddfQ==
 -->
