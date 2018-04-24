@@ -771,7 +771,7 @@ The proof of payment for each of the fares discussed above is as follows:
 - **Post-secondary student Metropass: Metropass** 
 - **Adult monthly Metropass: Metropass**
 
-Proof of payment is especially important on streetcars, where no one checks that you've paid when you board. Streetcar riders are randomly checked by TTC Fare Inspectors to ensure they've paid their fare. You will get ticketed if you don't have proof, even if you di
+Proof of payment is especially important on streetcars, where no one checks that you've paid when you board. Streetcar riders are randomly checked by TTC Fare Inspectors to ensure they've paid their fare. You will get ticketed if you don't have proof, even if you did actually pay but forgot to pick up the transfer. A common point of confusion for this is at Union station, where its possible to disembark from the subway and walk right to the 509/510 streetcars without passing through any fare gates
 
 **The Presto Card:**
 
@@ -896,11 +896,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUwOTU5MDUwLC02MDAzOTgyNTcsMTA5OT
-U5Nzg2MCwxODUxMjY1NTkzLDYwMTMyMzgxOSwtMTIzNzIwOTkz
-NiwtMTc2MDI1NTA1MiwtNzQxMjM0OTA1LC0xNTU1ODEwNTYsLT
-Y2MjU4MDkxMCwxNTY3OTc3NjU2LC0xMzgyMzgwNDY5LDI4NTMz
-MjkwNSw2NzA0MDI3OTIsLTIwMjA1NTk1NDQsLTQ3NTYzNDI0OS
-wtODkyMzQyNzQyLC02NjUxODI3NjQsLTM5NzI5MTk2LDEyNTI5
-MTMxOThdfQ==
+eyJoaXN0b3J5IjpbLTE0OTc0NzM1NTIsLTYwMDM5ODI1NywxMD
+k5NTk3ODYwLDE4NTEyNjU1OTMsNjAxMzIzODE5LC0xMjM3MjA5
+OTM2LC0xNzYwMjU1MDUyLC03NDEyMzQ5MDUsLTE1NTU4MTA1Ni
+wtNjYyNTgwOTEwLDE1Njc5Nzc2NTYsLTEzODIzODA0NjksMjg1
+MzMyOTA1LDY3MDQwMjc5MiwtMjAyMDU1OTU0NCwtNDc1NjM0Mj
+Q5LC04OTIzNDI3NDIsLTY2NTE4Mjc2NCwtMzk3MjkxOTYsMTI1
+MjkxMzE5OF19
 -->
