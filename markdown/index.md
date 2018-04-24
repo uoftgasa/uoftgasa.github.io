@@ -531,7 +531,7 @@ These two courses are the research component of the first year of the [direct en
 - **Submit research report**
 	- If the project led to publication (either in prep, submitted or accepted) this may be submitted in lieu of a report
 	- No more than 10 pages describing the outcome of the project, typically following the Introduction-Methods-Results-and-Discussion (IMRaD) format, although other sections may be necessary prior to Methods (e.g. Data if working with survey data, or Observations if taking observations). Examples of IMRaD in astronomy can be found [here](http://www.raa-journal.org/docs/RAA_Lectures/RAA_Lecture2.pdf).
-	- *Deadline* - note this must be su
+	- *Deadline* - note this must be submitted a week in advance of the mini-defense
 		- AST1501Y: by the end of April
 		- AST1500Y: by the end of August
 - **Mini-defense**
@@ -541,7 +541,7 @@ These two courses are the research component of the first year of the [direct en
 		- AST1501Y: by the end of April
 		- AST1500Y: by the end of August
 
-Both courses begin with the identification of a supervisor. The deadline to do this for AST1501Y is the end of October, and students will receive short presentations in the fall from faculty members taking on students about potential projects. Once a supervisor has been found, the student works with their supervisor to create a detailed outline the project, which they will write up in a project proposal of 3-4 pages, including a 
+Along with these formal requirements, students work with their supervisors to establish expectations: hours worked in the office, one-on-one meeting times and frequency, group meetin
 
 ### Courses
 
@@ -834,11 +834,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDc2NTEyMDgsMTA5OTU5Nzg2MCwxOD
-UxMjY1NTkzLDYwMTMyMzgxOSwtMTIzNzIwOTkzNiwtMTc2MDI1
-NTA1MiwtNzQxMjM0OTA1LC0xNTU1ODEwNTYsLTY2MjU4MDkxMC
-wxNTY3OTc3NjU2LC0xMzgyMzgwNDY5LDI4NTMzMjkwNSw2NzA0
-MDI3OTIsLTIwMjA1NTk1NDQsLTQ3NTYzNDI0OSwtODkyMzQyNz
-QyLC02NjUxODI3NjQsLTM5NzI5MTk2LDEyNTI5MTMxOTgsMjEw
-Njk1NDI3NV19
+eyJoaXN0b3J5IjpbNTI4MjU0ODg0LDEwOTk1OTc4NjAsMTg1MT
+I2NTU5Myw2MDEzMjM4MTksLTEyMzcyMDk5MzYsLTE3NjAyNTUw
+NTIsLTc0MTIzNDkwNSwtMTU1NTgxMDU2LC02NjI1ODA5MTAsMT
+U2Nzk3NzY1NiwtMTM4MjM4MDQ2OSwyODUzMzI5MDUsNjcwNDAy
+NzkyLC0yMDIwNTU5NTQ0LC00NzU2MzQyNDksLTg5MjM0Mjc0Mi
+wtNjY1MTgyNzY0LC0zOTcyOTE5NiwxMjUyOTEzMTk4LDIxMDY5
+NTQyNzVdfQ==
 -->
