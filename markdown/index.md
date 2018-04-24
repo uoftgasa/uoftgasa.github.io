@@ -26,8 +26,10 @@ The contents of this document, accompanied by a frequently asked question that m
 		 - [AB Common Rooms](#ab-common-rooms)
 	 - [McLennan Physical Labs and Burton Tower](#mclennan-physical-labs-and-burton-tower)
 		 - [MP Common Rooms](#mp-common-rooms)
+	 - [Meeting Rooms](#meeting-rooms)
 	 - [Other Relevant Locations](#other-relevant-locations)
  - [**Graduate Program**](#graduate-program) - How do I graduate?
+	 - [Direct Entry vs Standard PhD](#direct-entry-vs-standard-phd)
 	 - [AST1501Y and AST1500Y](#ast1501y-and-ast1500y)
 	 - [Courses](#courses)
 	 - [Mini Courses](#mini-courses)
@@ -42,6 +44,8 @@ The contents of this document, accompanied by a frequently asked question that m
 	 - [Scinet](#scinet)
 	 - [Sunnyvale](#sunnyvale)
 	 - [Printing and Copying](#printing-and-copying)
+- [**Useful Links**](#useful-links)
+- [**Common Tools**](#common-tools)
 - [**GASA**](#gasa) - Who's really in charge around here anyway?
 	- [Positions](../gasajobs.html)
 	- [AstroTours](#astrotours)
@@ -69,9 +73,12 @@ The contents of this document, accompanied by a frequently asked question that m
 		- [GO Transit](#go-transit)
 	- [Cycling](#cycling)
 	- [Cars](#cars)
+	- [Air Travel](#air-travel)
 - [**UofT Services**](#uoft-services) - How can I find a nearby doctor?
+	- [TCard](#tcard)
 	- [School of Graduate Studies](#school-of-graduate-studies-courses)
 	- [Health and Wellness](#health-and-wellness)
+	- [Fitness](#fitness)
 	- [UofT Library](#uoft-library)
 - [**Public Services**](#public-services) - Where can I register for OHIP?
 	- [Service Canada](#service-canada)
@@ -496,56 +503,100 @@ Graduate student residence that is affiliated with but independent from UofT. Yo
 #### The Varsity Centre
 [The Varsity Centre](https://kpe.utoronto.ca/facility/varsity-centre) is UofT's stadium, and can be accessed through the Devonshire Place pavilion with your TCard. The outdoor stadium is covered in the fall and winter for intramural sports. The centre also includes a skating rink.
 
-## Online
-
-### Email
-
-### Department Internal
-
-### ADS
-
-### arXiv
-
-### ESS
-
-### ACORN
-
-### Portal
-
-### Greenshield Website
-
-### Health Services
-
-### SGS Website
-
-## Tools
-
-### Slack
-
-### Mendeley
-
-### Papers
-
-### Jupyter Notebooks
-
-### Astropy
-
-### ShareLatex
-
-## Research
+## Graduate Program
 [**Table of Contents**](#table-of-contents)
 
-### Program
+The graduate program is described in detail on the [department website](http://www.astro.utoronto.ca/academics/graduate-studies/current/program/). By default, students entering the program are in the 5-year direct entry PhD or 4-year PhD. The MSc degree is not typically used as a point of entry, but rather awarded to students who exit the direct entry program early having completed some of its requirements. 
 
-### Computing Resources
+### Direct Entry vs Standard PhD
 
-## Classes
-[**Table of Contents**](#table-of-contents) 
+The 'Direct Entry PhD' refers to the 5-year program in which most students are enrolled. Students attending UofT already in possession of a MSc will be entered into the 4-year 'Standard PhD' track. The sections below describe the direct entry PhD, but the requirements for the standard PhD are the same except that standard PhD students are expected to identify their supervisor prior to entering the program, are not required to take any courses, and are expected to complete the qualifying exams in their first year instead of their second.
+
+### AST1501Y and AST1500Y
+
+These two courses are the research component of the first year of the [direct entry](#direct-entry-vs-standard-phd) PhD program. Note that in this first year, students are paid by the department for their research, rather than being paid by an individual supervisor. Students must enrol in AST1501Y on [ACORN](acorn.utoronto.ca) in their first semester of the program, and the course continues until the end of the winter semester (the end of April). Students subsequently enrol in AST1500Y (also through [ACORN](acorn.utoronto.ca)) which takes them through until the end of August. Both courses are similar in both structure and requirements, but AST1500Y has a shorter timeline because students are expected to be more familiar with the department and will no longer have other [courses](#courses) or [teaching](#teaching) obligations. It is expected, but not strictly required, that students will explore two different fields of study in these courses, even if they have a clear idea of the thesis work they would like to pursue. Both courses have class discussion components, which are used to develop research skills like reading scientific papers, presenting research, and asking questions to structure a project. The list below outlines all of the components and requirements of the two courses. Written requirements are submitted to the supervisor and the graduate co-chair.
+
+- **Identify a supervisor**
+	- In the fall semester, faculty taking on students will give short presentations outlining potential projects.
+	- *Deadline*:
+		- AST1501Y: by the end of October
+		- AST1500Y: by the second week of May
+- **Submit a project proposal**
+	- 3-4 pages single column, including an introduction to the field, motivation for why the project is important, description of how the student will tackle the problem, and month-by-month timeline
+	- *Deadline*
+		- AST1501Y: by the second week of November
+		- AST1500Y: by the end of May
+- **Submit monthly updates**
+	- One paragraph indicating progress and stumbling blocks
+	- *Deadline*
+		- AST1501Y and AST1500Y: at the end of each month after the project proposal 
+- **Submit research report**
+	- If the project led to publication (either in prep, submitted or accepted) this may be submitted in lieu of a report.
+	- The report should be no more than 10 pages describing the outcome of the project, typically following the Introduction-Methods-Results-and-Discussion (IMRaD) format, although other sections may be necessary prior to Methods (e.g. Data if working with survey data, or Observations if taking observations). Examples of IMRaD in astronomy can be found [here](http://www.raa-journal.org/docs/RAA_Lectures/RAA_Lecture2.pdf).
+	- *Deadline* - note this must be submitted a week in advance of the mini-defense
+		- AST1501Y: by the end of April
+		- AST1500Y: by the end of August
+- **Mini-defense**
+	- A final presentation of the results of the project to a committee of three: your supervisor, the graduate co-chair and a third faculty or post-doc not directly involved with the project. 
+	- The presentation is 10-15 minutes long, with 5 minutes for a follow-up question period. It is called a mini-defense because it's structure emulates the final thesis defense.
+	- *Deadline*
+		- AST1501Y: by the end of April
+		- AST1500Y: by the end of August
+
+Along with these formal requirements, students work with their supervisors to establish specific expectations such as hours worked in the office or one-on-one meeting times and frequency. 
+
+### Courses
+
+The full schedule of courses and their descriptions are outlined on the [department website](http://www.astro.utoronto.ca/academics/graduate-studies/current/courses/)
+
+### Mini Courses
+
+### General Qualifier
+
+### Thesis Qualifier
+
+### Thesis Committee
 
 ## Teaching
+
+### Courses to TA
+
+### Teaching Assistant Training Program
+
+## Computing
+
+### Personal Computers
+
+### Scient
+
+### Sunnyvale
+
+### Printing and Copying
+
+## Useful Links
 [**Table of Contents**](#table-of-contents)
 
-### TATP
+- [NASA ADS](https://ui.adsabs.harvard.edu) - paper database with citation exports
+- [arXiv astro-ph](https://arxiv.org/list/astro-ph/recent) - paper database
+- [Department Internal Webpage](http://www.astro.utoronto.ca/internal/) - password is in your welcome packet - find facility booking calendar, printer set up, MAC address registration
+- [School of Graduate Studies Website](http://www.sgs.utoronto.ca/Pages/default.aspx)
+- [Employee Self-Service Website](http://aws.utoronto.ca/services/employee-self-service-ess/) - update personal information, download tax forms
+- [ACORN](http://acorn.utoronto.ca) - check academic and financial history, download tax forms
+- [Portal](http://portal.utoronto.ca) - find class pages
+- [Health Services](https://www.studentlife.utoronto.ca/hwc/medical-services) - make doctor's appointments
+- [Accessibility Services](https://www.studentlife.utoronto.ca/as) - set up accommodations
+- [Greenshield Information](http://studentcare.ca/rte/en/IHaveAPlan_UniversityofTorontoGraduateStudentsUnionUTGSU_Home) - find out what the health plan covers
+- [Greenshield Login](https://onlineservices.greenshield.ca/PlanMember/AccessMgmt/Public/SignOn.aspx) - make insurance claims
+
+## Common Tools
+[**Table of Contents**](#table-of-contents)
+
+- [Slack](https://slack.com) - messaging forum 
+- [Mendeley](https://www.mendeley.com) - free paper manager
+- [ShareLatex](https://www.sharelatex.com) - online Latex editor
+- [Anaconda](https://conda.io/docs/user-guide/install/download.html) - Python distribution with its own package manager
+- [Jupyter Notebook/Lab](http://jupyter.org) - cell based Python coding
+- [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb) - online Jupyter Notebook editor linked to Google Drive
 
 ## GASA
 [**Table of Contents**](#table-of-contents)
@@ -561,7 +612,7 @@ View the [current list of positions](../gasajobs.html).
 
 ### AstroTours
 
-## Department Events
+## Regular Department Events
 [**Table of Contents**](#table-of-contents)
 
 Calendars
@@ -578,6 +629,45 @@ Calendars
 		- [GASA Tea](#gasa-tea)
 		- [Dunlap Outreach Meeting](#dunlap-outreach-meeting)
 		- [Sci-Fi Friday](#sci-fi-friday)
+
+## Finances
+[**Table of Contents**](#table-of-contents)
+
+### Funding Package
+
+- payment schedule
+- defering tuition
+
+### Scholarships
+
+### Travel Grants
+
+### Reimbursements 
+
+ - Department
+ - GASA
+ - CITA
+
+### Saving Money as a Student
+
+#### Store Discounts
+
+ - Metro Student days
+ - Rexall Student days
+
+#### Transit
+
+ - Post-secondary students save on monthly transit passes with a Post-secondary ID card
+
+#### Museums/Galleries
+
+ - Art Galley of Ontario Student discount
+ - Royal Ontario Museum - Free on Tuesdays with a student card
+
+
+## Health Insurance
+[**Table of Contents**](#table-of-contents)
+
 
 ## Housing
 [**Table of Contents**](#table-of-contents)
@@ -618,12 +708,81 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 
 Apartments
 
-## Transit
+## Getting Around
 [**Table of Contents**](#table-of-contents)
+
+While many students opt to live close enough to campus to walk, this can be financially challenging. There are many alternative ways to get around the city.
 
 ### Public Transit
 
+There are two primary transit options in downtown Toronto, the TTC and GO transit, which connect to other transit agencies in nearby cities. 
+
+Transit vehicle schedules are available online as well as through a variety of transit apps (e.g. [Transit](https://transitapp.com)).
+
 #### Toronto Transit Commission
+
+This system of subways, streetcars, and buses is the primary public transit option within the city. You can find the full system map [here](https://www.ttc.ca/PDF/Maps/TTC_SystemMap.pdf). 
+
+**Fares:**
+Depending on your frequency of use, there are few payment options. For anyone living in the city, the Presto card or the Post-secondary Monthly pass are the best options; the others are more suitable for someone visiting from out of town. Even if you feel you will not use transit often, it is worth investing in a Presto Card (described in a section below).
+
+- **Cash fare: $3.25/trip** 
+	- requires a transfer to switch routes, see the Transfers section below for more details
+	- best for infrequent users
+- **Presto fare: $3.00/trip** (although the card has a startup cost)
+	- tap this reloadable card at every route switch, see the Presto Card section below for more details
+	- best for frequent users who also use other transit agencies
+- **Day Pass: $12.50/day** 
+	- unlimited travel for one day
+	- make 4 trips to break even with the cash fare
+	- make 5 trips to break even with the Presto fare
+	- best for infrequent users
+- **Weekly Pass: $43.75/week** 
+	- unlimited travel for a week
+	- make 14 trips to break even with the cash fare
+	- make 15 trips to break even with the Presto fare
+	- best for infrequent users
+- **Post-secondary student Metropass: $116.75/month** 
+	- unlimited travel for a month carrying a [post-secondary ID card](https://www.ttc.ca/Fares_and_passes/Fare_information/Seniors_students_and_children/Post_Secondary_Students/index.jsp)
+	- make 36 trips to break even with the cash fare
+	- make 39 trips to break even with the Presto fare
+	- best for frequent users who use the TTC every weekday
+- **Adult monthly Metropass: $146.25/month** (although you can reduce this to $134.00/month by purchasing  a year's worth with the [Monthly Discount Plan](https://www.ttc.ca/Fares_and_passes/Passes/Metropass/Metropass_MDP/index.jsp))
+	- unlimited travel for a month
+	- make 45 trips to break even with the cash fare
+	- make 49 trips to break even with the Presto fare
+	- best for frequent users who use the TTC every weekday and do not have a [post-secondary ID card](https://www.ttc.ca/Fares_and_passes/Fare_information/Seniors_students_and_children/Post_Secondary_Students/index.jsp)
+	- this pass can be purchased as a card of loaded onto a Presto card
+
+Note that as long as you get the [post-secondary ID card](https://www.ttc.ca/Fares_and_passes/Fare_information/Seniors_students_and_children/Post_Secondary_Students/index.jsp), there is no benefit to choosing the Adult Metropass over the Post-secondary Metropass. TTC passes are only valid on TTC vehicles, and do not extend to other transit agencies. Discounts when switching to other agencies from the TTC may be possible with a Presto card.
+
+**Transfers/Proof of Payment (PoP):**
+After paying a cash fare, be sure to pick up a paper transfer (also referred to as proof of payment), which will allow you to switch routes for free provided you are making a one way trip and board the next available vehicle towards your destination. Full transfer rules are [here](https://www.ttc.ca/Fares_and_passes/Fare_information/Transfers/index.jsp). Presto card users must tap their card at each route switch but do not require a paper transfer. Note that some users have reported double charges from this process, it is worth checking your transactions and disputing unfair charges. Pass holders do not require any form of transfer.
+
+The proof of payment for each of the fares discussed above is as follows:
+
+- **Cash fare: paper transfer**
+- **Presto fare: Presto card**
+- **Day Pass: Day Pass**
+- **Weekly Pass: Weekly Pass** 
+- **Post-secondary student Metropass: Metropass** 
+- **Adult monthly Metropass: Metropass**
+
+Proof of payment is especially important on streetcars, where no one checks that you've paid when you board. Streetcar riders are randomly checked by TTC Fare Inspectors to ensure they've paid their fare. You will get ticketed if you don't have proof, even if you did actually pay but forgot to pick up the transfer. A common point of confusion for this is at Union station, where its possible to disembark from the subway and walk right to the 509/510 streetcars without passing through any fare gates.  If you didn't pick up a transfer in the station where you boarded the subway, you'll be out of luck if your streetcar gets checked later on.
+
+**The Presto Card:**
+
+Local transit agencies are attempting to unify the Presto card, allowing you to have one piece of fare media to use in a variety of different systems. The card costs $6 to buy, and must be preloaded with either $10 (when purchased online or in a participating Shoppers Drug Mart), or $14 (when purchased in a subway station). An online card order will take 2 weeks to deliver by mail, so its worth investigating Presto's [exhaustive list of purchase locations](https://www.prestocard.ca/en/find-an-outlet/customer-service-outlets). Once purchased, the card can be refilled online, in participating Shoppers Drug Marts, or at machines in transit stations.
+
+The card is activated by tapping. On the TTC, this action either deducts the flat $3.00 fares, or algorithmically determines that you are making a valid transfer from another TTC vehicle (see the [TTC's Presto transfer rules](https://www.ttc.ca/Fares_and_passes/PRESTO/FAQ.jsp)). This algorithm is not perfect; keep an eye on your balance and dispute unfair charges. In other transit agencies, fares may be charged by distance travelled; in these cases it is essential to 'tap on' when you enter a vehicle and 'tap off' when you leave it.
+
+Note that a Presto card **does not** automatically switch to a monthly Metropass when your fares equal the cost of the pass. It is up to you to purchase a monthly Metropass on your card at the beginning of the month if you think you will use it.
+
+Presto card users typically enjoy reduced fares when switching between transit agencies. 
+
+**Rush Hours**
+
+As in any city, there are times of day when more people are trying to get around. At these times, vehicles might be packed to crush depth, making it difficult or impossible to board. Graduate students are lucky to have typically flexible working hours; if you take transit regularly, it's worth investigating the times are which your routes are busiest so you can give yourself the option of a peaceful trip to the office.
 
 #### GO Transit
 
@@ -631,43 +790,24 @@ Apartments
 
 ### Cars
 
+#### Car-share programs
 
-## Finances
-[**Table of Contents**](#table-of-contents)
+#### Taxis, Uber, and Lyft
 
-### Funding Package
+### Air Travel
 
-- payment schedule
-- defering tuition
+Toronto has two international airports: Pearson International Airport (YYZ) in the north and the much smaller Billy Bishop Airport (YTZ) on Lake Ontario.
 
-### Scholarships
+#### Pearson International Airport
+Pearson is a behemoth of an airport, reachable by car or a variety of [public transit options](https://www.torontopearson.com/en/toandfrom/public/#), including the Union Pearson Express, a train with $9 fares for Presto card users (see the [TTC](#toronto-transit-commission) section for more details on the Presto Card).
 
-### Travel Grants
+Pearson has two terminals, helpfully labelled Terminal 1 (for higher-end airlines and Air Canada) and Terminal 3 (typically budget airlines and often domestic destinations). Both terminals are recently renovated, and they are connected by a free monorail. For a full list of which airline flies out of which terminal, you can check [Pearson's website](https://www.torontopearson.com/en/flights/airlines-destinations/#).
 
-### Reimbursements 
+This airport has customs pre-clearance for destinations in the US, meaning you do US customs before you board the plane instead of after.
 
- - Department
- - GASA
- - CITA
+#### Billy Bishop Airport
 
-### Saving Money as a Student
-
-#### Store Discounts
-
- - Metro Student days
- - Rexall Student days
-
-#### Transit
-
- - Post-secondary students save on monthly transit passes with a Post-secondary ID card
-
-#### Museums/Galleries
-
- - Art Galley of Ontario Student discount
- - Royal Ontario Museum - Free on Tuesdays with a student card
-
-## Health Insurance
-[**Table of Contents**](#table-of-contents)
+This airport offers flights to domestic and US destinations, mostly via the budget Porter Airlines. It's conveniently accessible at the foot of Bathurst street, with a free shuttle service between the main terminal and the Line 1 subway Union Station. It's also easily reachable by public transit, either by the 509 Harbourfront or 511 Bathurst streetcar lines.
 
 ## UofT Services
 [**Table of Contents**](#table-of-contents)
@@ -727,7 +867,11 @@ Service Ontario provides a contact point for provincial government services like
 
 ### [Toronto Public Library](https://www.torontopubliclibrary.ca)
 
-As they say, having fun isn't hard if you have a library card. The [UofT Library](#uoft-library) can certainly meet your academic needs, but the TPL has more on offer than astronomy text books. Getting a TPL card requires proof that you live at a Toronto address (addressed mail to where you live will do), and once you have one it's good for a year. The card gives you access to the TPL's enormous catalogue, including their collection of ebooks,  digital newspapers, and audiobooks. But in addition to this traditional library offerings, the TPL offers access to 'digital innovation hubs', where you can use 3D printers, digital design workstations and recording studios. They also have a partnership with the Toronto Tool Library for all of your tinkering needs. The TPL also offers plenty of programming to give you a chance to pick up a new skill or hone an old one, so there's no reason not to get a card. However, if all of this blatant fawning hasn't convinced you to get a card, you can still work in any of the 100 branches. I can certainly attest to the fact that the atmosphere in the Toronto Reference Library at Yonge and Bloor is much more positive than that in [Robarts](#robarts).
+As they say, having fun isn't hard if you have a library card. The [UofT Library](#uoft-library) can certainly meet your academic needs, but the TPL has more on offer than astronomy text books. Getting a TPL card requires proof that you live at a Toronto address (addressed mail to where you live will do), and once you have one it's good for a year. The card gives you access to the TPL's enormous catalogue, including their collection of ebooks,  digital newspapers, and audiobooks. But in addition to this traditional library offerings, the TPL offers access to 'digital innovation hubs', where you can use 3D printers, digital design workstations and recording studios. They also have a partnership with the Toronto Tool Library for all of your tinkering needs. The TPL also offers plenty of programming to give you a chance to pick up a new skill or hone an old one, so there's no reason not to get a card. However, if all of this blatant fawning hasn't convinced you to get a card, you can still work in any of the 100 branches. I can certainly attest to the fact that the atmosphere in the Toronto Reference Library at Yonge and Bloor is much more positive than that in [Robarts](#robarts). The nearest Toronto Public Library locations are 
+
+- [Lillian H Smith - 239 College St](https://www.torontopubliclibrary.ca/lillianhsmith/)
+- [Toronto Reference Library - 789 Yonge St](https://www.torontopubliclibrary.ca/torontoreferencelibrary/)
+- [Spadina Road - 10 Spadina Road](https://www.torontopubliclibrary.ca/spadina/)
 
 ## Things to do in Toronto
 [**Table of Contents**](#table-of-contents)
