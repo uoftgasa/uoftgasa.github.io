@@ -727,21 +727,23 @@ There are two primary transit options in downtown Toronto, which connect to othe
 This system of subways, streetcars, and buses is the primary public transit option within the city. You can find the full system map [here](https://www.ttc.ca/PDF/Maps/TTC_SystemMap.pdf). 
 
 **Fares:**
-Depending on your frequency of use, there are few payment options:
+Depending on your frequency of use, there are few payment options. For anyone living in the city and u
 
 - **Cash fare: $3.25/trip** 
 	- requires a transfer to switch routes, see the Transfers section below for more details
 	- best for infrequent users
 - **Presto fare: $3.00/trip** (although the card has a startup cost)
 	- tap this reloadable card at every route switch, see the Presto Card section below for more details
+	- best for frequent users who also use other transit agencies
 - **Day pass: $12.50/day** 
 	- unlimited travel for one day
 	- make 4 trips to break even with the cash fare
 	- make 5 trips to break even with the Presto fare
-	- best for infreqeu
+	- best for infrequent users
 - **Weekly pass: $43.75/week** 
 	- unlimited travel for a week
 	- make 14 trips to break even with the cash fare
+	- make 15 trips to break even with the cash fare
 - **Post-secondary student Metropass: $116.75/month** 
 	- unlimited travel for a month carrying a [post-secondary ID card](https://www.ttc.ca/Fares_and_passes/Fare_information/Seniors_students_and_children/Post_Secondary_Students/index.jsp), make 36 trips to break even with the cash fare or 39 trips to break even with the Presto fare
 - **Adult monthly Metropass: $146.25/month** (although you can reduce this to $134.00/month by purchasing  a year's worth with the [Monthly Discount Plan](https://www.ttc.ca/Fares_and_passes/Passes/Metropass/Metropass_MDP/index.jsp))
@@ -875,7 +877,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyODg0NjUwMSwtNjAwMzk4MjU3LDEwOT
+eyJoaXN0b3J5IjpbLTg1MzE1MDk4NywtNjAwMzk4MjU3LDEwOT
 k1OTc4NjAsMTg1MTI2NTU5Myw2MDEzMjM4MTksLTEyMzcyMDk5
 MzYsLTE3NjAyNTUwNTIsLTc0MTIzNDkwNSwtMTU1NTgxMDU2LC
 02NjI1ODA5MTAsMTU2Nzk3NzY1NiwtMTM4MjM4MDQ2OSwyODUz
