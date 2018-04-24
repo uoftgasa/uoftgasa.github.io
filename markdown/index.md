@@ -520,7 +520,7 @@ These two courses are the research component of the first year of the [direct en
 		- AST1501Y: by the end of October
 		- AST1500Y: by the second week of May
 - **Submit a project proposal**
-	- 3-4 pages single column, including a month-by-month timeline
+	- 3-4 pages single column, including an introduction to the field, motivation for  month-by-month timeline
 	- *Deadline*
 		- AST1501Y: by the second week of November
 		- AST1500Y: by the end of May
@@ -830,11 +830,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODE1NzU5MTgsMTg1MTI2NTU5Myw2MD
-EzMjM4MTksLTEyMzcyMDk5MzYsLTE3NjAyNTUwNTIsLTc0MTIz
-NDkwNSwtMTU1NTgxMDU2LC02NjI1ODA5MTAsMTU2Nzk3NzY1Ni
-wtMTM4MjM4MDQ2OSwyODUzMzI5MDUsNjcwNDAyNzkyLC0yMDIw
-NTU5NTQ0LC00NzU2MzQyNDksLTg5MjM0Mjc0MiwtNjY1MTgyNz
-Y0LC0zOTcyOTE5NiwxMjUyOTEzMTk4LDIxMDY5NTQyNzUsLTkw
-MDE4NjI2XX0=
+eyJoaXN0b3J5IjpbNzU1OTk4MjQ1LDE4NTEyNjU1OTMsNjAxMz
+IzODE5LC0xMjM3MjA5OTM2LC0xNzYwMjU1MDUyLC03NDEyMzQ5
+MDUsLTE1NTU4MTA1NiwtNjYyNTgwOTEwLDE1Njc5Nzc2NTYsLT
+EzODIzODA0NjksMjg1MzMyOTA1LDY3MDQwMjc5MiwtMjAyMDU1
+OTU0NCwtNDc1NjM0MjQ5LC04OTIzNDI3NDIsLTY2NTE4Mjc2NC
+wtMzk3MjkxOTYsMTI1MjkxMzE5OCwyMTA2OTU0Mjc1LC05MDAx
+ODYyNl19
 -->
