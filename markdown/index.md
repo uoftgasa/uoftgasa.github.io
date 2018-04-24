@@ -522,7 +522,10 @@ These two courses are the research component of the first year of the [direct en
 - **Submit a project proposal**
 	- 3-4 pages, including a month-by-month timeline
 	- *Deadline*
-		- AST1501Y1: by the second week of November
+		- AST1501Y: by the second week of November
+		- AST1500Y: by the end of May
+- **Submit monthly updates**
+	- One paragra
 
 Both courses begin with the identification of a supervisor. The deadline to do this for AST1501Y is the end of October, and students will receive short presentations in the fall from faculty members taking on students about potential projects. Once a supervisor has been found, the student works with their supervisor to create a detailed outline the project, which they will write up in a project proposal of 3-4 pages, including a 
 
@@ -817,11 +820,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNzQ1NDgwNiwxODUxMjY1NTkzLDYwMT
-MyMzgxOSwtMTIzNzIwOTkzNiwtMTc2MDI1NTA1MiwtNzQxMjM0
-OTA1LC0xNTU1ODEwNTYsLTY2MjU4MDkxMCwxNTY3OTc3NjU2LC
-0xMzgyMzgwNDY5LDI4NTMzMjkwNSw2NzA0MDI3OTIsLTIwMjA1
-NTk1NDQsLTQ3NTYzNDI0OSwtODkyMzQyNzQyLC02NjUxODI3Nj
-QsLTM5NzI5MTk2LDEyNTI5MTMxOTgsMjEwNjk1NDI3NSwtOTAw
-MTg2MjZdfQ==
+eyJoaXN0b3J5IjpbLTE3OTUxMTcxMjcsMTg1MTI2NTU5Myw2MD
+EzMjM4MTksLTEyMzcyMDk5MzYsLTE3NjAyNTUwNTIsLTc0MTIz
+NDkwNSwtMTU1NTgxMDU2LC02NjI1ODA5MTAsMTU2Nzk3NzY1Ni
+wtMTM4MjM4MDQ2OSwyODUzMzI5MDUsNjcwNDAyNzkyLC0yMDIw
+NTU5NTQ0LC00NzU2MzQyNDksLTg5MjM0Mjc0MiwtNjY1MTgyNz
+Y0LC0zOTcyOTE5NiwxMjUyOTEzMTk4LDIxMDY5NTQyNzUsLTkw
+MDE4NjI2XX0=
 -->
