@@ -504,7 +504,7 @@ Graduate student residence that is affiliated with but independent from UofT. Yo
 ## Graduate Program
 [**Table of Contents**](#table-of-contents)
 
-The graduate program is described in detail
+The graduate program is described in detail on the [department website](http://www.astro.utoronto.ca/academics/graduate-studies/current/program/). By default, students entering the program are in the 5-year direct entry PhD or 4-year
 
 ### AST1501Y and AST1500Y
 
@@ -799,7 +799,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNDY0Mjg5MywtMTc2MDI1NTA1MiwtNz
+eyJoaXN0b3J5IjpbMTUyMDg0OTM3NiwtMTc2MDI1NTA1MiwtNz
 QxMjM0OTA1LC0xNTU1ODEwNTYsLTY2MjU4MDkxMCwxNTY3OTc3
 NjU2LC0xMzgyMzgwNDY5LDI4NTMzMjkwNSw2NzA0MDI3OTIsLT
 IwMjA1NTk1NDQsLTQ3NTYzNDI0OSwtODkyMzQyNzQyLC02NjUx
