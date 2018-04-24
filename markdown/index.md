@@ -729,12 +729,12 @@ This system of subways, streetcars, and buses is the primary public transit opti
 **Fares:**
 Depending on your frequency of use, there are few payment options:
 
-- **Cash fare**: $3.25 - best for very infrequent users, requires a transfer to switch routes (see second paragraph below the list)
-- **Presto fare**: $3.00 (although the card has a startup cost)- tap this reloadable card at every route switch, see the section below for more details
-- **Day pass**: $12.50 - unlimited travel for one day, make 4 trips to break even with the cash fare
-- **Weekly pass**: $43.75 - unlimited travel for a week, make 14 trips to break even with the cash fare
-- **Post-secondary student Metropass**: $116.75 - unlimited travel for a month carrying a [post-secondary ID card](https://www.ttc.ca/Fares_and_passes/Fare_information/Seniors_students_and_children/Post_Secondary_Students/index.jsp), make 36 trips to break even with the cash fare or 39 trips to break even with the Presto fare
-- **Adult monthly Metropass**: $146.25 (although you can reduce this to $134.00 for buying a year's worth with the [Monthly Discount Plan](https://www.ttc.ca/Fares_and_passes/Passes/Metropass/Metropass_MDP/index.jsp)) - unlimited travel for a month, make 45 trips to break even with the cash fare or 49 trips to break even with the Presto fare
+- **Cash fare: $3.25/trip** - best for very infrequent users, requires a transfer to switch routes (see second paragraph below the list)
+- **Presto fare: $3.00/trip** (although the card has a startup cost)- tap this reloadable card at every route switch, see the section below for more details
+- **Day pass: $12.50/day** - unlimited travel for one day, make 4 trips to break even with the cash fare
+- **Weekly pass: $43.75/week** - unlimited travel for a week, make 14 trips to break even with the cash fare
+- **Post-secondary student Metropass: $116.75/month** - unlimited travel for a month carrying a [post-secondary ID card](https://www.ttc.ca/Fares_and_passes/Fare_information/Seniors_students_and_children/Post_Secondary_Students/index.jsp), make 36 trips to break even with the cash fare or 39 trips to break even with the Presto fare
+- **Adult monthly Metropass: $146.25/month (although you can reduce this to $134.00/month by purchasing  a year's worth with the [Monthly Discount Plan](https://www.ttc.ca/Fares_and_passes/Passes/Metropass/Metropass_MDP/index.jsp)) - unlimited travel for a month, make 45 trips to break even with the cash fare or 49 trips to break even with the Presto fare
 
 Note that as long as you get the [post-secondary ID card](https://www.ttc.ca/Fares_and_passes/Fare_information/Seniors_students_and_children/Post_Secondary_Students/index.jsp), there is no benefit to choosing the Adult Metropass over the Post-secondary Metropass. TTC passes are only valid on TTC vehicles, and do not extend to other transit agencies. Discounts when switching to other agencies from the TTC may be possible with a Presto card.
 
@@ -864,7 +864,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MDk3ODIwMywtNjAwMzk4MjU3LDEwOT
+eyJoaXN0b3J5IjpbLTY0MDk4MTMxNCwtNjAwMzk4MjU3LDEwOT
 k1OTc4NjAsMTg1MTI2NTU5Myw2MDEzMjM4MTksLTEyMzcyMDk5
 MzYsLTE3NjAyNTUwNTIsLTc0MTIzNDkwNSwtMTU1NTgxMDU2LC
 02NjI1ODA5MTAsMTU2Nzk3NzY1NiwtMTM4MjM4MDQ2OSwyODUz
