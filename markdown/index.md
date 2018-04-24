@@ -716,6 +716,8 @@ Apartments
 ## Getting Around
 [**Table of Contents**](#table-of-contents)
 
+While many students opt to live close enough to campus to walk, this can be financially challenging. There are many alternative ways to get around the city.
+
 ### Public Transit
 
 #### Toronto Transit Commission
@@ -837,11 +839,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMDM5ODI1NywxMDk5NTk3ODYwLDE4NT
-EyNjU1OTMsNjAxMzIzODE5LC0xMjM3MjA5OTM2LC0xNzYwMjU1
-MDUyLC03NDEyMzQ5MDUsLTE1NTU4MTA1NiwtNjYyNTgwOTEwLD
-E1Njc5Nzc2NTYsLTEzODIzODA0NjksMjg1MzMyOTA1LDY3MDQw
-Mjc5MiwtMjAyMDU1OTU0NCwtNDc1NjM0MjQ5LC04OTIzNDI3ND
-IsLTY2NTE4Mjc2NCwtMzk3MjkxOTYsMTI1MjkxMzE5OCwyMTA2
-OTU0Mjc1XX0=
+eyJoaXN0b3J5IjpbMTEwMjc1MTg5NiwtNjAwMzk4MjU3LDEwOT
+k1OTc4NjAsMTg1MTI2NTU5Myw2MDEzMjM4MTksLTEyMzcyMDk5
+MzYsLTE3NjAyNTUwNTIsLTc0MTIzNDkwNSwtMTU1NTgxMDU2LC
+02NjI1ODA5MTAsMTU2Nzk3NzY1NiwtMTM4MjM4MDQ2OSwyODUz
+MzI5MDUsNjcwNDAyNzkyLC0yMDIwNTU5NTQ0LC00NzU2MzQyND
+ksLTg5MjM0Mjc0MiwtNjY1MTgyNzY0LC0zOTcyOTE5NiwxMjUy
+OTEzMTk4XX0=
 -->
