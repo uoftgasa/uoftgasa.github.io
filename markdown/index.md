@@ -735,12 +735,12 @@ Depending on your frequency of use, there are few payment options. For anyone li
 - **Presto fare: $3.00/trip** (although the card has a startup cost)
 	- tap this reloadable card at every route switch, see the Presto Card section below for more details
 	- best for frequent users who also use other transit agencies
-- **Day pass: $12.50/day** 
+- **Day Pass: $12.50/day** 
 	- unlimited travel for one day
 	- make 4 trips to break even with the cash fare
 	- make 5 trips to break even with the Presto fare
 	- best for infrequent users
-- **Weekly pass: $43.75/week** 
+- **Weekly Pass: $43.75/week** 
 	- unlimited travel for a week
 	- make 14 trips to break even with the cash fare
 	- make 15 trips to break even with the Presto fare
@@ -765,18 +765,10 @@ After paying a cash fare, be sure to pick up a paper transfer (also referred to 
 The proof of payment for each of the fares discussed above is as follows:
 
 - **Cash fare: paper transfer**
-- **Presto fare: Presto 
-- **Day pass: $12.50/day** 
-	- unlimited travel for one day
-	- make 4 trips to break even with the cash fare
-	- make 5 trips to break even with the Presto fare
-	- best for infrequent users
-- **Weekly pass: $43.75/week** 
-	- unlimited travel for a week
-	- make 14 trips to break even with the cash fare
-	- make 15 trips to break even with the Presto fare
-	- best for infrequent users
-- **Post-secondary student Metropass: $116.75/month** 
+- **Presto fare: Presto card**
+- **Day Pass: Day Pass**
+- **Weekly Pass: Weekly Pass** 
+- **Post-secondary student Metropass: Metropass** 
 	- unlimited travel for a month carrying a [post-secondary ID card](https://www.ttc.ca/Fares_and_passes/Fare_information/Seniors_students_and_children/Post_Secondary_Students/index.jsp)
 	- make 36 trips to break even with the cash fare
 	- make 39 trips to break even with the Presto fare
@@ -911,11 +903,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTAxNTYyMCwtNjAwMzk4MjU3LDEwOT
-k1OTc4NjAsMTg1MTI2NTU5Myw2MDEzMjM4MTksLTEyMzcyMDk5
-MzYsLTE3NjAyNTUwNTIsLTc0MTIzNDkwNSwtMTU1NTgxMDU2LC
-02NjI1ODA5MTAsMTU2Nzk3NzY1NiwtMTM4MjM4MDQ2OSwyODUz
-MzI5MDUsNjcwNDAyNzkyLC0yMDIwNTU5NTQ0LC00NzU2MzQyND
-ksLTg5MjM0Mjc0MiwtNjY1MTgyNzY0LC0zOTcyOTE5NiwxMjUy
-OTEzMTk4XX0=
+eyJoaXN0b3J5IjpbNDA1MDcxNjc4LC02MDAzOTgyNTcsMTA5OT
+U5Nzg2MCwxODUxMjY1NTkzLDYwMTMyMzgxOSwtMTIzNzIwOTkz
+NiwtMTc2MDI1NTA1MiwtNzQxMjM0OTA1LC0xNTU1ODEwNTYsLT
+Y2MjU4MDkxMCwxNTY3OTc3NjU2LC0xMzgyMzgwNDY5LDI4NTMz
+MjkwNSw2NzA0MDI3OTIsLTIwMjA1NTk1NDQsLTQ3NTYzNDI0OS
+wtODkyMzQyNzQyLC02NjUxODI3NjQsLTM5NzI5MTk2LDEyNTI5
+MTMxOThdfQ==
 -->
