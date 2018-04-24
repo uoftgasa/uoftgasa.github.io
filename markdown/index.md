@@ -726,7 +726,8 @@ There are two primary transit options in downtown Toronto, which connect to othe
 
 This system of subways, streetcars, and buses is the primary public transit option within the city. You can find the full system map [here](https://www.ttc.ca/PDF/Maps/TTC_SystemMap.pdf). Depending on your frequency of use, there are few payment options:
 
-- **Cash fare** - best for very infrequent users, 
+- **Cash fare**: $3.25 - best for very infrequent users
+- **Presto fare**: $3.00 - this reloadable
 
 #### GO Transit
 
@@ -849,7 +850,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE5NTE5ODM3LC02MDAzOTgyNTcsMTA5OT
+eyJoaXN0b3J5IjpbMTc3NDQ1Mzc4LC02MDAzOTgyNTcsMTA5OT
 U5Nzg2MCwxODUxMjY1NTkzLDYwMTMyMzgxOSwtMTIzNzIwOTkz
 NiwtMTc2MDI1NTA1MiwtNzQxMjM0OTA1LC0xNTU1ODEwNTYsLT
 Y2MjU4MDkxMCwxNTY3OTc3NjU2LC0xMzgyMzgwNDY5LDI4NTMz
