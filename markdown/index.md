@@ -509,13 +509,13 @@ The graduate program is described in detail on the [department website](http://w
 
 ### Direct Entry vs Standard PhD
 
-The 'Direct Entry PhD' refers to the 5-year program in which most students are enrolled. Students attending UofT already in possession of a MSc will be entered into the 4-year 'Standard PhD' track. The sections below describe the direct entry PhD, but the requirements for the standard PhD are the same except that standard PhD students are expected to identify their not required to take any courses, and complete the qualifying exams in their first year instead of their second.
+The 'Direct Entry PhD' refers to the 5-year program in which most students are enrolled. Students attending UofT already in possession of a MSc will be entered into the 4-year 'Standard PhD' track. The sections below describe the direct entry PhD, but the requirements for the standard PhD are the same except that standard PhD students are expected to identify their supervisor prior to entering the program, are not required to take any courses, and are expected to complete the qualifying exams in their first year instead of their second.
 
 ### AST1501Y and AST1500Y
 
 These two courses are the research component of the first year of the [direct entry](#direct-entry-vs-standard-phd) PhD program. Students must enrol in AST1501Y on [ACORN](acorn.utoronto.ca) in their first semester of the program, and the course continues until the end of the winter semester (the end of April). Students subsequently enrol in AST1500Y (also through [ACORN](acorn.utoronto.ca)) which takes them through until the end of August. Both courses are similar in both structure and requirements, but AST1500Y has a shorter timeline because students are expected to be more familiar with the department and will no longer have other [courses](#courses) or [teaching](#teaching) obligations.
 
-Both courses begin with the identification of a supervisor
+Both courses begin with the identification of a supervisor. The deadline to do this for AST1501Y is the end of October, and students will re
 
 ### Courses
 
@@ -808,7 +808,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzODU4ODY1MSw2MDEzMjM4MTksLTEyMz
+eyJoaXN0b3J5IjpbMTc5OTk5OTY3OSw2MDEzMjM4MTksLTEyMz
 cyMDk5MzYsLTE3NjAyNTUwNTIsLTc0MTIzNDkwNSwtMTU1NTgx
 MDU2LC02NjI1ODA5MTAsMTU2Nzk3NzY1NiwtMTM4MjM4MDQ2OS
 wyODUzMzI5MDUsNjcwNDAyNzkyLC0yMDIwNTU5NTQ0LC00NzU2
