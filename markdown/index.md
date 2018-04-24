@@ -513,7 +513,7 @@ The 'Direct Entry PhD' refers to the 5-year program in which most students are e
 
 ### AST1501Y and AST1500Y
 
-These two courses are the research component of the first year of the [direct entry](#direct-entry-vs-standard-phd) PhD program. Students must enrol in AST1501Y on [ACORN](acorn.utoronto.ca) in their first semester of the program, and the course continues until the end of the winter semester (the end of April). Students subsequently enrol in AST1500Y (also through [ACORN](acorn.utoronto.ca)) over the four summer months, . Both courses are
+These two courses are the research component of the first year of the [direct entry](#direct-entry-vs-standard-phd) PhD program. Students must enrol in AST1501Y on [ACORN](acorn.utoronto.ca) in their first semester of the program, and the course continues until the end of the winter semester (the end of April). Students subsequently enrol in AST1500Y (also through [ACORN](acorn.utoronto.ca)) which takes them through until the end of August. Both courses are similar in both structure and requirements
 
 ### Courses
 
@@ -806,7 +806,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MzcyMjA5MiwtMTIzNzIwOTkzNiwtMT
+eyJoaXN0b3J5IjpbLTQ5NjY0NjkwNiwtMTIzNzIwOTkzNiwtMT
 c2MDI1NTA1MiwtNzQxMjM0OTA1LC0xNTU1ODEwNTYsLTY2MjU4
 MDkxMCwxNTY3OTc3NjU2LC0xMzgyMzgwNDY5LDI4NTMzMjkwNS
 w2NzA0MDI3OTIsLTIwMjA1NTk1NDQsLTQ3NTYzNDI0OSwtODky
