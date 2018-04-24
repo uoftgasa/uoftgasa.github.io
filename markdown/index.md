@@ -813,7 +813,7 @@ This airport has customs pre-clearance for destinations in the US, meaning you d
 
 #### Billy Bishop Airport
 
-This airport offers flights to domestic and US destinations, mostly via the budget Porter Airlines. It's conveniently accessible at the foot of Bathurst street, with a free shuttle service between the main terminal and the Line 1 subway Union Station. It's also easily reachable by public transit, either by the 509 Harbourfront or 511
+This airport offers flights to domestic and US destinations, mostly via the budget Porter Airlines. It's conveniently accessible at the foot of Bathurst street, with a free shuttle service between the main terminal and the Line 1 subway Union Station. It's also easily reachable by public transit, either by the 509 Harbourfront or 511 Bathurst streetcar lines.
 
 ## UofT Services
 [**Table of Contents**](#table-of-contents)
@@ -925,11 +925,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI3NDIyMjI0LDY0OTk1NjU5OCw4MjE3Mj
-A4MzUsLTYwMDM5ODI1NywxMDk5NTk3ODYwLDE4NTEyNjU1OTMs
-NjAxMzIzODE5LC0xMjM3MjA5OTM2LC0xNzYwMjU1MDUyLC03ND
-EyMzQ5MDUsLTE1NTU4MTA1NiwtNjYyNTgwOTEwLDE1Njc5Nzc2
-NTYsLTEzODIzODA0NjksMjg1MzMyOTA1LDY3MDQwMjc5MiwtMj
-AyMDU1OTU0NCwtNDc1NjM0MjQ5LC04OTIzNDI3NDIsLTY2NTE4
-Mjc2NF19
+eyJoaXN0b3J5IjpbMTMxNjA4ODE4OSw2NDk5NTY1OTgsODIxNz
+IwODM1LC02MDAzOTgyNTcsMTA5OTU5Nzg2MCwxODUxMjY1NTkz
+LDYwMTMyMzgxOSwtMTIzNzIwOTkzNiwtMTc2MDI1NTA1MiwtNz
+QxMjM0OTA1LC0xNTU1ODEwNTYsLTY2MjU4MDkxMCwxNTY3OTc3
+NjU2LC0xMzgyMzgwNDY5LDI4NTMzMjkwNSw2NzA0MDI3OTIsLT
+IwMjA1NTk1NDQsLTQ3NTYzNDI0OSwtODkyMzQyNzQyLC02NjUx
+ODI3NjRdfQ==
 -->
