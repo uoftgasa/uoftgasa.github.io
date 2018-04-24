@@ -720,7 +720,9 @@ While many students opt to live close enough to campus to walk, this can be fina
 
 ### Public Transit
 
-There are two primary transit options in downtown Toronto, which connect to other transit agencies in nearby cities.
+There are two primary transit options in downtown Toronto, which connect to other transit agencies in nearby cities. 
+
+- transit app
 
 #### Toronto Transit Commission
 
@@ -775,7 +777,7 @@ Proof of payment is especially important on streetcars, where no one checks that
 
 **The Presto Card:**
 
-Local transit agencies are attempting to unify the Presto card, allowing you to have one piece of fare media to use in a variety of different systems. The card costs $6 to buy, and must be preloaded with either $10 (when purchased online or in a Shoppers Drug Mart), or $14 (when purchased in a subway station). 
+Local transit agencies are attempting to unify the Presto card, allowing you to have one piece of fare media to use in a variety of different systems. The card costs $6 to buy, and must be preloaded with either $10 (when purchased online or in a Shoppers Drug Mart), or $14 (when purchased in a subway station). An online card order will take 2 weeks to deliver by mail, so its worth investigating Presto's [exhaustive list of purchase locations](https://www.prestocard.ca/en/find-an-outlet/customer-service-outlets). Once purchased, the card can be refilled online, in a
 
 #### GO Transit
 
@@ -898,7 +900,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI3NzQ1Nzc0LC02MDAzOTgyNTcsMTA5OT
+eyJoaXN0b3J5IjpbMjU4Nzg5NDkwLC02MDAzOTgyNTcsMTA5OT
 U5Nzg2MCwxODUxMjY1NTkzLDYwMTMyMzgxOSwtMTIzNzIwOTkz
 NiwtMTc2MDI1NTA1MiwtNzQxMjM0OTA1LC0xNTU1ODEwNTYsLT
 Y2MjU4MDkxMCwxNTY3OTc3NjU2LC0xMzgyMzgwNDY5LDI4NTMz
