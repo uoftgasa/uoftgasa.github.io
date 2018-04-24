@@ -724,9 +724,9 @@ There are two primary transit options in downtown Toronto, which connect to othe
 
 #### Toronto Transit Commission
 
-This system of subways, streetcars, and buses is the primary public transit option within the city.
+This system of subways, streetcars, and buses is the primary public transit option within the city. You can find the full system map [here](https://www.ttc.ca/PDF/Maps/TTC_SystemMap.pdf). Depending on your frequency of use, there are few payment options:
 
-![enter image description here](https://www.ttc.ca/PDF/Maps/TTC_SystemMap.pdf)
+- **Cash fare** - best for very infrequent users, 
 
 #### GO Transit
 
@@ -849,11 +849,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNTYzODc3MSwtNjAwMzk4MjU3LDEwOT
-k1OTc4NjAsMTg1MTI2NTU5Myw2MDEzMjM4MTksLTEyMzcyMDk5
-MzYsLTE3NjAyNTUwNTIsLTc0MTIzNDkwNSwtMTU1NTgxMDU2LC
-02NjI1ODA5MTAsMTU2Nzk3NzY1NiwtMTM4MjM4MDQ2OSwyODUz
-MzI5MDUsNjcwNDAyNzkyLC0yMDIwNTU5NTQ0LC00NzU2MzQyND
-ksLTg5MjM0Mjc0MiwtNjY1MTgyNzY0LC0zOTcyOTE5NiwxMjUy
-OTEzMTk4XX0=
+eyJoaXN0b3J5IjpbMzE5NTE5ODM3LC02MDAzOTgyNTcsMTA5OT
+U5Nzg2MCwxODUxMjY1NTkzLDYwMTMyMzgxOSwtMTIzNzIwOTkz
+NiwtMTc2MDI1NTA1MiwtNzQxMjM0OTA1LC0xNTU1ODEwNTYsLT
+Y2MjU4MDkxMCwxNTY3OTc3NjU2LC0xMzgyMzgwNDY5LDI4NTMz
+MjkwNSw2NzA0MDI3OTIsLTIwMjA1NTk1NDQsLTQ3NTYzNDI0OS
+wtODkyMzQyNzQyLC02NjUxODI3NjQsLTM5NzI5MTk2LDEyNTI5
+MTMxOThdfQ==
 -->
