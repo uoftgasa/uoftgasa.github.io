@@ -677,7 +677,7 @@ Graduate students have a few on-campus residence options. Incoming graduate stud
 
 #### Grad House
 
-Grad House is conven
+Grad House is conveniently located at [Harbord and Spadina](https://goo.gl/maps/bx41Yz85wQ32), a couple of blocks away from [AB](#astronomy-building). 
 
 I’m at the graduate house on the corner of Harbord and Spadina. The building’s location is ideal since it’s on campus, right in front of the AC, and next to the streetcar line going South. The rent is around 1000$/month for a unit of a kitchen, two bathrooms and four rooms shared by four. The interior decoration is fifty shades of concrete, but in terms of finding a safe place to stay when you don’t know the Toronto suburbs, it’s hard to beat (which makes it interesting for first-year international students). Most people would stay there a year to get familiar with the city life and prices, and then move. This is why first-year get priority when applying at the residence, or so I have heard.
 
@@ -929,7 +929,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ3MzM0MjMwLC0xNzk3NzQzODE3LC01OT
+eyJoaXN0b3J5IjpbNDMyNjc1MzEwLC0xNzk3NzQzODE3LC01OT
 M0NzU0MzIsLTM4NTUzODExNywtODM3MjQ4MzM5LC0xMTA0MDAx
 MTM0LC02NjI1ODA5MTAsMTU2Nzk3NzY1NiwtMTM4MjM4MDQ2OS
 wyODUzMzI5MDUsNjcwNDAyNzkyLC0yMDIwNTU5NTQ0LC00NzU2
