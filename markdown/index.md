@@ -677,7 +677,7 @@ Graduate students have a few on-campus residence options. Incoming graduate stud
 
 #### Grad House
 
-Grad House is conveniently located at [Harbord and Spadina](https://goo.gl/maps/bx41Yz85wQ32), a couple of blocks away from [AB](#astronomy-building), and offers housing for graduate students enrolled in fulltime programs at UofT.
+Grad House is conveniently located at [Harbord and Spadina](https://goo.gl/maps/bx41Yz85wQ32), a couple of blocks away from [AB](#astronomy-building), and offers housing for graduate students enrolled in fulltime programs at UofT. They receive more applications than they can accept, but do maintain a waiting list
 
 I’m at the graduate house on the corner of Harbord and Spadina. The building’s location is ideal since it’s on campus, right in front of the AC, and next to the streetcar line going South. The rent is around 1000$/month for a unit of a kitchen, two bathrooms and four rooms shared by four. The interior decoration is fifty shades of concrete, but in terms of finding a safe place to stay when you don’t know the Toronto suburbs, it’s hard to beat (which makes it interesting for first-year international students). Most people would stay there a year to get familiar with the city life and prices, and then move. This is why first-year get priority when applying at the residence, or so I have heard.
 
@@ -929,11 +929,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDIwOTAzMDUsNDMyNjc1MzEwLC0xNz
-k3NzQzODE3LC01OTM0NzU0MzIsLTM4NTUzODExNywtODM3MjQ4
-MzM5LC0xMTA0MDAxMTM0LC02NjI1ODA5MTAsMTU2Nzk3NzY1Ni
-wtMTM4MjM4MDQ2OSwyODUzMzI5MDUsNjcwNDAyNzkyLC0yMDIw
-NTU5NTQ0LC00NzU2MzQyNDksLTg5MjM0Mjc0MiwtNjY1MTgyNz
-Y0LC0zOTcyOTE5NiwxMjUyOTEzMTk4LDIxMDY5NTQyNzUsLTkw
-MDE4NjI2XX0=
+eyJoaXN0b3J5IjpbNjc0MTQ0MjkyLDQzMjY3NTMxMCwtMTc5Nz
+c0MzgxNywtNTkzNDc1NDMyLC0zODU1MzgxMTcsLTgzNzI0ODMz
+OSwtMTEwNDAwMTEzNCwtNjYyNTgwOTEwLDE1Njc5Nzc2NTYsLT
+EzODIzODA0NjksMjg1MzMyOTA1LDY3MDQwMjc5MiwtMjAyMDU1
+OTU0NCwtNDc1NjM0MjQ5LC04OTIzNDI3NDIsLTY2NTE4Mjc2NC
+wtMzk3MjkxOTYsMTI1MjkxMzE5OCwyMTA2OTU0Mjc1LC05MDAx
+ODYyNl19
 -->
