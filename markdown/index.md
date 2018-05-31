@@ -701,6 +701,8 @@ Housing in Toronto is pricey, and off-campus options have a range of associated 
 If you take one thing away from this section, please take this link to a page with [your rights when renting in Ontario](https://www.ontario.ca/page/renting-ontario-your-rights). You have many rights as a tenant renting in Ontario, and it pays to be familiar with what restrictions your landlord is permitted to make. 
 
 **Your landlord can:**
+- raise your rent by a maximum 1.8% per year 
+- evict you from the rental unit to make room for a family member
 - demand 60 days notice of your departure from the rental unit
 
 
@@ -942,11 +944,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjY4ODYzNTEsLTE2Nzg4MzAwMjIsLT
-EzMjA2MzIxNTEsLTEyODYwMjI0MTQsNDMyNjc1MzEwLC0xNzk3
-NzQzODE3LC01OTM0NzU0MzIsLTM4NTUzODExNywtODM3MjQ4Mz
-M5LC0xMTA0MDAxMTM0LC02NjI1ODA5MTAsMTU2Nzk3NzY1Niwt
-MTM4MjM4MDQ2OSwyODUzMzI5MDUsNjcwNDAyNzkyLC0yMDIwNT
-U5NTQ0LC00NzU2MzQyNDksLTg5MjM0Mjc0MiwtNjY1MTgyNzY0
-LC0zOTcyOTE5Nl19
+eyJoaXN0b3J5IjpbMTkzMDAxNDMzOCwtMTY3ODgzMDAyMiwtMT
+MyMDYzMjE1MSwtMTI4NjAyMjQxNCw0MzI2NzUzMTAsLTE3OTc3
+NDM4MTcsLTU5MzQ3NTQzMiwtMzg1NTM4MTE3LC04MzcyNDgzMz
+ksLTExMDQwMDExMzQsLTY2MjU4MDkxMCwxNTY3OTc3NjU2LC0x
+MzgyMzgwNDY5LDI4NTMzMjkwNSw2NzA0MDI3OTIsLTIwMjA1NT
+k1NDQsLTQ3NTYzNDI0OSwtODkyMzQyNzQyLC02NjUxODI3NjQs
+LTM5NzI5MTk2XX0=
 -->
