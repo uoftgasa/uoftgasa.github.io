@@ -782,7 +782,7 @@ Presto card users typically enjoy reduced fares when switching between transit a
 
 **Rush Hours**
 
-As in any city, there are times of day when more people are trying to get around. At these times, vehicles might be packed to crush depth, making it difficult or impossible to board. Graduate students are lucky to have typically flexible working hours; if you take transit regularly, it's worth investigating the times are which your routes are busiest so you can give yourself the option of a peaceful trip to the office. Rush hours for transit typicall
+As in any city, there are times of day when more people are trying to get around. At these times, vehicles might be packed to crush depth, making it difficult or impossible to board. Graduate students are lucky to have typically flexible working hours; if you take transit regularly, it's worth investigating the times are which your routes are busiest so you can give yourself the option of a peaceful trip to the office. Peak hours for transit are typically 7am-10am and 4pm-7pm. Maximum capacity is usually reached from 8am-9am and 5pm-6pm, tra
 
 #### GO Transit
 
@@ -919,11 +919,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc1NTEzMDYyLC04MzcyNDgzMzksLTExMD
-QwMDExMzQsLTY2MjU4MDkxMCwxNTY3OTc3NjU2LC0xMzgyMzgw
-NDY5LDI4NTMzMjkwNSw2NzA0MDI3OTIsLTIwMjA1NTk1NDQsLT
-Q3NTYzNDI0OSwtODkyMzQyNzQyLC02NjUxODI3NjQsLTM5NzI5
-MTk2LDEyNTI5MTMxOTgsMjEwNjk1NDI3NSwtOTAwMTg2MjYsLT
-Y2MzEzODYyNywtOTc2Njk2MDA3LC00MTI4MDM0NTAsMjE3NjU1
-MTVdfQ==
+eyJoaXN0b3J5IjpbLTExOTQ1NTI2MTEsLTgzNzI0ODMzOSwtMT
+EwNDAwMTEzNCwtNjYyNTgwOTEwLDE1Njc5Nzc2NTYsLTEzODIz
+ODA0NjksMjg1MzMyOTA1LDY3MDQwMjc5MiwtMjAyMDU1OTU0NC
+wtNDc1NjM0MjQ5LC04OTIzNDI3NDIsLTY2NTE4Mjc2NCwtMzk3
+MjkxOTYsMTI1MjkxMzE5OCwyMTA2OTU0Mjc1LC05MDAxODYyNi
+wtNjYzMTM4NjI3LC05NzY2OTYwMDcsLTQxMjgwMzQ1MCwyMTc2
+NTUxNV19
 -->
