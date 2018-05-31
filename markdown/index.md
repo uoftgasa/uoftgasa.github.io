@@ -698,7 +698,11 @@ Many thanks to Deborah Lokhorst for her descriptions of Massey College life!
 ### Off-Campus
 Housing in Toronto is pricey, and off-campus options have a range of associated costs. In this section, we'll talk about what you can expect to rent and at what price point, as well as where you might expect to live.
 
-If you take one thing away from this section, please take this link to a page with [your rights when renting in Ontario](https://www.ontario.ca/page/renting-ontario-your-rights). You have many rights as a tenant renting in Ontario, and it pays to be familiar with what restrictions your landlord is permitted to make.
+If you take one thing away from this section, please take this link to a page with [your rights when renting in Ontario](https://www.ontario.ca/page/renting-ontario-your-rights). You have many rights as a tenant renting in Ontario, and it pays to be familiar with what restrictions your landlord is permitted to make. 
+
+**Your landlord can:**
+-
+
 
 #### Finding an apartment 
 When searching in Toronto, it pays to familiarize
@@ -938,11 +942,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzg4MzAwMjIsLTEzMjA2MzIxNTEsLT
-EyODYwMjI0MTQsNDMyNjc1MzEwLC0xNzk3NzQzODE3LC01OTM0
-NzU0MzIsLTM4NTUzODExNywtODM3MjQ4MzM5LC0xMTA0MDAxMT
-M0LC02NjI1ODA5MTAsMTU2Nzk3NzY1NiwtMTM4MjM4MDQ2OSwy
-ODUzMzI5MDUsNjcwNDAyNzkyLC0yMDIwNTU5NTQ0LC00NzU2Mz
-QyNDksLTg5MjM0Mjc0MiwtNjY1MTgyNzY0LC0zOTcyOTE5Niwx
-MjUyOTEzMTk4XX0=
+eyJoaXN0b3J5IjpbLTk0MTE2NTA2LC0xNjc4ODMwMDIyLC0xMz
+IwNjMyMTUxLC0xMjg2MDIyNDE0LDQzMjY3NTMxMCwtMTc5Nzc0
+MzgxNywtNTkzNDc1NDMyLC0zODU1MzgxMTcsLTgzNzI0ODMzOS
+wtMTEwNDAwMTEzNCwtNjYyNTgwOTEwLDE1Njc5Nzc2NTYsLTEz
+ODIzODA0NjksMjg1MzMyOTA1LDY3MDQwMjc5MiwtMjAyMDU1OT
+U0NCwtNDc1NjM0MjQ5LC04OTIzNDI3NDIsLTY2NTE4Mjc2NCwt
+Mzk3MjkxOTZdfQ==
 -->
