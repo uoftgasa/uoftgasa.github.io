@@ -680,7 +680,7 @@ Graduate students have a few on-campus residence options. Incoming graduate stud
 
 #### Massey College
 
-
+Massey College offers a unique experience to mem, with formal dinners on weekday evening
 
 I was a Resident Fellow for two years, and Non-Resident this year.  The cost of living there was about $12,625 when I was there in 2016-2017 (it’s probably gone up a bit since then).  
 They supply breakfast, lunch, and dinner for six days of the week (nothing is served on Sundays).  The breakfast and lunch are always cafeteria style, but they always have hot options at these and they are quite good.  The dinners from Monday to Friday are sit down meals that go from 6:30pm to 7:30pm, we wear gowns, and it is “formal” in that everyone has to be there on time and for the whole meal (but casual dress etc.).  There are also “high table” dinners every two weeks that are fancy dress and food, and they are pretty fun.
@@ -928,11 +928,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NTY4NjI5OSwtMzg1NTM4MTE3LC04Mz
-cyNDgzMzksLTExMDQwMDExMzQsLTY2MjU4MDkxMCwxNTY3OTc3
-NjU2LC0xMzgyMzgwNDY5LDI4NTMzMjkwNSw2NzA0MDI3OTIsLT
-IwMjA1NTk1NDQsLTQ3NTYzNDI0OSwtODkyMzQyNzQyLC02NjUx
-ODI3NjQsLTM5NzI5MTk2LDEyNTI5MTMxOTgsMjEwNjk1NDI3NS
-wtOTAwMTg2MjYsLTY2MzEzODYyNywtOTc2Njk2MDA3LC00MTI4
-MDM0NTBdfQ==
+eyJoaXN0b3J5IjpbLTE2NjQ4MDA5NzQsLTM4NTUzODExNywtOD
+M3MjQ4MzM5LC0xMTA0MDAxMTM0LC02NjI1ODA5MTAsMTU2Nzk3
+NzY1NiwtMTM4MjM4MDQ2OSwyODUzMzI5MDUsNjcwNDAyNzkyLC
+0yMDIwNTU5NTQ0LC00NzU2MzQyNDksLTg5MjM0Mjc0MiwtNjY1
+MTgyNzY0LC0zOTcyOTE5NiwxMjUyOTEzMTk4LDIxMDY5NTQyNz
+UsLTkwMDE4NjI2LC02NjMxMzg2MjcsLTk3NjY5NjAwNywtNDEy
+ODAzNDUwXX0=
 -->
