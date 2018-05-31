@@ -721,7 +721,7 @@ Transit vehicle schedules are available online as well as through a variety of t
 
 #### Toronto Transit Commission
 
-This system of subways, streetcars, and buses is the primary public transit option within the city. You can find the full system map [here](https://www.ttc.ca/PDF/Maps/TTC_SystemMap.pdf). 
+This system of subways, streetcars, and buses is the primary public transit option within the city. You can find the full system map [here](https://www.ttc.ca/PDF/Maps/TTC_SystemMap.pdf).  If you're interested in reading about developments to the system, Steve Munro keeps an excellent and informative [blog](https://stevemunro.ca).
 
 **Fares:**
 Depending on your frequency of use, there are few payment options. For anyone living in the city, the Presto card or the Post-secondary Monthly pass are the best options; the others are more suitable for someone visiting from out of town. Even if you feel you will not use transit often, it is worth investing in a Presto Card (described in a section below).
@@ -919,11 +919,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NTUzODExNywtODM3MjQ4MzM5LC0xMT
-A0MDAxMTM0LC02NjI1ODA5MTAsMTU2Nzk3NzY1NiwtMTM4MjM4
-MDQ2OSwyODUzMzI5MDUsNjcwNDAyNzkyLC0yMDIwNTU5NTQ0LC
-00NzU2MzQyNDksLTg5MjM0Mjc0MiwtNjY1MTgyNzY0LC0zOTcy
-OTE5NiwxMjUyOTEzMTk4LDIxMDY5NTQyNzUsLTkwMDE4NjI2LC
-02NjMxMzg2MjcsLTk3NjY5NjAwNywtNDEyODAzNDUwLDIxNzY1
-NTE1XX0=
+eyJoaXN0b3J5IjpbLTI2OTkwNTkyMSwtMzg1NTM4MTE3LC04Mz
+cyNDgzMzksLTExMDQwMDExMzQsLTY2MjU4MDkxMCwxNTY3OTc3
+NjU2LC0xMzgyMzgwNDY5LDI4NTMzMjkwNSw2NzA0MDI3OTIsLT
+IwMjA1NTk1NDQsLTQ3NTYzNDI0OSwtODkyMzQyNzQyLC02NjUx
+ODI3NjQsLTM5NzI5MTk2LDEyNTI5MTMxOTgsMjEwNjk1NDI3NS
+wtOTAwMTg2MjYsLTY2MzEzODYyNywtOTc2Njk2MDA3LC00MTI4
+MDM0NTBdfQ==
 -->
