@@ -698,9 +698,11 @@ Many thanks to Deborah Lokhorst for her descriptions of Massey College life!
 ### Off-Campus
 Housing in Toronto is pricey, and off-campus options have a range of associated costs. In this section, we'll talk about what you can expect to rent and at what price point, as well as where you might expect to live.
 
-If you take one thing away from this section, please take this link to a page with [your rights when renting in Ontario](https://www.ontario.ca/page/renting-ontario-your-rights). You have many rights as a tenant renting in Ontario, and it pays to be familiar with what restrictions your landlord is permitted to make. Note that as of April 2018, your landlord is required to serve you a standard lease that summarizes the information below in clear language - you can read a template [here](http://www.forms.ssb.gov.on.ca/mbs/ssb/forms/ssbforms.nsf/FormDetail?OpenForm&ACT=RDR&TAB=PROFILE&SRCH=&ENV=WWE&TIT=2229E&NO=047-2229E).
+If you take one thing away from this section, please take this link to a page with [your rights when renting in Ontario](https://www.ontario.ca/page/renting-ontario-your-rights). You have many rights as a tenant renting in Ontario, and it pays to be familiar with what restrictions your landlord is permitted to make. Note that as of April 2018, your landlord is required to serve you a standard lease that summarizes the information in [Rental FAQs](#rental-faqs) in clear language - you can read a template [here](http://www.forms.ssb.gov.on.ca/mbs/ssb/forms/ssbforms.nsf/FormDetail?OpenForm&ACT=RDR&TAB=PROFILE&SRCH=&ENV=WWE&TIT=2229E&NO=047-2229E).
 
 #### Rental FAQs
+
+I've provided a quick list of common restrictions in Ontario housing, but you can find an exhaustive list 
 
 **Landlords cannot:**
 
@@ -963,11 +965,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTE4MTM0MTMsMTM2ODY4NzM1MiwxOT
-MwMDE0MzM4LC0xNjc4ODMwMDIyLC0xMzIwNjMyMTUxLC0xMjg2
-MDIyNDE0LDQzMjY3NTMxMCwtMTc5Nzc0MzgxNywtNTkzNDc1ND
-MyLC0zODU1MzgxMTcsLTgzNzI0ODMzOSwtMTEwNDAwMTEzNCwt
-NjYyNTgwOTEwLDE1Njc5Nzc2NTYsLTEzODIzODA0NjksMjg1Mz
-MyOTA1LDY3MDQwMjc5MiwtMjAyMDU1OTU0NCwtNDc1NjM0MjQ5
-LC04OTIzNDI3NDJdfQ==
+eyJoaXN0b3J5IjpbLTE5MzE1MjA1MzUsLTE0MTE4MTM0MTMsMT
+M2ODY4NzM1MiwxOTMwMDE0MzM4LC0xNjc4ODMwMDIyLC0xMzIw
+NjMyMTUxLC0xMjg2MDIyNDE0LDQzMjY3NTMxMCwtMTc5Nzc0Mz
+gxNywtNTkzNDc1NDMyLC0zODU1MzgxMTcsLTgzNzI0ODMzOSwt
+MTEwNDAwMTEzNCwtNjYyNTgwOTEwLDE1Njc5Nzc2NTYsLTEzOD
+IzODA0NjksMjg1MzMyOTA1LDY3MDQwMjc5MiwtMjAyMDU1OTU0
+NCwtNDc1NjM0MjQ5XX0=
 -->
