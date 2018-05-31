@@ -700,13 +700,16 @@ Housing in Toronto is pricey, and off-campus options have a range of associated 
 
 If you take one thing away from this section, please take this link to a page with [your rights when renting in Ontario](https://www.ontario.ca/page/renting-ontario-your-rights). You have many rights as a tenant renting in Ontario, and it pays to be familiar with what restrictions your landlord is permitted to make. 
 
-Here are some things your landlord is not permitted to do in Ontario:
+**Landlords cannot:**
 
 - demand a key/security/damages deposit 
 	- only rent deposits, e.g. last month's rent, are permitted, and must not exceed the rent of a single month
 - increase your rent by more than 1.8% each year
 	- rent increases must be communicated with 90 days notice
--  
+
+**Landlords can**
+- demand 60 days notice of you moving out of the rental unit
+- increase your rent b
 
 
 #### Finding an apartment 
@@ -947,7 +950,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkxODEyMjMwLDEzNjg2ODczNTIsMTkzMD
+eyJoaXN0b3J5IjpbNzYzNzMxMDU4LDEzNjg2ODczNTIsMTkzMD
 AxNDMzOCwtMTY3ODgzMDAyMiwtMTMyMDYzMjE1MSwtMTI4NjAy
 MjQxNCw0MzI2NzUzMTAsLTE3OTc3NDM4MTcsLTU5MzQ3NTQzMi
 wtMzg1NTM4MTE3LC04MzcyNDgzMzksLTExMDQwMDExMzQsLTY2
