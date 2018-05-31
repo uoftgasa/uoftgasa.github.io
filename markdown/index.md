@@ -711,6 +711,8 @@ If you take one thing away from this section, please take this link to a page wi
 - demand a 'last month's rent' deposit at the start of the tenancy
 - increase your rent by up to 1.8% each year after giving you 90 days notice
 - demand 60 days notice of you moving out of the rental unit
+- evict you to allow a family member to move into the rental unit
+- evict you for non-payment of rent or otherwise contravening your lease or the law
 
 
 #### Finding an apartment 
@@ -951,7 +953,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQxODIxNTUwLDEzNjg2ODczNTIsMTkzMD
+eyJoaXN0b3J5IjpbNjI1MzI5ODEzLDEzNjg2ODczNTIsMTkzMD
 AxNDMzOCwtMTY3ODgzMDAyMiwtMTMyMDYzMjE1MSwtMTI4NjAy
 MjQxNCw0MzI2NzUzMTAsLTE3OTc3NDM4MTcsLTU5MzQ3NTQzMi
 wtMzg1NTM4MTE3LC04MzcyNDgzMzksLTExMDQwMDExMzQsLTY2
