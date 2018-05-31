@@ -698,9 +698,11 @@ Many thanks to Deborah Lokhorst for her descriptions of Massey College life!
 ### Off-Campus
 Housing in Toronto is pricey, and off-campus options have a range of associated costs. In this section, we'll talk about what you can expect to rent and at what price point, as well as where you might expect to live.
 
+If you take one thing away from this section, please take this link to 
+
 #### Finding an apartment
 
-When searching in Toronto, it pays to famil
+When searching in Toronto, it pays to familiarize
 
 #### Neighbourhoods
 Below is a list of neighbourhoods in which graduate students have recently lived off campus.
@@ -937,11 +939,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0Mzc0NjkwMywtMTI4NjAyMjQxNCw0Mz
-I2NzUzMTAsLTE3OTc3NDM4MTcsLTU5MzQ3NTQzMiwtMzg1NTM4
-MTE3LC04MzcyNDgzMzksLTExMDQwMDExMzQsLTY2MjU4MDkxMC
-wxNTY3OTc3NjU2LC0xMzgyMzgwNDY5LDI4NTMzMjkwNSw2NzA0
-MDI3OTIsLTIwMjA1NTk1NDQsLTQ3NTYzNDI0OSwtODkyMzQyNz
-QyLC02NjUxODI3NjQsLTM5NzI5MTk2LDEyNTI5MTMxOTgsMjEw
-Njk1NDI3NV19
+eyJoaXN0b3J5IjpbLTEzMjA2MzIxNTEsLTEyODYwMjI0MTQsND
+MyNjc1MzEwLC0xNzk3NzQzODE3LC01OTM0NzU0MzIsLTM4NTUz
+ODExNywtODM3MjQ4MzM5LC0xMTA0MDAxMTM0LC02NjI1ODA5MT
+AsMTU2Nzk3NzY1NiwtMTM4MjM4MDQ2OSwyODUzMzI5MDUsNjcw
+NDAyNzkyLC0yMDIwNTU5NTQ0LC00NzU2MzQyNDksLTg5MjM0Mj
+c0MiwtNjY1MTgyNzY0LC0zOTcyOTE5NiwxMjUyOTEzMTk4LDIx
+MDY5NTQyNzVdfQ==
 -->
