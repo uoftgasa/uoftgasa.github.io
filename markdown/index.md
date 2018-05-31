@@ -702,7 +702,8 @@ If you take one thing away from this section, please take this link to a page wi
 
 Here are some things your landlord is not permitted to do in Ontario:
 
-
+- demand a security deposit (only rent deposits, e.g. last month's rent, are permitted)
+- 
 
 
 #### Finding an apartment 
@@ -943,11 +944,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2ODY4NzM1MiwxOTMwMDE0MzM4LC0xNj
-c4ODMwMDIyLC0xMzIwNjMyMTUxLC0xMjg2MDIyNDE0LDQzMjY3
-NTMxMCwtMTc5Nzc0MzgxNywtNTkzNDc1NDMyLC0zODU1MzgxMT
-csLTgzNzI0ODMzOSwtMTEwNDAwMTEzNCwtNjYyNTgwOTEwLDE1
-Njc5Nzc2NTYsLTEzODIzODA0NjksMjg1MzMyOTA1LDY3MDQwMj
-c5MiwtMjAyMDU1OTU0NCwtNDc1NjM0MjQ5LC04OTIzNDI3NDIs
-LTY2NTE4Mjc2NF19
+eyJoaXN0b3J5IjpbLTM4MzMzMTQ1MiwxMzY4Njg3MzUyLDE5Mz
+AwMTQzMzgsLTE2Nzg4MzAwMjIsLTEzMjA2MzIxNTEsLTEyODYw
+MjI0MTQsNDMyNjc1MzEwLC0xNzk3NzQzODE3LC01OTM0NzU0Mz
+IsLTM4NTUzODExNywtODM3MjQ4MzM5LC0xMTA0MDAxMTM0LC02
+NjI1ODA5MTAsMTU2Nzk3NzY1NiwtMTM4MjM4MDQ2OSwyODUzMz
+I5MDUsNjcwNDAyNzkyLC0yMDIwNTU5NTQ0LC00NzU2MzQyNDks
+LTg5MjM0Mjc0Ml19
 -->
