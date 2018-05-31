@@ -680,6 +680,13 @@ Graduate students have a few on-campus residence options. Incoming graduate stud
 
 #### Massey College
 
+I was a Resident Fellow for two years, and Non-Resident this year.  The cost of living there was about $12,625 when I was there in 2016-2017 (it’s probably gone up a bit since then).  
+They supply breakfast, lunch, and dinner for six days of the week (nothing is served on Sundays).  The breakfast and lunch are always cafeteria style, but they always have hot options at these and they are quite good.  The dinners from Monday to Friday are sit down meals that go from 6:30pm to 7:30pm, we wear gowns, and it is “formal” in that everyone has to be there on time and for the whole meal (but casual dress etc.).  There are also “high table” dinners every two weeks that are fancy dress and food, and they are pretty fun.
+There’s some good info about admissions and applications here: https://www.masseycollege.ca/admissions/junior-fellow-admissions/, and it says “Applications for new Junior Fellows will be accepted between April 2nd and May 7th, 2018 for the 2018/2019 academic year”.  The webpage also specifies the things you need (two reference letters, cover letter, CV, transcript, etc.).
+The process is fairly competitive - I’m not sure about the exact numbers but for Resident Junior Fellow spots, I think about 100 people usually apply, and there are 20-40 spots available.
+The results on who got in will probably be sent out in late June (that is when they have been sent in the past).
+My favourite thing about Massey is the atmosphere and environment:  we get to meet grad students in many different depts studying many different things, so you get to meet a lot of interesting people and make friends outside of Astro, and everyone is very friendly.  Massey itself is a lovely college, with nice study spaces and rooms.
+My least favourite thing about Massey is that it can be a bit overwhelming because there are so many things going on and everyone is expected to participate in some club or committee and it’s hard to find the time for that sometimes.
 
 ### Off-Campus
 Housing in Toronto is pricey, and off-campus options have a range of associated costs. In this section, we'll talk about what you can expect to rent and at what price point, as well as where you might expect to live.
@@ -919,11 +926,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMjg3NTEyMiwtMzg1NTM4MTE3LC04Mz
-cyNDgzMzksLTExMDQwMDExMzQsLTY2MjU4MDkxMCwxNTY3OTc3
-NjU2LC0xMzgyMzgwNDY5LDI4NTMzMjkwNSw2NzA0MDI3OTIsLT
-IwMjA1NTk1NDQsLTQ3NTYzNDI0OSwtODkyMzQyNzQyLC02NjUx
-ODI3NjQsLTM5NzI5MTk2LDEyNTI5MTMxOTgsMjEwNjk1NDI3NS
-wtOTAwMTg2MjYsLTY2MzEzODYyNywtOTc2Njk2MDA3LC00MTI4
-MDM0NTBdfQ==
+eyJoaXN0b3J5IjpbLTY2MjE1NDA2LC0zODU1MzgxMTcsLTgzNz
+I0ODMzOSwtMTEwNDAwMTEzNCwtNjYyNTgwOTEwLDE1Njc5Nzc2
+NTYsLTEzODIzODA0NjksMjg1MzMyOTA1LDY3MDQwMjc5MiwtMj
+AyMDU1OTU0NCwtNDc1NjM0MjQ5LC04OTIzNDI3NDIsLTY2NTE4
+Mjc2NCwtMzk3MjkxOTYsMTI1MjkxMzE5OCwyMTA2OTU0Mjc1LC
+05MDAxODYyNiwtNjYzMTM4NjI3LC05NzY2OTYwMDcsLTQxMjgw
+MzQ1MF19
 -->
