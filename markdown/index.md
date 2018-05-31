@@ -704,7 +704,7 @@ If you feel your rights have been ignored, you can appeal to the [Landlord and T
 
 #### Rental FAQs
 
-I've provided a quick list of common restrictions in Ontario housing, but you can find an exhaustive list on the [Landlord and Tenant Board website](http://www.sjto.gov.on.ca/ltb/faqs/)
+I've provided a quick list of common restrictions in Ontario housing, but you can find an exhaustive list on the [Landlord and Tenant Board website](http://www.sjto.gov.on.ca/ltb/faqs/). Note that the below does not constitute legal advice - if you're uncertain of your rights check the [Ontario Residential Tenancies Act](https://www.ontario.ca/laws/statute/06r17)
 
 **Landlords cannot:**
 
@@ -967,11 +967,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NjEwODczNiwtMTQxMTgxMzQxMywxMz
-Y4Njg3MzUyLDE5MzAwMTQzMzgsLTE2Nzg4MzAwMjIsLTEzMjA2
-MzIxNTEsLTEyODYwMjI0MTQsNDMyNjc1MzEwLC0xNzk3NzQzOD
-E3LC01OTM0NzU0MzIsLTM4NTUzODExNywtODM3MjQ4MzM5LC0x
-MTA0MDAxMTM0LC02NjI1ODA5MTAsMTU2Nzk3NzY1NiwtMTM4Mj
-M4MDQ2OSwyODUzMzI5MDUsNjcwNDAyNzkyLC0yMDIwNTU5NTQ0
-LC00NzU2MzQyNDldfQ==
+eyJoaXN0b3J5IjpbLTcyMjEyNzkxMSwtOTc2MTA4NzM2LC0xND
+ExODEzNDEzLDEzNjg2ODczNTIsMTkzMDAxNDMzOCwtMTY3ODgz
+MDAyMiwtMTMyMDYzMjE1MSwtMTI4NjAyMjQxNCw0MzI2NzUzMT
+AsLTE3OTc3NDM4MTcsLTU5MzQ3NTQzMiwtMzg1NTM4MTE3LC04
+MzcyNDgzMzksLTExMDQwMDExMzQsLTY2MjU4MDkxMCwxNTY3OT
+c3NjU2LC0xMzgyMzgwNDY5LDI4NTMzMjkwNSw2NzA0MDI3OTIs
+LTIwMjA1NTk1NDRdfQ==
 -->
