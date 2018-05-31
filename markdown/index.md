@@ -485,11 +485,11 @@ If the [AC](#athletic-centre) is the gymiest gym, Robarts is the librariest libr
 	- Multi-Faith space
 
 #### Grad House and Grad Room
-[Grad House](http://gradhouse.utoronto.ca) is a suite-style graduate residence. [Grad Room](http://www.sgs.utoronto.ca/currentstudents/Pages/Grad-Room.aspx) is located in its base, and offers coffee shop fare and graduate student specific programming, including weekly writing groups, yoga, and meditation.
+[Grad House](http://gradhouse.utoronto.ca) is a suite-style graduate residence. [Grad Room](http://www.sgs.utoronto.ca/currentstudents/Pages/Grad-Room.aspx) is located in its base, and offers coffee shop fare and graduate student specific programming, including weekly writing groups, yoga, and meditation. You can learn more about living in Grad House in the [Housing](#grad-house) section.
 
 #### Massey College
 
-Graduate student residence that is affiliated with but independent from UofT. You can find out more about their suite housing on their [website](https://www.masseycollege.ca/about/).
+Graduate student residence that is affiliated with but independent from UofT. You can find out more about their suite housing on their [website](https://www.masseycollege.ca/about/), or by reading on to the [Housing](#housing) section.
 
 #### Goldring Centre for High Perfomance Sport
 
@@ -926,11 +926,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MjE1NDA2LC0zODU1MzgxMTcsLTgzNz
-I0ODMzOSwtMTEwNDAwMTEzNCwtNjYyNTgwOTEwLDE1Njc5Nzc2
-NTYsLTEzODIzODA0NjksMjg1MzMyOTA1LDY3MDQwMjc5MiwtMj
-AyMDU1OTU0NCwtNDc1NjM0MjQ5LC04OTIzNDI3NDIsLTY2NTE4
-Mjc2NCwtMzk3MjkxOTYsMTI1MjkxMzE5OCwyMTA2OTU0Mjc1LC
-05MDAxODYyNiwtNjYzMTM4NjI3LC05NzY2OTYwMDcsLTQxMjgw
-MzQ1MF19
+eyJoaXN0b3J5IjpbMTI3NTcxNjEyMCwtMzg1NTM4MTE3LC04Mz
+cyNDgzMzksLTExMDQwMDExMzQsLTY2MjU4MDkxMCwxNTY3OTc3
+NjU2LC0xMzgyMzgwNDY5LDI4NTMzMjkwNSw2NzA0MDI3OTIsLT
+IwMjA1NTk1NDQsLTQ3NTYzNDI0OSwtODkyMzQyNzQyLC02NjUx
+ODI3NjQsLTM5NzI5MTk2LDEyNTI5MTMxOTgsMjEwNjk1NDI3NS
+wtOTAwMTg2MjYsLTY2MzEzODYyNywtOTc2Njk2MDA3LC00MTI4
+MDM0NTBdfQ==
 -->
