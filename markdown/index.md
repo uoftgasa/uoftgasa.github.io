@@ -700,9 +700,11 @@ Housing in Toronto is pricey, and off-campus options have a range of associated 
 
 If you take one thing away from this section, please take this link to a page with [your rights when renting in Ontario](https://www.ontario.ca/page/renting-ontario-your-rights). You have many rights as a tenant renting in Ontario, and it pays to be familiar with what restrictions your landlord is permitted to make. Note that as of April 2018, your landlord is required to serve you a standard lease that summarizes the information in [Rental FAQs](#rental-faqs) in clear language - you can read a template [here](http://www.forms.ssb.gov.on.ca/mbs/ssb/forms/ssbforms.nsf/FormDetail?OpenForm&ACT=RDR&TAB=PROFILE&SRCH=&ENV=WWE&TIT=2229E&NO=047-2229E).
 
+If you feel your rights have been ignored, you can appeal to the [Landlord and Tenant Board](http://www.sjto.gov.on.ca/ltb/).
+
 #### Rental FAQs
 
-I've provided a quick list of common restrictions in Ontario housing, but you can find an exhaustive list 
+I've provided a quick list of common restrictions in Ontario housing, but you can find an exhaustive list on the [Landlord and Tenant Board website](http://www.sjto.gov.on.ca/ltb/faqs/)
 
 **Landlords cannot:**
 
@@ -965,11 +967,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzE1MjA1MzUsLTE0MTE4MTM0MTMsMT
-M2ODY4NzM1MiwxOTMwMDE0MzM4LC0xNjc4ODMwMDIyLC0xMzIw
-NjMyMTUxLC0xMjg2MDIyNDE0LDQzMjY3NTMxMCwtMTc5Nzc0Mz
-gxNywtNTkzNDc1NDMyLC0zODU1MzgxMTcsLTgzNzI0ODMzOSwt
-MTEwNDAwMTEzNCwtNjYyNTgwOTEwLDE1Njc5Nzc2NTYsLTEzOD
-IzODA0NjksMjg1MzMyOTA1LDY3MDQwMjc5MiwtMjAyMDU1OTU0
-NCwtNDc1NjM0MjQ5XX0=
+eyJoaXN0b3J5IjpbLTk3NjEwODczNiwtMTQxMTgxMzQxMywxMz
+Y4Njg3MzUyLDE5MzAwMTQzMzgsLTE2Nzg4MzAwMjIsLTEzMjA2
+MzIxNTEsLTEyODYwMjI0MTQsNDMyNjc1MzEwLC0xNzk3NzQzOD
+E3LC01OTM0NzU0MzIsLTM4NTUzODExNywtODM3MjQ4MzM5LC0x
+MTA0MDAxMTM0LC02NjI1ODA5MTAsMTU2Nzk3NzY1NiwtMTM4Mj
+M4MDQ2OSwyODUzMzI5MDUsNjcwNDAyNzkyLC0yMDIwNTU5NTQ0
+LC00NzU2MzQyNDldfQ==
 -->
