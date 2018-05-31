@@ -681,7 +681,7 @@ Grad House is conveniently located at [Harbord and Spadina](https://goo.gl/maps/
 
 Rent in Grad House varies from year to year, but works out to roughly what one might expect to pay to rent a bedroom in a relatively new two bedroom apartment in downtown Toronto. Note however that Grad House rent includes the heat, hydro, and water utilities, in addition to internet and air conditioning. Unlike [Massey College](#massey-college) below, Grad House does not include food in this fee, as residents are responsible for their own meals.
 
-To facilitate this, Grad House features apartment style suites, with four bedrooms, two bathrooms, and one kitchen each. The decor has been described as 'fifty shades of concrete', but the rooms are functional, and air conditioning is a surprising bonus in such affordable housing. With the 
+To facilitate this, Grad House features apartment style suites, with four bedrooms, two bathrooms, and one kitchen each. The decor has been described as 'fifty shades of concrete', but the rooms are functional, and air conditioning is a surprising bonus in such affordable housing. With the [AC](#athletic-centre) right across Harbord, you'll have ample opportunity to work off any junk food you might pick up in the 
 
 
 I’m at the graduate house on the corner of Harbord and Spadina. The building’s location is ideal since it’s on campus, right in front of the AC, and next to the streetcar line going South. The rent is around 1000$/month for a unit of a kitchen, two bathrooms and four rooms shared by four. The interior decoration is fifty shades of concrete, but in terms of finding a safe place to stay when you don’t know the Toronto suburbs, it’s hard to beat (which makes it interesting for first-year international students). Most people would stay there a year to get familiar with the city life and prices, and then move. This is why first-year get priority when applying at the residence, or so I have heard.
@@ -934,11 +934,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NTA1NDkzNywtMTI4NjAyMjQxNCw0Mz
-I2NzUzMTAsLTE3OTc3NDM4MTcsLTU5MzQ3NTQzMiwtMzg1NTM4
-MTE3LC04MzcyNDgzMzksLTExMDQwMDExMzQsLTY2MjU4MDkxMC
-wxNTY3OTc3NjU2LC0xMzgyMzgwNDY5LDI4NTMzMjkwNSw2NzA0
-MDI3OTIsLTIwMjA1NTk1NDQsLTQ3NTYzNDI0OSwtODkyMzQyNz
-QyLC02NjUxODI3NjQsLTM5NzI5MTk2LDEyNTI5MTMxOTgsMjEw
-Njk1NDI3NV19
+eyJoaXN0b3J5IjpbLTE0MTExMzI4MzcsLTEyODYwMjI0MTQsND
+MyNjc1MzEwLC0xNzk3NzQzODE3LC01OTM0NzU0MzIsLTM4NTUz
+ODExNywtODM3MjQ4MzM5LC0xMTA0MDAxMTM0LC02NjI1ODA5MT
+AsMTU2Nzk3NzY1NiwtMTM4MjM4MDQ2OSwyODUzMzI5MDUsNjcw
+NDAyNzkyLC0yMDIwNTU5NTQ0LC00NzU2MzQyNDksLTg5MjM0Mj
+c0MiwtNjY1MTgyNzY0LC0zOTcyOTE5NiwxMjUyOTEzMTk4LDIx
+MDY5NTQyNzVdfQ==
 -->
