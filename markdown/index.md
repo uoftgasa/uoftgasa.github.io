@@ -489,7 +489,7 @@ If the [AC](#athletic-centre) is the gymiest gym, Robarts is the librariest libr
 
 #### Massey College
 
-Graduate student residence that is affiliated with but independent from UofT. You can find out more about their suite housing on their [website](https://www.masseycollege.ca/about/), or by reading on to the [Housing](#housing) section.
+Graduate student residence that is affiliated with but independent from UofT. You can find out more about their suite housing on their [website](https://www.masseycollege.ca/about/), or by reading on to the [Housing](#massey-college) section.
 
 #### Goldring Centre for High Perfomance Sport
 
@@ -926,7 +926,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NTcxNjEyMCwtMzg1NTM4MTE3LC04Mz
+eyJoaXN0b3J5IjpbMTIwNjEzNDI2MywtMzg1NTM4MTE3LC04Mz
 cyNDgzMzksLTExMDQwMDExMzQsLTY2MjU4MDkxMCwxNTY3OTc3
 NjU2LC0xMzgyMzgwNDY5LDI4NTMzMjkwNSw2NzA0MDI3OTIsLT
 IwMjA1NTk1NDQsLTQ3NTYzNDI0OSwtODkyMzQyNzQyLC02NjUx
