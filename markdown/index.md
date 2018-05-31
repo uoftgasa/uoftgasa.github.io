@@ -684,7 +684,7 @@ Massey College offers a unique experience to it's fellows, with formal dinners o
 
 Massey Junior Fellow Fees work out to what one might expect to pay to rent a bedroom in a relatively new two bedroom apartment in downtown Toronto, and the latter doesn't even include food as Massey does. However, the application process for Massey College is competitive; there are typically only 20-40 spots available, with about 100 applicants. The process is outlined on their [website](https://www.masseycollege.ca/admissions/junior-fellow-admissions/), with applications accepted up until early May and results announced in June. Your cover letter, CV, and transcripts will be considered along with two reference letters.
 
-Massey College offers it's fellows an 
+The beautiful study spaces of Massey College offer it's fellows a great atmosphere, and the sharedenvironment fosters meetings across a wide variety of disciplines.
 
 Many thanks to Deborah Lokhorst for her descriptions of Massey College life!
 
@@ -929,11 +929,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDQ2NTg4OTEsLTM4NTUzODExNywtOD
-M3MjQ4MzM5LC0xMTA0MDAxMTM0LC02NjI1ODA5MTAsMTU2Nzk3
-NzY1NiwtMTM4MjM4MDQ2OSwyODUzMzI5MDUsNjcwNDAyNzkyLC
-0yMDIwNTU5NTQ0LC00NzU2MzQyNDksLTg5MjM0Mjc0MiwtNjY1
-MTgyNzY0LC0zOTcyOTE5NiwxMjUyOTEzMTk4LDIxMDY5NTQyNz
-UsLTkwMDE4NjI2LC02NjMxMzg2MjcsLTk3NjY5NjAwNywtNDEy
-ODAzNDUwXX0=
+eyJoaXN0b3J5IjpbNDc4MzczMzMxLC0zODU1MzgxMTcsLTgzNz
+I0ODMzOSwtMTEwNDAwMTEzNCwtNjYyNTgwOTEwLDE1Njc5Nzc2
+NTYsLTEzODIzODA0NjksMjg1MzMyOTA1LDY3MDQwMjc5MiwtMj
+AyMDU1OTU0NCwtNDc1NjM0MjQ5LC04OTIzNDI3NDIsLTY2NTE4
+Mjc2NCwtMzk3MjkxOTYsMTI1MjkxMzE5OCwyMTA2OTU0Mjc1LC
+05MDAxODYyNiwtNjYzMTM4NjI3LC05NzY2OTYwMDcsLTQxMjgw
+MzQ1MF19
 -->
