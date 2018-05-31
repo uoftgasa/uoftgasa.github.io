@@ -677,11 +677,13 @@ Graduate students have a few on-campus residence options. Incoming graduate stud
 
 #### Grad House
 
+
+
 I’m at the graduate house on the corner of Harbord and Spadina. The building’s location is ideal since it’s on campus, right in front of the AC, and next to the streetcar line going South. The rent is around 1000$/month for a unit of a kitchen, two bathrooms and four rooms shared by four. The interior decoration is fifty shades of concrete, but in terms of finding a safe place to stay when you don’t know the Toronto suburbs, it’s hard to beat (which makes it interesting for first-year international students). Most people would stay there a year to get familiar with the city life and prices, and then move. This is why first-year get priority when applying at the residence, or so I have heard.
 
 #### Massey College
 
-Massey College is located just a block north of [AB](#astronomy-building) at [$ offers a unique experience to it's fellows, with formal dinners on weekday evenings where the dress code is strictly more 'Harry Potter' than 'Slovenly Academic'. If you've been waiting for your chance to wear robes to school, Massey College may just be for you. In addition to the formal dinners, breakfast and lunch are provided cafeteria style every day except Sundays. Paying the [Resident Junior Fellow Fees](https://www.masseycollege.ca/admissions/junior-fellow-admissions/junior-fellow-fees/) gives Massey fellows access to their own bedroom and adjoining study, and the fee includes a house cleaning service as well as the cost of the meals. Massey fellows are also invited to special College events, including fancy dress "high table" dinners.
+Massey College is located just a block north of [AB](#astronomy-building) at [4 Devonshire Pl](https://goo.gl/maps/zae1vZud8oK2) and offers a unique experience to it's fellows. The formal dinners on weekday evenings offer a dining experience where the dress code is strictly more 'Harry Potter' than 'Slovenly Academic'. If you've been waiting for your chance to wear robes to school, Massey College may just be for you. In addition to the formal dinners, breakfast and lunch are provided cafeteria style every day except Sundays. Paying the [Resident Junior Fellow Fees](https://www.masseycollege.ca/admissions/junior-fellow-admissions/junior-fellow-fees/) gives Massey fellows access to their own bedroom and adjoining study, and the fee includes a house cleaning service as well as the cost of the meals. Massey fellows are also invited to special College events, including fancy dress "high table" dinners.
 
 Massey Junior Fellow Fees work out to what one might expect to pay to rent a bedroom in a relatively new two bedroom apartment in downtown Toronto, and the latter doesn't even include food as Massey does. However, the application process for Massey College is competitive; there are typically only 20-40 spots available, with about 100 applicants. The process is outlined on their [website](https://www.masseycollege.ca/admissions/junior-fellow-admissions/), with applications accepted up until early May and results announced in June. Your cover letter, CV, and transcripts will be considered along with two reference letters.
 
@@ -927,11 +929,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMDExODI3NCwtNTkzNDc1NDMyLC0zOD
-U1MzgxMTcsLTgzNzI0ODMzOSwtMTEwNDAwMTEzNCwtNjYyNTgw
-OTEwLDE1Njc5Nzc2NTYsLTEzODIzODA0NjksMjg1MzMyOTA1LD
-Y3MDQwMjc5MiwtMjAyMDU1OTU0NCwtNDc1NjM0MjQ5LC04OTIz
-NDI3NDIsLTY2NTE4Mjc2NCwtMzk3MjkxOTYsMTI1MjkxMzE5OC
-wyMTA2OTU0Mjc1LC05MDAxODYyNiwtNjYzMTM4NjI3LC05NzY2
-OTYwMDddfQ==
+eyJoaXN0b3J5IjpbLTE3OTc3NDM4MTcsLTU5MzQ3NTQzMiwtMz
+g1NTM4MTE3LC04MzcyNDgzMzksLTExMDQwMDExMzQsLTY2MjU4
+MDkxMCwxNTY3OTc3NjU2LC0xMzgyMzgwNDY5LDI4NTMzMjkwNS
+w2NzA0MDI3OTIsLTIwMjA1NTk1NDQsLTQ3NTYzNDI0OSwtODky
+MzQyNzQyLC02NjUxODI3NjQsLTM5NzI5MTk2LDEyNTI5MTMxOT
+gsMjEwNjk1NDI3NSwtOTAwMTg2MjYsLTY2MzEzODYyNywtOTc2
+Njk2MDA3XX0=
 -->
