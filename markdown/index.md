@@ -698,7 +698,7 @@ Many thanks to Deborah Lokhorst for her descriptions of Massey College life!
 ### Off-Campus
 Housing in Toronto is pricey, and off-campus options have a range of associated costs. In this section, we'll talk about what you can expect to rent and at what price point, as well as where you might expect to live.
 
-If you take one thing away from this section, please take this link to a page with [your rights when renting in Ontario](https://www.ontario.ca/page/renting-ontario-your-rights). You have many rights as a tenant renting in Ontario, and it pays to be familiar with what restrictions your landlord is permitted to make. Note that as of April 2018, your landlord is required to serve you a standard lease that summarizes the information below in clear language - you can read a template [
+If you take one thing away from this section, please take this link to a page with [your rights when renting in Ontario](https://www.ontario.ca/page/renting-ontario-your-rights). You have many rights as a tenant renting in Ontario, and it pays to be familiar with what restrictions your landlord is permitted to make. Note that as of April 2018, your landlord is required to serve you a standard lease that summarizes the information below in clear language - you can read a template [here](http://www.forms.ssb.gov.on.ca/mbs/ssb/forms/ssbforms.nsf/FormDetail?OpenForm&ACT=RDR&TAB=PROFILE&SRCH=&ENV=WWE&TIT=2229E&NO=047-2229E).
 
 **Landlords cannot:**
 
@@ -956,7 +956,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5ODA5ODIwNywxMzY4Njg3MzUyLDE5Mz
+eyJoaXN0b3J5IjpbMTU0MjU4Mzk3OCwxMzY4Njg3MzUyLDE5Mz
 AwMTQzMzgsLTE2Nzg4MzAwMjIsLTEzMjA2MzIxNTEsLTEyODYw
 MjI0MTQsNDMyNjc1MzEwLC0xNzk3NzQzODE3LC01OTM0NzU0Mz
 IsLTM4NTUzODExNywtODM3MjQ4MzM5LC0xMTA0MDAxMTM0LC02
