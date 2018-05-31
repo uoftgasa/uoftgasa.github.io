@@ -919,10 +919,10 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDQwMDExMzQsLTY2MjU4MDkxMCwxNT
-Y3OTc3NjU2LC0xMzgyMzgwNDY5LDI4NTMzMjkwNSw2NzA0MDI3
-OTIsLTIwMjA1NTk1NDQsLTQ3NTYzNDI0OSwtODkyMzQyNzQyLC
-02NjUxODI3NjQsLTM5NzI5MTk2LDEyNTI5MTMxOTgsMjEwNjk1
-NDI3NSwtOTAwMTg2MjYsLTY2MzEzODYyNywtOTc2Njk2MDA3LC
-00MTI4MDM0NTAsMjE3NjU1MTVdfQ==
+eyJoaXN0b3J5IjpbLTgzNzI0ODMzOSwtMTEwNDAwMTEzNCwtNj
+YyNTgwOTEwLDE1Njc5Nzc2NTYsLTEzODIzODA0NjksMjg1MzMy
+OTA1LDY3MDQwMjc5MiwtMjAyMDU1OTU0NCwtNDc1NjM0MjQ5LC
+04OTIzNDI3NDIsLTY2NTE4Mjc2NCwtMzk3MjkxOTYsMTI1Mjkx
+MzE5OCwyMTA2OTU0Mjc1LC05MDAxODYyNiwtNjYzMTM4NjI3LC
+05NzY2OTYwMDcsLTQxMjgwMzQ1MCwyMTc2NTUxNV19
 -->
