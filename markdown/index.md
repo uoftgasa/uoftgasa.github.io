@@ -698,10 +698,9 @@ Many thanks to Deborah Lokhorst for her descriptions of Massey College life!
 ### Off-Campus
 Housing in Toronto is pricey, and off-campus options have a range of associated costs. In this section, we'll talk about what you can expect to rent and at what price point, as well as where you might expect to live.
 
-If you take one thing away from this section, please take this link to a page with [your rights when renting in Ontario](https://www.ontario.ca/page/renting-ontario-your-rights). You have many rights as a tenant re
+If you take one thing away from this section, please take this link to a page with [your rights when renting in Ontario](https://www.ontario.ca/page/renting-ontario-your-rights). You have many rights as a tenant renting in Ontario, and it pays to be familiar with what restrictions your landlord is permitted to make.
 
-#### Finding an apartment
-
+#### Finding an apartment 
 When searching in Toronto, it pays to familiarize
 
 #### Neighbourhoods
@@ -939,11 +938,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM2NTE0NzY4LC0xMzIwNjMyMTUxLC0xMj
-g2MDIyNDE0LDQzMjY3NTMxMCwtMTc5Nzc0MzgxNywtNTkzNDc1
-NDMyLC0zODU1MzgxMTcsLTgzNzI0ODMzOSwtMTEwNDAwMTEzNC
-wtNjYyNTgwOTEwLDE1Njc5Nzc2NTYsLTEzODIzODA0NjksMjg1
-MzMyOTA1LDY3MDQwMjc5MiwtMjAyMDU1OTU0NCwtNDc1NjM0Mj
-Q5LC04OTIzNDI3NDIsLTY2NTE4Mjc2NCwtMzk3MjkxOTYsMTI1
-MjkxMzE5OF19
+eyJoaXN0b3J5IjpbLTE2Nzg4MzAwMjIsLTEzMjA2MzIxNTEsLT
+EyODYwMjI0MTQsNDMyNjc1MzEwLC0xNzk3NzQzODE3LC01OTM0
+NzU0MzIsLTM4NTUzODExNywtODM3MjQ4MzM5LC0xMTA0MDAxMT
+M0LC02NjI1ODA5MTAsMTU2Nzk3NzY1NiwtMTM4MjM4MDQ2OSwy
+ODUzMzI5MDUsNjcwNDAyNzkyLC0yMDIwNTU5NTQ0LC00NzU2Mz
+QyNDksLTg5MjM0Mjc0MiwtNjY1MTgyNzY0LC0zOTcyOTE5Niwx
+MjUyOTEzMTk4XX0=
 -->
