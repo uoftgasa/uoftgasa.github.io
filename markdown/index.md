@@ -681,7 +681,7 @@ Iâ€™m at the graduate house on the corner of Harbord and Spadina. The buildingâ€
 
 #### Massey College
 
-Massey College is located just offers a unique experience to it's fellows, with formal dinners on weekday evenings where the dress code is strictly more 'Harry Potter' than 'Slovenly Academic'. If you've been waiting for your chance to wear robes to school, Massey College may just be for you. In addition to the formal dinners, breakfast and lunch are provided cafeteria style every day except Sundays. Paying the [Resident Junior Fellow Fees](https://www.masseycollege.ca/admissions/junior-fellow-admissions/junior-fellow-fees/) gives Massey fellows access to their own bedroom and adjoining study, and the fee includes a house cleaning service as well as the cost of the meals. Massey fellows are also invited to special College events, including fancy dress "high table" dinners.
+Massey College is located just a block north of [AB](#astronomy-building) offers a unique experience to it's fellows, with formal dinners on weekday evenings where the dress code is strictly more 'Harry Potter' than 'Slovenly Academic'. If you've been waiting for your chance to wear robes to school, Massey College may just be for you. In addition to the formal dinners, breakfast and lunch are provided cafeteria style every day except Sundays. Paying the [Resident Junior Fellow Fees](https://www.masseycollege.ca/admissions/junior-fellow-admissions/junior-fellow-fees/) gives Massey fellows access to their own bedroom and adjoining study, and the fee includes a house cleaning service as well as the cost of the meals. Massey fellows are also invited to special College events, including fancy dress "high table" dinners.
 
 Massey Junior Fellow Fees work out to what one might expect to pay to rent a bedroom in a relatively new two bedroom apartment in downtown Toronto, and the latter doesn't even include food as Massey does. However, the application process for Massey College is competitive; there are typically only 20-40 spots available, with about 100 applicants. The process is outlined on their [website](https://www.masseycollege.ca/admissions/junior-fellow-admissions/), with applications accepted up until early May and results announced in June. Your cover letter, CV, and transcripts will be considered along with two reference letters.
 
@@ -927,7 +927,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMzg2MDEwMiwtMzg1NTM4MTE3LC04Mz
+eyJoaXN0b3J5IjpbLTU5MzQ3NTQzMiwtMzg1NTM4MTE3LC04Mz
 cyNDgzMzksLTExMDQwMDExMzQsLTY2MjU4MDkxMCwxNTY3OTc3
 NjU2LC0xMzgyMzgwNDY5LDI4NTMzMjkwNSw2NzA0MDI3OTIsLT
 IwMjA1NTk1NDQsLTQ3NTYzNDI0OSwtODkyMzQyNzQyLC02NjUx
