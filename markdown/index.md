@@ -751,8 +751,9 @@ The rental market in Toronto is competitive, but you have some options when loca
 Before you begin your search, you should be able to answer some basic questions about your ideal housing:
 
 - What's my budget for rent?
+	- Typical bachelor's/studio - 
 - What's my maximum commute time?
-	- Check out [WalkScore's webapp] (https://www.walkscore.com/score/50-saint-george-st-toronto-on-canada?utm_campaign=tilefooter&utm_medium=address_search&utm_source=padmapper.com) to compute how long different transit methods take to commute.
+	- Check out [WalkScore's webapp](https://www.walkscore.com/score/50-saint-george-st-toronto-on-canada?utm_campaign=tilefooter&utm_medium=address_search&utm_source=padmapper.com) to compute how long different transit methods take to commute.
 - What utilities am I prepared to cover in addition to this?
 	- Heat - strongly depends on the type of heating the insulation of the rental unit, usually upwards of $70/month but can be $0 is your heating fully electric
 	- Water - typically around $30/month in a one bedroom, but can be higher if you have appliances like a dishwasher or laundry machine
@@ -1025,11 +1026,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NjcwMzg5LC0xOTAwODgyNDM5LDE4OT
-Q5NDc3ODYsMzMzMjQ1MDAyLC0xNjc3MDk5MzE5LC0xMzcwMDA2
-ODg5LDk3NDM0NTkwMSwtNjg4Nzg5MDIsLTEzNzYxMDE1MTQsLT
-k1OTA1MzYzMywtNzIyMTI3OTExLC05NzYxMDg3MzYsLTE0MTE4
-MTM0MTMsMTM2ODY4NzM1MiwxOTMwMDE0MzM4LC0xNjc4ODMwMD
-IyLC0xMzIwNjMyMTUxLC0xMjg2MDIyNDE0LDQzMjY3NTMxMCwt
-MTc5Nzc0MzgxN119
+eyJoaXN0b3J5IjpbMTEwODQ1NTU1MiwtMTkwMDg4MjQzOSwxOD
+k0OTQ3Nzg2LDMzMzI0NTAwMiwtMTY3NzA5OTMxOSwtMTM3MDAw
+Njg4OSw5NzQzNDU5MDEsLTY4ODc4OTAyLC0xMzc2MTAxNTE0LC
+05NTkwNTM2MzMsLTcyMjEyNzkxMSwtOTc2MTA4NzM2LC0xNDEx
+ODEzNDEzLDEzNjg2ODczNTIsMTkzMDAxNDMzOCwtMTY3ODgzMD
+AyMiwtMTMyMDYzMjE1MSwtMTI4NjAyMjQxNCw0MzI2NzUzMTAs
+LTE3OTc3NDM4MTddfQ==
 -->
