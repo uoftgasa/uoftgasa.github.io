@@ -768,7 +768,9 @@ Before you begin your search, you should be able to answer some basic questions 
 - **Are there other amenities I'm interested in?**
 	- Seriously consider whether you need air conditioning - Canada may have a reputation as a cold country, but typical summer days in Toronto have a [humidex](https://www.ccohs.ca/oshanswers/phys_agents/humidex.html) (a combination of temperature and relative humidity) over 30. Basement apartments tend to remain relatively cool, but above ground units benefit from window or central AC.
 
-**[Condos.ca](condos.ca)**
+**Rental Listing Sites**
+
+- **[Condos.ca](condos.ca)**
 
 This site has a focus that's clear in the name - you'll only find condos here. Unlike other sites like PadMapper and ViewIt, you'll need to register an account for this website to get the full information. However, information in these listings tends to be a little more complete than the wild west of PadMapper, with nice additional details like square footage and window exposure, as well as a list of building amenities. Renting a condo tends to be pricier than an apartment or a floor of a house, but often comes with bonuses like a dishwasher, in-suite laundry, and/or air conditioning.
 
@@ -1031,7 +1033,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODY4MjkxNDYsLTE0ODg5MDQ2MTYsMT
+eyJoaXN0b3J5IjpbLTIwMzEyNDUyNjMsLTE0ODg5MDQ2MTYsMT
 EwODQ1NTU1MiwtMTkwMDg4MjQzOSwxODk0OTQ3Nzg2LDMzMzI0
 NTAwMiwtMTY3NzA5OTMxOSwtMTM3MDAwNjg4OSw5NzQzNDU5MD
 EsLTY4ODc4OTAyLC0xMzc2MTAxNTE0LC05NTkwNTM2MzMsLTcy
