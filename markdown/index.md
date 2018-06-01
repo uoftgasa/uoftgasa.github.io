@@ -712,7 +712,7 @@ Your landlord is only permitted to ask you for a rent deposit, not exceeding the
 
 **What's included in my lease?**
 
-Read your lease! Every one is a little different - you can look at the [standard lease template](http://www.forms.ssb.gov.on.ca/mbs/ssb/forms/ssbforms.nsf/FormDetail?OpenForm&ACT=RDR&TAB=PROFILE&SRCH=&ENV=WWE&TIT=2229E&NO=047-2229E) to get a sense of things that may or may not be included. Typically when
+Read your lease! Every one is a little different - you can look at the [standard lease template](http://www.forms.ssb.gov.on.ca/mbs/ssb/forms/ssbforms.nsf/FormDetail?OpenForm&ACT=RDR&TAB=PROFILE&SRCH=&ENV=WWE&TIT=2229E&NO=047-2229E) to get a sense of things that may or may not be included.
 
 **What happens when my lease expires?**
 
@@ -998,11 +998,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc5OTk4MjYsLTEzNzYxMDE1MTQsLTk1OT
-A1MzYzMywtNzIyMTI3OTExLC05NzYxMDg3MzYsLTE0MTE4MTM0
-MTMsMTM2ODY4NzM1MiwxOTMwMDE0MzM4LC0xNjc4ODMwMDIyLC
-0xMzIwNjMyMTUxLC0xMjg2MDIyNDE0LDQzMjY3NTMxMCwtMTc5
-Nzc0MzgxNywtNTkzNDc1NDMyLC0zODU1MzgxMTcsLTgzNzI0OD
-MzOSwtMTEwNDAwMTEzNCwtNjYyNTgwOTEwLDE1Njc5Nzc2NTYs
-LTEzODIzODA0NjldfQ==
+eyJoaXN0b3J5IjpbMTk4MzQ1ODA4MSwtMTM3NjEwMTUxNCwtOT
+U5MDUzNjMzLC03MjIxMjc5MTEsLTk3NjEwODczNiwtMTQxMTgx
+MzQxMywxMzY4Njg3MzUyLDE5MzAwMTQzMzgsLTE2Nzg4MzAwMj
+IsLTEzMjA2MzIxNTEsLTEyODYwMjI0MTQsNDMyNjc1MzEwLC0x
+Nzk3NzQzODE3LC01OTM0NzU0MzIsLTM4NTUzODExNywtODM3Mj
+Q4MzM5LC0xMTA0MDAxMTM0LC02NjI1ODA5MTAsMTU2Nzk3NzY1
+NiwtMTM4MjM4MDQ2OV19
 -->
