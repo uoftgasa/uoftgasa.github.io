@@ -751,7 +751,9 @@ The rental market in Toronto is competitive, but you have some options when loca
 Before you begin your search, you should be able to answer some basic questions about your ideal housing:
 
 - What's my budget for rent?
-	- You can see how rent in Toronto has evolved over time with data collected by the Canada Mortgage and Housing Corporation
+	- You can see how rent in Toronto has evolved over time with [data collected by the Canada Mortgage and Housing Corporation](https://www03.cmhc-schl.gc.ca/hmip-pimh/en/TableMapChart/Table?TableId=2.2.11&GeographyId=2270&GeographyTypeId=3&DisplayAs=Table&GeograghyName=Toronto#) (click chart view to see the table as a graph).
+	- As of 2018, typical rents are as follows:
+		- Bachelor's/Studio: 
 - What's my maximum commute time?
 	- Check out [WalkScore's webapp](https://www.walkscore.com/score/50-saint-george-st-toronto-on-canada?utm_campaign=tilefooter&utm_medium=address_search&utm_source=padmapper.com) to compute how long different transit methods take to commute.
 - What utilities am I prepared to cover in addition to this?
@@ -1026,7 +1028,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzc1NzEyMjgsMTEwODQ1NTU1MiwtMT
+eyJoaXN0b3J5IjpbLTIwMjU4NTI3MDAsMTEwODQ1NTU1MiwtMT
 kwMDg4MjQzOSwxODk0OTQ3Nzg2LDMzMzI0NTAwMiwtMTY3NzA5
 OTMxOSwtMTM3MDAwNjg4OSw5NzQzNDU5MDEsLTY4ODc4OTAyLC
 0xMzc2MTAxNTE0LC05NTkwNTM2MzMsLTcyMjEyNzkxMSwtOTc2
