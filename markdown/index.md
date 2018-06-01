@@ -759,8 +759,8 @@ Before you begin your search, you should be able to answer some basic questions 
 		- 3+ Bedroom: $1600/month
 - **What type of rental housing am I interested in?**
 	- Toronto has 3 main types of rental housing: condos, apartments, and houses
-		- Condos: Typically the most expensive, but with the most included amenities - buildings often have gyms or pools, and the unit itself will likely have a dishwasher, laundry machine, and air conditioning. The level of maintenance varies by building - if you're considering a condo, identify the property management com
-		- Apartments: More affordable than condos, and typically more spacious as well, typically older buildings
+		- Condos: Typically the most expensive, but with the most included amenities - buildings often have gyms or pools, and the unit itself will likely have a dishwasher, laundry machine, and air conditioning. The level of maintenance varies by building - if you're considering a condo, identify the property management company and investigate their history with resolving complaints.
+		- Apartments: More affordable than condos, and typically more spacious as well, typically in older buildings. Many buildings will include laundry on site, and some apartment building shar
 - **What's my maximum commute time?**
 	- Check out [WalkScore's webapp](https://www.walkscore.com/score/50-saint-george-st-toronto-on-canada?utm_campaign=tilefooter&utm_medium=address_search&utm_source=padmapper.com) and click the pencil next to 'Commute to Downtown Toronto' to enter an new address and calculate commute times.
 - **What utilities am I prepared to cover in addition to rent?**
@@ -1037,11 +1037,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjYxMDY3NTYsLTE0ODg5MDQ2MTYsMT
-EwODQ1NTU1MiwtMTkwMDg4MjQzOSwxODk0OTQ3Nzg2LDMzMzI0
-NTAwMiwtMTY3NzA5OTMxOSwtMTM3MDAwNjg4OSw5NzQzNDU5MD
-EsLTY4ODc4OTAyLC0xMzc2MTAxNTE0LC05NTkwNTM2MzMsLTcy
-MjEyNzkxMSwtOTc2MTA4NzM2LC0xNDExODEzNDEzLDEzNjg2OD
-czNTIsMTkzMDAxNDMzOCwtMTY3ODgzMDAyMiwtMTMyMDYzMjE1
-MSwtMTI4NjAyMjQxNF19
+eyJoaXN0b3J5IjpbLTExMjk5OTgyNCwtMTQ4ODkwNDYxNiwxMT
+A4NDU1NTUyLC0xOTAwODgyNDM5LDE4OTQ5NDc3ODYsMzMzMjQ1
+MDAyLC0xNjc3MDk5MzE5LC0xMzcwMDA2ODg5LDk3NDM0NTkwMS
+wtNjg4Nzg5MDIsLTEzNzYxMDE1MTQsLTk1OTA1MzYzMywtNzIy
+MTI3OTExLC05NzYxMDg3MzYsLTE0MTE4MTM0MTMsMTM2ODY4Nz
+M1MiwxOTMwMDE0MzM4LC0xNjc4ODMwMDIyLC0xMzIwNjMyMTUx
+LC0xMjg2MDIyNDE0XX0=
 -->
