@@ -752,7 +752,7 @@ Before you begin your search, you should be able to answer some basic questions 
 
 - What's my budget for rent?
 - What's my maximum commute time?
-	- Walk - check out [WalkScore](
+	- Check out [WalkScore's webapp] (https://www.walkscore.com/score/50-saint-george-st-toronto-on-canada?utm_campaign=tilefooter&utm_medium=address_search&utm_source=padmapper.com) to compute how long different transit methods take to commute.
 - What utilities am I prepared to cover in addition to this?
 	- Heat - strongly depends on the type of heating the insulation of the rental unit, usually upwards of $70/month but can be $0 is your heating fully electric
 	- Water - typically around $30/month in a one bedroom, but can be higher if you have appliances like a dishwasher or laundry machine
@@ -1025,11 +1025,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDA4ODI0MzksMTg5NDk0Nzc4NiwzMz
-MyNDUwMDIsLTE2NzcwOTkzMTksLTEzNzAwMDY4ODksOTc0MzQ1
-OTAxLC02ODg3ODkwMiwtMTM3NjEwMTUxNCwtOTU5MDUzNjMzLC
-03MjIxMjc5MTEsLTk3NjEwODczNiwtMTQxMTgxMzQxMywxMzY4
-Njg3MzUyLDE5MzAwMTQzMzgsLTE2Nzg4MzAwMjIsLTEzMjA2Mz
-IxNTEsLTEyODYwMjI0MTQsNDMyNjc1MzEwLC0xNzk3NzQzODE3
-LC01OTM0NzU0MzJdfQ==
+eyJoaXN0b3J5IjpbLTU1NjcwMzg5LC0xOTAwODgyNDM5LDE4OT
+Q5NDc3ODYsMzMzMjQ1MDAyLC0xNjc3MDk5MzE5LC0xMzcwMDA2
+ODg5LDk3NDM0NTkwMSwtNjg4Nzg5MDIsLTEzNzYxMDE1MTQsLT
+k1OTA1MzYzMywtNzIyMTI3OTExLC05NzYxMDg3MzYsLTE0MTE4
+MTM0MTMsMTM2ODY4NzM1MiwxOTMwMDE0MzM4LC0xNjc4ODMwMD
+IyLC0xMzIwNjMyMTUxLC0xMjg2MDIyNDE0LDQzMjY3NTMxMCwt
+MTc5Nzc0MzgxN119
 -->
