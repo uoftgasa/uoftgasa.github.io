@@ -758,7 +758,8 @@ Before you begin your search, you should be able to answer some basic questions 
 	- Hydro - typically around $75/month in a one bedroom apartment, but can be much higher if your heating system is electricity based (i.e. electric baseboards)
 - Are things like internet and cable included in my budget?
 	- Ontario is dominated by two major telecoms, Bell and Rogers, who offer services at pretty exorbitant prices (although some of their bundled services may have value). Paying the higher price doesn't guarantee you better service than their smaller competitors provide, and it's worth investigating internet-only alternatives like TekSavvy, Start, and VMedia.
-- A
+- Are there other amenities I'm interested in?
+	- Seriously consider whether you need air conditioning - Canada may have a reputation as a cold country, but typical summer days in Toronto have a humidex over 30 degrees
 
 **[Condos.ca](condos.ca)**
 
@@ -1023,11 +1024,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDYyMzkwMDEsMzMzMjQ1MDAyLC0xNj
-c3MDk5MzE5LC0xMzcwMDA2ODg5LDk3NDM0NTkwMSwtNjg4Nzg5
-MDIsLTEzNzYxMDE1MTQsLTk1OTA1MzYzMywtNzIyMTI3OTExLC
-05NzYxMDg3MzYsLTE0MTE4MTM0MTMsMTM2ODY4NzM1MiwxOTMw
-MDE0MzM4LC0xNjc4ODMwMDIyLC0xMzIwNjMyMTUxLC0xMjg2MD
-IyNDE0LDQzMjY3NTMxMCwtMTc5Nzc0MzgxNywtNTkzNDc1NDMy
-LC0zODU1MzgxMTddfQ==
+eyJoaXN0b3J5IjpbMTg5NDk0Nzc4NiwzMzMyNDUwMDIsLTE2Nz
+cwOTkzMTksLTEzNzAwMDY4ODksOTc0MzQ1OTAxLC02ODg3ODkw
+MiwtMTM3NjEwMTUxNCwtOTU5MDUzNjMzLC03MjIxMjc5MTEsLT
+k3NjEwODczNiwtMTQxMTgxMzQxMywxMzY4Njg3MzUyLDE5MzAw
+MTQzMzgsLTE2Nzg4MzAwMjIsLTEzMjA2MzIxNTEsLTEyODYwMj
+I0MTQsNDMyNjc1MzEwLC0xNzk3NzQzODE3LC01OTM0NzU0MzIs
+LTM4NTUzODExN119
 -->
