@@ -760,7 +760,7 @@ Before you begin your search, you should be able to answer some basic questions 
 - **What type of rental housing am I interested in?**
 	- Toronto has 3 main types of rental housing: condos, apartments, and houses
 		- Condos: Typically the most expensive, but with the most included amenities - buildings often have gyms or pools, and the unit itself will likely have a dishwasher, laundry machine, air conditioning, and its own thermostat. The level of maintenance varies by building - if you're considering a condo, identify the property management company and investigate their history with resolving complaints.
-		- Apartments: UsMore affordable than condos, and typically more spacious as well, typically in older buildings. Many buildings will include laundry on site, and some apartment buildings share amenities with condos. Often do not include air conditioning in the unit, and tenants may not control their own thermostat.
+		- Apartments: Usually more affordable than condos, and typically more spacious as well, mostly found in older buildings. Many buildings will include laundry on site, and some apartment buildings share amenities with condos. Often do not include air conditioning in the unit, and tenants may not control their own thermostat.
 - **What's my maximum commute time?**
 	- Check out [WalkScore's webapp](https://www.walkscore.com/score/50-saint-george-st-toronto-on-canada?utm_campaign=tilefooter&utm_medium=address_search&utm_source=padmapper.com) and click the pencil next to 'Commute to Downtown Toronto' to enter an new address and calculate commute times.
 - **What utilities am I prepared to cover in addition to rent?**
@@ -771,6 +771,8 @@ Before you begin your search, you should be able to answer some basic questions 
 	- Ontario is dominated by two major telecoms, Bell and Rogers, who offer services at pretty exorbitant prices (although some of their bundled services may have value). Paying the higher price doesn't guarantee you better service than their smaller competitors provide, and it's worth investigating internet-only alternatives like TekSavvy, Start, and VMedia.
 - **Are there other amenities I'm interested in?**
 	- Seriously consider whether you need air conditioning - Canada may have a reputation as a cold country, but typical summer days in Toronto have a [humidex](https://www.ccohs.ca/oshanswers/phys_agents/humidex.html) (a combination of temperature and relative humidity) over 30. Basement apartments tend to remain relatively cool, but above ground units benefit from window or central AC.
+
+I talked a lot about air conditioning, can you tell I wrote this during the summer? For winter concerns, remember that regardless of where you live, if you 
 
 **Rental Listing Sites**
 
@@ -1037,11 +1039,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTEyOTg1MDUsLTE0ODg5MDQ2MTYsMT
-EwODQ1NTU1MiwtMTkwMDg4MjQzOSwxODk0OTQ3Nzg2LDMzMzI0
-NTAwMiwtMTY3NzA5OTMxOSwtMTM3MDAwNjg4OSw5NzQzNDU5MD
-EsLTY4ODc4OTAyLC0xMzc2MTAxNTE0LC05NTkwNTM2MzMsLTcy
-MjEyNzkxMSwtOTc2MTA4NzM2LC0xNDExODEzNDEzLDEzNjg2OD
-czNTIsMTkzMDAxNDMzOCwtMTY3ODgzMDAyMiwtMTMyMDYzMjE1
-MSwtMTI4NjAyMjQxNF19
+eyJoaXN0b3J5IjpbOTEwOTc3MDk1LC0xNDg4OTA0NjE2LDExMD
+g0NTU1NTIsLTE5MDA4ODI0MzksMTg5NDk0Nzc4NiwzMzMyNDUw
+MDIsLTE2NzcwOTkzMTksLTEzNzAwMDY4ODksOTc0MzQ1OTAxLC
+02ODg3ODkwMiwtMTM3NjEwMTUxNCwtOTU5MDUzNjMzLC03MjIx
+Mjc5MTEsLTk3NjEwODczNiwtMTQxMTgxMzQxMywxMzY4Njg3Mz
+UyLDE5MzAwMTQzMzgsLTE2Nzg4MzAwMjIsLTEzMjA2MzIxNTEs
+LTEyODYwMjI0MTRdfQ==
 -->
