@@ -745,7 +745,7 @@ The rental market in Toronto is competitive, but you have some options when loca
 
 **[Condos.ca](condos.ca)**
 
-This site has a focus that's clear in the name - you'll only find condos here. Unlike other sites like PadMapper and Vi
+This site has a focus that's clear in the name - you'll only find condos here. Unlike other sites like PadMapper and ViewIt, you'll need to register an account for this website to get the full information. 
 
 **[PadMapper](https://www.padmapper.com/apartments/toronto-on)**
 
@@ -994,7 +994,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY4MzA2MjEzLC0xMzc2MTAxNTE0LC05NT
+eyJoaXN0b3J5IjpbMTYzMzQzNDc5LC0xMzc2MTAxNTE0LC05NT
 kwNTM2MzMsLTcyMjEyNzkxMSwtOTc2MTA4NzM2LC0xNDExODEz
 NDEzLDEzNjg2ODczNTIsMTkzMDAxNDMzOCwtMTY3ODgzMDAyMi
 wtMTMyMDYzMjE1MSwtMTI4NjAyMjQxNCw0MzI2NzUzMTAsLTE3
