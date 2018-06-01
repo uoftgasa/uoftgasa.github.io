@@ -758,7 +758,7 @@ With its default map view and helpful filters, PadMapper is an excellent way to 
 
 **[TorontoRentals](https://www.torontorentals.com/toronto)**
 
-This Toronto specific site behaves much like PadMapper, but with slightly more specific filters. In addition, the background map for the search includes the major transit lines downtown.
+This Toronto specific site behaves much like PadMapper, but with slightly more specific filters. In addition, the background map for the search includes the major transit lines, helping you plan your commute from a potential rental unit.
 
 **[UofT Off Campus Housing](https://offcampushousing.utoronto.ca)**
 
@@ -1007,7 +1007,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3MzgzNTQwLC02ODg3ODkwMiwtMTM3Nj
+eyJoaXN0b3J5IjpbOTc0MzQ1OTAxLC02ODg3ODkwMiwtMTM3Nj
 EwMTUxNCwtOTU5MDUzNjMzLC03MjIxMjc5MTEsLTk3NjEwODcz
 NiwtMTQxMTgxMzQxMywxMzY4Njg3MzUyLDE5MzAwMTQzMzgsLT
 E2Nzg4MzAwMjIsLTEzMjA2MzIxNTEsLTEyODYwMjI0MTQsNDMy
