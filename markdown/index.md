@@ -781,7 +781,7 @@ Before you begin your search, you should be able to answer some basic questions 
 - **Does the building I'm considering take part in the city's recycling/composting program?**
 	- If sustainability is important to you, it's worth investigating how garbage collection works. Make sure you check on the disposal area when you visit - if your bins are accessible from the street they might fill up before you have a chance to deposit your trash.
 - **Are things like internet and cable included in my budget?**
-	- Ontario is dominated by two major telecoms, Bell and Rogers, who offer services at pretty exorbitant prices (although some of their bundled services may have value). Paying the higher price doesn't guarantee you better service than their smaller competitors provide, and it's worth investigating internet-only alternatives like TekSavvy, Start, and VMedia.
+	- Ontario telecoms are dominated by two major telecoms, Bell and Rogers, who offer services at pretty exorbitant prices (although some of their bundled services may have value). Paying the higher price doesn't guarantee you better service than their smaller competitors provide, and it's worth investigating internet-only alternatives like TekSavvy, Start, and VMedia.
 - **Are there other amenities I'm interested in?**
 	- Seriously consider whether you need air conditioning - Canada may have a reputation as a cold country, but typical summer days in Toronto have a [humidex](https://www.ccohs.ca/oshanswers/phys_agents/humidex.html) (a combination of temperature and relative humidity) over 30. Basement apartments tend to remain relatively cool, but above ground units benefit from window or central AC.
 
@@ -818,7 +818,7 @@ I talked a lot about air conditioning, can you tell I wrote this during the summ
 	- WalkScore is a data paradise, compiling travel times across various transportation methods to score neighbourhoods in terms of accessibility (their methodology is described in detail [here](https://www.walkscore.com/methodology.shtml)). They also having [apartment listings](https://www.walkscore.com/apartments/search/loc?lat=43.667615239322735&lng=-79.38142695770262) with the usual filters as well as transit and WalkScore ratings specific to the site.
 
 #### Neighbourhoods
-Below is a list of neighbourhoods in which graduate students have recently lived off campus. The neighbourhoods are ranked in terms of price: \$\$\$ = significantly more expensive than median, \$\$ = similar to median, \$ = cheaper than the median.
+Below is a list of neighbourhoods in which graduate students have recently lived off campus. The neighbourhoods are ranked in terms of price: \$\$\$ = significantly more expensive than median, \$\$ = similar to median, \$ = cheaper than the median. The ranking system was pretty slapdash but
 
 
 - **The Annex/Yorkville - \$\$\$**
@@ -890,6 +890,7 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 		- Car: 10 minutes
 - **Liberty Village - \$\$\$**
 - **Little Italy - \$\$**
+- **Midtown - \$\$**
 - **St Clair - \$**
 - **Trinity Bellwoods -\$\$**
 - **Waterfront -\$\$\$**
@@ -1106,11 +1107,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MzA4MTA1OSwyMjk5MDA0NjksLTE1Mz
-IzNzc0MDksNzE2NTEyOTY1LC0xMjE4MzUyMTMwLDQ0Mjk4NjQ1
-NCwtMTQ4ODkwNDYxNiwxMTA4NDU1NTUyLC0xOTAwODgyNDM5LD
-E4OTQ5NDc3ODYsMzMzMjQ1MDAyLC0xNjc3MDk5MzE5LC0xMzcw
-MDA2ODg5LDk3NDM0NTkwMSwtNjg4Nzg5MDIsLTEzNzYxMDE1MT
-QsLTk1OTA1MzYzMywtNzIyMTI3OTExLC05NzYxMDg3MzYsLTE0
-MTE4MTM0MTNdfQ==
+eyJoaXN0b3J5IjpbLTEwNTUyOTM4NTksMjI5OTAwNDY5LC0xNT
+MyMzc3NDA5LDcxNjUxMjk2NSwtMTIxODM1MjEzMCw0NDI5ODY0
+NTQsLTE0ODg5MDQ2MTYsMTEwODQ1NTU1MiwtMTkwMDg4MjQzOS
+wxODk0OTQ3Nzg2LDMzMzI0NTAwMiwtMTY3NzA5OTMxOSwtMTM3
+MDAwNjg4OSw5NzQzNDU5MDEsLTY4ODc4OTAyLC0xMzc2MTAxNT
+E0LC05NTkwNTM2MzMsLTcyMjEyNzkxMSwtOTc2MTA4NzM2LC0x
+NDExODEzNDEzXX0=
 -->
