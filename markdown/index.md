@@ -772,31 +772,31 @@ Before you begin your search, you should be able to answer some basic questions 
 
 - **[Condos.ca](condos.ca)**
 
-This site has a focus that's clear in the name - you'll only find condos here. Unlike other sites like PadMapper and ViewIt, you'll need to register an account for this website to get the full information. However, information in these listings tends to be a little more complete than the wild west of PadMapper, with nice additional details like square footage and window exposure, as well as a list of building amenities. Renting a condo tends to be pricier than an apartment or a floor of a house, but often comes with bonuses like a dishwasher, in-suite laundry, and/or air conditioning.
+	- This site has a focus that's clear in the name - you'll only find condos here. Unlike other sites like PadMapper and ViewIt, you'll need to register an account for this website to get the full information. However, information in these listings tends to be a little more complete than the wild west of PadMapper, with nice additional details like square footage and window exposure, as well as a list of building amenities. Renting a condo tends to be pricier than an apartment or a floor of a house, but often comes with bonuses like a dishwasher, in-suite laundry, and/or air conditioning.
 
-**[Kijiji](https://www.kijiji.ca/b-apartments-condos/city-of-toronto/c37l1700273)**
+- **[Kijiji](https://www.kijiji.ca/b-apartments-condos/city-of-toronto/c37l1700273)**
 
-If you hate map-based search views, you may want to visit Kijiji, Canada's answer to Craigslist. This general buy/sell site also includes apartment listings, although the information available about each listing may be more variable than on housing specific websites. Filters here are pretty basic, with no options to filter out basements or only see listings with on site laundry - these must be specified via keyword.
+	- If you hate map-based search views, you may want to visit Kijiji, Canada's answer to Craigslist. This general buy/sell site also includes apartment listings, although the information available about each listing may be more variable than on housing specific websites. Filters here are pretty basic, with no options to filter out basements or only see listings with on site laundry - these must be specified via keyword.
 
-**[PadMapper](https://www.padmapper.com/apartments/toronto-on)**
+- **[PadMapper](https://www.padmapper.com/apartments/toronto-on)**
 
-With its default map view and helpful filters, PadMapper is an excellent way to check listings from all of its aggregated sources. This site cuts a swath through Toronto rentals; you can find everything from basement apartments to multi-bedroom condos here. Protip: click 'More Filters', scroll to the bottom, and click 'Exclude AirBnB' to immediately eliminate a lot of the short term rentals. 
+	- With its default map view and helpful filters, PadMapper is an excellent way to check listings from all of its aggregated sources. This site cuts a swath through Toronto rentals; you can find everything from basement apartments to multi-bedroom condos here. Protip: click 'More Filters', scroll to the bottom, and click 'Exclude AirBnB' to immediately eliminate a lot of the short term rentals. 
 
-**[TorontoRentals](https://www.torontorentals.com/toronto)**
+- **[TorontoRentals](https://www.torontorentals.com/toronto)**
 
-This Toronto specific site behaves much like PadMapper, but with slightly more specific filters. In addition, the background map for the search includes the major transit lines, helping you plan your commute from a potential rental unit.
+	- This Toronto specific site behaves much like PadMapper, but with slightly more specific filters. In addition, the background map for the search includes the major transit lines, helping you plan your commute from a potential rental unit.
 
-**[UofT Off Campus Housing](https://offcampushousing.utoronto.ca)**
+- **[UofT Off Campus Housing](https://offcampushousing.utoronto.ca)**
 
-UofT maintains its own website, with both on and off campus listings. Students can [register](https://offcampushousing.utoronto.ca/registration) for free to browse listings and search for potential roommates.
+	- UofT maintains its own website, with both on and off campus listings. Students can [register](https://offcampushousing.utoronto.ca/registration) for free to browse listings and search for potential roommates.
 
-**[ViewIt](http://www.viewit.ca/torontozones.aspx)**
+- **[ViewIt](http://www.viewit.ca/torontozones.aspx)**
 
-This somewhat dated looking website lists a lot of rental units that cannot be found on more general sites like PadMapper, with more of a focus on apartment buildings specifically. If you're looking for a place downtown, ViewIt zone T5 is the one to search. Individual listings tend to be a little more complete than the average PadMapper find, with information about included building amenities.
+	- This somewhat dated looking website lists a lot of rental units that cannot be found on more general sites like PadMapper, with more of a focus on apartment buildings specifically. If you're looking for a place downtown, ViewIt zone T5 is the one to search. Individual listings tend to be a little more complete than the average PadMapper find, with information about included building amenities.
 
-**[WalkScore](https://www.walkscore.com/apartments/search/CA-ON/Toronto)**
+- **[WalkScore](https://www.walkscore.com/apartments/search/CA-ON/Toronto)**
 
-WalkScore is a data paradise, compiling travel times across various transportation methods to score neighbourhoods in terms of accessibility (their methodology is described in detail [here](https://www.walkscore.com/methodology.shtml)). They also having [apartment listings](https://www.walkscore.com/apartments/search/loc?lat=43.667615239322735&lng=-79.38142695770262) with the usual filters as well as transit and WalkScore ratings specific to the site.
+	- WalkScore is a data paradise, compiling travel times across various transportation methods to score neighbourhoods in terms of accessibility (their methodology is described in detail [here](https://www.walkscore.com/methodology.shtml)). They also having [apartment listings](https://www.walkscore.com/apartments/search/loc?lat=43.667615239322735&lng=-79.38142695770262) with the usual filters as well as transit and WalkScore ratings specific to the site.
 
 #### Neighbourhoods
 Below is a list of neighbourhoods in which graduate students have recently lived off campus.
@@ -1033,11 +1033,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzEyNDUyNjMsLTE0ODg5MDQ2MTYsMT
-EwODQ1NTU1MiwtMTkwMDg4MjQzOSwxODk0OTQ3Nzg2LDMzMzI0
-NTAwMiwtMTY3NzA5OTMxOSwtMTM3MDAwNjg4OSw5NzQzNDU5MD
-EsLTY4ODc4OTAyLC0xMzc2MTAxNTE0LC05NTkwNTM2MzMsLTcy
-MjEyNzkxMSwtOTc2MTA4NzM2LC0xNDExODEzNDEzLDEzNjg2OD
-czNTIsMTkzMDAxNDMzOCwtMTY3ODgzMDAyMiwtMTMyMDYzMjE1
-MSwtMTI4NjAyMjQxNF19
+eyJoaXN0b3J5IjpbNDE5OTQ1NDgwLC0xNDg4OTA0NjE2LDExMD
+g0NTU1NTIsLTE5MDA4ODI0MzksMTg5NDk0Nzc4NiwzMzMyNDUw
+MDIsLTE2NzcwOTkzMTksLTEzNzAwMDY4ODksOTc0MzQ1OTAxLC
+02ODg3ODkwMiwtMTM3NjEwMTUxNCwtOTU5MDUzNjMzLC03MjIx
+Mjc5MTEsLTk3NjEwODczNiwtMTQxMTgxMzQxMywxMzY4Njg3Mz
+UyLDE5MzAwMTQzMzgsLTE2Nzg4MzAwMjIsLTEzMjA2MzIxNTEs
+LTEyODYwMjI0MTRdfQ==
 -->
