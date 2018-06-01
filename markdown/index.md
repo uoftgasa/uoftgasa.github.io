@@ -823,7 +823,7 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 
 - **The Annex/Yorkville**
 	- North of [St George](#st-george)
-	- Approximately bounded by: Bathurst, Bloor, Yonge, Davenport, Dupont
+	- Approximately bounded by: Bathurst St, Bloor St, Yonge St, Davenport Rd, Dupont St
 	- Time to [St George](#st-george)
 		- Walking: 20 minutes
 		- Cycle: 10 minutes
@@ -833,7 +833,7 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 	- Types of housing: mostly houses, some apartments
 - **The Beaches**
 	- Southeast of [St George](#st-george)
-	- Approximately bounded by: Coxwell, Lake Ontario, Victoria Park, Gerrard
+	- Approximately bounded by: Coxwell Ave, Lake Ontario, Victoria Park, Gerrard
 	- Time to [St George](#st-george)
 		- Walking: 2 hours
 		- Cycle: 40 minutes
@@ -848,7 +848,8 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 		- Prevalent [NIMBY](https://www.thestar.com/news/gta/2016/01/02/youre-a-toronto-nimby-now-what.html)-ism
 - **Chinatown/Kensington**
 	- South of [St George](#st-george)
-	- Approximately bounded by: Augusta,
+	- Approximately bounded by: Augusta Ave, Queen St, Beverly St, College St
+	- 
 - **Greektown**
 	- Northeast of [St George](#st-george)
 	- Approximately bounded by: Broadview, Danforth, Donlands, Mortimer
@@ -1105,7 +1106,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODYwMTg5NywtMTUzMjM3NzQwOSw3MT
+eyJoaXN0b3J5IjpbLTk4NzM3MTI5MSwtMTUzMjM3NzQwOSw3MT
 Y1MTI5NjUsLTEyMTgzNTIxMzAsNDQyOTg2NDU0LC0xNDg4OTA0
 NjE2LDExMDg0NTU1NTIsLTE5MDA4ODI0MzksMTg5NDk0Nzc4Ni
 wzMzMyNDUwMDIsLTE2NzcwOTkzMTksLTEzNzAwMDY4ODksOTc0
