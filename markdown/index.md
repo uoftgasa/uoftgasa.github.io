@@ -693,7 +693,7 @@ Grad House is conveniently located at [Harbord and Spadina](https://goo.gl/maps/
 
 Rent in Grad House varies from year to year, but works out to roughly what one might expect to pay to rent a bedroom in a relatively new two bedroom apartment in downtown Toronto. Note however that Grad House rent includes the heat, hydro, and water utilities, in addition to internet and air conditioning. Unlike [Massey College](#massey-college) below, Grad House does not include food in this fee, as residents are responsible for their own meals.
 
-To facilitate this, Grad House features apartment style suites, with four bedrooms, two bathrooms, and one kitchen each. The decor has been described as 'fifty shades of concrete' (Roman, A. 2018, but the rooms are functional, and air conditioning is a surprising bonus in such affordable housing. With the [AC](#athletic-centre) right across Harbord, you'll have ample opportunity to work off any junk food you might pick up in the convenience store located in the first level of Grad House.
+To facilitate this, Grad House features apartment style suites, with four bedrooms, two bathrooms, and one kitchen each. The decor has been described as 'fifty shades of concrete' (Roman, A. 2018), but the rooms are functional, and air conditioning is a surprising bonus in such affordable housing. With the [AC](#athletic-centre) right across Harbord, you'll have ample opportunity to work off any junk food you might pick up in the convenience store located in the first level of Grad House.
 
 Many thanks to Alex Roman for his descriptions of Grad House life!
 
@@ -1052,7 +1052,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTIzMTAyMCwtMTQ4ODkwNDYxNiwxMT
+eyJoaXN0b3J5IjpbMjAxNzgwMDgwNywtMTQ4ODkwNDYxNiwxMT
 A4NDU1NTUyLC0xOTAwODgyNDM5LDE4OTQ5NDc3ODYsMzMzMjQ1
 MDAyLC0xNjc3MDk5MzE5LC0xMzcwMDA2ODg5LDk3NDM0NTkwMS
 wtNjg4Nzg5MDIsLTEzNzYxMDE1MTQsLTk1OTA1MzYzMywtNzIy
