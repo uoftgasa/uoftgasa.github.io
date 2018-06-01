@@ -741,7 +741,7 @@ Your first step should be contacting the [Landlord and Tenant Board](http://www.
 
 #### Finding an apartment 
 
-The rental market in Toronto is competitive, but you have some options when locating a place to live. Most of this section will summarize tools you can use to find an apartment yourself, but before we dig deeper, I'd like to highlight the possibility of using a realtor. This can take a lot of the stress out of finding somewhere to live, and is often free for the person searching. With
+The rental market in Toronto is competitive, but you have some options when locating a place to live. Most of this section will summarize tools you can use to find an apartment yourself, but before we dig deeper, I'd like to highlight the possibility of using a realtor. This can take a lot of the stress out of finding somewhere to live, and is often free for the person searching. With that said, you can find some sites below that offer quick ways to find potential rental units.
 
 **[PadMapper](https://www.padmapper.com/apartments/toronto-on)**
 
@@ -986,11 +986,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg5NjcwNTk5LC05NTkwNTM2MzMsLTcyMj
-EyNzkxMSwtOTc2MTA4NzM2LC0xNDExODEzNDEzLDEzNjg2ODcz
-NTIsMTkzMDAxNDMzOCwtMTY3ODgzMDAyMiwtMTMyMDYzMjE1MS
-wtMTI4NjAyMjQxNCw0MzI2NzUzMTAsLTE3OTc3NDM4MTcsLTU5
-MzQ3NTQzMiwtMzg1NTM4MTE3LC04MzcyNDgzMzksLTExMDQwMD
-ExMzQsLTY2MjU4MDkxMCwxNTY3OTc3NjU2LC0xMzgyMzgwNDY5
-LDI4NTMzMjkwNV19
+eyJoaXN0b3J5IjpbMTQ0NDE3NTM5MywtOTU5MDUzNjMzLC03Mj
+IxMjc5MTEsLTk3NjEwODczNiwtMTQxMTgxMzQxMywxMzY4Njg3
+MzUyLDE5MzAwMTQzMzgsLTE2Nzg4MzAwMjIsLTEzMjA2MzIxNT
+EsLTEyODYwMjI0MTQsNDMyNjc1MzEwLC0xNzk3NzQzODE3LC01
+OTM0NzU0MzIsLTM4NTUzODExNywtODM3MjQ4MzM5LC0xMTA0MD
+AxMTM0LC02NjI1ODA5MTAsMTU2Nzk3NzY1NiwtMTM4MjM4MDQ2
+OSwyODUzMzI5MDVdfQ==
 -->
