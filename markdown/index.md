@@ -764,7 +764,7 @@ This somewhat dated looking website lists a lot of rental units that cannot be f
 
 **[WalkScore](https://www.walkscore.com/apartments/search/CA-ON/Toronto)**
 
-
+WalkScore is a data paradise
 
 #### Neighbourhoods
 Below is a list of neighbourhoods in which graduate students have recently lived off campus.
@@ -1001,7 +1001,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MDE4MjE5NywtMTM3NjEwMTUxNCwtOT
+eyJoaXN0b3J5IjpbMjE0MTQ3Mzg2MiwtMTM3NjEwMTUxNCwtOT
 U5MDUzNjMzLC03MjIxMjc5MTEsLTk3NjEwODczNiwtMTQxMTgx
 MzQxMywxMzY4Njg3MzUyLDE5MzAwMTQzMzgsLTE2Nzg4MzAwMj
 IsLTEzMjA2MzIxNTEsLTEyODYwMjI0MTQsNDMyNjc1MzEwLC0x
