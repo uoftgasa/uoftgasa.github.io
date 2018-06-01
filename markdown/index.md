@@ -821,6 +821,9 @@ I talked a lot about air conditioning, can you tell I wrote this during the summ
 Below is a list of neighbourhoods in which graduate students have recently lived off campus. Want sortability? You can find this information in spreadsheet form [here](alink)
 
 
+- **The Annex**
+	- Time to Campus
+		- 
 - **The Beaches**
 	- Time to Campus
 		- Walking: 2 hours
@@ -1079,11 +1082,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2NDI5OTI0LC0xMjE4MzUyMTMwLDQ0Mj
-k4NjQ1NCwtMTQ4ODkwNDYxNiwxMTA4NDU1NTUyLC0xOTAwODgy
-NDM5LDE4OTQ5NDc3ODYsMzMzMjQ1MDAyLC0xNjc3MDk5MzE5LC
-0xMzcwMDA2ODg5LDk3NDM0NTkwMSwtNjg4Nzg5MDIsLTEzNzYx
-MDE1MTQsLTk1OTA1MzYzMywtNzIyMTI3OTExLC05NzYxMDg3Mz
-YsLTE0MTE4MTM0MTMsMTM2ODY4NzM1MiwxOTMwMDE0MzM4LC0x
-Njc4ODMwMDIyXX0=
+eyJoaXN0b3J5IjpbMTc4OTIyODA5NSwtMTIxODM1MjEzMCw0ND
+I5ODY0NTQsLTE0ODg5MDQ2MTYsMTEwODQ1NTU1MiwtMTkwMDg4
+MjQzOSwxODk0OTQ3Nzg2LDMzMzI0NTAwMiwtMTY3NzA5OTMxOS
+wtMTM3MDAwNjg4OSw5NzQzNDU5MDEsLTY4ODc4OTAyLC0xMzc2
+MTAxNTE0LC05NTkwNTM2MzMsLTcyMjEyNzkxMSwtOTc2MTA4Nz
+M2LC0xNDExODEzNDEzLDEzNjg2ODczNTIsMTkzMDAxNDMzOCwt
+MTY3ODgzMDAyMl19
 -->
