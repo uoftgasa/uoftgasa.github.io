@@ -826,7 +826,7 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 		- Walking: 2 hours
 		- Cycle: 40 minutes
 		- TTC: 45-60 minutes
-			- Served by the 
+			- Served by the [501 Streetcar](http://www.ttc.ca/Routes/501/RouteDescription.jsp?tabName=map)
 		- Car: 20-50 minutes
 	- Types of housing: mostly houses, some apartments
 	- Typically a more expensive neighbourhood
@@ -836,6 +836,8 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 	- Drawbacks:
 		- Longer commute
 		- Prevalent [NIMBY](https://www.thestar.com/news/gta/2016/01/02/youre-a-toronto-nimby-now-what.html)-ism
+- **Greektown**
+	- Time to
 - Chinatown and Kensington Market
 - Bay Street Corridor
 - The Annex
@@ -1069,11 +1071,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEzOTkxOTA1LC0xNDg4OTA0NjE2LDExMD
-g0NTU1NTIsLTE5MDA4ODI0MzksMTg5NDk0Nzc4NiwzMzMyNDUw
-MDIsLTE2NzcwOTkzMTksLTEzNzAwMDY4ODksOTc0MzQ1OTAxLC
-02ODg3ODkwMiwtMTM3NjEwMTUxNCwtOTU5MDUzNjMzLC03MjIx
-Mjc5MTEsLTk3NjEwODczNiwtMTQxMTgxMzQxMywxMzY4Njg3Mz
-UyLDE5MzAwMTQzMzgsLTE2Nzg4MzAwMjIsLTEzMjA2MzIxNTEs
-LTEyODYwMjI0MTRdfQ==
+eyJoaXN0b3J5IjpbLTE4MjcwNzg3NjYsLTE0ODg5MDQ2MTYsMT
+EwODQ1NTU1MiwtMTkwMDg4MjQzOSwxODk0OTQ3Nzg2LDMzMzI0
+NTAwMiwtMTY3NzA5OTMxOSwtMTM3MDAwNjg4OSw5NzQzNDU5MD
+EsLTY4ODc4OTAyLC0xMzc2MTAxNTE0LC05NTkwNTM2MzMsLTcy
+MjEyNzkxMSwtOTc2MTA4NzM2LC0xNDExODEzNDEzLDEzNjg2OD
+czNTIsMTkzMDAxNDMzOCwtMTY3ODgzMDAyMiwtMTMyMDYzMjE1
+MSwtMTI4NjAyMjQxNF19
 -->
