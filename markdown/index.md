@@ -752,6 +752,10 @@ The rental market in Toronto is competitive, but you have some options when loca
 
 This site has a focus that's clear in the name - you'll only find condos here. Unlike other sites like PadMapper and ViewIt, you'll need to register an account for this website to get the full information. However, information in these listings tends to be a little more complete than the wild west of PadMapper, with nice additional details like square footage and window exposure, as well as a list of building amenities. Renting a condo tends to be pricier than an apartment or a floor of a house, but often comes with bonuses like a dishwasher, in-suite laundry, and/or air conditioning.
 
+**[Kijiji](https://www.kijiji.ca/b-apartments-condos/city-of-toronto/c37l1700273)**
+
+If you hate map-based search views, you may want to visit Kijiji, 
+
 **[PadMapper](https://www.padmapper.com/apartments/toronto-on)**
 
 With its default map view and helpful filters, PadMapper is an excellent way to check listings from all of its aggregated sources. This site cuts a swath through Toronto rentals; you can find everything from basement apartments to multi-bedroom condos here. Protip: click 'More Filters', scroll to the bottom, and click 'Exclude AirBnB' to immediately eliminate a lot of the short term rentals. 
@@ -1007,11 +1011,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc0MzQ1OTAxLC02ODg3ODkwMiwtMTM3Nj
-EwMTUxNCwtOTU5MDUzNjMzLC03MjIxMjc5MTEsLTk3NjEwODcz
-NiwtMTQxMTgxMzQxMywxMzY4Njg3MzUyLDE5MzAwMTQzMzgsLT
-E2Nzg4MzAwMjIsLTEzMjA2MzIxNTEsLTEyODYwMjI0MTQsNDMy
-Njc1MzEwLC0xNzk3NzQzODE3LC01OTM0NzU0MzIsLTM4NTUzOD
-ExNywtODM3MjQ4MzM5LC0xMTA0MDAxMTM0LC02NjI1ODA5MTAs
-MTU2Nzk3NzY1Nl19
+eyJoaXN0b3J5IjpbMTM4ODcxNzU5OCw5NzQzNDU5MDEsLTY4OD
+c4OTAyLC0xMzc2MTAxNTE0LC05NTkwNTM2MzMsLTcyMjEyNzkx
+MSwtOTc2MTA4NzM2LC0xNDExODEzNDEzLDEzNjg2ODczNTIsMT
+kzMDAxNDMzOCwtMTY3ODgzMDAyMiwtMTMyMDYzMjE1MSwtMTI4
+NjAyMjQxNCw0MzI2NzUzMTAsLTE3OTc3NDM4MTcsLTU5MzQ3NT
+QzMiwtMzg1NTM4MTE3LC04MzcyNDgzMzksLTExMDQwMDExMzQs
+LTY2MjU4MDkxMF19
 -->
