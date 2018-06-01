@@ -745,11 +745,11 @@ The rental market in Toronto is competitive, but you have some options when loca
 
 **[PadMapper](https://www.padmapper.com/apartments/toronto-on)**
 
-With its default map view and helpful filters, PadMapper is an excellent way to check listings from all of its aggregated sources. Protip: click 'More Filters', scroll to the bottom, and click 'Exclude AirBnB' to immediately eliminate a lot of the short term rentals. This site cuts a swath th
+With its default map view and helpful filters, PadMapper is an excellent way to check listings from all of its aggregated sources. Protip: click 'More Filters', scroll to the bottom, and click 'Exclude AirBnB' to immediately eliminate a lot of the short term rentals. This site cuts a swath through Toronto rentals; you can find everything from basement apartments to multi-bedroom condos here.
 
 **[ViewIt](http://www.viewit.ca/torontozones.aspx)**
 
-This somewhat dated looking website lists a lot of rental units that cannot be found on more general sites like PadMapper
+This somewhat dated looking website lists a lot of rental units that cannot be found on more general sites like PadMapper, with more of a focus on apartment buildings specifically. If you're looking for a p
 
 #### Neighbourhoods
 Below is a list of neighbourhoods in which graduate students have recently lived off campus.
@@ -986,7 +986,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAyNDA3MzE1LC05NTkwNTM2MzMsLTcyMj
+eyJoaXN0b3J5IjpbODUwNjIyMDMxLC05NTkwNTM2MzMsLTcyMj
 EyNzkxMSwtOTc2MTA4NzM2LC0xNDExODEzNDEzLDEzNjg2ODcz
 NTIsMTkzMDAxNDMzOCwtMTY3ODgzMDAyMiwtMTMyMDYzMjE1MS
 wtMTI4NjAyMjQxNCw0MzI2NzUzMTAsLTE3OTc3NDM4MTcsLTU5
