@@ -747,6 +747,10 @@ The rental market in Toronto is competitive, but you have some options when loca
 
 With its default map view and helpful filters, PadMapper is an excellent way to check listings from all of its aggregated sources. Protip: click 'More Filters', scroll to the bottom, and click 'Exclude AirBnB' to immediately eliminate a lot of the short term rentals. This site cuts a swath through Toronto rentals; you can find everything from basement apartments to multi-bedroom condos here.
 
+**[UofT Off Campus Housing](https://offcampushousing.utoronto.ca)**
+
+UofT maintains its own website, with both on and off campus listings
+
 **[ViewIt](http://www.viewit.ca/torontozones.aspx)**
 
 This somewhat dated looking website lists a lot of rental units that cannot be found on more general sites like PadMapper, with more of a focus on apartment buildings specifically. If you're looking for a place downtown, ViewIt zone T5 is the one to search.
@@ -986,7 +990,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NDE3NTM5MywtOTU5MDUzNjMzLC03Mj
+eyJoaXN0b3J5IjpbLTg0NDI5MTExOCwtOTU5MDUzNjMzLC03Mj
 IxMjc5MTEsLTk3NjEwODczNiwtMTQxMTgxMzQxMywxMzY4Njg3
 MzUyLDE5MzAwMTQzMzgsLTE2Nzg4MzAwMjIsLTEzMjA2MzIxNT
 EsLTEyODYwMjI0MTQsNDMyNjc1MzEwLC0xNzk3NzQzODE3LC01
