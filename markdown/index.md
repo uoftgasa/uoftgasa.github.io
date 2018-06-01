@@ -672,7 +672,7 @@ Calendars
 ## Housing
 [**Table of Contents**](#table-of-contents)
 
-For a nice summary of 
+For a nice summary of Toronto living, checkout [WalkScore's overview](https://www.walkscore.com/CA-ON/Toronto)
 
 ### On-Campus
 Graduate students have a few on-campus residence options. Incoming graduate students are not guaranteed on-campus housing the same way undergraduates are, but as most grad students opt for off-campus housing, it is possible to find an on-campus option. 
@@ -1003,7 +1003,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTMzNTYzMzgsLTEzNzYxMDE1MTQsLT
+eyJoaXN0b3J5IjpbLTExNzE4NTU2MTYsLTEzNzYxMDE1MTQsLT
 k1OTA1MzYzMywtNzIyMTI3OTExLC05NzYxMDg3MzYsLTE0MTE4
 MTM0MTMsMTM2ODY4NzM1MiwxOTMwMDE0MzM4LC0xNjc4ODMwMD
 IyLC0xMzIwNjMyMTUxLC0xMjg2MDIyNDE0LDQzMjY3NTMxMCwt
