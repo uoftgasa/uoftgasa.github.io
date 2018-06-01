@@ -754,11 +754,11 @@ This site has a focus that's clear in the name - you'll only find condos here. U
 
 **[PadMapper](https://www.padmapper.com/apartments/toronto-on)**
 
-With its default map view and helpful filters, PadMapper is an excellent way to check listings from all of its aggregated sources. Protip: click 'More Filters', scroll to the bottom, and click 'Exclude AirBnB' to immediately eliminate a lot of the short term rentals. This site cuts a swath through Toronto rentals; you can find everything from basement apartments to multi-bedroom condos here.
+With its default map view and helpful filters, PadMapper is an excellent way to check listings from all of its aggregated sources. This site cuts a swath through Toronto rentals; you can find everything from basement apartments to multi-bedroom condos here. Protip: click 'More Filters', scroll to the bottom, and click 'Exclude AirBnB' to immediately eliminate a lot of the short term rentals. 
 
 **[TorontoRentals](https://www.torontorentals.com/toronto)**
 
-This Toronto specific site behaves much like PadMapper, but with slightly more specific filters
+This Toronto specific site behaves much like PadMapper, but with slightly more specific filters. In addition, the background map for the search includes the major transit lines downtown.
 
 **[UofT Off Campus Housing](https://offcampushousing.utoronto.ca)**
 
@@ -1007,11 +1007,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MjkxODU0OSwtNjg4Nzg5MDIsLTEzNz
-YxMDE1MTQsLTk1OTA1MzYzMywtNzIyMTI3OTExLC05NzYxMDg3
-MzYsLTE0MTE4MTM0MTMsMTM2ODY4NzM1MiwxOTMwMDE0MzM4LC
-0xNjc4ODMwMDIyLC0xMzIwNjMyMTUxLC0xMjg2MDIyNDE0LDQz
-MjY3NTMxMCwtMTc5Nzc0MzgxNywtNTkzNDc1NDMyLC0zODU1Mz
-gxMTcsLTgzNzI0ODMzOSwtMTEwNDAwMTEzNCwtNjYyNTgwOTEw
-LDE1Njc5Nzc2NTZdfQ==
+eyJoaXN0b3J5IjpbNjc3MzgzNTQwLC02ODg3ODkwMiwtMTM3Nj
+EwMTUxNCwtOTU5MDUzNjMzLC03MjIxMjc5MTEsLTk3NjEwODcz
+NiwtMTQxMTgxMzQxMywxMzY4Njg3MzUyLDE5MzAwMTQzMzgsLT
+E2Nzg4MzAwMjIsLTEzMjA2MzIxNTEsLTEyODYwMjI0MTQsNDMy
+Njc1MzEwLC0xNzk3NzQzODE3LC01OTM0NzU0MzIsLTM4NTUzOD
+ExNywtODM3MjQ4MzM5LC0xMTA0MDAxMTM0LC02NjI1ODA5MTAs
+MTU2Nzk3NzY1Nl19
 -->
