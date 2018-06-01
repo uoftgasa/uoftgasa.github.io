@@ -748,6 +748,14 @@ Your first step should be contacting the [Landlord and Tenant Board](http://www.
 
 The rental market in Toronto is competitive, but you have some options when locating a place to live. Most of this section will summarize tools you can use to find an apartment yourself, but before we dig deeper, I'd like to highlight the possibility of using a realtor. This can take a lot of the stress out of finding somewhere to live, and is often free for the person searching. Regardless of how you choose to search, competition for units means that good listings can be taken only 2-3 days after being posted, so it pays to keep on top of your search. In the [next section](#neighbourhoods) you can find out more about Toronto's neighbourhoods to help you narrow your search area. 
 
+Before you begin your search, you should be able to answer some basic questions about your ideal housing:
+
+- What's my budget for rent?
+- What utilities am I prepared to cover in addition to this?
+	- Heat
+	- Water
+	- Hydro
+
 **[Condos.ca](condos.ca)**
 
 This site has a focus that's clear in the name - you'll only find condos here. Unlike other sites like PadMapper and ViewIt, you'll need to register an account for this website to get the full information. However, information in these listings tends to be a little more complete than the wild west of PadMapper, with nice additional details like square footage and window exposure, as well as a list of building amenities. Renting a condo tends to be pricier than an apartment or a floor of a house, but often comes with bonuses like a dishwasher, in-suite laundry, and/or air conditioning.
@@ -1011,11 +1019,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NDE1MDY2MSw5NzQzNDU5MDEsLTY4OD
-c4OTAyLC0xMzc2MTAxNTE0LC05NTkwNTM2MzMsLTcyMjEyNzkx
-MSwtOTc2MTA4NzM2LC0xNDExODEzNDEzLDEzNjg2ODczNTIsMT
-kzMDAxNDMzOCwtMTY3ODgzMDAyMiwtMTMyMDYzMjE1MSwtMTI4
-NjAyMjQxNCw0MzI2NzUzMTAsLTE3OTc3NDM4MTcsLTU5MzQ3NT
-QzMiwtMzg1NTM4MTE3LC04MzcyNDgzMzksLTExMDQwMDExMzQs
-LTY2MjU4MDkxMF19
+eyJoaXN0b3J5IjpbLTEyNzI4ODQ2NzksOTc0MzQ1OTAxLC02OD
+g3ODkwMiwtMTM3NjEwMTUxNCwtOTU5MDUzNjMzLC03MjIxMjc5
+MTEsLTk3NjEwODczNiwtMTQxMTgxMzQxMywxMzY4Njg3MzUyLD
+E5MzAwMTQzMzgsLTE2Nzg4MzAwMjIsLTEzMjA2MzIxNTEsLTEy
+ODYwMjI0MTQsNDMyNjc1MzEwLC0xNzk3NzQzODE3LC01OTM0Nz
+U0MzIsLTM4NTUzODExNywtODM3MjQ4MzM5LC0xMTA0MDAxMTM0
+LC02NjI1ODA5MTBdfQ==
 -->
