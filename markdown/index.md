@@ -720,7 +720,7 @@ Your landlord can increase your rent by no more than 1.8% no more than once ever
 
 **Is my landlord allowed to enter my rental unit?**
 
-The landlord is only permitted to enter the area you rent after giving you 24 hours advance notice, and only then between the hours of 8am and 8pm.
+The landlord is only permitted to enter the area you rent after giving you 24 hours advance notice, and only then between the hours of 8am and 8pm. However, landlords may enter without this notice in emergencies, with permission of the tenant, or when showing the rental unit for the purposes of renting to a new tenant.
 
 **Landlords cannot:**
 
@@ -983,7 +983,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5Njg2MDgyNCwtNzIyMTI3OTExLC05Nz
+eyJoaXN0b3J5IjpbMTU3NTIyMjI1OSwtNzIyMTI3OTExLC05Nz
 YxMDg3MzYsLTE0MTE4MTM0MTMsMTM2ODY4NzM1MiwxOTMwMDE0
 MzM4LC0xNjc4ODMwMDIyLC0xMzIwNjMyMTUxLC0xMjg2MDIyND
 E0LDQzMjY3NTMxMCwtMTc5Nzc0MzgxNywtNTkzNDc1NDMyLC0z
