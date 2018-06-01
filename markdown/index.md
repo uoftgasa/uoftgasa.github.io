@@ -753,7 +753,7 @@ Before you begin your search, you should be able to answer some basic questions 
 - What's my budget for rent?
 - What's my maximum commute time?
 - What utilities am I prepared to cover in addition to this?
-	- Heat
+	- Heat - 
 	- Water - typically around $30/month in a one bedroom, but can be higher if you have appliances like a dishwasher or laundry machine
 	- Hydro - typically around $75/month in a one bedroom apartment, but can be much higher if your heating system is electricity based (i.e. electric baseboards)
 - Are things like internet and cable included in my budget?
@@ -1021,11 +1021,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzcwOTkzMTksLTEzNzAwMDY4ODksOT
-c0MzQ1OTAxLC02ODg3ODkwMiwtMTM3NjEwMTUxNCwtOTU5MDUz
-NjMzLC03MjIxMjc5MTEsLTk3NjEwODczNiwtMTQxMTgxMzQxMy
-wxMzY4Njg3MzUyLDE5MzAwMTQzMzgsLTE2Nzg4MzAwMjIsLTEz
-MjA2MzIxNTEsLTEyODYwMjI0MTQsNDMyNjc1MzEwLC0xNzk3Nz
-QzODE3LC01OTM0NzU0MzIsLTM4NTUzODExNywtODM3MjQ4MzM5
-LC0xMTA0MDAxMTM0XX0=
+eyJoaXN0b3J5IjpbMzMzMjQ1MDAyLC0xNjc3MDk5MzE5LC0xMz
+cwMDA2ODg5LDk3NDM0NTkwMSwtNjg4Nzg5MDIsLTEzNzYxMDE1
+MTQsLTk1OTA1MzYzMywtNzIyMTI3OTExLC05NzYxMDg3MzYsLT
+E0MTE4MTM0MTMsMTM2ODY4NzM1MiwxOTMwMDE0MzM4LC0xNjc4
+ODMwMDIyLC0xMzIwNjMyMTUxLC0xMjg2MDIyNDE0LDQzMjY3NT
+MxMCwtMTc5Nzc0MzgxNywtNTkzNDc1NDMyLC0zODU1MzgxMTcs
+LTgzNzI0ODMzOV19
 -->
