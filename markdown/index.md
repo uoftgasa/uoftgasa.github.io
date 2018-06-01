@@ -818,7 +818,7 @@ I talked a lot about air conditioning, can you tell I wrote this during the summ
 	- WalkScore is a data paradise, compiling travel times across various transportation methods to score neighbourhoods in terms of accessibility (their methodology is described in detail [here](https://www.walkscore.com/methodology.shtml)). They also having [apartment listings](https://www.walkscore.com/apartments/search/loc?lat=43.667615239322735&lng=-79.38142695770262) with the usual filters as well as transit and WalkScore ratings specific to the site.
 
 #### Neighbourhoods
-Below is a list of neighbourhoods in which graduate students have recently lived off campus. Want sortability? You can find this information in spreadsheet form [here](alink)
+Below is a list of neighbourhoods in which graduate students have recently lived off campus. Neighbourhoods are ranked on a 3 \$ system of rent costs. Want sortability? You can find this information in spreadsheet form [here](alink)
 
 
 - **The Beaches**
@@ -829,9 +829,9 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 			- Served by the [501 Streetcar](http://www.ttc.ca/Routes/501/RouteDescription.jsp?tabName=map)
 		- Car: 20-50 minutes
 	- Types of housing: mostly houses, some apartments
-	- Typically a more expensive neighbourhood
+	- Rent: \$\$\$
 	- Perks: 
-		- Proximity to Woodbine beach
+		- Proximity to Woodbine beach and parks
 		- Excellent restaurants
 	- Drawbacks:
 		- Longer commute
@@ -1076,7 +1076,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTkzNDUxMjMsLTE0ODg5MDQ2MTYsMT
+eyJoaXN0b3J5IjpbLTEwNjE3MzUwMzQsLTE0ODg5MDQ2MTYsMT
 EwODQ1NTU1MiwtMTkwMDg4MjQzOSwxODk0OTQ3Nzg2LDMzMzI0
 NTAwMiwtMTY3NzA5OTMxOSwtMTM3MDAwNjg4OSw5NzQzNDU5MD
 EsLTY4ODc4OTAyLC0xMzc2MTAxNTE0LC05NTkwNTM2MzMsLTcy
