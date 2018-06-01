@@ -833,6 +833,10 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 	- Types of housing: mostly houses, some apartments
 - **Bay Street Corridor - \$\$\$**
 	- East of [St George](#st-george)
+	- Approximately bounded by: Unversity Ave, Front St, Yonge St, Bloor St
+	- Time to [St George](#st-george)
+		- Walking: 20 minutes
+		- 
 - **The Beaches - \$**
 	- Southeast of [St George](#st-george)
 	- Approximately bounded by: Coxwell Ave, Lake Ontario, Victoria Park Ave, Gerrard St
@@ -1111,7 +1115,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MzA4OTU3LDIyOTkwMDQ2OSwtMTUzMj
+eyJoaXN0b3J5IjpbNDY0OTgzMzAyLDIyOTkwMDQ2OSwtMTUzMj
 M3NzQwOSw3MTY1MTI5NjUsLTEyMTgzNTIxMzAsNDQyOTg2NDU0
 LC0xNDg4OTA0NjE2LDExMDg0NTU1NTIsLTE5MDA4ODI0MzksMT
 g5NDk0Nzc4NiwzMzMyNDUwMDIsLTE2NzcwOTkzMTksLTEzNzAw
