@@ -818,7 +818,7 @@ I talked a lot about air conditioning, can you tell I wrote this during the summ
 	- WalkScore is a data paradise, compiling travel times across various transportation methods to score neighbourhoods in terms of accessibility (their methodology is described in detail [here](https://www.walkscore.com/methodology.shtml)). They also having [apartment listings](https://www.walkscore.com/apartments/search/loc?lat=43.667615239322735&lng=-79.38142695770262) with the usual filters as well as transit and WalkScore ratings specific to the site.
 
 #### Neighbourhoods
-Below is a list of neighbourhoods in which graduate students have recently lived off campus. Want sortability? You can find this information in spreadsheet form [here](alink)
+Below is a list of neighbourhoods in which graduate students have recently lived off campus. The neighbourhoods are ranked in terms of price: \$\$\$ = significantly more expensive than median, \$\$ = similar to median, \$ = 
 
 
 - **The Annex/Yorkville**
@@ -1117,11 +1117,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNDExOTI3OSwyMjk5MDA0NjksLTE1Mz
-IzNzc0MDksNzE2NTEyOTY1LC0xMjE4MzUyMTMwLDQ0Mjk4NjQ1
-NCwtMTQ4ODkwNDYxNiwxMTA4NDU1NTUyLC0xOTAwODgyNDM5LD
-E4OTQ5NDc3ODYsMzMzMjQ1MDAyLC0xNjc3MDk5MzE5LC0xMzcw
-MDA2ODg5LDk3NDM0NTkwMSwtNjg4Nzg5MDIsLTEzNzYxMDE1MT
-QsLTk1OTA1MzYzMywtNzIyMTI3OTExLC05NzYxMDg3MzYsLTE0
-MTE4MTM0MTNdfQ==
+eyJoaXN0b3J5IjpbLTE2ODkyNzUzOTcsMjI5OTAwNDY5LC0xNT
+MyMzc3NDA5LDcxNjUxMjk2NSwtMTIxODM1MjEzMCw0NDI5ODY0
+NTQsLTE0ODg5MDQ2MTYsMTEwODQ1NTU1MiwtMTkwMDg4MjQzOS
+wxODk0OTQ3Nzg2LDMzMzI0NTAwMiwtMTY3NzA5OTMxOSwtMTM3
+MDAwNjg4OSw5NzQzNDU5MDEsLTY4ODc4OTAyLC0xMzc2MTAxNT
+E0LC05NTkwNTM2MzMsLTcyMjEyNzkxMSwtOTc2MTA4NzM2LC0x
+NDExODEzNDEzXX0=
 -->
