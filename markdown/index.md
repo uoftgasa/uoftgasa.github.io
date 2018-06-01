@@ -745,7 +745,7 @@ The rental market in Toronto is competitive, but you have some options when loca
 
 **[Padmapper](https://www.padmapper.com/apartments/toronto-on)**
 
-With its default map view and helpful filters, Padmapper is an excellent way to check listings from all of its aggregated sources
+With its default map view and helpful filters, Padmapper is an excellent way to check listings from all of its aggregated sources. Protip: click 'More Filters', scroll to the bottom, and click 'Exclude AirBnB' to 
 
 #### Neighbourhoods
 Below is a list of neighbourhoods in which graduate students have recently lived off campus.
@@ -982,7 +982,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MjE4MzM4MiwtOTU5MDUzNjMzLC03Mj
+eyJoaXN0b3J5IjpbMTQ3NzkyMjgxNiwtOTU5MDUzNjMzLC03Mj
 IxMjc5MTEsLTk3NjEwODczNiwtMTQxMTgxMzQxMywxMzY4Njg3
 MzUyLDE5MzAwMTQzMzgsLTE2Nzg4MzAwMjIsLTEzMjA2MzIxNT
 EsLTEyODYwMjI0MTQsNDMyNjc1MzEwLC0xNzk3NzQzODE3LC01
