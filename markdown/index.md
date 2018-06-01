@@ -743,6 +743,10 @@ Your first step should be contacting the [Landlord and Tenant Board](http://www.
 
 The rental market in Toronto is competitive, but you have some options when locating a place to live. Most of this section will summarize tools you can use to find an apartment yourself, but before we dig deeper, I'd like to highlight the possibility of using a realtor. This can take a lot of the stress out of finding somewhere to live, and is often free for the person searching. With that said, you can find some sites below that offer quick ways to find potential rental units.
 
+**[Condos.ca](condos.ca)**
+
+This site has a focus that's clear in the name - you'll only find condos here. Unlike other sites like PadMapper and Vi
+
 **[PadMapper](https://www.padmapper.com/apartments/toronto-on)**
 
 With its default map view and helpful filters, PadMapper is an excellent way to check listings from all of its aggregated sources. Protip: click 'More Filters', scroll to the bottom, and click 'Exclude AirBnB' to immediately eliminate a lot of the short term rentals. This site cuts a swath through Toronto rentals; you can find everything from basement apartments to multi-bedroom condos here.
@@ -990,11 +994,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzYxMDE1MTQsLTk1OTA1MzYzMywtNz
-IyMTI3OTExLC05NzYxMDg3MzYsLTE0MTE4MTM0MTMsMTM2ODY4
-NzM1MiwxOTMwMDE0MzM4LC0xNjc4ODMwMDIyLC0xMzIwNjMyMT
-UxLC0xMjg2MDIyNDE0LDQzMjY3NTMxMCwtMTc5Nzc0MzgxNywt
-NTkzNDc1NDMyLC0zODU1MzgxMTcsLTgzNzI0ODMzOSwtMTEwND
-AwMTEzNCwtNjYyNTgwOTEwLDE1Njc5Nzc2NTYsLTEzODIzODA0
-NjksMjg1MzMyOTA1XX0=
+eyJoaXN0b3J5IjpbNzY4MzA2MjEzLC0xMzc2MTAxNTE0LC05NT
+kwNTM2MzMsLTcyMjEyNzkxMSwtOTc2MTA4NzM2LC0xNDExODEz
+NDEzLDEzNjg2ODczNTIsMTkzMDAxNDMzOCwtMTY3ODgzMDAyMi
+wtMTMyMDYzMjE1MSwtMTI4NjAyMjQxNCw0MzI2NzUzMTAsLTE3
+OTc3NDM4MTcsLTU5MzQ3NTQzMiwtMzg1NTM4MTE3LC04MzcyND
+gzMzksLTExMDQwMDExMzQsLTY2MjU4MDkxMCwxNTY3OTc3NjU2
+LC0xMzgyMzgwNDY5XX0=
 -->
