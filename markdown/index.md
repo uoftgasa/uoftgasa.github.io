@@ -754,7 +754,7 @@ Your first step should be contacting the [Landlord and Tenant Board](http://www.
 
 #### Finding an apartment 
 
-The rental market in Toronto is competitive, but you have some options when locating a place to live. The next section [# will summarize tools you can use to find an apartment yourself, but before we dig deeper, I'd like to highlight the possibility of using a realtor. This can take a lot of the stress out of finding somewhere to live, and is often free for the person searching. Regardless of how you choose to search, competition for units means that good listings can be taken only 2-3 days after being posted, so it pays to keep on top of your search. In the [next section](#neighbourhoods) you can find out more about Toronto's neighbourhoods to help you narrow your search area. 
+The rental market in Toronto is competitive, but you have some options when locating a place to live. The [next section](#rental-listing-sites) will summarize tools you can use to find an apartment yourself, but before we dig deeper, I'd like to highlight the possibility of using a realtor. This can take a lot of the stress out of finding somewhere to live, and is often free for the person searching. Regardless of how you choose to search, competition for units means that good listings can be taken only 2-3 days after being posted, so it pays to keep on top of your search. In a [following section](#neighbourhoods) you can find out more about Toronto's neighbourhoods to help you narrow your search area. 
 
 Before you begin your search, you should be able to answer some basic questions about your ideal housing:
 
@@ -785,7 +785,7 @@ Before you begin your search, you should be able to answer some basic questions 
 
 I talked a lot about air conditioning, can you tell I wrote this during the summer? For winter concerns, remember that regardless of where you live, if you're not on a major road, you'll be low priority for road and sidewalk clearing. The solution in Toronto seems to be for everyone and their dog to absolutely blanket the sidewalks with salt- this has a lot of its own dangers, turning fluffy snow into half melty ice slicks. Invest in some waterproof footwear with decent traction and it won't matter what kind of street you live on!
 
-**Rental Listing Sites**
+#### Rental Listing Sites
 
 - **[Condos.ca](condos.ca)**
 
@@ -1050,7 +1050,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDI3NzcwMDIsLTE0ODg5MDQ2MTYsMT
+eyJoaXN0b3J5IjpbLTEwOTAxOTY3ODAsLTE0ODg5MDQ2MTYsMT
 EwODQ1NTU1MiwtMTkwMDg4MjQzOSwxODk0OTQ3Nzg2LDMzMzI0
 NTAwMiwtMTY3NzA5OTMxOSwtMTM3MDAwNjg4OSw5NzQzNDU5MD
 EsLTY4ODc4OTAyLC0xMzc2MTAxNTE0LC05NTkwNTM2MzMsLTcy
