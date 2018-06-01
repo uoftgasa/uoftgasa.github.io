@@ -818,7 +818,7 @@ I talked a lot about air conditioning, can you tell I wrote this during the summ
 	- WalkScore is a data paradise, compiling travel times across various transportation methods to score neighbourhoods in terms of accessibility (their methodology is described in detail [here](https://www.walkscore.com/methodology.shtml)). They also having [apartment listings](https://www.walkscore.com/apartments/search/loc?lat=43.667615239322735&lng=-79.38142695770262) with the usual filters as well as transit and WalkScore ratings specific to the site.
 
 #### Neighbourhoods
-Below is a list of neighbourhoods in which graduate students have recently lived off campus. The neighbourhoods are ranked in terms of price: \$\$\$ = significantly more expensive than median, \$\$ = similar to median, \$ = cheaper than the median. The ranking system was pretty slapdash but
+Below is a list of neighbourhoods in which graduate students have recently lived off campus. The neighbourhoods are ranked in terms of price: \$\$\$ = significantly more expensive than median, \$\$ = similar to median, \$ = cheaper than the median. The ranking system was pretty slapdash but seems to match the general impression of the costliness of neighbourhoods. You can find a good deal anywhere, but some neighbourhoods make it harder than others.
 
 
 - **The Annex/Yorkville - \$\$\$**
@@ -888,6 +888,9 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 		- TTC: 20 minutes
 			- Served by the [Line 2](https://www.ttc.ca/Subway/Bloor_Danforth.jsp) Subway
 		- Car: 10 minutes
+	- Types of housing: mostly houses, some apartments
+	- Features:
+		- 
 - **Liberty Village - \$\$\$**
 - **Little Italy - \$\$**
 - **Midtown - \$\$**
@@ -1107,11 +1110,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTUyOTM4NTksMjI5OTAwNDY5LC0xNT
-MyMzc3NDA5LDcxNjUxMjk2NSwtMTIxODM1MjEzMCw0NDI5ODY0
-NTQsLTE0ODg5MDQ2MTYsMTEwODQ1NTU1MiwtMTkwMDg4MjQzOS
-wxODk0OTQ3Nzg2LDMzMzI0NTAwMiwtMTY3NzA5OTMxOSwtMTM3
-MDAwNjg4OSw5NzQzNDU5MDEsLTY4ODc4OTAyLC0xMzc2MTAxNT
-E0LC05NTkwNTM2MzMsLTcyMjEyNzkxMSwtOTc2MTA4NzM2LC0x
-NDExODEzNDEzXX0=
+eyJoaXN0b3J5IjpbMzczMjEwMDE4LDIyOTkwMDQ2OSwtMTUzMj
+M3NzQwOSw3MTY1MTI5NjUsLTEyMTgzNTIxMzAsNDQyOTg2NDU0
+LC0xNDg4OTA0NjE2LDExMDg0NTU1NTIsLTE5MDA4ODI0MzksMT
+g5NDk0Nzc4NiwzMzMyNDUwMDIsLTE2NzcwOTkzMTksLTEzNzAw
+MDY4ODksOTc0MzQ1OTAxLC02ODg3ODkwMiwtMTM3NjEwMTUxNC
+wtOTU5MDUzNjMzLC03MjIxMjc5MTEsLTk3NjEwODczNiwtMTQx
+MTgxMzQxM119
 -->
