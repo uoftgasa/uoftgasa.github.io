@@ -853,7 +853,12 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 		- Walking: 15 minutes
 		- Cycle: 5 minutes
 		- TTC: 15 minutes
-			- Served by the [510 Streetcar](http://www.ttc.ca/Routes/510/Southbound.jsp) an
+			- Served by the [510 Streetcar](http://www.ttc.ca/Routes/510/Southbound.jsp)
+		- Car: 5 minutes
+	- Types of housing: mostly apartments, some houses
+	- Features
+		- Affordable open air produce markets
+		- 
 - **Greektown**
 	- Northeast of [St George](#st-george)
 	- Approximately bounded by: Broadview Ave, Danforth Ave, Donlands Ave, Mortimer Ave
@@ -1110,7 +1115,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MjQ1NzcxMSwtMTUzMjM3NzQwOSw3MT
+eyJoaXN0b3J5IjpbLTg4OTU3NTc2MiwtMTUzMjM3NzQwOSw3MT
 Y1MTI5NjUsLTEyMTgzNTIxMzAsNDQyOTg2NDU0LC0xNDg4OTA0
 NjE2LDExMDg0NTU1NTIsLTE5MDA4ODI0MzksMTg5NDk0Nzc4Ni
 wzMzMyNDUwMDIsLTE2NzcwOTkzMTksLTEzNzAwMDY4ODksOTc0
