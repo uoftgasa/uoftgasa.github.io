@@ -833,7 +833,7 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 	- Types of housing: mostly houses, some apartments
 - **The Beaches**
 	- Southeast of [St George](#st-george)
-	- Approximately bounded by: Coxwell Ave, Lake Ontario, Victoria Park, Gerrard
+	- Approximately bounded by: Coxwell Ave, Lake Ontario, Victoria Park Ave, Gerrard St
 	- Time to [St George](#st-george)
 		- Walking: 2 hours
 		- Cycle: 40 minutes
@@ -852,7 +852,7 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 	- 
 - **Greektown**
 	- Northeast of [St George](#st-george)
-	- Approximately bounded by: Broadview, Danforth, Donlands, Mortimer
+	- Approximately bounded by: Broadview Ave, Danforth Ave, Donlands Ave, Mortimer Ave
 	- Time to [St George](#st-george)
 		- Walking: 1 hour, 15 minutes
 		- Cycle: 30 minutes
@@ -866,7 +866,7 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 		- Excellent restaurants
 - **Koreatown/Christie Pits**
 	- Northwest of [St George](#st-george)
-	- Approximately bounded by: Ossington, Bloor, Bathurst, Dupont
+	- Approximately bounded by: Ossington Ave, Bloor St, Bathurst St, Dupont St
 	- Time to [St George](#st-george)
 		- Walking: 30 minutes
 		- Cycle: 10 minutes
@@ -1106,7 +1106,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NzM3MTI5MSwtMTUzMjM3NzQwOSw3MT
+eyJoaXN0b3J5IjpbMTg2OTQzNTIzNywtMTUzMjM3NzQwOSw3MT
 Y1MTI5NjUsLTEyMTgzNTIxMzAsNDQyOTg2NDU0LC0xNDg4OTA0
 NjE2LDExMDg0NTU1NTIsLTE5MDA4ODI0MzksMTg5NDk0Nzc4Ni
 wzMzMyNDUwMDIsLTE2NzcwOTkzMTksLTEzNzAwMDY4ODksOTc0
