@@ -830,6 +830,10 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 	- Types of housing: mostly houses, some apartments
 	- Typically a more expensive neighbourhood
 	- Perks: 
+		- Proximity to Woodbine beach
+		- Excellent restaurants
+	- Drawbacks:
+		- Prevalent NIMBY-ism
 - Chinatown and Kensington Market
 - Bay Street Corridor
 - The Annex
@@ -1063,7 +1067,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIwMjA5NjYyLC0xNDg4OTA0NjE2LDExMD
+eyJoaXN0b3J5IjpbODA0MjI5MDIwLC0xNDg4OTA0NjE2LDExMD
 g0NTU1NTIsLTE5MDA4ODI0MzksMTg5NDk0Nzc4NiwzMzMyNDUw
 MDIsLTE2NzcwOTkzMTksLTEzNzAwMDY4ODksOTc0MzQ1OTAxLC
 02ODg3ODkwMiwtMTM3NjEwMTUxNCwtOTU5MDUzNjMzLC03MjIx
