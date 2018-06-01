@@ -833,7 +833,7 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 	- Types of housing: mostly houses, some apartments
 - **The Beaches**
 	- Southeast of [St George](#st-george)
-	- Bounded by:
+	- Bounded by: Coxwell, Lake Ontario, Victoria Park, Gerrard
 	- Time to [St George](#st-george)
 		- Walking: 2 hours
 		- Cycle: 40 minutes
@@ -1100,11 +1100,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyOTUwMDkyMywtMTUzMjM3NzQwOSw3MT
-Y1MTI5NjUsLTEyMTgzNTIxMzAsNDQyOTg2NDU0LC0xNDg4OTA0
-NjE2LDExMDg0NTU1NTIsLTE5MDA4ODI0MzksMTg5NDk0Nzc4Ni
-wzMzMyNDUwMDIsLTE2NzcwOTkzMTksLTEzNzAwMDY4ODksOTc0
-MzQ1OTAxLC02ODg3ODkwMiwtMTM3NjEwMTUxNCwtOTU5MDUzNj
-MzLC03MjIxMjc5MTEsLTk3NjEwODczNiwtMTQxMTgxMzQxMywx
-MzY4Njg3MzUyXX0=
+eyJoaXN0b3J5IjpbMTMyMzU1MjQwLC0xNTMyMzc3NDA5LDcxNj
+UxMjk2NSwtMTIxODM1MjEzMCw0NDI5ODY0NTQsLTE0ODg5MDQ2
+MTYsMTEwODQ1NTU1MiwtMTkwMDg4MjQzOSwxODk0OTQ3Nzg2LD
+MzMzI0NTAwMiwtMTY3NzA5OTMxOSwtMTM3MDAwNjg4OSw5NzQz
+NDU5MDEsLTY4ODc4OTAyLC0xMzc2MTAxNTE0LC05NTkwNTM2Mz
+MsLTcyMjEyNzkxMSwtOTc2MTA4NzM2LC0xNDExODEzNDEzLDEz
+Njg2ODczNTJdfQ==
 -->
