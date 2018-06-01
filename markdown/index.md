@@ -746,7 +746,7 @@ Your first step should be contacting the [Landlord and Tenant Board](http://www.
 
 #### Finding an apartment 
 
-The rental market in Toronto is competitive, but you have some options when locating a place to live. Most of this section will summarize tools you can use to find an apartment yourself, but before we dig deeper, I'd like to highlight the possibility of using a realtor. This can take a lot of the stress out of finding somewhere to live, and is often free for the person searching. Regardless of how you choose to search, competition for units means that good listings can be taken only 2-3 days after being posted, so it pays to keep on top of your search. In the [next section](#neighbourhoods) you can find out more about Toronto's neighbourhood to help you narrow your search area. 
+The rental market in Toronto is competitive, but you have some options when locating a place to live. Most of this section will summarize tools you can use to find an apartment yourself, but before we dig deeper, I'd like to highlight the possibility of using a realtor. This can take a lot of the stress out of finding somewhere to live, and is often free for the person searching. Regardless of how you choose to search, competition for units means that good listings can be taken only 2-3 days after being posted, so it pays to keep on top of your search. In the [next section](#neighbourhoods) you can find out more about Toronto's neighbourhoods to help you narrow your search area. 
 
 **[Condos.ca](condos.ca)**
 
@@ -1011,11 +1011,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc3MTA0MDM0LDk3NDM0NTkwMSwtNjg4Nz
-g5MDIsLTEzNzYxMDE1MTQsLTk1OTA1MzYzMywtNzIyMTI3OTEx
-LC05NzYxMDg3MzYsLTE0MTE4MTM0MTMsMTM2ODY4NzM1MiwxOT
-MwMDE0MzM4LC0xNjc4ODMwMDIyLC0xMzIwNjMyMTUxLC0xMjg2
-MDIyNDE0LDQzMjY3NTMxMCwtMTc5Nzc0MzgxNywtNTkzNDc1ND
-MyLC0zODU1MzgxMTcsLTgzNzI0ODMzOSwtMTEwNDAwMTEzNCwt
-NjYyNTgwOTEwXX0=
+eyJoaXN0b3J5IjpbLTM5NDE1MDY2MSw5NzQzNDU5MDEsLTY4OD
+c4OTAyLC0xMzc2MTAxNTE0LC05NTkwNTM2MzMsLTcyMjEyNzkx
+MSwtOTc2MTA4NzM2LC0xNDExODEzNDEzLDEzNjg2ODczNTIsMT
+kzMDAxNDMzOCwtMTY3ODgzMDAyMiwtMTMyMDYzMjE1MSwtMTI4
+NjAyMjQxNCw0MzI2NzUzMTAsLTE3OTc3NDM4MTcsLTU5MzQ3NT
+QzMiwtMzg1NTM4MTE3LC04MzcyNDgzMzksLTExMDQwMDExMzQs
+LTY2MjU4MDkxMF19
 -->
