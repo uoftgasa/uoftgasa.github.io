@@ -927,7 +927,7 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 		- Car: 30 minutes
 	- Types of housing: mostly houses with some apartments and condos
 	- Features:
-		- Proximity to High
+		- Proximity to High Park
 - **Koreatown/Christie Pits - \$\$**
 	- Northwest of [St George](#st-george)
 	- Approximately bounded by: Ossington Ave, Bloor St, Bathurst St, Dupont St
@@ -1159,11 +1159,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTM0MjEzNzMsMjI5OTAwNDY5LC0xNT
-MyMzc3NDA5LDcxNjUxMjk2NSwtMTIxODM1MjEzMCw0NDI5ODY0
-NTQsLTE0ODg5MDQ2MTYsMTEwODQ1NTU1MiwtMTkwMDg4MjQzOS
-wxODk0OTQ3Nzg2LDMzMzI0NTAwMiwtMTY3NzA5OTMxOSwtMTM3
-MDAwNjg4OSw5NzQzNDU5MDEsLTY4ODc4OTAyLC0xMzc2MTAxNT
-E0LC05NTkwNTM2MzMsLTcyMjEyNzkxMSwtOTc2MTA4NzM2LC0x
-NDExODEzNDEzXX0=
+eyJoaXN0b3J5IjpbMTYwMDkxNzUzMSwyMjk5MDA0NjksLTE1Mz
+IzNzc0MDksNzE2NTEyOTY1LC0xMjE4MzUyMTMwLDQ0Mjk4NjQ1
+NCwtMTQ4ODkwNDYxNiwxMTA4NDU1NTUyLC0xOTAwODgyNDM5LD
+E4OTQ5NDc3ODYsMzMzMjQ1MDAyLC0xNjc3MDk5MzE5LC0xMzcw
+MDA2ODg5LDk3NDM0NTkwMSwtNjg4Nzg5MDIsLTEzNzYxMDE1MT
+QsLTk1OTA1MzYzMywtNzIyMTI3OTExLC05NzYxMDg3MzYsLTE0
+MTE4MTM0MTNdfQ==
 -->
