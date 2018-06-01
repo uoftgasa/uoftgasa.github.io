@@ -756,7 +756,7 @@ Before you begin your search, you should be able to answer some basic questions 
 		- Bachelor's/Studio: $1000/month
 		- 1 Bedroom: $1200/month
 		- 2 Bedroom: $1400/month
-		- 3+ 
+		- 3+ Bedroom: $1600/month
 - What's my maximum commute time?
 	- Check out [WalkScore's webapp](https://www.walkscore.com/score/50-saint-george-st-toronto-on-canada?utm_campaign=tilefooter&utm_medium=address_search&utm_source=padmapper.com) to compute how long different transit methods take to commute.
 - What utilities am I prepared to cover in addition to this?
@@ -1031,7 +1031,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgxODE0NTAyLDExMDg0NTU1NTIsLTE5MD
+eyJoaXN0b3J5IjpbMzE1MjU0MDc4LDExMDg0NTU1NTIsLTE5MD
 A4ODI0MzksMTg5NDk0Nzc4NiwzMzMyNDUwMDIsLTE2NzcwOTkz
 MTksLTEzNzAwMDY4ODksOTc0MzQ1OTAxLC02ODg3ODkwMiwtMT
 M3NjEwMTUxNCwtOTU5MDUzNjMzLC03MjIxMjc5MTEsLTk3NjEw
