@@ -747,7 +747,7 @@ The rental market in Toronto is competitive, but you have some options when loca
 
 **[Condos.ca](condos.ca)**
 
-This site has a focus that's clear in the name - you'll only find condos here. Unlike other sites like PadMapper and ViewIt, you'll need to register an account for this website to get the full information. However, information in these listings tends to be a little more complete than the wild west of PadMapper, with nice additional details like square footage and window exposure, as well as a list of building amenities. Renting a condo tends
+This site has a focus that's clear in the name - you'll only find condos here. Unlike other sites like PadMapper and ViewIt, you'll need to register an account for this website to get the full information. However, information in these listings tends to be a little more complete than the wild west of PadMapper, with nice additional details like square footage and window exposure, as well as a list of building amenities. Renting a condo tends to be pricier than an apartment or a floor of a house, but often comes with bonuses like a locker, in-suite laundry, and/or air conditioning.
 
 **[PadMapper](https://www.padmapper.com/apartments/toronto-on)**
 
@@ -759,7 +759,7 @@ UofT maintains its own website, with both on and off campus listings. Students c
 
 **[ViewIt](http://www.viewit.ca/torontozones.aspx)**
 
-This somewhat dated looking website lists a lot of rental units that cannot be found on more general sites like PadMapper, with more of a focus on apartment buildings specifically. If you're looking for a place downtown, ViewIt zone T5 is the one to search. Individual listings tend to be a little more complete than the average PadMapper find, with information about included amenities.
+This somewhat dated looking website lists a lot of rental units that cannot be found on more general sites like PadMapper, with more of a focus on apartment buildings specifically. If you're looking for a place downtown, ViewIt zone T5 is the one to search. Individual listings tend to be a little more complete than the average PadMapper find, with information about included builamenities.
 
 #### Neighbourhoods
 Below is a list of neighbourhoods in which graduate students have recently lived off campus.
@@ -996,11 +996,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg3Mzg5MzEyLC0xMzc2MTAxNTE0LC05NT
-kwNTM2MzMsLTcyMjEyNzkxMSwtOTc2MTA4NzM2LC0xNDExODEz
-NDEzLDEzNjg2ODczNTIsMTkzMDAxNDMzOCwtMTY3ODgzMDAyMi
-wtMTMyMDYzMjE1MSwtMTI4NjAyMjQxNCw0MzI2NzUzMTAsLTE3
-OTc3NDM4MTcsLTU5MzQ3NTQzMiwtMzg1NTM4MTE3LC04MzcyND
-gzMzksLTExMDQwMDExMzQsLTY2MjU4MDkxMCwxNTY3OTc3NjU2
-LC0xMzgyMzgwNDY5XX0=
+eyJoaXN0b3J5IjpbLTEzNDMyMDA4MTYsLTEzNzYxMDE1MTQsLT
+k1OTA1MzYzMywtNzIyMTI3OTExLC05NzYxMDg3MzYsLTE0MTE4
+MTM0MTMsMTM2ODY4NzM1MiwxOTMwMDE0MzM4LC0xNjc4ODMwMD
+IyLC0xMzIwNjMyMTUxLC0xMjg2MDIyNDE0LDQzMjY3NTMxMCwt
+MTc5Nzc0MzgxNywtNTkzNDc1NDMyLC0zODU1MzgxMTcsLTgzNz
+I0ODMzOSwtMTEwNDAwMTEzNCwtNjYyNTgwOTEwLDE1Njc5Nzc2
+NTYsLTEzODIzODA0NjldfQ==
 -->
