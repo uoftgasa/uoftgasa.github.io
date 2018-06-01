@@ -752,7 +752,7 @@ Before you begin your search, you should be able to answer some basic questions 
 
 - What's my budget for rent?
 	- You can see how rent in Toronto has evolved over time with [data collected by the Canada Mortgage and Housing Corporation](https://www03.cmhc-schl.gc.ca/hmip-pimh/en/TableMapChart/Table?TableId=2.2.11&GeographyId=2270&GeographyTypeId=3&DisplayAs=Table&GeograghyName=Toronto#) (click chart view to see the table as a graph).
-	- As of 2018, typical rents in Toronto are as follows:
+	- As of 2018, typical rents in Toronto (averaged across the entire GTA) are as follows:
 		- Bachelor's/Studio: $1000/month
 		- 1 Bedroom: $1200/month
 		- 2 Bedroom: $1400/month
@@ -1031,11 +1031,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1MjU0MDc4LDExMDg0NTU1NTIsLTE5MD
-A4ODI0MzksMTg5NDk0Nzc4NiwzMzMyNDUwMDIsLTE2NzcwOTkz
-MTksLTEzNzAwMDY4ODksOTc0MzQ1OTAxLC02ODg3ODkwMiwtMT
-M3NjEwMTUxNCwtOTU5MDUzNjMzLC03MjIxMjc5MTEsLTk3NjEw
-ODczNiwtMTQxMTgxMzQxMywxMzY4Njg3MzUyLDE5MzAwMTQzMz
-gsLTE2Nzg4MzAwMjIsLTEzMjA2MzIxNTEsLTEyODYwMjI0MTQs
-NDMyNjc1MzEwXX0=
+eyJoaXN0b3J5IjpbLTgxOTg3ODExNywxMTA4NDU1NTUyLC0xOT
+AwODgyNDM5LDE4OTQ5NDc3ODYsMzMzMjQ1MDAyLC0xNjc3MDk5
+MzE5LC0xMzcwMDA2ODg5LDk3NDM0NTkwMSwtNjg4Nzg5MDIsLT
+EzNzYxMDE1MTQsLTk1OTA1MzYzMywtNzIyMTI3OTExLC05NzYx
+MDg3MzYsLTE0MTE4MTM0MTMsMTM2ODY4NzM1MiwxOTMwMDE0Mz
+M4LC0xNjc4ODMwMDIyLC0xMzIwNjMyMTUxLC0xMjg2MDIyNDE0
+LDQzMjY3NTMxMF19
 -->
