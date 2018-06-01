@@ -829,10 +829,9 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 			- Served by the [501 Streetcar](http://www.ttc.ca/Routes/501/RouteDescription.jsp?tabName=map)
 		- Car: 20-50 minutes
 	- Types of housing: mostly houses, some apartments
-	- Perks: 
+	- Features
 		- Proximity to Woodbine beach and parks
 		- Excellent restaurants
-	- Drawbacks:
 		- Longer commute
 		- Prevalent [NIMBY](https://www.thestar.com/news/gta/2016/01/02/youre-a-toronto-nimby-now-what.html)-ism
 - **Greektown**
@@ -843,9 +842,11 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 			- Served by the [Line 2](https://www.ttc.ca/Subway/Bloor_Danforth.jsp) Subway
 		- Car: 20-30 minutes
 	- Types of housing: mostly houses, some apartments
-	- Perks:
-		- Proximity to 
-	- Drawbacks:
+	- Features:
+		- Proximity to Line 2
+		- Proximity to parks
+		- Excellent restaurants
+		- 
 - Chinatown and Kensington Market
 - Bay Street Corridor
 - The Annex
@@ -1079,11 +1080,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgyODE0NDE1LDQ0Mjk4NjQ1NCwtMTQ4OD
-kwNDYxNiwxMTA4NDU1NTUyLC0xOTAwODgyNDM5LDE4OTQ5NDc3
-ODYsMzMzMjQ1MDAyLC0xNjc3MDk5MzE5LC0xMzcwMDA2ODg5LD
-k3NDM0NTkwMSwtNjg4Nzg5MDIsLTEzNzYxMDE1MTQsLTk1OTA1
-MzYzMywtNzIyMTI3OTExLC05NzYxMDg3MzYsLTE0MTE4MTM0MT
-MsMTM2ODY4NzM1MiwxOTMwMDE0MzM4LC0xNjc4ODMwMDIyLC0x
-MzIwNjMyMTUxXX0=
+eyJoaXN0b3J5IjpbMTg5NjcyNDM0NSw0NDI5ODY0NTQsLTE0OD
+g5MDQ2MTYsMTEwODQ1NTU1MiwtMTkwMDg4MjQzOSwxODk0OTQ3
+Nzg2LDMzMzI0NTAwMiwtMTY3NzA5OTMxOSwtMTM3MDAwNjg4OS
+w5NzQzNDU5MDEsLTY4ODc4OTAyLC0xMzc2MTAxNTE0LC05NTkw
+NTM2MzMsLTcyMjEyNzkxMSwtOTc2MTA4NzM2LC0xNDExODEzND
+EzLDEzNjg2ODczNTIsMTkzMDAxNDMzOCwtMTY3ODgzMDAyMiwt
+MTMyMDYzMjE1MV19
 -->
