@@ -761,6 +761,7 @@ Before you begin your search, you should be able to answer some basic questions 
 	- Toronto has 3 main types of rental housing: condos, apartments, and houses
 		- Condos: Typically the most expensive, but with the most included amenities - buildings often have gyms or pools, and the unit itself will likely have a dishwasher, laundry machine, air conditioning, and its own thermostat. The level of maintenance varies by building - if you're considering a condo, identify the property management company and investigate their history with resolving complaints.
 		- Apartments: Usually more affordable than condos, and typically more spacious as well, mostly found in older buildings. Many buildings will include laundry on site, and some apartment buildings share amenities with condos. Often do not include air conditioning in the unit, and tenants may not control their own thermostat.
+		- Houses: Either the most or least expensive, depending on how much of a house you rent.
 - **What's my maximum commute time?**
 	- Check out [WalkScore's webapp](https://www.walkscore.com/score/50-saint-george-st-toronto-on-canada?utm_campaign=tilefooter&utm_medium=address_search&utm_source=padmapper.com) and click the pencil next to 'Commute to Downtown Toronto' to enter an new address and calculate commute times.
 - **What utilities am I prepared to cover in addition to rent?**
@@ -772,7 +773,7 @@ Before you begin your search, you should be able to answer some basic questions 
 - **Are there other amenities I'm interested in?**
 	- Seriously consider whether you need air conditioning - Canada may have a reputation as a cold country, but typical summer days in Toronto have a [humidex](https://www.ccohs.ca/oshanswers/phys_agents/humidex.html) (a combination of temperature and relative humidity) over 30. Basement apartments tend to remain relatively cool, but above ground units benefit from window or central AC.
 
-I talked a lot about air conditioning, can you tell I wrote this during the summer? For winter concerns, remember that regardless of where you live, if you're not on a major road, you'll be low priority for road and sidewalk clearing. The solution in Toronto seems to be for everyone and their dog to absolutely blanket the sidewalks with salt- this has a lot of its own 
+I talked a lot about air conditioning, can you tell I wrote this during the summer? For winter concerns, remember that regardless of where you live, if you're not on a major road, you'll be low priority for road and sidewalk clearing. The solution in Toronto seems to be for everyone and their dog to absolutely blanket the sidewalks with salt- this has a lot of its own dangers, turning fluffy snow into half melty ice slicks. Be prepa
 
 **Rental Listing Sites**
 
@@ -1039,11 +1040,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxODQwODAxNSwtMTQ4ODkwNDYxNiwxMT
-A4NDU1NTUyLC0xOTAwODgyNDM5LDE4OTQ5NDc3ODYsMzMzMjQ1
-MDAyLC0xNjc3MDk5MzE5LC0xMzcwMDA2ODg5LDk3NDM0NTkwMS
-wtNjg4Nzg5MDIsLTEzNzYxMDE1MTQsLTk1OTA1MzYzMywtNzIy
-MTI3OTExLC05NzYxMDg3MzYsLTE0MTE4MTM0MTMsMTM2ODY4Nz
-M1MiwxOTMwMDE0MzM4LC0xNjc4ODMwMDIyLC0xMzIwNjMyMTUx
-LC0xMjg2MDIyNDE0XX0=
+eyJoaXN0b3J5IjpbLTE1MjQxMTY5NDYsLTE0ODg5MDQ2MTYsMT
+EwODQ1NTU1MiwtMTkwMDg4MjQzOSwxODk0OTQ3Nzg2LDMzMzI0
+NTAwMiwtMTY3NzA5OTMxOSwtMTM3MDAwNjg4OSw5NzQzNDU5MD
+EsLTY4ODc4OTAyLC0xMzc2MTAxNTE0LC05NTkwNTM2MzMsLTcy
+MjEyNzkxMSwtOTc2MTA4NzM2LC0xNDExODEzNDEzLDEzNjg2OD
+czNTIsMTkzMDAxNDMzOCwtMTY3ODgzMDAyMiwtMTMyMDYzMjE1
+MSwtMTI4NjAyMjQxNF19
 -->
