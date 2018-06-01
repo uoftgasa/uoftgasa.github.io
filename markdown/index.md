@@ -732,7 +732,7 @@ Your landlord cannot evict you for having a pet, even if you signed a lease spec
 
 **Can my landlord evict me to allow one of their family members to live in my unit?**
 
-Your landlord is permitted to evict you to make room for themselves or one of their family members. In the case that this happens, they are required to offer you 1 month's rent or a simila
+Your landlord is permitted to evict you to make room for themselves or one of their family members, a process summarized as evicting for 'own use'. In the case that this happens, they are required to offer you 1 month's rent or a similar rental unit. If you discover that the eviction was not actually for 
 
 **Landlords cannot:**
 
@@ -995,11 +995,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMTk2NjYyMCwtNzIyMTI3OTExLC05Nz
-YxMDg3MzYsLTE0MTE4MTM0MTMsMTM2ODY4NzM1MiwxOTMwMDE0
-MzM4LC0xNjc4ODMwMDIyLC0xMzIwNjMyMTUxLC0xMjg2MDIyND
-E0LDQzMjY3NTMxMCwtMTc5Nzc0MzgxNywtNTkzNDc1NDMyLC0z
-ODU1MzgxMTcsLTgzNzI0ODMzOSwtMTEwNDAwMTEzNCwtNjYyNT
-gwOTEwLDE1Njc5Nzc2NTYsLTEzODIzODA0NjksMjg1MzMyOTA1
-LDY3MDQwMjc5Ml19
+eyJoaXN0b3J5IjpbOTUwNjkwOTQ4LC03MjIxMjc5MTEsLTk3Nj
+EwODczNiwtMTQxMTgxMzQxMywxMzY4Njg3MzUyLDE5MzAwMTQz
+MzgsLTE2Nzg4MzAwMjIsLTEzMjA2MzIxNTEsLTEyODYwMjI0MT
+QsNDMyNjc1MzEwLC0xNzk3NzQzODE3LC01OTM0NzU0MzIsLTM4
+NTUzODExNywtODM3MjQ4MzM5LC0xMTA0MDAxMTM0LC02NjI1OD
+A5MTAsMTU2Nzk3NzY1NiwtMTM4MjM4MDQ2OSwyODUzMzI5MDUs
+NjcwNDAyNzkyXX0=
 -->
