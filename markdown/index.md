@@ -918,7 +918,11 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 		- Excellent restaurants
 - **High Park - \$**
 	- West of [St George](#st-george)
-	- Approximately bounded by: Runnymede Rd, The Queensway, Roncesvalles Ave,
+	- Approximately bounded by: Runnymede Rd, The Queensway, Roncesvalles Ave, Annette St
+	- Time to [St George](#st-george)
+		- Walking: 1.5 hours
+		- Cycle: 30 minutes
+		- 
 - **Koreatown/Christie Pits - \$\$**
 	- Northwest of [St George](#st-george)
 	- Approximately bounded by: Ossington Ave, Bloor St, Bathurst St, Dupont St
@@ -1150,11 +1154,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNTM2ODkxOSwyMjk5MDA0NjksLTE1Mz
-IzNzc0MDksNzE2NTEyOTY1LC0xMjE4MzUyMTMwLDQ0Mjk4NjQ1
-NCwtMTQ4ODkwNDYxNiwxMTA4NDU1NTUyLC0xOTAwODgyNDM5LD
-E4OTQ5NDc3ODYsMzMzMjQ1MDAyLC0xNjc3MDk5MzE5LC0xMzcw
-MDA2ODg5LDk3NDM0NTkwMSwtNjg4Nzg5MDIsLTEzNzYxMDE1MT
-QsLTk1OTA1MzYzMywtNzIyMTI3OTExLC05NzYxMDg3MzYsLTE0
-MTE4MTM0MTNdfQ==
+eyJoaXN0b3J5IjpbODIxMTM0MTQ4LDIyOTkwMDQ2OSwtMTUzMj
+M3NzQwOSw3MTY1MTI5NjUsLTEyMTgzNTIxMzAsNDQyOTg2NDU0
+LC0xNDg4OTA0NjE2LDExMDg0NTU1NTIsLTE5MDA4ODI0MzksMT
+g5NDk0Nzc4NiwzMzMyNDUwMDIsLTE2NzcwOTkzMTksLTEzNzAw
+MDY4ODksOTc0MzQ1OTAxLC02ODg3ODkwMiwtMTM3NjEwMTUxNC
+wtOTU5MDUzNjMzLC03MjIxMjc5MTEsLTk3NjEwODczNiwtMTQx
+MTgxMzQxM119
 -->
