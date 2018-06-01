@@ -722,6 +722,12 @@ Your landlord can increase your rent by no more than 1.8% no more than once ever
 
 The landlord is only permitted to enter the area you rent after giving you 24 hours advance notice, and only then between the hours of 8am and 8pm. However, landlords may enter without this notice in emergencies, with permission of the tenant, or when showing the rental unit for the purposes of renting to a new tenant.
 
+**How do I leave my current tenancy?**
+
+You are required to give your landlord 60 days notice before moving out, to allow them time to replace you.
+
+**Can 
+
 **Landlords cannot:**
 
 - demand a key/security/damages deposit 
@@ -983,11 +989,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NTIyMjI1OSwtNzIyMTI3OTExLC05Nz
-YxMDg3MzYsLTE0MTE4MTM0MTMsMTM2ODY4NzM1MiwxOTMwMDE0
-MzM4LC0xNjc4ODMwMDIyLC0xMzIwNjMyMTUxLC0xMjg2MDIyND
-E0LDQzMjY3NTMxMCwtMTc5Nzc0MzgxNywtNTkzNDc1NDMyLC0z
-ODU1MzgxMTcsLTgzNzI0ODMzOSwtMTEwNDAwMTEzNCwtNjYyNT
-gwOTEwLDE1Njc5Nzc2NTYsLTEzODIzODA0NjksMjg1MzMyOTA1
-LDY3MDQwMjc5Ml19
+eyJoaXN0b3J5IjpbLTIwODQwMzc1MDAsLTcyMjEyNzkxMSwtOT
+c2MTA4NzM2LC0xNDExODEzNDEzLDEzNjg2ODczNTIsMTkzMDAx
+NDMzOCwtMTY3ODgzMDAyMiwtMTMyMDYzMjE1MSwtMTI4NjAyMj
+QxNCw0MzI2NzUzMTAsLTE3OTc3NDM4MTcsLTU5MzQ3NTQzMiwt
+Mzg1NTM4MTE3LC04MzcyNDgzMzksLTExMDQwMDExMzQsLTY2Mj
+U4MDkxMCwxNTY3OTc3NjU2LC0xMzgyMzgwNDY5LDI4NTMzMjkw
+NSw2NzA0MDI3OTJdfQ==
 -->
