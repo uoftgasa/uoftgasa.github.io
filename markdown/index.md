@@ -818,7 +818,7 @@ I talked a lot about air conditioning, can you tell I wrote this during the summ
 	- WalkScore is a data paradise, compiling travel times across various transportation methods to score neighbourhoods in terms of accessibility (their methodology is described in detail [here](https://www.walkscore.com/methodology.shtml)). They also having [apartment listings](https://www.walkscore.com/apartments/search/loc?lat=43.667615239322735&lng=-79.38142695770262) with the usual filters as well as transit and WalkScore ratings specific to the site.
 
 #### Neighbourhoods
-Below is a list of neighbourhoods in which graduate students have recently lived off campus. Typical rents for the area are rated in dollar signs: \$\$\$=expensive, \$\$=average, \$ =
+Below is a list of neighbourhoods in which graduate students have recently lived off campus.
 - Chinatown and Kensington Market
 - Bay Street Corridor
 - The Annex
@@ -1052,7 +1052,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxODg5MjYwOCwtMTQ4ODkwNDYxNiwxMT
+eyJoaXN0b3J5IjpbMjAxNzgwMDgwNywtMTQ4ODkwNDYxNiwxMT
 A4NDU1NTUyLC0xOTAwODgyNDM5LDE4OTQ5NDc3ODYsMzMzMjQ1
 MDAyLC0xNjc3MDk5MzE5LC0xMzcwMDA2ODg5LDk3NDM0NTkwMS
 wtNjg4Nzg5MDIsLTEzNzYxMDE1MTQsLTk1OTA1MzYzMywtNzIy
