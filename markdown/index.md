@@ -857,11 +857,13 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 		- Proximity to Line 2
 		- Proximity to parks
 		- Excellent restaurants
-- **Koreatown/Christie Pitts**
+- **Koreatown/Christie Pits**
 	- Northwest of [St George](#st-george)
 	- Time to [St George](#st-george)
 		- Walking: 30 minutes
 		- Cycle: 10 minutes
+		- TTC: 20 minutes
+			- Served by the [Line 2](https://www.ttc.ca/Subway/Bloor_Danforth.jsp) Subway
 		- 
 - Chinatown and Kensington Market
 - Bay Street Corridor
@@ -1096,7 +1098,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA5MDc5OTM4LC0xMjE4MzUyMTMwLDQ0Mj
+eyJoaXN0b3J5IjpbNzE2NTEyOTY1LC0xMjE4MzUyMTMwLDQ0Mj
 k4NjQ1NCwtMTQ4ODkwNDYxNiwxMTA4NDU1NTUyLC0xOTAwODgy
 NDM5LDE4OTQ5NDc3ODYsMzMzMjQ1MDAyLC0xNjc3MDk5MzE5LC
 0xMzcwMDA2ODg5LDk3NDM0NTkwMSwtNjg4Nzg5MDIsLTEzNzYx
