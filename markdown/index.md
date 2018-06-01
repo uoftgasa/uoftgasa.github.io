@@ -823,7 +823,7 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 
 - **The Annex/Yorkville**
 	- North of [St George](#st-george)
-	- Bounded by: Bathurst, Bloor, Yonge, Davenport, Dupont
+	- Approximately bounded by: Bathurst, Bloor, Yonge, Davenport, Dupont
 	- Time to [St George](#st-george)
 		- Walking: 20 minutes
 		- Cycle: 10 minutes
@@ -833,7 +833,7 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 	- Types of housing: mostly houses, some apartments
 - **The Beaches**
 	- Southeast of [St George](#st-george)
-	- Bounded by: Coxwell, Lake Ontario, Victoria Park, Gerrard
+	- Approximately bounded by: Coxwell, Lake Ontario, Victoria Park, Gerrard
 	- Time to [St George](#st-george)
 		- Walking: 2 hours
 		- Cycle: 40 minutes
@@ -848,6 +848,7 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 		- Prevalent [NIMBY](https://www.thestar.com/news/gta/2016/01/02/youre-a-toronto-nimby-now-what.html)-ism
 - **Greektown**
 	- Northeast of [St George](#st-george)
+	- Approximately bounded by: Don Valley Parkway,
 	- Time to [St George](#st-george)
 		- Walking: 1 hour, 15 minutes
 		- Cycle: 30 minutes
@@ -1100,11 +1101,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMzU1MjQwLC0xNTMyMzc3NDA5LDcxNj
-UxMjk2NSwtMTIxODM1MjEzMCw0NDI5ODY0NTQsLTE0ODg5MDQ2
-MTYsMTEwODQ1NTU1MiwtMTkwMDg4MjQzOSwxODk0OTQ3Nzg2LD
-MzMzI0NTAwMiwtMTY3NzA5OTMxOSwtMTM3MDAwNjg4OSw5NzQz
-NDU5MDEsLTY4ODc4OTAyLC0xMzc2MTAxNTE0LC05NTkwNTM2Mz
-MsLTcyMjEyNzkxMSwtOTc2MTA4NzM2LC0xNDExODEzNDEzLDEz
-Njg2ODczNTJdfQ==
+eyJoaXN0b3J5IjpbNDY3MzI3NjMsLTE1MzIzNzc0MDksNzE2NT
+EyOTY1LC0xMjE4MzUyMTMwLDQ0Mjk4NjQ1NCwtMTQ4ODkwNDYx
+NiwxMTA4NDU1NTUyLC0xOTAwODgyNDM5LDE4OTQ5NDc3ODYsMz
+MzMjQ1MDAyLC0xNjc3MDk5MzE5LC0xMzcwMDA2ODg5LDk3NDM0
+NTkwMSwtNjg4Nzg5MDIsLTEzNzYxMDE1MTQsLTk1OTA1MzYzMy
+wtNzIyMTI3OTExLC05NzYxMDg3MzYsLTE0MTE4MTM0MTMsMTM2
+ODY4NzM1Ml19
 -->
