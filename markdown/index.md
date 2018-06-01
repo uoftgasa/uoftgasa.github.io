@@ -754,8 +754,8 @@ Before you begin your search, you should be able to answer some basic questions 
 - What's my maximum commute time?
 - What utilities am I prepared to cover in addition to this?
 	- Heat
-	- Water - typically around $30/month in a one bedroom, but can be higher if you have applie
-	- Hydro - typically around $75/month in a one bedroom apartment, but can be much higher if your 
+	- Water - typically around $30/month in a one bedroom, but can be higher if you have appliances like a dishwasher or laundry machine
+	- Hydro - typically around $75/month in a one bedroom apartment, but can be much higher if your heating system is electricity based (i.e. electric baseboards)
 - Are things like internet and cable included in my budget?
 
 **[Condos.ca](condos.ca)**
@@ -1021,11 +1021,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyOTI3OTQzMCwtMTM3MDAwNjg4OSw5Nz
-QzNDU5MDEsLTY4ODc4OTAyLC0xMzc2MTAxNTE0LC05NTkwNTM2
-MzMsLTcyMjEyNzkxMSwtOTc2MTA4NzM2LC0xNDExODEzNDEzLD
-EzNjg2ODczNTIsMTkzMDAxNDMzOCwtMTY3ODgzMDAyMiwtMTMy
-MDYzMjE1MSwtMTI4NjAyMjQxNCw0MzI2NzUzMTAsLTE3OTc3ND
-M4MTcsLTU5MzQ3NTQzMiwtMzg1NTM4MTE3LC04MzcyNDgzMzks
-LTExMDQwMDExMzRdfQ==
+eyJoaXN0b3J5IjpbLTE2NzcwOTkzMTksLTEzNzAwMDY4ODksOT
+c0MzQ1OTAxLC02ODg3ODkwMiwtMTM3NjEwMTUxNCwtOTU5MDUz
+NjMzLC03MjIxMjc5MTEsLTk3NjEwODczNiwtMTQxMTgxMzQxMy
+wxMzY4Njg3MzUyLDE5MzAwMTQzMzgsLTE2Nzg4MzAwMjIsLTEz
+MjA2MzIxNTEsLTEyODYwMjI0MTQsNDMyNjc1MzEwLC0xNzk3Nz
+QzODE3LC01OTM0NzU0MzIsLTM4NTUzODExNywtODM3MjQ4MzM5
+LC0xMTA0MDAxMTM0XX0=
 -->
