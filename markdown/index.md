@@ -847,7 +847,8 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 		- Longer commute
 		- Prevalent [NIMBY](https://www.thestar.com/news/gta/2016/01/02/youre-a-toronto-nimby-now-what.html)-ism
 - **Chinatown/Kensington**
-	- 
+	- South of [St George](#st-george)
+	- Approximately bounded by: Augusta,
 - **Greektown**
 	- Northeast of [St George](#st-george)
 	- Approximately bounded by: Broadview, Danforth, Donlands, Mortimer
@@ -1104,11 +1105,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTE4MDU3NzYsLTE1MzIzNzc0MDksNz
-E2NTEyOTY1LC0xMjE4MzUyMTMwLDQ0Mjk4NjQ1NCwtMTQ4ODkw
-NDYxNiwxMTA4NDU1NTUyLC0xOTAwODgyNDM5LDE4OTQ5NDc3OD
-YsMzMzMjQ1MDAyLC0xNjc3MDk5MzE5LC0xMzcwMDA2ODg5LDk3
-NDM0NTkwMSwtNjg4Nzg5MDIsLTEzNzYxMDE1MTQsLTk1OTA1Mz
-YzMywtNzIyMTI3OTExLC05NzYxMDg3MzYsLTE0MTE4MTM0MTMs
-MTM2ODY4NzM1Ml19
+eyJoaXN0b3J5IjpbLTE2ODYwMTg5NywtMTUzMjM3NzQwOSw3MT
+Y1MTI5NjUsLTEyMTgzNTIxMzAsNDQyOTg2NDU0LC0xNDg4OTA0
+NjE2LDExMDg0NTU1NTIsLTE5MDA4ODI0MzksMTg5NDk0Nzc4Ni
+wzMzMyNDUwMDIsLTE2NzcwOTkzMTksLTEzNzAwMDY4ODksOTc0
+MzQ1OTAxLC02ODg3ODkwMiwtMTM3NjEwMTUxNCwtOTU5MDUzNj
+MzLC03MjIxMjc5MTEsLTk3NjEwODczNiwtMTQxMTgxMzQxMywx
+MzY4Njg3MzUyXX0=
 -->
