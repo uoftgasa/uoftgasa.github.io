@@ -724,7 +724,7 @@ The landlord is only permitted to enter the area you rent after giving you 24 ho
 
 **How do I leave my current tenancy?**
 
-You are required to give your landlord 60 days notice before moving out, to allow them time to replace you.
+You are required to give your landlord 60 days notice before moving out, to allow them time to replace you. Once notice is served, your landlord may enter your rental unit without giving 24 hours notice for the purposes of showing 
 
 **Can my landlord evict me if I get a pet?**
 
@@ -736,7 +736,7 @@ Your landlord is permitted to evict you to make room for themselves or one of th
 
 **Who can I talk to about something my landlord is doing that I think is illegal?**
 
-Your first step should be contac
+Your first step should be contacting the [Landlord and Tenant Board](http://www.sjto.gov.on.ca/ltb/) to learn whether your landlord is acting outside the law and what your next steps should be.
 
 
 #### Finding an apartment 
@@ -977,11 +977,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDM2OTkzOTcsLTcyMjEyNzkxMSwtOT
-c2MTA4NzM2LC0xNDExODEzNDEzLDEzNjg2ODczNTIsMTkzMDAx
-NDMzOCwtMTY3ODgzMDAyMiwtMTMyMDYzMjE1MSwtMTI4NjAyMj
-QxNCw0MzI2NzUzMTAsLTE3OTc3NDM4MTcsLTU5MzQ3NTQzMiwt
-Mzg1NTM4MTE3LC04MzcyNDgzMzksLTExMDQwMDExMzQsLTY2Mj
-U4MDkxMCwxNTY3OTc3NjU2LC0xMzgyMzgwNDY5LDI4NTMzMjkw
-NSw2NzA0MDI3OTJdfQ==
+eyJoaXN0b3J5IjpbLTE4MDc3MDAyOCwtNzIyMTI3OTExLC05Nz
+YxMDg3MzYsLTE0MTE4MTM0MTMsMTM2ODY4NzM1MiwxOTMwMDE0
+MzM4LC0xNjc4ODMwMDIyLC0xMzIwNjMyMTUxLC0xMjg2MDIyND
+E0LDQzMjY3NTMxMCwtMTc5Nzc0MzgxNywtNTkzNDc1NDMyLC0z
+ODU1MzgxMTcsLTgzNzI0ODMzOSwtMTEwNDAwMTEzNCwtNjYyNT
+gwOTEwLDE1Njc5Nzc2NTYsLTEzODIzODA0NjksMjg1MzMyOTA1
+LDY3MDQwMjc5Ml19
 -->
