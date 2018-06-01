@@ -751,7 +751,7 @@ The rental market in Toronto is competitive, but you have some options when loca
 Before you begin your search, you should be able to answer some basic questions about your ideal housing:
 
 - What's my budget for rent?
-	- Typical bachelor's/studio - 
+	- Typical bachelor's/st
 - What's my maximum commute time?
 	- Check out [WalkScore's webapp](https://www.walkscore.com/score/50-saint-george-st-toronto-on-canada?utm_campaign=tilefooter&utm_medium=address_search&utm_source=padmapper.com) to compute how long different transit methods take to commute.
 - What utilities am I prepared to cover in addition to this?
@@ -1026,11 +1026,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODQ1NTU1MiwtMTkwMDg4MjQzOSwxOD
-k0OTQ3Nzg2LDMzMzI0NTAwMiwtMTY3NzA5OTMxOSwtMTM3MDAw
-Njg4OSw5NzQzNDU5MDEsLTY4ODc4OTAyLC0xMzc2MTAxNTE0LC
-05NTkwNTM2MzMsLTcyMjEyNzkxMSwtOTc2MTA4NzM2LC0xNDEx
-ODEzNDEzLDEzNjg2ODczNTIsMTkzMDAxNDMzOCwtMTY3ODgzMD
-AyMiwtMTMyMDYzMjE1MSwtMTI4NjAyMjQxNCw0MzI2NzUzMTAs
-LTE3OTc3NDM4MTddfQ==
+eyJoaXN0b3J5IjpbLTIwMDU4NDU1MjQsMTEwODQ1NTU1MiwtMT
+kwMDg4MjQzOSwxODk0OTQ3Nzg2LDMzMzI0NTAwMiwtMTY3NzA5
+OTMxOSwtMTM3MDAwNjg4OSw5NzQzNDU5MDEsLTY4ODc4OTAyLC
+0xMzc2MTAxNTE0LC05NTkwNTM2MzMsLTcyMjEyNzkxMSwtOTc2
+MTA4NzM2LC0xNDExODEzNDEzLDEzNjg2ODczNTIsMTkzMDAxND
+MzOCwtMTY3ODgzMDAyMiwtMTMyMDYzMjE1MSwtMTI4NjAyMjQx
+NCw0MzI2NzUzMTBdfQ==
 -->
