@@ -832,6 +832,7 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 		- Car: 10 minutes
 	- Types of housing: mostly houses, some apartments
 - **Bay Street Corridor - \$\$\$**
+	- 
 - **The Beaches - \$**
 	- Southeast of [St George](#st-george)
 	- Approximately bounded by: Coxwell Ave, Lake Ontario, Victoria Park Ave, Gerrard St
@@ -890,7 +891,7 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 		- Car: 10 minutes
 	- Types of housing: mostly houses, some apartments
 	- Features:
-		- 
+		- Proximity to Line 2
 - **Liberty Village - \$\$\$**
 - **Little Italy - \$\$**
 - **Midtown - \$\$**
@@ -1110,11 +1111,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzczMjEwMDE4LDIyOTkwMDQ2OSwtMTUzMj
-M3NzQwOSw3MTY1MTI5NjUsLTEyMTgzNTIxMzAsNDQyOTg2NDU0
-LC0xNDg4OTA0NjE2LDExMDg0NTU1NTIsLTE5MDA4ODI0MzksMT
-g5NDk0Nzc4NiwzMzMyNDUwMDIsLTE2NzcwOTkzMTksLTEzNzAw
-MDY4ODksOTc0MzQ1OTAxLC02ODg3ODkwMiwtMTM3NjEwMTUxNC
-wtOTU5MDUzNjMzLC03MjIxMjc5MTEsLTk3NjEwODczNiwtMTQx
-MTgxMzQxM119
+eyJoaXN0b3J5IjpbMTU2MDAwNzk0NywyMjk5MDA0NjksLTE1Mz
+IzNzc0MDksNzE2NTEyOTY1LC0xMjE4MzUyMTMwLDQ0Mjk4NjQ1
+NCwtMTQ4ODkwNDYxNiwxMTA4NDU1NTUyLC0xOTAwODgyNDM5LD
+E4OTQ5NDc3ODYsMzMzMjQ1MDAyLC0xNjc3MDk5MzE5LC0xMzcw
+MDA2ODg5LDk3NDM0NTkwMSwtNjg4Nzg5MDIsLTEzNzYxMDE1MT
+QsLTk1OTA1MzYzMywtNzIyMTI3OTExLC05NzYxMDg3MzYsLTE0
+MTE4MTM0MTNdfQ==
 -->
