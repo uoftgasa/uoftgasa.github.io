@@ -675,12 +675,14 @@ Calendars
 For a nice summary of Toronto living, checkout [WalkScore's overview](https://www.walkscore.com/CA-ON/Toronto).
 
 - [On-Campus](#on-campus)
+	- [Grad House](#grad-house)
+	- [Massey College](#massey-college)
 - [Off-Campus](#off-campus)
 
 ### On-Campus
 Graduate students have a few on-campus residence options. Incoming graduate students are not guaranteed on-campus housing the same way undergraduates are, but as most grad students opt for off-campus housing, it is possible to find an on-campus option. 
 
-In this section, find descriptions of the two major graduate student on-campus housing options [Grad House](#grad-house) and [
+In this section, find descriptions of the two major graduate student on-campus housing options [Grad House](#grad-house) and [Massey College](#massey-college). 
 
 #### Grad House
 
@@ -1047,11 +1049,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzIwOTU0MTYsLTE0ODg5MDQ2MTYsMT
-EwODQ1NTU1MiwtMTkwMDg4MjQzOSwxODk0OTQ3Nzg2LDMzMzI0
-NTAwMiwtMTY3NzA5OTMxOSwtMTM3MDAwNjg4OSw5NzQzNDU5MD
-EsLTY4ODc4OTAyLC0xMzc2MTAxNTE0LC05NTkwNTM2MzMsLTcy
-MjEyNzkxMSwtOTc2MTA4NzM2LC0xNDExODEzNDEzLDEzNjg2OD
-czNTIsMTkzMDAxNDMzOCwtMTY3ODgzMDAyMiwtMTMyMDYzMjE1
-MSwtMTI4NjAyMjQxNF19
+eyJoaXN0b3J5IjpbMTY5MTg3NjQwOCwtMTQ4ODkwNDYxNiwxMT
+A4NDU1NTUyLC0xOTAwODgyNDM5LDE4OTQ5NDc3ODYsMzMzMjQ1
+MDAyLC0xNjc3MDk5MzE5LC0xMzcwMDA2ODg5LDk3NDM0NTkwMS
+wtNjg4Nzg5MDIsLTEzNzYxMDE1MTQsLTk1OTA1MzYzMywtNzIy
+MTI3OTExLC05NzYxMDg3MzYsLTE0MTE4MTM0MTMsMTM2ODY4Nz
+M1MiwxOTMwMDE0MzM4LC0xNjc4ODMwMDIyLC0xMzIwNjMyMTUx
+LC0xMjg2MDIyNDE0XX0=
 -->
