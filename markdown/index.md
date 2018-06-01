@@ -863,13 +863,16 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 - **Cabbagetown/St James Town - \$**
 	- East of [St George](#st-george)
 	- Approximately bounded by Sherbourne St, Dundas St, Parliament St, Bloor St
-		- Time to [St George](#st-george)
-			- Walking: 40 minutes
-			- Cycle: 15 minutes
-			- TTC: 30 minutes
-			- Car: 15 minutes
-		- Types of housing: mostly houses, some apartments
-	- 
+	- Time to [St George](#st-george)
+		- Walking: 40 minutes
+		- Cycle: 15 minutes
+		- TTC: 30 minutes
+			- Served by the [Line 2](https://www.ttc.ca/Subway/Bloor_Danforth.jsp) Subway and the [506 Street
+		- Car: 15 minutes
+	- Types of housing: mostly houses, some apartments
+	- Features:
+		- Strong neighbourhood community
+		- 
 - **Chinatown/Kensington - \$\$**
 	- South of [St George](#st-george)
 	- Approximately bounded by: Augusta Ave, Queen St, Beverly St, College St
@@ -1132,7 +1135,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI5NTI4MTEwLDIyOTkwMDQ2OSwtMTUzMj
+eyJoaXN0b3J5IjpbNDA3MzI0ODU5LDIyOTkwMDQ2OSwtMTUzMj
 M3NzQwOSw3MTY1MTI5NjUsLTEyMTgzNTIxMzAsNDQyOTg2NDU0
 LC0xNDg4OTA0NjE2LDExMDg0NTU1NTIsLTE5MDA4ODI0MzksMT
 g5NDk0Nzc4NiwzMzMyNDUwMDIsLTE2NzcwOTkzMTksLTEzNzAw
