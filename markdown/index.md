@@ -750,15 +750,15 @@ The rental market in Toronto is competitive, but you have some options when loca
 
 Before you begin your search, you should be able to answer some basic questions about your ideal housing:
 
-- What's my budget for rent?
+- **What's my budget for rent?**
 	- You can see how rent in Toronto has evolved over time with [data collected by the Canada Mortgage and Housing Corporation](https://www03.cmhc-schl.gc.ca/hmip-pimh/en/TableMapChart/Table?TableId=2.2.11&GeographyId=2270&GeographyTypeId=3&DisplayAs=Table&GeograghyName=Toronto#) (click chart view to see the table as a graph).
 	- As of 2018, typical rents in Toronto (averaged across the entire GTA) are as follows:
 		- Bachelor's/Studio: $1000/month
 		- 1 Bedroom: $1200/month
 		- 2 Bedroom: $1400/month
 		- 3+ Bedroom: $1600/month
-- What's my maximum commute time?
-	- Check out [WalkScore's webapp](https://www.walkscore.com/score/50-saint-george-st-toronto-on-canada?utm_campaign=tilefooter&utm_medium=address_search&utm_source=padmapper.com) to compute how long different transit methods take to commute.
+- **What's my maximum commute time?**
+	- Check out [WalkScore's webapp](https://www.walkscore.com/score/50-saint-george-st-toronto-on-canada?utm_campaign=tilefooter&utm_medium=address_search&utm_source=padmapper.com) and click the pencil next to 'Commute to Downtown Toronto' to enter an new address and calculate commute times.
 - What utilities am I prepared to cover in addition to this?
 	- Heat - strongly depends on the type of heating the insulation of the rental unit, usually upwards of $70/month but can be $0 is your heating fully electric
 	- Water - typically around $30/month in a one bedroom, but can be higher if you have appliances like a dishwasher or laundry machine
@@ -1031,7 +1031,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxOTg3ODExNywxMTA4NDU1NTUyLC0xOT
+eyJoaXN0b3J5IjpbMTQzMzI2MzY3NywxMTA4NDU1NTUyLC0xOT
 AwODgyNDM5LDE4OTQ5NDc3ODYsMzMzMjQ1MDAyLC0xNjc3MDk5
 MzE5LC0xMzcwMDA2ODg5LDk3NDM0NTkwMSwtNjg4Nzg5MDIsLT
 EzNzYxMDE1MTQsLTk1OTA1MzYzMywtNzIyMTI3OTExLC05NzYx
