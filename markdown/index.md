@@ -766,7 +766,7 @@ Before you begin your search, you should be able to answer some basic questions 
 		- Bachelor's/Studio: $1000/month
 		- 1 Bedroom: $1200/month
 		- 2 Bedroom: $1400/month
-		- 3+ Bedroom: $1600/month
+		- 3+ Bedroom: $1600/month 
 - **What type of rental housing am I interested in?**
 	- Toronto has 3 main types of rental housing: condos, apartments, and houses
 		- Condos: Typically the most expensive, but with the most included amenities - buildings often have gyms or pools, and the unit itself will likely have a dishwasher, laundry machine, air conditioning, and its own thermostat. The level of maintenance varies by building - if you're considering a condo, identify the property management company and investigate their history with resolving complaints.
@@ -1117,11 +1117,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI5OTAwNDY5LC0xNTMyMzc3NDA5LDcxNj
-UxMjk2NSwtMTIxODM1MjEzMCw0NDI5ODY0NTQsLTE0ODg5MDQ2
-MTYsMTEwODQ1NTU1MiwtMTkwMDg4MjQzOSwxODk0OTQ3Nzg2LD
-MzMzI0NTAwMiwtMTY3NzA5OTMxOSwtMTM3MDAwNjg4OSw5NzQz
-NDU5MDEsLTY4ODc4OTAyLC0xMzc2MTAxNTE0LC05NTkwNTM2Mz
-MsLTcyMjEyNzkxMSwtOTc2MTA4NzM2LC0xNDExODEzNDEzLDEz
-Njg2ODczNTJdfQ==
+eyJoaXN0b3J5IjpbMjEzNDExOTI3OSwyMjk5MDA0NjksLTE1Mz
+IzNzc0MDksNzE2NTEyOTY1LC0xMjE4MzUyMTMwLDQ0Mjk4NjQ1
+NCwtMTQ4ODkwNDYxNiwxMTA4NDU1NTUyLC0xOTAwODgyNDM5LD
+E4OTQ5NDc3ODYsMzMzMjQ1MDAyLC0xNjc3MDk5MzE5LC0xMzcw
+MDA2ODg5LDk3NDM0NTkwMSwtNjg4Nzg5MDIsLTEzNzYxMDE1MT
+QsLTk1OTA1MzYzMywtNzIyMTI3OTExLC05NzYxMDg3MzYsLTE0
+MTE4MTM0MTNdfQ==
 -->
