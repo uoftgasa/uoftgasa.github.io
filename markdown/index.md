@@ -864,7 +864,7 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 		- Cycle: 10 minutes
 		- TTC: 20 minutes
 			- Served by the [Line 2](https://www.ttc.ca/Subway/Bloor_Danforth.jsp) Subway
-		- 
+		- c a
 - Chinatown and Kensington Market
 - Bay Street Corridor
 - The Annex
@@ -1098,11 +1098,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE2NTEyOTY1LC0xMjE4MzUyMTMwLDQ0Mj
-k4NjQ1NCwtMTQ4ODkwNDYxNiwxMTA4NDU1NTUyLC0xOTAwODgy
-NDM5LDE4OTQ5NDc3ODYsMzMzMjQ1MDAyLC0xNjc3MDk5MzE5LC
-0xMzcwMDA2ODg5LDk3NDM0NTkwMSwtNjg4Nzg5MDIsLTEzNzYx
-MDE1MTQsLTk1OTA1MzYzMywtNzIyMTI3OTExLC05NzYxMDg3Mz
-YsLTE0MTE4MTM0MTMsMTM2ODY4NzM1MiwxOTMwMDE0MzM4LC0x
-Njc4ODMwMDIyXX0=
+eyJoaXN0b3J5IjpbLTEzMjc2ODM2MDUsNzE2NTEyOTY1LC0xMj
+E4MzUyMTMwLDQ0Mjk4NjQ1NCwtMTQ4ODkwNDYxNiwxMTA4NDU1
+NTUyLC0xOTAwODgyNDM5LDE4OTQ5NDc3ODYsMzMzMjQ1MDAyLC
+0xNjc3MDk5MzE5LC0xMzcwMDA2ODg5LDk3NDM0NTkwMSwtNjg4
+Nzg5MDIsLTEzNzYxMDE1MTQsLTk1OTA1MzYzMywtNzIyMTI3OT
+ExLC05NzYxMDg3MzYsLTE0MTE4MTM0MTMsMTM2ODY4NzM1Miwx
+OTMwMDE0MzM4XX0=
 -->
