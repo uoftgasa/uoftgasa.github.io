@@ -742,7 +742,6 @@ Your landlord is permitted to evict you to make room for themselves or one of th
 
 Your first step should be contacting the [Landlord and Tenant Board](http://www.sjto.gov.on.ca/ltb/) to learn whether your landlord is acting outside the law and what your next steps should be.
 
-
 #### Finding an apartment 
 
 The rental market in Toronto is competitive, but you have some options when locating a place to live. Most of this section will summarize tools you can use to find an apartment yourself, but before we dig deeper, I'd like to highlight the possibility of using a realtor. This can take a lot of the stress out of finding somewhere to live, and is often free for the person searching. With that said, you can find some sites below that offer quick ways to find potential rental units.
@@ -762,6 +761,8 @@ UofT maintains its own website, with both on and off campus listings. Students c
 **[ViewIt](http://www.viewit.ca/torontozones.aspx)**
 
 This somewhat dated looking website lists a lot of rental units that cannot be found on more general sites like PadMapper, with more of a focus on apartment buildings specifically. If you're looking for a place downtown, ViewIt zone T5 is the one to search. Individual listings tend to be a little more complete than the average PadMapper find, with information about included building amenities.
+
+**[WalkScore](https://www.walkscore.com/apartments/search/CA-ON/Toronto)**
 
 #### Neighbourhoods
 Below is a list of neighbourhoods in which graduate students have recently lived off campus.
@@ -998,11 +999,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODI2NTAwNjUsLTEzNzYxMDE1MTQsLT
-k1OTA1MzYzMywtNzIyMTI3OTExLC05NzYxMDg3MzYsLTE0MTE4
-MTM0MTMsMTM2ODY4NzM1MiwxOTMwMDE0MzM4LC0xNjc4ODMwMD
-IyLC0xMzIwNjMyMTUxLC0xMjg2MDIyNDE0LDQzMjY3NTMxMCwt
-MTc5Nzc0MzgxNywtNTkzNDc1NDMyLC0zODU1MzgxMTcsLTgzNz
-I0ODMzOSwtMTEwNDAwMTEzNCwtNjYyNTgwOTEwLDE1Njc5Nzc2
-NTYsLTEzODIzODA0NjldfQ==
+eyJoaXN0b3J5IjpbMTA4MzQ2NDAyNSwtMTM3NjEwMTUxNCwtOT
+U5MDUzNjMzLC03MjIxMjc5MTEsLTk3NjEwODczNiwtMTQxMTgx
+MzQxMywxMzY4Njg3MzUyLDE5MzAwMTQzMzgsLTE2Nzg4MzAwMj
+IsLTEzMjA2MzIxNTEsLTEyODYwMjI0MTQsNDMyNjc1MzEwLC0x
+Nzk3NzQzODE3LC01OTM0NzU0MzIsLTM4NTUzODExNywtODM3Mj
+Q4MzM5LC0xMTA0MDAxMTM0LC02NjI1ODA5MTAsMTU2Nzk3NzY1
+NiwtMTM4MjM4MDQ2OV19
 -->
