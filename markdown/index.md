@@ -860,6 +860,7 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 - **Koreatown/Christie Pitts**
 	- Northwest of [St George](#st-george)
 	- Time to [St George](#st-george)
+		- 
 - Chinatown and Kensington Market
 - Bay Street Corridor
 - The Annex
@@ -1093,7 +1094,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NTE5NDQ5NCwtMTIxODM1MjEzMCw0ND
+eyJoaXN0b3J5IjpbMjA2NTQ3NzY1MSwtMTIxODM1MjEzMCw0ND
 I5ODY0NTQsLTE0ODg5MDQ2MTYsMTEwODQ1NTU1MiwtMTkwMDg4
 MjQzOSwxODk0OTQ3Nzg2LDMzMzI0NTAwMiwtMTY3NzA5OTMxOS
 wtMTM3MDAwNjg4OSw5NzQzNDU5MDEsLTY4ODc4OTAyLC0xMzc2
