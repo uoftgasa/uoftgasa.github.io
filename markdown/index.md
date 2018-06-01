@@ -818,7 +818,7 @@ I talked a lot about air conditioning, can you tell I wrote this during the summ
 	- WalkScore is a data paradise, compiling travel times across various transportation methods to score neighbourhoods in terms of accessibility (their methodology is described in detail [here](https://www.walkscore.com/methodology.shtml)). They also having [apartment listings](https://www.walkscore.com/apartments/search/loc?lat=43.667615239322735&lng=-79.38142695770262) with the usual filters as well as transit and WalkScore ratings specific to the site.
 
 #### Neighbourhoods
-Below is a list of neighbourhoods in which graduate students have recently lived off campus. Neighbourhoods are ranked on a 3 \$ system of rent costs. Want sortability? You can find this information in spreadsheet form [here](alink)
+Below is a list of neighbourhoods in which graduate students have recently lived off campus. Want sortability? You can find this information in spreadsheet form [here](alink)
 
 
 - **The Beaches**
@@ -829,7 +829,6 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 			- Served by the [501 Streetcar](http://www.ttc.ca/Routes/501/RouteDescription.jsp?tabName=map)
 		- Car: 20-50 minutes
 	- Types of housing: mostly houses, some apartments
-	- Rent: \$\$\$
 	- Perks: 
 		- Proximity to Woodbine beach and parks
 		- Excellent restaurants
@@ -844,7 +843,9 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 			- Served by the [Line 2](https://www.ttc.ca/Subway/Bloor_Danforth.jsp) Subway
 		- Car: 20-30 minutes
 	- Types of housing: mostly houses, some apartments
-	- Rent: \$\$
+	- Perks:
+		- Proximity to 
+	- Drawbacks:
 - Chinatown and Kensington Market
 - Bay Street Corridor
 - The Annex
@@ -1078,11 +1079,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQyOTg2NDU0LC0xNDg4OTA0NjE2LDExMD
-g0NTU1NTIsLTE5MDA4ODI0MzksMTg5NDk0Nzc4NiwzMzMyNDUw
-MDIsLTE2NzcwOTkzMTksLTEzNzAwMDY4ODksOTc0MzQ1OTAxLC
-02ODg3ODkwMiwtMTM3NjEwMTUxNCwtOTU5MDUzNjMzLC03MjIx
-Mjc5MTEsLTk3NjEwODczNiwtMTQxMTgxMzQxMywxMzY4Njg3Mz
-UyLDE5MzAwMTQzMzgsLTE2Nzg4MzAwMjIsLTEzMjA2MzIxNTEs
-LTEyODYwMjI0MTRdfQ==
+eyJoaXN0b3J5IjpbNzgyODE0NDE1LDQ0Mjk4NjQ1NCwtMTQ4OD
+kwNDYxNiwxMTA4NDU1NTUyLC0xOTAwODgyNDM5LDE4OTQ5NDc3
+ODYsMzMzMjQ1MDAyLC0xNjc3MDk5MzE5LC0xMzcwMDA2ODg5LD
+k3NDM0NTkwMSwtNjg4Nzg5MDIsLTEzNzYxMDE1MTQsLTk1OTA1
+MzYzMywtNzIyMTI3OTExLC05NzYxMDg3MzYsLTE0MTE4MTM0MT
+MsMTM2ODY4NzM1MiwxOTMwMDE0MzM4LC0xNjc4ODMwMDIyLC0x
+MzIwNjMyMTUxXX0=
 -->
