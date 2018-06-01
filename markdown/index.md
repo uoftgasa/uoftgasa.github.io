@@ -772,7 +772,7 @@ Before you begin your search, you should be able to answer some basic questions 
 - **Are there other amenities I'm interested in?**
 	- Seriously consider whether you need air conditioning - Canada may have a reputation as a cold country, but typical summer days in Toronto have a [humidex](https://www.ccohs.ca/oshanswers/phys_agents/humidex.html) (a combination of temperature and relative humidity) over 30. Basement apartments tend to remain relatively cool, but above ground units benefit from window or central AC.
 
-I talked a lot about air conditioning, can you tell I wrote this during the summer? For winter concerns, remember that regardless of where you live, if you 
+I talked a lot about air conditioning, can you tell I wrote this during the summer? For winter concerns, remember that regardless of where you live, if you're not on a major road, you'll be low priority for road and sidewalk clearing. The solution in Toronto seems to be for everyone and their dog to absolutely blanket the sidewalks with salt- this has a lot of its own 
 
 **Rental Listing Sites**
 
@@ -1039,11 +1039,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEwOTc3MDk1LC0xNDg4OTA0NjE2LDExMD
-g0NTU1NTIsLTE5MDA4ODI0MzksMTg5NDk0Nzc4NiwzMzMyNDUw
-MDIsLTE2NzcwOTkzMTksLTEzNzAwMDY4ODksOTc0MzQ1OTAxLC
-02ODg3ODkwMiwtMTM3NjEwMTUxNCwtOTU5MDUzNjMzLC03MjIx
-Mjc5MTEsLTk3NjEwODczNiwtMTQxMTgxMzQxMywxMzY4Njg3Mz
-UyLDE5MzAwMTQzMzgsLTE2Nzg4MzAwMjIsLTEzMjA2MzIxNTEs
-LTEyODYwMjI0MTRdfQ==
+eyJoaXN0b3J5IjpbMTgxODQwODAxNSwtMTQ4ODkwNDYxNiwxMT
+A4NDU1NTUyLC0xOTAwODgyNDM5LDE4OTQ5NDc3ODYsMzMzMjQ1
+MDAyLC0xNjc3MDk5MzE5LC0xMzcwMDA2ODg5LDk3NDM0NTkwMS
+wtNjg4Nzg5MDIsLTEzNzYxMDE1MTQsLTk1OTA1MzYzMywtNzIy
+MTI3OTExLC05NzYxMDg3MzYsLTE0MTE4MTM0MTMsMTM2ODY4Nz
+M1MiwxOTMwMDE0MzM4LC0xNjc4ODMwMDIyLC0xMzIwNjMyMTUx
+LC0xMjg2MDIyNDE0XX0=
 -->
