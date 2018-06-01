@@ -708,7 +708,7 @@ I've provided a quick list of common restrictions in Ontario housing, but you ca
 
 **Can my landlord ask me for a deposit?**
 
-Your land
+Your landlord is only permitted to ask you for a rent deposit, not exceeding the last month's rent. You cannot be required to supply a deposit for keys, damages, or any other security deposit. 
 
 **Landlords cannot:**
 
@@ -971,7 +971,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNDQyMTY5OSwtNzIyMTI3OTExLC05Nz
+eyJoaXN0b3J5IjpbLTgyMzY3OTU2MiwtNzIyMTI3OTExLC05Nz
 YxMDg3MzYsLTE0MTE4MTM0MTMsMTM2ODY4NzM1MiwxOTMwMDE0
 MzM4LC0xNjc4ODMwMDIyLC0xMzIwNjMyMTUxLC0xMjg2MDIyND
 E0LDQzMjY3NTMxMCwtMTc5Nzc0MzgxNywtNTkzNDc1NDMyLC0z
