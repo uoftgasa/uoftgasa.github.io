@@ -749,7 +749,7 @@ With its default map view and helpful filters, PadMapper is an excellent way to 
 
 **[UofT Off Campus Housing](https://offcampushousing.utoronto.ca)**
 
-UofT maintains its own website, with both on and off campus listings
+UofT maintains its own website, with both on and off campus listings. Students can [register](https://offcampushousing.utoronto.ca/registration) for free to browse listings and search for potential roommates.
 
 **[ViewIt](http://www.viewit.ca/torontozones.aspx)**
 
@@ -990,11 +990,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NDI5MTExOCwtOTU5MDUzNjMzLC03Mj
-IxMjc5MTEsLTk3NjEwODczNiwtMTQxMTgxMzQxMywxMzY4Njg3
-MzUyLDE5MzAwMTQzMzgsLTE2Nzg4MzAwMjIsLTEzMjA2MzIxNT
-EsLTEyODYwMjI0MTQsNDMyNjc1MzEwLC0xNzk3NzQzODE3LC01
-OTM0NzU0MzIsLTM4NTUzODExNywtODM3MjQ4MzM5LC0xMTA0MD
-AxMTM0LC02NjI1ODA5MTAsMTU2Nzk3NzY1NiwtMTM4MjM4MDQ2
-OSwyODUzMzI5MDVdfQ==
+eyJoaXN0b3J5IjpbLTEzNzYxMDE1MTQsLTk1OTA1MzYzMywtNz
+IyMTI3OTExLC05NzYxMDg3MzYsLTE0MTE4MTM0MTMsMTM2ODY4
+NzM1MiwxOTMwMDE0MzM4LC0xNjc4ODMwMDIyLC0xMzIwNjMyMT
+UxLC0xMjg2MDIyNDE0LDQzMjY3NTMxMCwtMTc5Nzc0MzgxNywt
+NTkzNDc1NDMyLC0zODU1MzgxMTcsLTgzNzI0ODMzOSwtMTEwND
+AwMTEzNCwtNjYyNTgwOTEwLDE1Njc5Nzc2NTYsLTEzODIzODA0
+NjksMjg1MzMyOTA1XX0=
 -->
