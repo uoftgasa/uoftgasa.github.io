@@ -833,6 +833,7 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 		- Proximity to Woodbine beach and parks
 		- Excellent restaurants
 		- Longer commute
+		- Strong community with plenty of events
 		- Prevalent [NIMBY](https://www.thestar.com/news/gta/2016/01/02/youre-a-toronto-nimby-now-what.html)-ism
 - **Greektown**
 	- Time to Campus
@@ -1080,11 +1081,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NjcyNDM0NSw0NDI5ODY0NTQsLTE0OD
-g5MDQ2MTYsMTEwODQ1NTU1MiwtMTkwMDg4MjQzOSwxODk0OTQ3
-Nzg2LDMzMzI0NTAwMiwtMTY3NzA5OTMxOSwtMTM3MDAwNjg4OS
-w5NzQzNDU5MDEsLTY4ODc4OTAyLC0xMzc2MTAxNTE0LC05NTkw
-NTM2MzMsLTcyMjEyNzkxMSwtOTc2MTA4NzM2LC0xNDExODEzND
-EzLDEzNjg2ODczNTIsMTkzMDAxNDMzOCwtMTY3ODgzMDAyMiwt
-MTMyMDYzMjE1MV19
+eyJoaXN0b3J5IjpbLTEyMTgzNTIxMzAsNDQyOTg2NDU0LC0xND
+g4OTA0NjE2LDExMDg0NTU1NTIsLTE5MDA4ODI0MzksMTg5NDk0
+Nzc4NiwzMzMyNDUwMDIsLTE2NzcwOTkzMTksLTEzNzAwMDY4OD
+ksOTc0MzQ1OTAxLC02ODg3ODkwMiwtMTM3NjEwMTUxNCwtOTU5
+MDUzNjMzLC03MjIxMjc5MTEsLTk3NjEwODczNiwtMTQxMTgxMz
+QxMywxMzY4Njg3MzUyLDE5MzAwMTQzMzgsLTE2Nzg4MzAwMjIs
+LTEzMjA2MzIxNTFdfQ==
 -->
