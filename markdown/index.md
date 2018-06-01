@@ -752,8 +752,11 @@ Before you begin your search, you should be able to answer some basic questions 
 
 - What's my budget for rent?
 	- You can see how rent in Toronto has evolved over time with [data collected by the Canada Mortgage and Housing Corporation](https://www03.cmhc-schl.gc.ca/hmip-pimh/en/TableMapChart/Table?TableId=2.2.11&GeographyId=2270&GeographyTypeId=3&DisplayAs=Table&GeograghyName=Toronto#) (click chart view to see the table as a graph).
-	- As of 2018, typical rents are as follows:
-		- Bachelor's/Studio: 
+	- As of 2018, typical rents in Toronto are as follows:
+		- Bachelor's/Studio: $1000/month
+		- 1 Bedroom: $1200/month
+		- 2 Bedroom: $1400/month
+		- 3+ 
 - What's my maximum commute time?
 	- Check out [WalkScore's webapp](https://www.walkscore.com/score/50-saint-george-st-toronto-on-canada?utm_campaign=tilefooter&utm_medium=address_search&utm_source=padmapper.com) to compute how long different transit methods take to commute.
 - What utilities am I prepared to cover in addition to this?
@@ -1028,11 +1031,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjU4NTI3MDAsMTEwODQ1NTU1MiwtMT
-kwMDg4MjQzOSwxODk0OTQ3Nzg2LDMzMzI0NTAwMiwtMTY3NzA5
-OTMxOSwtMTM3MDAwNjg4OSw5NzQzNDU5MDEsLTY4ODc4OTAyLC
-0xMzc2MTAxNTE0LC05NTkwNTM2MzMsLTcyMjEyNzkxMSwtOTc2
-MTA4NzM2LC0xNDExODEzNDEzLDEzNjg2ODczNTIsMTkzMDAxND
-MzOCwtMTY3ODgzMDAyMiwtMTMyMDYzMjE1MSwtMTI4NjAyMjQx
-NCw0MzI2NzUzMTBdfQ==
+eyJoaXN0b3J5IjpbOTgxODE0NTAyLDExMDg0NTU1NTIsLTE5MD
+A4ODI0MzksMTg5NDk0Nzc4NiwzMzMyNDUwMDIsLTE2NzcwOTkz
+MTksLTEzNzAwMDY4ODksOTc0MzQ1OTAxLC02ODg3ODkwMiwtMT
+M3NjEwMTUxNCwtOTU5MDUzNjMzLC03MjIxMjc5MTEsLTk3NjEw
+ODczNiwtMTQxMTgxMzQxMywxMzY4Njg3MzUyLDE5MzAwMTQzMz
+gsLTE2Nzg4MzAwMjIsLTEzMjA2MzIxNTEsLTEyODYwMjI0MTQs
+NDMyNjc1MzEwXX0=
 -->
