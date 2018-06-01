@@ -710,6 +710,10 @@ I've provided a quick list of common restrictions in Ontario housing, but you ca
 
 Your landlord is only permitted to ask you for a rent deposit, not exceeding the last month's rent. You cannot be required to supply a deposit for keys, damages, or any other security deposit. 
 
+**What happens when my lease expires?**
+
+In Toronto, tenants typically begin by signing a year long lease with mont. When that lease expires,
+
 **Landlords cannot:**
 
 - demand a key/security/damages deposit 
@@ -971,11 +975,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMzY3OTU2MiwtNzIyMTI3OTExLC05Nz
-YxMDg3MzYsLTE0MTE4MTM0MTMsMTM2ODY4NzM1MiwxOTMwMDE0
-MzM4LC0xNjc4ODMwMDIyLC0xMzIwNjMyMTUxLC0xMjg2MDIyND
-E0LDQzMjY3NTMxMCwtMTc5Nzc0MzgxNywtNTkzNDc1NDMyLC0z
-ODU1MzgxMTcsLTgzNzI0ODMzOSwtMTEwNDAwMTEzNCwtNjYyNT
-gwOTEwLDE1Njc5Nzc2NTYsLTEzODIzODA0NjksMjg1MzMyOTA1
-LDY3MDQwMjc5Ml19
+eyJoaXN0b3J5IjpbLTE3NDc1NzQ5MDIsLTcyMjEyNzkxMSwtOT
+c2MTA4NzM2LC0xNDExODEzNDEzLDEzNjg2ODczNTIsMTkzMDAx
+NDMzOCwtMTY3ODgzMDAyMiwtMTMyMDYzMjE1MSwtMTI4NjAyMj
+QxNCw0MzI2NzUzMTAsLTE3OTc3NDM4MTcsLTU5MzQ3NTQzMiwt
+Mzg1NTM4MTE3LC04MzcyNDgzMzksLTExMDQwMDExMzQsLTY2Mj
+U4MDkxMCwxNTY3OTc3NjU2LC0xMzgyMzgwNDY5LDI4NTMzMjkw
+NSw2NzA0MDI3OTJdfQ==
 -->
