@@ -679,6 +679,8 @@ For a nice summary of Toronto living, checkout [WalkScore's overview](https://ww
 	- [Massey College](#massey-college)
 - [Off-Campus](#off-campus)
 	- [Rental FAQs](#rental-faqs)
+	- [Finding a Rental Unit](#finding-a-rental-unit)
+	- [Rental Listing Sites](#rental-listing-sites)
 
 ### On-Campus
 Graduate students have a few on-campus residence options. Incoming graduate students are not guaranteed on-campus housing the same way undergraduates are, but as most grad students opt for off-campus housing, it is possible to find an on-campus option. 
@@ -752,7 +754,7 @@ Your landlord is permitted to evict you to make room for themselves or one of th
 
 Your first step should be contacting the [Landlord and Tenant Board](http://www.sjto.gov.on.ca/ltb/) to learn whether your landlord is acting outside the law and what your next steps should be.
 
-#### Finding an apartment 
+#### Finding a rental unit
 
 The rental market in Toronto is competitive, but you have some options when locating a place to live. The [next section](#rental-listing-sites) will summarize tools you can use to find an apartment yourself, but before we dig deeper, I'd like to highlight the possibility of using a realtor. This can take a lot of the stress out of finding somewhere to live, and is often free for the person searching. Regardless of how you choose to search, competition for units means that good listings can be taken only 2-3 days after being posted, so it pays to keep on top of your search. In a [following section](#neighbourhoods) you can find out more about Toronto's neighbourhoods to help you narrow your search area. 
 
@@ -1050,11 +1052,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTAxOTY3ODAsLTE0ODg5MDQ2MTYsMT
-EwODQ1NTU1MiwtMTkwMDg4MjQzOSwxODk0OTQ3Nzg2LDMzMzI0
-NTAwMiwtMTY3NzA5OTMxOSwtMTM3MDAwNjg4OSw5NzQzNDU5MD
-EsLTY4ODc4OTAyLC0xMzc2MTAxNTE0LC05NTkwNTM2MzMsLTcy
-MjEyNzkxMSwtOTc2MTA4NzM2LC0xNDExODEzNDEzLDEzNjg2OD
-czNTIsMTkzMDAxNDMzOCwtMTY3ODgzMDAyMiwtMTMyMDYzMjE1
-MSwtMTI4NjAyMjQxNF19
+eyJoaXN0b3J5IjpbMTY0ODIwNjI0NSwtMTQ4ODkwNDYxNiwxMT
+A4NDU1NTUyLC0xOTAwODgyNDM5LDE4OTQ5NDc3ODYsMzMzMjQ1
+MDAyLC0xNjc3MDk5MzE5LC0xMzcwMDA2ODg5LDk3NDM0NTkwMS
+wtNjg4Nzg5MDIsLTEzNzYxMDE1MTQsLTk1OTA1MzYzMywtNzIy
+MTI3OTExLC05NzYxMDg3MzYsLTE0MTE4MTM0MTMsMTM2ODY4Nz
+M1MiwxOTMwMDE0MzM4LC0xNjc4ODMwMDIyLC0xMzIwNjMyMTUx
+LC0xMjg2MDIyNDE0XX0=
 -->
