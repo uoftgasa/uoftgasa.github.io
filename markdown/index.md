@@ -836,7 +836,11 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 	- Approximately bounded by: Unversity Ave, Front St, Yonge St, Bloor St
 	- Time to [St George](#st-george)
 		- Walking: 20 minutes
-		- 
+		- Cycle: 5 minutes
+		- TTC: 15 minutes
+			- Served by the [Line 1](https://www.ttc.ca/Subway/Yonge_University_Spadina.jsp) Subway
+		- Car: 10 minutes
+	- 
 - **The Beaches - \$**
 	- Southeast of [St George](#st-george)
 	- Approximately bounded by: Coxwell Ave, Lake Ontario, Victoria Park Ave, Gerrard St
@@ -1115,11 +1119,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY0OTgzMzAyLDIyOTkwMDQ2OSwtMTUzMj
-M3NzQwOSw3MTY1MTI5NjUsLTEyMTgzNTIxMzAsNDQyOTg2NDU0
-LC0xNDg4OTA0NjE2LDExMDg0NTU1NTIsLTE5MDA4ODI0MzksMT
-g5NDk0Nzc4NiwzMzMyNDUwMDIsLTE2NzcwOTkzMTksLTEzNzAw
-MDY4ODksOTc0MzQ1OTAxLC02ODg3ODkwMiwtMTM3NjEwMTUxNC
-wtOTU5MDUzNjMzLC03MjIxMjc5MTEsLTk3NjEwODczNiwtMTQx
-MTgxMzQxM119
+eyJoaXN0b3J5IjpbLTE2ODI0ODcyOTcsMjI5OTAwNDY5LC0xNT
+MyMzc3NDA5LDcxNjUxMjk2NSwtMTIxODM1MjEzMCw0NDI5ODY0
+NTQsLTE0ODg5MDQ2MTYsMTEwODQ1NTU1MiwtMTkwMDg4MjQzOS
+wxODk0OTQ3Nzg2LDMzMzI0NTAwMiwtMTY3NzA5OTMxOSwtMTM3
+MDAwNjg4OSw5NzQzNDU5MDEsLTY4ODc4OTAyLC0xMzc2MTAxNT
+E0LC05NTkwNTM2MzMsLTcyMjEyNzkxMSwtOTc2MTA4NzM2LC0x
+NDExODEzNDEzXX0=
 -->
