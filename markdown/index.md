@@ -831,6 +831,7 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 			- Served by the [Line 1](https://www.ttc.ca/Subway/Yonge_University_Spadina.jsp) and [Line 2](https://www.ttc.ca/Subway/Bloor_Danforth.jsp) Subway
 		- Car: 10 minutes
 	- Types of housing: mostly houses, some apartments
+- **Bay Street Corridor - \$\$\$
 - **The Beaches - \$**
 	- Southeast of [St George](#st-george)
 	- Approximately bounded by: Coxwell Ave, Lake Ontario, Victoria Park Ave, Gerrard St
@@ -875,7 +876,7 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 		- Proximity to Line 2
 		- Proximity to parks
 		- Excellent restaurants
-- **Koreatown/Christie Pits**
+- **Koreatown/Christie Pits - \$\$**
 	- Northwest of [St George](#st-george)
 	- Approximately bounded by: Ossington Ave, Bloor St, Bathurst St, Dupont St
 	- Time to [St George](#st-george)
@@ -884,27 +885,7 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 		- TTC: 20 minutes
 			- Served by the [Line 2](https://www.ttc.ca/Subway/Bloor_Danforth.jsp) Subway
 		- Car: 10 minutes
-- Chinatown and Kensington Market
-- Bay Street Corridor
-- The Annex
-- Palmerston and Little Italy
-- Trinity Bellwoods and West Queen West
-- Harbourfront (Front St to Queen's Quay, Bathurst to Parliament
-- Liberty Village and Fort York
-- Koreatown and Christie Pits
-- Bloordale Village
-- High Park
-- Church and Wellesley
-- Cabbagetown and St James Town
-- Greektown
-- Leslieville
-- The Beaches
-- St Clair
-- Midtown and Yonge & Eglinton
-- North York
 
-
-Apartments
 
 ## Getting Around
 [**Table of Contents**](#table-of-contents)
@@ -1117,7 +1098,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMzIzMjkzMywyMjk5MDA0NjksLTE1Mz
+eyJoaXN0b3J5IjpbLTkxMjkxMjAzNCwyMjk5MDA0NjksLTE1Mz
 IzNzc0MDksNzE2NTEyOTY1LC0xMjE4MzUyMTMwLDQ0Mjk4NjQ1
 NCwtMTQ4ODkwNDYxNiwxMTA4NDU1NTUyLC0xOTAwODgyNDM5LD
 E4OTQ5NDc3ODYsMzMzMjQ1MDAyLC0xNjc3MDk5MzE5LC0xMzcw
