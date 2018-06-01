@@ -754,7 +754,7 @@ This site has a focus that's clear in the name - you'll only find condos here. U
 
 **[Kijiji](https://www.kijiji.ca/b-apartments-condos/city-of-toronto/c37l1700273)**
 
-If you hate map-based search views, you may want to visit Kijiji, Canada's answer to Craigslist. This general buy/sell site also includes apartment listings, although the information available about each listing may be more 
+If you hate map-based search views, you may want to visit Kijiji, Canada's answer to Craigslist. This general buy/sell site also includes apartment listings, although the information available about each listing may be more variable than on housing specific websites. Filters here are pretty basic, with no options to filter for unit amenities like 
 
 **[PadMapper](https://www.padmapper.com/apartments/toronto-on)**
 
@@ -1011,11 +1011,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MDg2Nzk2NSw5NzQzNDU5MDEsLTY4OD
-c4OTAyLC0xMzc2MTAxNTE0LC05NTkwNTM2MzMsLTcyMjEyNzkx
-MSwtOTc2MTA4NzM2LC0xNDExODEzNDEzLDEzNjg2ODczNTIsMT
-kzMDAxNDMzOCwtMTY3ODgzMDAyMiwtMTMyMDYzMjE1MSwtMTI4
-NjAyMjQxNCw0MzI2NzUzMTAsLTE3OTc3NDM4MTcsLTU5MzQ3NT
-QzMiwtMzg1NTM4MTE3LC04MzcyNDgzMzksLTExMDQwMDExMzQs
-LTY2MjU4MDkxMF19
+eyJoaXN0b3J5IjpbODk1MDE0MDEwLDk3NDM0NTkwMSwtNjg4Nz
+g5MDIsLTEzNzYxMDE1MTQsLTk1OTA1MzYzMywtNzIyMTI3OTEx
+LC05NzYxMDg3MzYsLTE0MTE4MTM0MTMsMTM2ODY4NzM1MiwxOT
+MwMDE0MzM4LC0xNjc4ODMwMDIyLC0xMzIwNjMyMTUxLC0xMjg2
+MDIyNDE0LDQzMjY3NTMxMCwtMTc5Nzc0MzgxNywtNTkzNDc1ND
+MyLC0zODU1MzgxMTcsLTgzNzI0ODMzOSwtMTEwNDAwMTEzNCwt
+NjYyNTgwOTEwXX0=
 -->
