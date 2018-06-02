@@ -820,6 +820,8 @@ I talked a lot about air conditioning, can you tell I wrote this during the summ
 #### Neighbourhoods
 Below is a list of neighbourhoods in which graduate students have recently lived off campus. The neighbourhoods are ranked in terms of price: \$\$\$ = significantly more expensive than median, \$\$ = similar to median, \$ = cheaper than the median. The ranking system was pretty slapdash but seems to match the general impression of the costliness of neighbourhoods. You can find a good deal anywhere, but some neighbourhoods make it harder than others. Higher typical rents also tend to mean higher costs of living for other things like groceries and medical care.
 
+![a picture](uoftgasa.github.io/Toronto%20Maps.jpg)
+
 
 - **The Annex/Yorkville - \$\$\$**
 	- North of [St George](#st-george)
@@ -1159,11 +1161,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMDkxNzUzMSwyMjk5MDA0NjksLTE1Mz
-IzNzc0MDksNzE2NTEyOTY1LC0xMjE4MzUyMTMwLDQ0Mjk4NjQ1
-NCwtMTQ4ODkwNDYxNiwxMTA4NDU1NTUyLC0xOTAwODgyNDM5LD
-E4OTQ5NDc3ODYsMzMzMjQ1MDAyLC0xNjc3MDk5MzE5LC0xMzcw
-MDA2ODg5LDk3NDM0NTkwMSwtNjg4Nzg5MDIsLTEzNzYxMDE1MT
-QsLTk1OTA1MzYzMywtNzIyMTI3OTExLC05NzYxMDg3MzYsLTE0
-MTE4MTM0MTNdfQ==
+eyJoaXN0b3J5IjpbLTgzNTY2MDQ3MCwxNjAwOTE3NTMxLDIyOT
+kwMDQ2OSwtMTUzMjM3NzQwOSw3MTY1MTI5NjUsLTEyMTgzNTIx
+MzAsNDQyOTg2NDU0LC0xNDg4OTA0NjE2LDExMDg0NTU1NTIsLT
+E5MDA4ODI0MzksMTg5NDk0Nzc4NiwzMzMyNDUwMDIsLTE2Nzcw
+OTkzMTksLTEzNzAwMDY4ODksOTc0MzQ1OTAxLC02ODg3ODkwMi
+wtMTM3NjEwMTUxNCwtOTU5MDUzNjMzLC03MjIxMjc5MTEsLTk3
+NjEwODczNl19
 -->
