@@ -951,7 +951,7 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 		- TTC: 35 minutes
 			- Served by the [501 Streetcar](http://www.ttc.ca/Routes/501/RouteDescription.jsp?tabName=map) and the [504 Streetcar](http://www.ttc.ca/Routes/504/Map.jsp)
 		- Car: 10 minutes
-	- Types of housing: condos
+	- Types of housing: condos and some houses
 - **Little Italy - \$\$**
 - **Midtown - \$\$**
 - **St Clair - \$**
@@ -1170,7 +1170,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTI3OTI2MzAsNjAyNzkyNDA2LC04Mz
+eyJoaXN0b3J5IjpbLTEyMTg5ODk2MDAsNjAyNzkyNDA2LC04Mz
 U2NjA0NzAsMTYwMDkxNzUzMSwyMjk5MDA0NjksLTE1MzIzNzc0
 MDksNzE2NTEyOTY1LC0xMjE4MzUyMTMwLDQ0Mjk4NjQ1NCwtMT
 Q4ODkwNDYxNiwxMTA4NDU1NTUyLC0xOTAwODgyNDM5LDE4OTQ5
