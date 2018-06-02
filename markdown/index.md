@@ -820,7 +820,7 @@ I talked a lot about air conditioning, can you tell I wrote this during the summ
 #### Neighbourhoods
 Below is a list of neighbourhoods in which graduate students have recently lived off campus. The neighbourhoods are ranked in terms of price: \$\$\$ = significantly more expensive than median, \$\$ = similar to median, \$ = cheaper than the median. The ranking system was pretty slapdash but seems to match the general impression of the costliness of neighbourhoods. You can find a good deal anywhere, but some neighbourhoods make it harder than others. Higher typical rents also tend to mean higher costs of living for other things like groceries and medical care.
 
-![a picture\](https://i.imgur.com/49LmvEF.jpg)
+![A map of Toronto neighbourhoods](https://i.imgur.com/49LmvEF.jpg)
 
 
 - **The Annex/Yorkville - \$\$\$**
@@ -1161,11 +1161,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5Mjg1MzM1MCwtODM1NjYwNDcwLDE2MD
-A5MTc1MzEsMjI5OTAwNDY5LC0xNTMyMzc3NDA5LDcxNjUxMjk2
-NSwtMTIxODM1MjEzMCw0NDI5ODY0NTQsLTE0ODg5MDQ2MTYsMT
-EwODQ1NTU1MiwtMTkwMDg4MjQzOSwxODk0OTQ3Nzg2LDMzMzI0
-NTAwMiwtMTY3NzA5OTMxOSwtMTM3MDAwNjg4OSw5NzQzNDU5MD
-EsLTY4ODc4OTAyLC0xMzc2MTAxNTE0LC05NTkwNTM2MzMsLTcy
-MjEyNzkxMV19
+eyJoaXN0b3J5IjpbNjAyNzkyNDA2LC04MzU2NjA0NzAsMTYwMD
+kxNzUzMSwyMjk5MDA0NjksLTE1MzIzNzc0MDksNzE2NTEyOTY1
+LC0xMjE4MzUyMTMwLDQ0Mjk4NjQ1NCwtMTQ4ODkwNDYxNiwxMT
+A4NDU1NTUyLC0xOTAwODgyNDM5LDE4OTQ5NDc3ODYsMzMzMjQ1
+MDAyLC0xNjc3MDk5MzE5LC0xMzcwMDA2ODg5LDk3NDM0NTkwMS
+wtNjg4Nzg5MDIsLTEzNzYxMDE1MTQsLTk1OTA1MzYzMywtNzIy
+MTI3OTExXX0=
 -->
