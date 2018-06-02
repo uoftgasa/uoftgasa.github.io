@@ -973,7 +973,8 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 		- Walking: 1.5 hours
 		- Cycle: 30 minutes
 		- TTC: 30 minutes
-		- 
+			- Served by the [Line 1](https://www.ttc.ca/Subway/Yonge_University_Spadina.jsp) Subway
+		- Car: 20 minutes
 - **St Clair - \$**
 - **Trinity Bellwoods -\$\$**
 - **Waterfront -\$\$\$**
@@ -1190,11 +1191,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2ODU3MDE3MiwtMjQyNjQ0OTMsNjAyNz
-kyNDA2LC04MzU2NjA0NzAsMTYwMDkxNzUzMSwyMjk5MDA0Njks
-LTE1MzIzNzc0MDksNzE2NTEyOTY1LC0xMjE4MzUyMTMwLDQ0Mj
-k4NjQ1NCwtMTQ4ODkwNDYxNiwxMTA4NDU1NTUyLC0xOTAwODgy
-NDM5LDE4OTQ5NDc3ODYsMzMzMjQ1MDAyLC0xNjc3MDk5MzE5LC
-0xMzcwMDA2ODg5LDk3NDM0NTkwMSwtNjg4Nzg5MDIsLTEzNzYx
-MDE1MTRdfQ==
+eyJoaXN0b3J5IjpbNDcyNzAzNzYzLC0yNDI2NDQ5Myw2MDI3OT
+I0MDYsLTgzNTY2MDQ3MCwxNjAwOTE3NTMxLDIyOTkwMDQ2OSwt
+MTUzMjM3NzQwOSw3MTY1MTI5NjUsLTEyMTgzNTIxMzAsNDQyOT
+g2NDU0LC0xNDg4OTA0NjE2LDExMDg0NTU1NTIsLTE5MDA4ODI0
+MzksMTg5NDk0Nzc4NiwzMzMyNDUwMDIsLTE2NzcwOTkzMTksLT
+EzNzAwMDY4ODksOTc0MzQ1OTAxLC02ODg3ODkwMiwtMTM3NjEw
+MTUxNF19
 -->
