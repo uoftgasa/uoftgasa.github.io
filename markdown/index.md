@@ -948,7 +948,8 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 	- Time to [St George](#st-george)
 		- Walking: 1 hour
 		- Cycle: 20 minutes
-		- TTC: 
+		- TTC: 35 minutes
+			- Served by the 
 - **Little Italy - \$\$**
 - **Midtown - \$\$**
 - **St Clair - \$**
@@ -1167,11 +1168,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTY5MjA4NTMsNjAyNzkyNDA2LC04Mz
-U2NjA0NzAsMTYwMDkxNzUzMSwyMjk5MDA0NjksLTE1MzIzNzc0
-MDksNzE2NTEyOTY1LC0xMjE4MzUyMTMwLDQ0Mjk4NjQ1NCwtMT
-Q4ODkwNDYxNiwxMTA4NDU1NTUyLC0xOTAwODgyNDM5LDE4OTQ5
-NDc3ODYsMzMzMjQ1MDAyLC0xNjc3MDk5MzE5LC0xMzcwMDA2OD
-g5LDk3NDM0NTkwMSwtNjg4Nzg5MDIsLTEzNzYxMDE1MTQsLTk1
-OTA1MzYzM119
+eyJoaXN0b3J5IjpbNjc4MDU2MDYsNjAyNzkyNDA2LC04MzU2Nj
+A0NzAsMTYwMDkxNzUzMSwyMjk5MDA0NjksLTE1MzIzNzc0MDks
+NzE2NTEyOTY1LC0xMjE4MzUyMTMwLDQ0Mjk4NjQ1NCwtMTQ4OD
+kwNDYxNiwxMTA4NDU1NTUyLC0xOTAwODgyNDM5LDE4OTQ5NDc3
+ODYsMzMzMjQ1MDAyLC0xNjc3MDk5MzE5LC0xMzcwMDA2ODg5LD
+k3NDM0NTkwMSwtNjg4Nzg5MDIsLTEzNzYxMDE1MTQsLTk1OTA1
+MzYzM119
 -->
