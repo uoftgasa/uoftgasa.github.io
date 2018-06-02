@@ -962,8 +962,8 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 		- Walking: 25 minutes
 		- Cycle: 10 minutes
 		- TTC: 15 minutes
-			- 
-		- 
+			- Served by the [Line 2](https://www.ttc.ca/Subway/Bloor_Danforth.jsp) Subway and the [506 Streetcar](http://www.ttc.ca/Routes/506/RouteDescription.jsp?tabName=map)
+		- Car: 10 minutes
 - **Midtown - \$\$**
 - **St Clair - \$**
 - **Trinity Bellwoods -\$\$**
@@ -1181,11 +1181,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY0MTY5Nzc0LC0yNDI2NDQ5Myw2MDI3OT
-I0MDYsLTgzNTY2MDQ3MCwxNjAwOTE3NTMxLDIyOTkwMDQ2OSwt
-MTUzMjM3NzQwOSw3MTY1MTI5NjUsLTEyMTgzNTIxMzAsNDQyOT
-g2NDU0LC0xNDg4OTA0NjE2LDExMDg0NTU1NTIsLTE5MDA4ODI0
-MzksMTg5NDk0Nzc4NiwzMzMyNDUwMDIsLTE2NzcwOTkzMTksLT
-EzNzAwMDY4ODksOTc0MzQ1OTAxLC02ODg3ODkwMiwtMTM3NjEw
-MTUxNF19
+eyJoaXN0b3J5IjpbLTE4MTY1NTAzMTYsLTI0MjY0NDkzLDYwMj
+c5MjQwNiwtODM1NjYwNDcwLDE2MDA5MTc1MzEsMjI5OTAwNDY5
+LC0xNTMyMzc3NDA5LDcxNjUxMjk2NSwtMTIxODM1MjEzMCw0ND
+I5ODY0NTQsLTE0ODg5MDQ2MTYsMTEwODQ1NTU1MiwtMTkwMDg4
+MjQzOSwxODk0OTQ3Nzg2LDMzMzI0NTAwMiwtMTY3NzA5OTMxOS
+wtMTM3MDAwNjg4OSw5NzQzNDU5MDEsLTY4ODc4OTAyLC0xMzc2
+MTAxNTE0XX0=
 -->
