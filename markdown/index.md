@@ -956,6 +956,7 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 		- Close to the exhibition grounds, DMO stadium
 		- Close to a variety of nightlife venues
 - **Little Italy - \$\$**
+	- West of [St George](#st-george)
 - **Midtown - \$\$**
 - **St Clair - \$**
 - **Trinity Bellwoods -\$\$**
@@ -1173,11 +1174,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MjY0NDkzLDYwMjc5MjQwNiwtODM1Nj
-YwNDcwLDE2MDA5MTc1MzEsMjI5OTAwNDY5LC0xNTMyMzc3NDA5
-LDcxNjUxMjk2NSwtMTIxODM1MjEzMCw0NDI5ODY0NTQsLTE0OD
-g5MDQ2MTYsMTEwODQ1NTU1MiwtMTkwMDg4MjQzOSwxODk0OTQ3
-Nzg2LDMzMzI0NTAwMiwtMTY3NzA5OTMxOSwtMTM3MDAwNjg4OS
-w5NzQzNDU5MDEsLTY4ODc4OTAyLC0xMzc2MTAxNTE0LC05NTkw
-NTM2MzNdfQ==
+eyJoaXN0b3J5IjpbLTk2NDk1NzAwMywtMjQyNjQ0OTMsNjAyNz
+kyNDA2LC04MzU2NjA0NzAsMTYwMDkxNzUzMSwyMjk5MDA0Njks
+LTE1MzIzNzc0MDksNzE2NTEyOTY1LC0xMjE4MzUyMTMwLDQ0Mj
+k4NjQ1NCwtMTQ4ODkwNDYxNiwxMTA4NDU1NTUyLC0xOTAwODgy
+NDM5LDE4OTQ5NDc3ODYsMzMzMjQ1MDAyLC0xNjc3MDk5MzE5LC
+0xMzcwMDA2ODg5LDk3NDM0NTkwMSwtNjg4Nzg5MDIsLTEzNzYx
+MDE1MTRdfQ==
 -->
