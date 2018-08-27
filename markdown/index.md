@@ -785,13 +785,18 @@ To see who currently holds these positions, check the [GASA website](http://www.
 - **Internal Positions/Committees**
 	- Mediation Committee
 	- Talk Show Host
-	- Course Committee
+	- Course Committee (2-3)
 	- Mini Course Coordinatory
 	- Professional Development Committee
 	- Mental Health Committee
 	- Social Committee
+	- Webmaster
 - **Social Positions**
-	- 
+	- Dinner with the Speaker	
+	- Coffee Master
+	- Tea Master
+	- Friends of the Editor
+	- Paint Master
 - **Representatives to external committees/organizations**
 	- CASCA Rep
 	- GSU Rep
@@ -800,37 +805,6 @@ To see who currently holds these positions, check the [GASA website](http://www.
 	- Building Committee Rep
 	- Astronomy Union Ambassador
 
-Astronomy Union Ambassador
-
-Building Committee Representative
-
-CASCA Representative
-
-Co-President
-
-Co-President
-
-Coffee Master
-
-Course Committee
-
-Course Committee
-
-CUPE Representative
-
-Dinner with the Speaker
-
-Friend of the Editor
-
-Friend of the Editor
-
-GASA Paint Master
-
-GASA Tea Master
-
-GASA Tea Master
-
-GASA Tea Master
 
 GASA Webmaster
 
@@ -1496,7 +1470,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzA5ODM3NTEsLTc5Njg0MTg0NCwtMT
+eyJoaXN0b3J5IjpbLTEyOTUwMTQ4MzcsLTc5Njg0MTg0NCwtMT
 U5ODg0OTkzOCwtMTkwNTg1ODcwMSwtMTg3NDA5OTY5LC02Njgy
 NjUzMjEsNDcyNzAzNzYzLC0yNDI2NDQ5Myw2MDI3OTI0MDYsLT
 gzNTY2MDQ3MCwxNjAwOTE3NTMxLDIyOTkwMDQ2OSwtMTUzMjM3
