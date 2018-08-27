@@ -618,8 +618,25 @@ The full schedule of courses and their descriptions are outlined on the [departm
 
 Over the course of your degree, you are expected to take 2 credits worth of graduate courses (in addition to research courses [AST1501Y and AST1500Y](#ast1501y-and-ast1500y). Courses with a trailing 'Y' (like the research course) are worth 1 credit, while courses with a trailing 'H' are worth 0.5 credits. Since most 'preparatory', 'elective', and 'specialized' courses are 'H' courses, this corresponds to taking 4 courses.
 
+The following courses are the full offering from the department, but not all of these courses are offered every year. Check the top of [this page](http://www.astro.utoronto.ca/academics/graduate-studies/current/courses/) to see current offerings.
+
+**Preparatory Courses**
+
+-   [AST 1410H Stars](http://www.astro.utoronto.ca/academics/graduate-studies/ast-1410h-stars/)
+-   [AST 1420H Galactic Structure and Dynamics](http://www.astro.utoronto.ca/academics/graduate-studies/ast-1420h-dynamics/)
+-   [AST 1430H Cosmology](http://www.astro.utoronto.ca/academics/graduate-studies/current-graduate-students/current-course-offerings/ast1430hf-observational-cosmology/)
+-   [AST 1440H Radiation Processes and Gas Dynamics](http://www.astro.utoronto.ca/academics/graduate-studies/ast-1440h-radiation/ "AST1440H Radiation")
+
+**Elective Courses**
+
+-   [AST 2030H The Interstellar Medium and Star Formation](http://www.astro.utoronto.ca/academics/graduate-studies/ast-2030h-the-interstellar-medium-and-star-formation/)
+-   [AST 2040H Extragalactic Astronomy](http://www.astro.utoronto.ca/academics/graduate-studies/ast-2040h-extragalactic-astronomy-3/)
+-   [AST 2050H Observational Techniques](http://www.astro.utoronto.ca/academics/graduate-studies/ast-2050h-observational-technique-astrophysical-optics/)
+-   [AST 2060H General Relativity I: Theory](http://www.astro.utoronto.ca/academics/graduate-studies/current-graduate-students/current-course-offerings/ast-2060hf-general-relativity-i/)
+-   [AST 2070H General Relativity II: Applications and Cosmology](http://www.astro.utoronto.ca/academics/graduate-studies/ast-2070s-general-relativity-ii-applications-cosmology/)
+
 #### Courses from other departments
-You may find an interesting graduate course offering from another department. Taking these course for credit is subject to the approval [the graduate chair](#graduate-associate-chair-chris-matzner), but you can find a list of preapproved courses from the physics department on the department [webpage](http://www.astro.utoronto.ca/academics/graduate-studies/current/courses/)
+You may find an interesting graduate course offering from another department. Taking these course for credit is subject to the approval [the graduate chair](#graduate-associate-chair-chris-matzner), but you can find a list of preapproved courses from the physics department on the department [webpage](http://www.astro.utoronto.ca/academics/graduate-studies/current/courses/).
 
 #### Mini Courses
 
@@ -1271,7 +1288,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxOTAwNTM2NSwtMTg3NDA5OTY5LC02Nj
+eyJoaXN0b3J5IjpbLTM0NTE0NzU4NCwtMTg3NDA5OTY5LC02Nj
 gyNjUzMjEsNDcyNzAzNzYzLC0yNDI2NDQ5Myw2MDI3OTI0MDYs
 LTgzNTY2MDQ3MCwxNjAwOTE3NTMxLDIyOTkwMDQ2OSwtMTUzMj
 M3NzQwOSw3MTY1MTI5NjUsLTEyMTgzNTIxMzAsNDQyOTg2NDU0
