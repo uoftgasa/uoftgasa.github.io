@@ -237,17 +237,17 @@ You'll receive emails about nearly everything on this list, but its good to keep
  - [Access the internal section of the DAA website](http://www.astro.utoronto.ca/internal/) - the password will be in your welcome packet.
  - Find your assigned desk from [Margaret Meaney](#graduate-administrator-margaret-meaney).
  - Get your keys.
-	 - If your desk is in [AB](#astronomy-building) you should get the following from [Lillian Lanca](#undergraduate-administrator-lillian-lanca):
+	 - If your desk is in [AB](#astronomy-building) you should get the following from [Ingrid Small](#office-administrator-ingrid-small):
 		 - [AB](#astronomy-building) building key,
 		 - [AB](#astronomy-building) mailroom key,
 		 - [AB](#astronomy-building) office key.
 	 - If your desk is in [MP](#mclennan-physical-labs-and-burton-tower), you should get the following:
-		 - [MP](#mclennan-physical-labs-and-burton-tower) building key from Jenny Jung,
-		 - [MP](#mclennan-physical-labs-and-burton-tower) office key from Jenny Jung,
-		 - [AB](#astronomy-building) mailroom key from [Lillian Lanca](#undergraduate-administrator-lillian-lanca),
-		 - [AB](#astronomy-building) building key from [Lillian Lanca](#undergraduate-administrator-lillian-lanca).
+		 - [MP](#mclennan-physical-labs-and-burton-tower) building key
+		 - [AB](#astronomy-building) building key,
+		 - [AB](#astronomy-building) mailroom key,
+		 - [MP](#mclennan-physical-labs-and-burton-tower) office key 
 	
- - Get your printer/copier codes from Lillian Lanca
+ - Get your printer/copier codes from Ingrid Small
  - Get the library door code from librarian Lee Robbins
 
 
@@ -1191,7 +1191,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NjcwNzUxNSw0NzI3MDM3NjMsLTI0Mj
+eyJoaXN0b3J5IjpbMTI4NzU1MzcwMiw0NzI3MDM3NjMsLTI0Mj
 Y0NDkzLDYwMjc5MjQwNiwtODM1NjYwNDcwLDE2MDA5MTc1MzEs
 MjI5OTAwNDY5LC0xNTMyMzc3NDA5LDcxNjUxMjk2NSwtMTIxOD
 M1MjEzMCw0NDI5ODY0NTQsLTE0ODg5MDQ2MTYsMTEwODQ1NTU1
