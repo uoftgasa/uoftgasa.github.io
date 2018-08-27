@@ -946,8 +946,7 @@ Before you begin your search, you should be able to answer some basic questions 
 	- Ontario telecoms are dominated by two major players, Bell and Rogers, who offer services at pretty exorbitant prices (although some of their bundled services may have value). Paying the higher price doesn't guarantee you better service than their smaller competitors provide, and it's worth investigating internet-only alternatives like TekSavvy, Start, and VMedia.
 - **Are there other amenities I'm interested in?**
 	- Seriously consider whether you need air conditioning - Canada may have a reputation as a cold country, but typical summer days in Toronto have a [humidex](https://www.ccohs.ca/oshanswers/phys_agents/humidex.html) (a combination of temperature and relative humidity) over 30. Basement apartments tend to remain relatively cool, but above ground units benefit from window or central AC.
-
-I talked a lot about air conditioning, can you tell I wrote this during the summer? For winter concerns, remember that regardless of where you live, if you're not on a major road, you'll be low priority for road and sidewalk clearing. The solution in Toronto seems to be for everyone and their dog to absolutely blanket the sidewalks with salt- this has a lot of its own dangers, turning fluffy snow into half melty ice slicks. Invest in some waterproof footwear with decent traction and it won't matter what kind of street you live on!
+	- I talked a lot about air conditioning, can you tell I wrote this during the summer? For winter concerns, remember that regardless of where you live, if you're not on a major road, you'll be low priority for road and sidewalk clearing. The solution in Toronto seems to be for everyone and their dog to absolutely blanket the sidewalks with salt- this has a lot of its own dangers, turning fluffy snow into half melty ice slicks. Invest in some waterproof footwear with decent traction and it won't matter what kind of street you live on!
 
 #### Rental Listing Sites
 
@@ -1353,7 +1352,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MzU3MTM2LC03OTY4NDE4NDQsLTE1OT
+eyJoaXN0b3J5IjpbNTY5MTA3MjczLC03OTY4NDE4NDQsLTE1OT
 g4NDk5MzgsLTE5MDU4NTg3MDEsLTE4NzQwOTk2OSwtNjY4MjY1
 MzIxLDQ3MjcwMzc2MywtMjQyNjQ0OTMsNjAyNzkyNDA2LC04Mz
 U2NjA0NzAsMTYwMDkxNzUzMSwyMjk5MDA0NjksLTE1MzIzNzc0
