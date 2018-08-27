@@ -909,7 +909,14 @@ Note that many of these events are not held during the summer.
 
 ### Non-Scientific Events		
 - **Morning Coffee**
-	- 
+	- Free coffee and discussion of current events every morning at 10:30 in the [AB Lounge](#ab-common-rooms).
+	- 1/2 hour long
+	- Open to all
+- **GASA Tea**
+	- Tea by donation in the [AB Lounge](#ab-common-rooms) at 4pm on Tuesdays
+	- 1 hour long
+	- Open to all
+- **Dunlap Outreach Meeting**
 - [Morning Coffee](#morning-coffee)
 - [GASA Tea](#gasa-tea)
 - [Dunlap Outreach Meeting](#dunlap-outreach-meeting)
@@ -1486,11 +1493,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NjcyNTA2LDE1MDk3MjE3Miw3ODcyOD
-U1NywtNzk2ODQxODQ0LC0xNTk4ODQ5OTM4LC0xOTA1ODU4NzAx
-LC0xODc0MDk5NjksLTY2ODI2NTMyMSw0NzI3MDM3NjMsLTI0Mj
-Y0NDkzLDYwMjc5MjQwNiwtODM1NjYwNDcwLDE2MDA5MTc1MzEs
-MjI5OTAwNDY5LC0xNTMyMzc3NDA5LDcxNjUxMjk2NSwtMTIxOD
-M1MjEzMCw0NDI5ODY0NTQsLTE0ODg5MDQ2MTYsMTEwODQ1NTU1
-Ml19
+eyJoaXN0b3J5IjpbLTExNDkzNzI5NTgsMTUwOTcyMTcyLDc4Nz
+I4NTU3LC03OTY4NDE4NDQsLTE1OTg4NDk5MzgsLTE5MDU4NTg3
+MDEsLTE4NzQwOTk2OSwtNjY4MjY1MzIxLDQ3MjcwMzc2MywtMj
+QyNjQ0OTMsNjAyNzkyNDA2LC04MzU2NjA0NzAsMTYwMDkxNzUz
+MSwyMjk5MDA0NjksLTE1MzIzNzc0MDksNzE2NTEyOTY1LC0xMj
+E4MzUyMTMwLDQ0Mjk4NjQ1NCwtMTQ4ODkwNDYxNiwxMTA4NDU1
+NTUyXX0=
 -->
