@@ -776,44 +776,44 @@ GASA is the Graduate Astronomy Student Association, and all astronomy graduate s
 
 To see who currently holds these positions, check the [GASA website](http://www.astro.utoronto.ca/~gasa/). Parenthetical numbers next to a position imply multiple people can hold the position simultaneously.
 - **Executive Team**
-	- **President** 
+	- **President** (2)
 		- Leader of GASA, the president represents GASA in department discussion (particularly faculty meetings), and serves as a first point of contact for anyone wishing to solicit graduate student opinion or support.
-	- Treasurer
+	- **Treasurer**
 		- The treasurer is responsible for maintaining access to GASA finances, subject to additional approval of the president. The treasurer makes regular reports on the status of GASA finances.
-	- Secretary
+	- **Secretary**
 		- The secretary is responsible for recording events relevant to GASA and disseminating notes to the membership.
 - **Internal Positions/Committees**
-	- Mediation Committee (3)
+	- **Mediation Committee** (3)
 		- The mediation committee takes responsibility for specific issues that effect one or many graduate student(s), doing research and compiling reports to submit to the department as a whole.
-	- Talk Show Host
+	- **Talk Show Host**
 		- Organizes a weekly hour for graduate students to share their work, practice their presentations, or just enjoy some [Timbits](http://www.timhortons.com/ca/en/menu/timbits.php).
-	- Course Committee (2-3)
+	- **Course Committee** (2-3)
 		- Committee that communicates with the department about concerns specifically related to courses. 
-	- Mini Course Coordinator
+	- **Mini Course Coordinator**
 		- Collates requests for mini courses from the membership and communicates them to the graduate chair and potential instructors.
-	- Professional Development Committee (3)
+	- **Professional Development Committee** (3)
 		- Researches and hosts workshops and panels to help graduate students develop their soft skills and otherwise prepare for the job market.
-	- Mental Health Committee (3)
+	- **Mental Health Committee** (3)
 		- Researches and hosts workshops and panels to help graduate students improve their mental health.
-	- Social Committee (3-4)
+	- **Social Committee** (4-5)
 		- Organizes social events for the membership and the department as a whole. Annual responsibilities include organizing movie nights, the holiday party, and the summer picnic.
-	- Webmaster
+	- **Webmaster**
 		- Maintains and updates the GASA website, with visual updates when necessary.
 - **Social Positions**
-	- Dinner with the Speaker	
+	- **Dinner with the Speaker**
 		- Organizes weekly dinners with the graduate students and the colloquium speaker.
-	- Quals/Thesis Celebration
+	- **Quals/Thesis Celebration**
 		- Purchases refreshments for celebrating a successful qualifying exam or thesis defense.
-	- Coffee Master
+	- **Coffee Master**
 		- Submits orders for more coffee in the [AB](#astronomy-building) lounge
-	- Tea Master (3)
+	- **Tea Master** (3)
 		- Organizes weekly GASA Tea, to which all are welcome, and collect donation to purchase more tea. 
-	- Paint Master
+	- **Paint Master**
 		- Organizes roughly monthly GASA watercolour paint nights.
-	- 	Friends of the Editor (2)
+	- 	**Friends of the Editor** (2)
 		- Serve as a buffer between the membership and the mysterious 'editor' who composes the satirical 'Droppings' magazine from membership submissions in time for the holiday party.
 - **Representatives to external committees/organizations**
-	- CASCA Rep
+	- **CASCA Rep**
 		- Representative to the Canadian Astronomical Society.
 	- GSU Rep
 		- Representative to the Graduate Student Union.
@@ -1430,7 +1430,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUxNjA0MTQ3LDc4NzI4NTU3LC03OTY4ND
+eyJoaXN0b3J5IjpbMzczMTU1MjY2LDc4NzI4NTU3LC03OTY4ND
 E4NDQsLTE1OTg4NDk5MzgsLTE5MDU4NTg3MDEsLTE4NzQwOTk2
 OSwtNjY4MjY1MzIxLDQ3MjcwMzc2MywtMjQyNjQ0OTMsNjAyNz
 kyNDA2LC04MzU2NjA0NzAsMTYwMDkxNzUzMSwyMjk5MDA0Njks
