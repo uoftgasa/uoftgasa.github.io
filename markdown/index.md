@@ -174,10 +174,10 @@ Office: [AB](#astronomy-building)101-**X**
 
 Margaret works hard to coordinate all of the administrative details of graduate student life, and is an excellent resource for many of your questions. She can help you understand your financial account, outline the details of the program, and deadlines of [scholarship applications](#scholarships),
 
-#### Undergraduate Administrator Lillian Lanca
+#### Office Administrator Ingrid Small
 Office: [AB](#astronomy-building)101-**X**
 
-Lillian Lanca is a good point of contact for additional administrative questions. She can assist with getting keys, as well as booking rooms that are not on the department's booking calendar (accessible in the internal section of the department's website).
+Ingrid Small is a good point of contact for additional administrative questions. She can assist with getting keys, as well as booking rooms that are not on the department's booking calendar (accessible in the internal section of the department's website).
 
 #### CITA Administrative Officer Jenny Jung
 Office: [MP](#mclennan-physical-labs-and-burton-tower)14**XX**
@@ -1191,11 +1191,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcyNzAzNzYzLC0yNDI2NDQ5Myw2MDI3OT
-I0MDYsLTgzNTY2MDQ3MCwxNjAwOTE3NTMxLDIyOTkwMDQ2OSwt
-MTUzMjM3NzQwOSw3MTY1MTI5NjUsLTEyMTgzNTIxMzAsNDQyOT
-g2NDU0LC0xNDg4OTA0NjE2LDExMDg0NTU1NTIsLTE5MDA4ODI0
-MzksMTg5NDk0Nzc4NiwzMzMyNDUwMDIsLTE2NzcwOTkzMTksLT
-EzNzAwMDY4ODksOTc0MzQ1OTAxLC02ODg3ODkwMiwtMTM3NjEw
-MTUxNF19
+eyJoaXN0b3J5IjpbLTc1NjcwNzUxNSw0NzI3MDM3NjMsLTI0Mj
+Y0NDkzLDYwMjc5MjQwNiwtODM1NjYwNDcwLDE2MDA5MTc1MzEs
+MjI5OTAwNDY5LC0xNTMyMzc3NDA5LDcxNjUxMjk2NSwtMTIxOD
+M1MjEzMCw0NDI5ODY0NTQsLTE0ODg5MDQ2MTYsMTEwODQ1NTU1
+MiwtMTkwMDg4MjQzOSwxODk0OTQ3Nzg2LDMzMzI0NTAwMiwtMT
+Y3NzA5OTMxOSwtMTM3MDAwNjg4OSw5NzQzNDU5MDEsLTY4ODc4
+OTAyXX0=
 -->
