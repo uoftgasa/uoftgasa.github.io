@@ -709,8 +709,9 @@ Grad students are typically assigned to astronomy department courses, although y
 	- This course is an introductory astronomy course for non-majors. It's a common choice for students looking to fill their science credit requirement during undergrad. This and it's counterpart AST201 are the largest offerings from the department. The course accepts around 1300 undergrads, and has about 30 TAs. TA duties include running tutorials, hosting planetarium shows and observing nights, marking assignments and tests, and answering the student forum. There are additional TAs whose primary responsibilities are to divide up marking duties, or develop material for tutorials. First year students are usually assigned to AST101 and AST201 for that first year.
 - AST201H - Stars and Galaxies (Winter)
 	- This course is a complement to AST101, offered in the following semester (although neither is required in order to take the other). It is in every respect but the material basically identical to AST101. 
-- AST210H - Great Moments in Astronomy (Fall)
-	- This course focuses on the development of astronomy as a science, with special attention paid to the great discoveries of the past and unsolved problems of today.  The course accepts a c 
+- AST210H - Great Moments in Astronomy (Fall or Winter)
+	- This course focuses on the development of astronomy as a science, with special attention paid to the great discoveries of the past and unsolved problems of today.  The course accepts a couple hundred students who are enrolled in a science program, and has 4 TAs. Duties are more focussed on project and exam marking, with additional office hour requirements.
+-  AST221H - Stars and Planets
 
 ### Teaching Assistant Training Program
 
@@ -1342,11 +1343,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMTAzODg0LC0xNTk4ODQ5OTM4LC0xOT
-A1ODU4NzAxLC0xODc0MDk5NjksLTY2ODI2NTMyMSw0NzI3MDM3
-NjMsLTI0MjY0NDkzLDYwMjc5MjQwNiwtODM1NjYwNDcwLDE2MD
-A5MTc1MzEsMjI5OTAwNDY5LC0xNTMyMzc3NDA5LDcxNjUxMjk2
-NSwtMTIxODM1MjEzMCw0NDI5ODY0NTQsLTE0ODg5MDQ2MTYsMT
-EwODQ1NTU1MiwtMTkwMDg4MjQzOSwxODk0OTQ3Nzg2LDMzMzI0
-NTAwMl19
+eyJoaXN0b3J5IjpbLTEyNDkyNjIyNDAsLTE1OTg4NDk5MzgsLT
+E5MDU4NTg3MDEsLTE4NzQwOTk2OSwtNjY4MjY1MzIxLDQ3Mjcw
+Mzc2MywtMjQyNjQ0OTMsNjAyNzkyNDA2LC04MzU2NjA0NzAsMT
+YwMDkxNzUzMSwyMjk5MDA0NjksLTE1MzIzNzc0MDksNzE2NTEy
+OTY1LC0xMjE4MzUyMTMwLDQ0Mjk4NjQ1NCwtMTQ4ODkwNDYxNi
+wxMTA4NDU1NTUyLC0xOTAwODgyNDM5LDE4OTQ5NDc3ODYsMzMz
+MjQ1MDAyXX0=
 -->
