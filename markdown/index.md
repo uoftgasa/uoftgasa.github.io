@@ -656,7 +656,7 @@ You may find an interesting graduate course offering from another department. Ta
 A course may catch your interest that isn't necessary for you to complete your program requirements. Auditing courses is permitted, but you should keep in mind that if no one signs up to take the course for credit, then the course won't run. Different profs will have different standards for auditing students - some may be fine with you just sitting in lectures, but others may require you to make attempts at the assignments, whether they be problem sets or final presentations. Speak to the prof teaching the course you're interested in to find out what they expect from auditing students.
 
 ### General Qualifier
-In the winter semester of your second year, you'll need to pass the general qualifying exam, intended to ensure that your astronomical knowledge has been broadened beyond the specific focus of your research. The exam is composed of 3 questions from 5 categories, that are answered orally, iw.
+In the winter semester of your second year, you'll need to pass the general qualifying exam, intended to ensure that your astronomical knowledge has been broadened beyond the specific focus of your research. The exam is composed of 15 questions, that are answered orally with 2 minutes of response per question. There is a 5 minute period following each question during which the panel of three faculty examiners may ask follow up questions. The 1
 
 ### Thesis Qualifier
 
@@ -1301,11 +1301,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUwNDY3NzAxLC0xOTA1ODU4NzAxLC0xOD
-c0MDk5NjksLTY2ODI2NTMyMSw0NzI3MDM3NjMsLTI0MjY0NDkz
-LDYwMjc5MjQwNiwtODM1NjYwNDcwLDE2MDA5MTc1MzEsMjI5OT
-AwNDY5LC0xNTMyMzc3NDA5LDcxNjUxMjk2NSwtMTIxODM1MjEz
-MCw0NDI5ODY0NTQsLTE0ODg5MDQ2MTYsMTEwODQ1NTU1MiwtMT
-kwMDg4MjQzOSwxODk0OTQ3Nzg2LDMzMzI0NTAwMiwtMTY3NzA5
-OTMxOV19
+eyJoaXN0b3J5IjpbLTEyMjcwNTg1OTcsLTE5MDU4NTg3MDEsLT
+E4NzQwOTk2OSwtNjY4MjY1MzIxLDQ3MjcwMzc2MywtMjQyNjQ0
+OTMsNjAyNzkyNDA2LC04MzU2NjA0NzAsMTYwMDkxNzUzMSwyMj
+k5MDA0NjksLTE1MzIzNzc0MDksNzE2NTEyOTY1LC0xMjE4MzUy
+MTMwLDQ0Mjk4NjQ1NCwtMTQ4ODkwNDYxNiwxMTA4NDU1NTUyLC
+0xOTAwODgyNDM5LDE4OTQ5NDc3ODYsMzMzMjQ1MDAyLC0xNjc3
+MDk5MzE5XX0=
 -->
