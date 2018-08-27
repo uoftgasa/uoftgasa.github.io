@@ -837,9 +837,11 @@ AstroTours is GASA's primary outreach initiative, offering an opportunity for st
 - **Plantarium Director**
 	- Works with a volunteer presenter to develop a 12 minute planetarium show to be delivered 3 times on the night of the AstroTour.
 - **Telescope Director**
-	- Chooses targets for each telescope on the night of the AstroTour and works with col
+	- Chooses targets for each telescope on the night of the AstroTour and works with volunteers to ensure they know how to operate their telescope.
 - **Refreshments**
+	- Retrieves the refreshments for each AstroTour, and is reimbursed by the department after purchase.
 - **Interactive Media**
+	- Ensures volunteers are appropriate trained on the Oculus Rift and Kinect-controlled World Wide Telescope.
 - **Webmaster**
 - **Filmographer**
 - **Photographer**
@@ -1438,7 +1440,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTIwNDUyMjYsNzg3Mjg1NTcsLTc5Nj
+eyJoaXN0b3J5IjpbLTE1OTU4NTMyNjAsNzg3Mjg1NTcsLTc5Nj
 g0MTg0NCwtMTU5ODg0OTkzOCwtMTkwNTg1ODcwMSwtMTg3NDA5
 OTY5LC02NjgyNjUzMjEsNDcyNzAzNzYzLC0yNDI2NDQ5Myw2MD
 I3OTI0MDYsLTgzNTY2MDQ3MCwxNjAwOTE3NTMxLDIyOTkwMDQ2
