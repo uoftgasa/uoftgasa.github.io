@@ -769,12 +769,12 @@ Sunnyvale is a smaller high perfomance network hosted at [CITA](#canadian-instit
 ## GASA
 [**Table of Contents**](#table-of-contents)
 
-GASA is the Graduate Astronomy Student Association, and all astronomy graduate students are members unless they choose to opt out.  GASA represents the interests and concerns of graduate students to the rest of the department. The full scope of the organization is most clear when the variety of associated positions are listed. All members of GASA are encouraged to take on one of the positions below, even in their first year.
+GASA is the Graduate Astronomy Student Association, and all astronomy graduate students are members unless they choose to opt out.  GASA represents the interests and concerns of graduate students to the rest of the department. The full scope of the organization is most clear when the variety of associated positions are listed. All members of GASA are encouraged to take on at least one of the positions below, even in their first year, as an individual position usually represents a fairly minimal time commitment.
 
 
 ### GASA Positions
 
-To see who currently holds these positions, check the [GASA website](http://www.astro.utoronto.ca/~gasa/).
+To see who currently holds these positions, check the [GASA website](http://www.astro.utoronto.ca/~gasa/). Parenthetical numbers next to a position imply multiple people can hold the position simultaneously.
 - **Executive Team**
 	- President
 		- Leader of GASA, the president represents GASA in department discussion (particularly faculty meetings), and serves as a first point of contact for anyone wishing to solicit graduate student opinion or support.
@@ -814,7 +814,9 @@ To see who currently holds these positions, check the [GASA website](http://www.
 		- Serve as a buffer between the membership and the mysterious 'editor' who composes the satirical 'Droppings' magazine from membership submissions in time for the holiday party.
 - **Representatives to external committees/organizations**
 	- CASCA Rep
+		- Representative to the Canadian Astronomical Society.
 	- GSU Rep
+		- Representative to the Graduate Student Union.
 	- CUPE Rep
 	- Health and Safety Rep
 	- Building Committee Rep
@@ -1437,11 +1439,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjk3Mjc0NTUsLTc5Njg0MTg0NCwtMT
-U5ODg0OTkzOCwtMTkwNTg1ODcwMSwtMTg3NDA5OTY5LC02Njgy
-NjUzMjEsNDcyNzAzNzYzLC0yNDI2NDQ5Myw2MDI3OTI0MDYsLT
-gzNTY2MDQ3MCwxNjAwOTE3NTMxLDIyOTkwMDQ2OSwtMTUzMjM3
-NzQwOSw3MTY1MTI5NjUsLTEyMTgzNTIxMzAsNDQyOTg2NDU0LC
-0xNDg4OTA0NjE2LDExMDg0NTU1NTIsLTE5MDA4ODI0MzksMTg5
-NDk0Nzc4Nl19
+eyJoaXN0b3J5IjpbMTczMTcxMDk3NCwtNzk2ODQxODQ0LC0xNT
+k4ODQ5OTM4LC0xOTA1ODU4NzAxLC0xODc0MDk5NjksLTY2ODI2
+NTMyMSw0NzI3MDM3NjMsLTI0MjY0NDkzLDYwMjc5MjQwNiwtOD
+M1NjYwNDcwLDE2MDA5MTc1MzEsMjI5OTAwNDY5LC0xNTMyMzc3
+NDA5LDcxNjUxMjk2NSwtMTIxODM1MjEzMCw0NDI5ODY0NTQsLT
+E0ODg5MDQ2MTYsMTEwODQ1NTU1MiwtMTkwMDg4MjQzOSwxODk0
+OTQ3Nzg2XX0=
 -->
