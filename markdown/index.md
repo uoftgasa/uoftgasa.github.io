@@ -367,12 +367,13 @@ McLennan Physical Labs is at [60 St George St](https://goo.gl/maps/ShCfL48w2iF2)
 	- books on this [reference list](http://www.astro.utoronto.ca/AALibrary/recommendations.html) can be found here
 	- books are borrowed by filling out one of the slips on the front desk, and may be checked out until the next inventory
 - **CITA Administrative Office**
-	- across from the elevators 
+	- across from the elevators on the 14th floor
 - **Mailroom** 
-	- south (or right) of the CITA administrative office
+	- south (or right) of the CITA administrative office on the 14th floor
 	- contains CITA printer [violet](#printers)
 - **CITA Lounge**
-	- contains a fridge, microwave, sink and dishwasher, as well as some couches
+	- left out of the elevators on the 14th floor
+	- contains a fridge, microwave, coffee machine, sink and dishwasher, as well as some couches
 	- contains CITA printer [canna](#printers)
 - **15th Floor Conference Room**
 	- must be booked through the CITA administrative office
@@ -1193,7 +1194,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3Njk1NDkwNCw0NzI3MDM3NjMsLTI0Mj
+eyJoaXN0b3J5IjpbLTY2ODI2NTMyMSw0NzI3MDM3NjMsLTI0Mj
 Y0NDkzLDYwMjc5MjQwNiwtODM1NjYwNDcwLDE2MDA5MTc1MzEs
 MjI5OTAwNDY5LC0xNTMyMzc3NDA5LDcxNjUxMjk2NSwtMTIxOD
 M1MjEzMCw0NDI5ODY0NTQsLTE0ODg5MDQ2MTYsMTEwODQ1NTU1
