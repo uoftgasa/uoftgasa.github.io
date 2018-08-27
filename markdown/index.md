@@ -710,7 +710,7 @@ Grad students are typically assigned to astronomy department courses, although y
 - AST201H - Stars and Galaxies (Winter)
 	- This course is a complement to AST101, offered in the following semester (although neither is required in order to take the other). It is in every respect but the material basically identical to AST101. 
 - AST210H - Great Moments in Astronomy (Fall)
-	- This course is an introductory survey course of 
+	- This course focuses on the development of astronomy as a science, with special attention paid to the great discoveries of the past and unsolved problems of today.  The course accepts a c 
 
 ### Teaching Assistant Training Program
 
@@ -1342,7 +1342,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYzNjQ1MTcwLC0xNTk4ODQ5OTM4LC0xOT
+eyJoaXN0b3J5IjpbMTMwMTAzODg0LC0xNTk4ODQ5OTM4LC0xOT
 A1ODU4NzAxLC0xODc0MDk5NjksLTY2ODI2NTMyMSw0NzI3MDM3
 NjMsLTI0MjY0NDkzLDYwMjc5MjQwNiwtODM1NjYwNDcwLDE2MD
 A5MTc1MzEsMjI5OTAwNDY5LC0xNTMyMzc3NDA5LDcxNjUxMjk2
