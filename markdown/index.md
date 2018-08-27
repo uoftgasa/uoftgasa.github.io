@@ -690,9 +690,13 @@ This document must be prepared in advance of the [thesis defense](#thesis-defens
 
 ### Thesis Defense
 
-Also called the Final Oral Examination, the thesis defense is the ultimate evaluation of your thesis work. The timeline to this defense is outlined on the [department website](http://www.astro.utoronto.ca/theses/theses.html) in great detail. After your [thesis committee](#thesis-committee) agrees that you are ready to defend, the committee recommends an external examiner, who will be brought in from outside UofT to assess your work. This must be done at least 8 weeks in advance of the planned date of defense. The [graduate administrator](#graduate-administrator-margaret-meaney) will help with scheduling of the examination room. The thesis itself must be submitted to the external examiner 6-8 weeks before the planned defense. 
+Also called the Final Oral Examination, the thesis defense is the ultimate evaluation of your thesis work. The timeline to this defense is outlined on the [department website](http://www.astro.utoronto.ca/theses/theses.html) in great detail. After your [thesis committee](#thesis-committee) agrees that you are ready to defend, the committee recommends an external examiner, who will be brought in from outside UofT to assess your work. This must be done at least 8 weeks in advance of the planned date of defense. The [graduate administrator](#graduate-administrator-margaret-meaney) will help with scheduling of the examination room. The thesis itself must be submitted to the external examiner 6-8 weeks before the planned defense. An examination committee must be struck, and members must receive the thesis no later than 4 weeks prior to the defense. 
+
+***lol what is the exam tho***
 
 ## Teaching
+
+Part of your base [funding](#funding) at UofT is a TAship in the 
 Buy-outs
 Summer/additional TAships
 ### Courses to TA
@@ -1327,7 +1331,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NDI5NTAyNywtMTU5ODg0OTkzOCwtMT
+eyJoaXN0b3J5IjpbMTY4OTkxMjE2NSwtMTU5ODg0OTkzOCwtMT
 kwNTg1ODcwMSwtMTg3NDA5OTY5LC02NjgyNjUzMjEsNDcyNzAz
 NzYzLC0yNDI2NDQ5Myw2MDI3OTI0MDYsLTgzNTY2MDQ3MCwxNj
 AwOTE3NTMxLDIyOTkwMDQ2OSwtMTUzMjM3NzQwOSw3MTY1MTI5
