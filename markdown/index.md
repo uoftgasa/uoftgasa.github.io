@@ -282,9 +282,11 @@ The Centre for Planetary Sciences (CPS) is located on UofT's [Scarborough campus
 [**Table of Contents**](#table-of-contents)
 
 ### St George
-Also called UTSG, this is UofT's "downtown" campus, located in the heart of Toronto. You can reach this campus easily on foot, by bicycle, or by taking the [TTC](#toronto-transit-commission) to Line 1 subway stations (Queen's Park, Museum, St George, Spadina), to Line 2 subway stations (St George, Spadina),  or by using the 506 and 510 streetcar lines or the 94 Wellesley bus. There is limited street parking available, as well as underground parking lots that can be entered for a fee, some requiring a permit.
+Also called UTSG, this is UofT's "downtown" campus, located in the heart of Toronto. You can reach this campus easily on foot, by bicycle, or by taking the [TTC](#toronto-transit-commission) to Line 1 subway stations (Queen's Park, Museum, St George, Spadina), to Line 2 subway stations (St George, Spadina),  by using the 506 and 510 streetcar lines or by taking the 94 Wellesley bus. There is limited street parking available, as well as underground parking lots that can be entered for a fee, some requiring a permit.
 
 ### Scarborough
+
+The UTSC campus is UofT's eastern satellite campus, in the Scarborough suburb of Toronto
 
 ### Mississauga
 Also called UTM, this is UofT's western satellite campus, located in the neighbouring city of Mississauga. There is a shuttle that runs between [Hart House](#hart-house) on the [UTSG](#st-george) campus and the UTM Instructional Centre. The shuttle is free for students with their [TCard](#tcard). There is only one faculty member appointed to the  UTM campus, but astronomy courses are taught there, and you may have the option to TA ones them.
@@ -1191,11 +1193,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODI0MTU2MzIsNDcyNzAzNzYzLC0yND
-I2NDQ5Myw2MDI3OTI0MDYsLTgzNTY2MDQ3MCwxNjAwOTE3NTMx
-LDIyOTkwMDQ2OSwtMTUzMjM3NzQwOSw3MTY1MTI5NjUsLTEyMT
-gzNTIxMzAsNDQyOTg2NDU0LC0xNDg4OTA0NjE2LDExMDg0NTU1
-NTIsLTE5MDA4ODI0MzksMTg5NDk0Nzc4NiwzMzMyNDUwMDIsLT
-E2NzcwOTkzMTksLTEzNzAwMDY4ODksOTc0MzQ1OTAxLC02ODg3
-ODkwMl19
+eyJoaXN0b3J5IjpbLTk1OTk2NDUyNyw0NzI3MDM3NjMsLTI0Mj
+Y0NDkzLDYwMjc5MjQwNiwtODM1NjYwNDcwLDE2MDA5MTc1MzEs
+MjI5OTAwNDY5LC0xNTMyMzc3NDA5LDcxNjUxMjk2NSwtMTIxOD
+M1MjEzMCw0NDI5ODY0NTQsLTE0ODg5MDQ2MTYsMTEwODQ1NTU1
+MiwtMTkwMDg4MjQzOSwxODk0OTQ3Nzg2LDMzMzI0NTAwMiwtMT
+Y3NzA5OTMxOSwtMTM3MDAwNjg4OSw5NzQzNDU5MDEsLTY4ODc4
+OTAyXX0=
 -->
