@@ -658,7 +658,9 @@ A course may catch your interest that isn't necessary for you to complete your p
 ### General Qualifier
 In the winter semester of your second year, you'll need to pass the general qualifying exam, intended to ensure that your astronomical knowledge has been broadened beyond the specific focus of your research. The exam is composed of 15 questions, that are answered orally with two minutes of response per question. There is a five minute period following each question during which the panel of three faculty examiners may ask follow up questions. Question are taken from a test bank of roughly 100 questions, which are made available to students prior to the exam. The question bank is divided into five categories: Cosmology, Extragalactic Astronomy, Galactic Astronomy, Stars and Planets, and Physics and Mathematics. Five questions are drawn from each section, of which the examiners choose three to avoid overlap.
 
-In the past, this exam has been split into two parts, separated by a few weeks to give students time to prepare for each section.
+In the past, this exam has been split into two parts, separated by a few weeks to give students time to prepare for each section. Students may be awarded a pass, conditional pass, or fail. Failing necessitates a retake of the entire exam, after a period for further study, while a conditional pass requires a retake of one category or taking a p
+
+You can find the [2018 question bank online](http://www.cita.utoronto.ca/~matzner/Quals/QualQuestionBank2018.pdf).
 
 ### Thesis Qualifier
 
@@ -1303,11 +1305,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExODY1Njg5OSwtMTkwNTg1ODcwMSwtMT
-g3NDA5OTY5LC02NjgyNjUzMjEsNDcyNzAzNzYzLC0yNDI2NDQ5
-Myw2MDI3OTI0MDYsLTgzNTY2MDQ3MCwxNjAwOTE3NTMxLDIyOT
-kwMDQ2OSwtMTUzMjM3NzQwOSw3MTY1MTI5NjUsLTEyMTgzNTIx
-MzAsNDQyOTg2NDU0LC0xNDg4OTA0NjE2LDExMDg0NTU1NTIsLT
-E5MDA4ODI0MzksMTg5NDk0Nzc4NiwzMzMyNDUwMDIsLTE2Nzcw
-OTkzMTldfQ==
+eyJoaXN0b3J5IjpbLTIwOTQzODk2NjIsLTE5MDU4NTg3MDEsLT
+E4NzQwOTk2OSwtNjY4MjY1MzIxLDQ3MjcwMzc2MywtMjQyNjQ0
+OTMsNjAyNzkyNDA2LC04MzU2NjA0NzAsMTYwMDkxNzUzMSwyMj
+k5MDA0NjksLTE1MzIzNzc0MDksNzE2NTEyOTY1LC0xMjE4MzUy
+MTMwLDQ0Mjk4NjQ1NCwtMTQ4ODkwNDYxNiwxMTA4NDU1NTUyLC
+0xOTAwODgyNDM5LDE4OTQ5NDc3ODYsMzMzMjQ1MDAyLC0xNjc3
+MDk5MzE5XX0=
 -->
