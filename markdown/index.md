@@ -709,7 +709,7 @@ Grad students are typically assigned to astronomy department courses, although y
 	- This course is an introductory astronomy course for non-majors. It's a common choice for students looking to fill their science credit requirement during undergrad. This and it's counterpart AST201 are the largest offerings from the department. The course accepts around 1300 undergrads, and has about 30 TAs. TA duties include running tutorials, hosting planetarium shows and observing nights, marking assignments and tests, and answering the student forum. There are additional TAs whose primary responsibilities are to divide up marking duties, or develop material for tutorials. First year students are usually assigned to AST101 and AST201 for that first year.
 - AST201 - Stars and Galaxies (Winter)
 	- This course is a complement to AST101, offered in the following semester (although neither is required in order to take the other). It is in every respect but the material basically identical to AST101. 
-- AST121 - Origin and Evolution of the Universe
+- AST210 - Origin and Evolution of the Universe
 
 ### Teaching Assistant Training Program
 
@@ -1341,7 +1341,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMDk4OTE5NCwtMTU5ODg0OTkzOCwtMT
+eyJoaXN0b3J5IjpbLTI2NzYwODg3MywtMTU5ODg0OTkzOCwtMT
 kwNTg1ODcwMSwtMTg3NDA5OTY5LC02NjgyNjUzMjEsNDcyNzAz
 NzYzLC0yNDI2NDQ5Myw2MDI3OTI0MDYsLTgzNTY2MDQ3MCwxNj
 AwOTE3NTMxLDIyOTkwMDQ2OSwtMTUzMjM3NzQwOSw3MTY1MTI5
