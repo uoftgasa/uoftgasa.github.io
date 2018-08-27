@@ -783,20 +783,22 @@ To see who currently holds these positions, check the [GASA website](http://www.
 	- Secretary
 		- The secretary is responsible for recording events relevant to GASA and disseminating notes to the membership.
 - **Internal Positions/Committees**
-	- Mediation Committee
+	- Mediation Committee (3)
+		- The mediation committee takes responsibility for specific issues that effect one or many graduate student(
 	- Talk Show Host
 	- Course Committee (2-3)
-	- Mini Course Coordinatory
-	- Professional Development Committee
-	- Mental Health Committee
-	- Social Committee
+	- Mini Course Coordinator
+	- Professional Development Committee (3)
+	- Mental Health Committee (3)
+	- Social Committee (3-4)
 	- Webmaster
 - **Social Positions**
 	- Dinner with the Speaker	
+	- Quals/Thesis Celebration
 	- Coffee Master
 	- Tea Master
-	- Friends of the Editor
 	- Paint Master
+	- 	Friends of the Editor
 - **Representatives to external committees/organizations**
 	- CASCA Rep
 	- GSU Rep
@@ -805,50 +807,6 @@ To see who currently holds these positions, check the [GASA website](http://www.
 	- Building Committee Rep
 	- Astronomy Union Ambassador
 
-
-GASA Webmaster
-
-GSU Representative
-
-Health and Safety Committee
-
-Mediation Committee (Justice League)
-
-Mediation Committee (Justice League)
-
-Mediation Committee (Justice League)
-
-Mental Health Committee
-
-Mental Health Committee
-
-Mental Health Committee
-
-Mini-Course Coordinator
-
-Professional Development Committeee
-
-Professional Development Committeee
-
-Professional Development Committeee
-
-Quals/Thesis Celebration
-
-Secretary
-
-Social Committee
-
-Social Committee
-
-Social Committee
-
-Social Committee
-
-Social Committee
-
-Talk Show Host
-
-Treasurer
 The opt out process is as simple as speaking to one of the executive members (President, Secretary or Treasurer), and can be reverted at any time.
 
 View the [current list of positions](../gasajobs.html).
@@ -1470,11 +1428,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTUwMTQ4MzcsLTc5Njg0MTg0NCwtMT
-U5ODg0OTkzOCwtMTkwNTg1ODcwMSwtMTg3NDA5OTY5LC02Njgy
-NjUzMjEsNDcyNzAzNzYzLC0yNDI2NDQ5Myw2MDI3OTI0MDYsLT
-gzNTY2MDQ3MCwxNjAwOTE3NTMxLDIyOTkwMDQ2OSwtMTUzMjM3
-NzQwOSw3MTY1MTI5NjUsLTEyMTgzNTIxMzAsNDQyOTg2NDU0LC
-0xNDg4OTA0NjE2LDExMDg0NTU1NTIsLTE5MDA4ODI0MzksMTg5
-NDk0Nzc4Nl19
+eyJoaXN0b3J5IjpbLTg0NzkwNjA4NywtNzk2ODQxODQ0LC0xNT
+k4ODQ5OTM4LC0xOTA1ODU4NzAxLC0xODc0MDk5NjksLTY2ODI2
+NTMyMSw0NzI3MDM3NjMsLTI0MjY0NDkzLDYwMjc5MjQwNiwtOD
+M1NjYwNDcwLDE2MDA5MTc1MzEsMjI5OTAwNDY5LC0xNTMyMzc3
+NDA5LDcxNjUxMjk2NSwtMTIxODM1MjEzMCw0NDI5ODY0NTQsLT
+E0ODg5MDQ2MTYsMTEwODQ1NTU1MiwtMTkwMDg4MjQzOSwxODk0
+OTQ3Nzg2XX0=
 -->
