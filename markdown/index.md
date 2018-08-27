@@ -788,9 +788,11 @@ To see who currently holds these positions, check the [GASA website](http://www.
 	- Talk Show Host
 		- Organizes a weekly hour for graduate students to share their work, practice their presentations, or just enjoy some [Timbits](http://www.timhortons.com/ca/en/menu/timbits.php).
 	- Course Committee (2-3)
-		- Committee that commun
+		- Committee that communicates with the department about concerns specifically related to courses. 
 	- Mini Course Coordinator
+		- Collates requests for mini courses from the membership and communicates them to the graduate chair and potential instructors.
 	- Professional Development Committee (3)
+		- Researches and hosts works
 	- Mental Health Committee (3)
 	- Social Committee (3-4)
 	- Webmaster
@@ -1430,11 +1432,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0OTkxMTIzNCwtNzk2ODQxODQ0LC0xNT
-k4ODQ5OTM4LC0xOTA1ODU4NzAxLC0xODc0MDk5NjksLTY2ODI2
-NTMyMSw0NzI3MDM3NjMsLTI0MjY0NDkzLDYwMjc5MjQwNiwtOD
-M1NjYwNDcwLDE2MDA5MTc1MzEsMjI5OTAwNDY5LC0xNTMyMzc3
-NDA5LDcxNjUxMjk2NSwtMTIxODM1MjEzMCw0NDI5ODY0NTQsLT
-E0ODg5MDQ2MTYsMTEwODQ1NTU1MiwtMTkwMDg4MjQzOSwxODk0
-OTQ3Nzg2XX0=
+eyJoaXN0b3J5IjpbLTEwOTUyMTA4ODEsLTc5Njg0MTg0NCwtMT
+U5ODg0OTkzOCwtMTkwNTg1ODcwMSwtMTg3NDA5OTY5LC02Njgy
+NjUzMjEsNDcyNzAzNzYzLC0yNDI2NDQ5Myw2MDI3OTI0MDYsLT
+gzNTY2MDQ3MCwxNjAwOTE3NTMxLDIyOTkwMDQ2OSwtMTUzMjM3
+NzQwOSw3MTY1MTI5NjUsLTEyMTgzNTIxMzAsNDQyOTg2NDU0LC
+0xNDg4OTA0NjE2LDExMDg0NTU1NTIsLTE5MDA4ODI0MzksMTg5
+NDk0Nzc4Nl19
 -->
