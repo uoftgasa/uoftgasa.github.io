@@ -692,7 +692,7 @@ This document must be prepared in advance of the [thesis defense](#thesis-defens
 
 Also called the Final Oral Examination, the thesis defense is the ultimate evaluation of your thesis work. The timeline to this defense is outlined on the [department website](http://www.astro.utoronto.ca/theses/theses.html) in great detail. After your [thesis committee](#thesis-committee) agrees that you are ready to defend, the committee recommends an external examiner, who will be brought in from outside UofT to assess your work. This must be done at least 8 weeks in advance of the planned date of defense. The [graduate administrator](#graduate-administrator-margaret-meaney) will help with scheduling of the examination room. The thesis itself must be submitted to the external examiner 6-8 weeks before the planned defense. An examination committee must be struck, and members must receive the thesis no later than 4 weeks prior to the defense. 
 
-***lol what is the exam tho***
+The exam itself takes place over a minimum of two hours. Things kick off with a 20 minute presentation. The examination committee then takes turns asking questions, and when they are finished questioning, they vote on whether your defense was successfu
 
 ## Teaching
 
@@ -1363,11 +1363,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgxODgwOTY5LC03OTY4NDE4NDQsLTE1OT
-g4NDk5MzgsLTE5MDU4NTg3MDEsLTE4NzQwOTk2OSwtNjY4MjY1
-MzIxLDQ3MjcwMzc2MywtMjQyNjQ0OTMsNjAyNzkyNDA2LC04Mz
-U2NjA0NzAsMTYwMDkxNzUzMSwyMjk5MDA0NjksLTE1MzIzNzc0
-MDksNzE2NTEyOTY1LC0xMjE4MzUyMTMwLDQ0Mjk4NjQ1NCwtMT
-Q4ODkwNDYxNiwxMTA4NDU1NTUyLC0xOTAwODgyNDM5LDE4OTQ5
-NDc3ODZdfQ==
+eyJoaXN0b3J5IjpbLTY4MzgyOTcyNCwtNzk2ODQxODQ0LC0xNT
+k4ODQ5OTM4LC0xOTA1ODU4NzAxLC0xODc0MDk5NjksLTY2ODI2
+NTMyMSw0NzI3MDM3NjMsLTI0MjY0NDkzLDYwMjc5MjQwNiwtOD
+M1NjYwNDcwLDE2MDA5MTc1MzEsMjI5OTAwNDY5LC0xNTMyMzc3
+NDA5LDcxNjUxMjk2NSwtMTIxODM1MjEzMCw0NDI5ODY0NTQsLT
+E0ODg5MDQ2MTYsMTEwODQ1NTU1MiwtMTkwMDg4MjQzOSwxODk0
+OTQ3Nzg2XX0=
 -->
