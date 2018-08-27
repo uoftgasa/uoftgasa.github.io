@@ -619,7 +619,7 @@ The full schedule of courses and their descriptions are outlined on the [departm
 Over the course of your degree, you are expected to take 2 credits worth of graduate courses (in addition to research courses [AST1501Y and AST1500Y](#ast1501y-and-ast1500y). Courses with a trailing 'Y' (like the research course) are worth 1 credit, while courses with a trailing 'H' are worth 0.5 credits. Since most 'preparatory', 'elective', and 'specialized' courses are 'H' courses, this corresponds to taking 4 courses.
 
 #### Courses from other departments
-You may find an interesting graduate course offering from another department. The
+You may find an interesting graduate course offering from another department. Taking these course for credit is subject to the approval [the graduate chair](#graduate-associate-chair-chris-matzner), but you can find a list of preapproved courses from the physics department on the department [webpage](http://www.astro.utoronto.ca/academics/graduate-studies/current/courses/)
 
 #### Mini Courses
 
@@ -1271,11 +1271,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE3MzM2NDc4LC0xODc0MDk5NjksLTY2OD
-I2NTMyMSw0NzI3MDM3NjMsLTI0MjY0NDkzLDYwMjc5MjQwNiwt
-ODM1NjYwNDcwLDE2MDA5MTc1MzEsMjI5OTAwNDY5LC0xNTMyMz
-c3NDA5LDcxNjUxMjk2NSwtMTIxODM1MjEzMCw0NDI5ODY0NTQs
-LTE0ODg5MDQ2MTYsMTEwODQ1NTU1MiwtMTkwMDg4MjQzOSwxOD
-k0OTQ3Nzg2LDMzMzI0NTAwMiwtMTY3NzA5OTMxOSwtMTM3MDAw
-Njg4OV19
+eyJoaXN0b3J5IjpbLTcxOTAwNTM2NSwtMTg3NDA5OTY5LC02Nj
+gyNjUzMjEsNDcyNzAzNzYzLC0yNDI2NDQ5Myw2MDI3OTI0MDYs
+LTgzNTY2MDQ3MCwxNjAwOTE3NTMxLDIyOTkwMDQ2OSwtMTUzMj
+M3NzQwOSw3MTY1MTI5NjUsLTEyMTgzNTIxMzAsNDQyOTg2NDU0
+LC0xNDg4OTA0NjE2LDExMDg0NTU1NTIsLTE5MDA4ODI0MzksMT
+g5NDk0Nzc4NiwzMzMyNDUwMDIsLTE2NzcwOTkzMTksLTEzNzAw
+MDY4ODldfQ==
 -->
