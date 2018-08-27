@@ -530,6 +530,14 @@ I've described here the typical timeline to graduation for someone in the direct
 		- [TA](#teaching) AST201H
 	- Summer
 		- Identify an AST1500Y supervisor and fulfill the requirements outlined in [the following section](#ast1501y-and-ast1500y). 
+- **Second Year**
+	- Fall
+		- Identify a thesis supervisor and begin work on a thesis project
+		- Enrol in one [preparatory or elective course](http://www.astro.utoronto.ca/academics/graduate-studies/current/courses/) - see [Courses](#courses) below for more details
+		- [TA](#teaching) a course
+	- Winter:
+		- Continue work on thesis project
+		- Enrol in one [preparatory or elective course](http://www.astro.utoronto.ca/academics/graduate-studies/current/courses/) - see [Courses](#courses) below for more details
 		- 
 
 ### AST1501Y and AST1500Y
@@ -580,7 +588,7 @@ The full schedule of courses and their descriptions are outlined on the [departm
 
 ## Teaching
 Buy-outs
-
+Summer/additional TAships
 ### Courses to TA
 
 ### Teaching Assistant Training Program
@@ -1213,7 +1221,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzY1ODc0MDUsLTY2ODI2NTMyMSw0Nz
+eyJoaXN0b3J5IjpbLTE0MDA2MjY0NzQsLTY2ODI2NTMyMSw0Nz
 I3MDM3NjMsLTI0MjY0NDkzLDYwMjc5MjQwNiwtODM1NjYwNDcw
 LDE2MDA5MTc1MzEsMjI5OTAwNDY5LC0xNTMyMzc3NDA5LDcxNj
 UxMjk2NSwtMTIxODM1MjEzMCw0NDI5ODY0NTQsLTE0ODg5MDQ2
