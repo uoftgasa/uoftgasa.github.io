@@ -878,7 +878,10 @@ There are quite a few department events that occur on a weekly basis, which can 
 - **astro-ph Coffee**
 	- Informal discussion of recent arXiv papers in the [AB Lounge](#ab-common-rooms)
 - **Stars and Planets Discussion Group**
-	- Informal discussion of reve
+	- Informal presentations of recent results in the field of stars in planets, held in a seminar room announced by email
+	- Talks are intended to interrupted with questions
+- **Pulsar Coffee**
+	- Informal presentations of recent results in the field of pulsars, held in the [CITA Lounge](#mp-common-rooms)
 - [Colloquium](#colloquium)
 		- [CITA Seminars](#cita-seminars)
 		- [Blackboard Talks](#blackboard-talks)
@@ -1468,7 +1471,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzM4MDU4OTYsMTUwOTcyMTcyLDc4Nz
+eyJoaXN0b3J5IjpbLTE5NTQ5MjA2NDUsMTUwOTcyMTcyLDc4Nz
 I4NTU3LC03OTY4NDE4NDQsLTE1OTg4NDk5MzgsLTE5MDU4NTg3
 MDEsLTE4NzQwOTk2OSwtNjY4MjY1MzIxLDQ3MjcwMzc2MywtMj
 QyNjQ0OTMsNjAyNzkyNDA2LC04MzU2NjA0NzAsMTYwMDkxNzUz
