@@ -286,7 +286,7 @@ Also called UTSG, this is UofT's "downtown" campus, located in the heart of Toro
 
 ### Scarborough
 
-The UTSC campus is UofT's eastern satellite campus, in the Scarborough suburb of Toronto. This campus can be reached by car via the 401 highway, or by [TTC](#toronto-transit-commission) by taking a bus from York Mills or from 
+The UTSC campus is UofT's eastern satellite campus, in the Scarborough suburb of Toronto. This campus can be reached by car via the 401 highway, or by [TTC](#toronto-transit-commission) by taking a bus from the York Mills (on Line 1) or from Kennedy Station (Line 2).  This campus is home to [CPS](#centre-for-planetary-sciences), and hosts the [Scarborough Planet Days](#scarborough-planet-days) and [Scarborough Planet Lunchs]
 
 ### Mississauga
 Also called UTM, this is UofT's western satellite campus, located in the neighbouring city of Mississauga. There is a shuttle that runs between [Hart House](#hart-house) on the [UTSG](#st-george) campus and the UTM Instructional Centre. The shuttle is free for students with their [TCard](#tcard). There is only one faculty member appointed to the  UTM campus, but astronomy courses are taught there, and you may have the option to TA ones them.
@@ -1193,7 +1193,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NDIzMzIwMCw0NzI3MDM3NjMsLTI0Mj
+eyJoaXN0b3J5IjpbLTUzMDkzMTU2OCw0NzI3MDM3NjMsLTI0Mj
 Y0NDkzLDYwMjc5MjQwNiwtODM1NjYwNDcwLDE2MDA5MTc1MzEs
 MjI5OTAwNDY5LC0xNTMyMzc3NDA5LDcxNjUxMjk2NSwtMTIxOD
 M1MjEzMCw0NDI5ODY0NTQsLTE0ODg5MDQ2MTYsMTEwODQ1NTU1
