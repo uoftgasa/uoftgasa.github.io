@@ -656,7 +656,7 @@ You may find an interesting graduate course offering from another department. Ta
 A course may catch your interest that isn't necessary for you to complete your program requirements. Auditing courses is permitted, but you should keep in mind that if no one signs up to take the course for credit, then the course won't run. Different profs will have different standards for auditing students - some may be fine with you just sitting in lectures, but others may require you to make attempts at the assignments, whether they be problem sets or final presentations. Speak to the prof teaching the course you're interested in to find out what they expect from auditing students.
 
 ### General Qualifier
-In the winter semester of your second year, you'll need to pass the general qualifying exam, intended to ensure that your astronomical knowledge has been broadened beyond the specific focus of your research. The exam is composed of 
+In the winter semester of your second year, you'll need to pass the general qualifying exam, intended to ensure that your astronomical knowledge has been broadened beyond the specific focus of your research. The exam is composed of 3 questions from 
 
 ### Thesis Qualifier
 
@@ -1301,11 +1301,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDU4NTg3MDEsLTE4NzQwOTk2OSwtNj
-Y4MjY1MzIxLDQ3MjcwMzc2MywtMjQyNjQ0OTMsNjAyNzkyNDA2
-LC04MzU2NjA0NzAsMTYwMDkxNzUzMSwyMjk5MDA0NjksLTE1Mz
-IzNzc0MDksNzE2NTEyOTY1LC0xMjE4MzUyMTMwLDQ0Mjk4NjQ1
-NCwtMTQ4ODkwNDYxNiwxMTA4NDU1NTUyLC0xOTAwODgyNDM5LD
-E4OTQ5NDc3ODYsMzMzMjQ1MDAyLC0xNjc3MDk5MzE5LC0xMzcw
-MDA2ODg5XX0=
+eyJoaXN0b3J5IjpbLTEzMzQ5Njg0MywtMTkwNTg1ODcwMSwtMT
+g3NDA5OTY5LC02NjgyNjUzMjEsNDcyNzAzNzYzLC0yNDI2NDQ5
+Myw2MDI3OTI0MDYsLTgzNTY2MDQ3MCwxNjAwOTE3NTMxLDIyOT
+kwMDQ2OSwtMTUzMjM3NzQwOSw3MTY1MTI5NjUsLTEyMTgzNTIx
+MzAsNDQyOTg2NDU0LC0xNDg4OTA0NjE2LDExMDg0NTU1NTIsLT
+E5MDA4ODI0MzksMTg5NDk0Nzc4NiwzMzMyNDUwMDIsLTE2Nzcw
+OTkzMTldfQ==
 -->
