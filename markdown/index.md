@@ -655,14 +655,18 @@ You may find an interesting graduate course offering from another department. Ta
 #### Auditing a course
 A course may catch your interest that isn't necessary for you to complete your program requirements. Auditing courses is permitted, but you should keep in mind that if no one signs up to take the course for credit, then the course won't run. Different profs will have different standards for auditing students - some may be fine with you just sitting in lectures, but others may require you to make attempts at the assignments, whether they be problem sets or final presentations. Speak to the prof teaching the course you're interested in to find out what they expect from auditing students.
 
-### General Qualifier
+
+### Qualifying Exams:
+You can find a more detailed description of the qualifying exams on the [department website](http://www.astro.utoronto.ca/academics/graduate-studies/current/program/quals/)
+
+#### General Qualifier
 In the winter semester of your second year, you'll need to pass the general qualifying exam, intended to ensure that your astronomical knowledge has been broadened beyond the specific focus of your research. The exam is composed of 15 questions, that are answered orally with two minutes of response per question. There is a five minute period following each question during which the panel of three faculty examiners may ask follow up questions. Question are taken from a test bank of roughly 100 questions, which are made available to students prior to the exam. The question bank is divided into five categories: Cosmology, Extragalactic Astronomy, Galactic Astronomy, Stars and Planets, and Physics and Mathematics. Five questions are drawn from each section, of which the examiners choose three to avoid overlap.
 
 In the past, this exam has been split into two parts, separated by a few weeks to give students time to prepare for each section. Students may be awarded a pass, conditional pass, or fail. Failing necessitates a retake of the entire exam, after a period for further study, while a conditional pass requires a retake of one category or taking a preparatory level course.
 
 You can find the [2018 question bank online](http://www.cita.utoronto.ca/~matzner/Quals/QualQuestionBank2018.pdf).
 
-### Thesis Qualifier
+#### Thesis Qualifier
 
 The thesis qualifying exam is intended to test your expertise in the topic you've chosen for your thesis. Prior to the exam, you'll need to turn in a 10 page thesis proposal, that outlines your planned work and includes a timeline. The exam consists of a 20-25 minute presentation which focuses on how your work will fit in with the current state of the field, and, more importantly, the reasons that you are most qualified to do this work. The goal of the presentation is to convince the committee of five faculty members (including your [thesis committee](#thesis-committee)) that you have a clear and concrete plan toward completing your thesis on time, and that the project you propose is appropriate for a thesis work. Your supervisor should be able to help you determine how best to discuss your work. After the presentation, there will be two rounds of questions, where each examiner has about 10 minutes per round. The questions will be inspired by your presentation, but may enquire about the details of specific methods, your plans to publicize your research, or how your work relates to that of other researchers.
 
@@ -672,7 +676,7 @@ Failing the thesis qualifying exam will mean taking it again within a few months
 
 The thesis committee is intended to provide you with valuable context for their project, by incorporating voices of faculty not directly involved in your thesis work. Thesis committees are typically 3 faculty, although that number may increase if you have co-supervisors. Students should meet with their thesis committee in the months of October and March, composing a report of their progress for each meeting. The thesis committee assesses your work on the basis of both the report and the meeting, and assigns a letter grade of A or B, where A corresponds to satisfactory progress and B indicates improvement is necessary.
 
-The thesis committee is useful outside of strict committee meetings. Faculty on the committee may be helpful in resolving disagreements between student and supervisor, or in helping the student develop their skills for the job market.
+The thesis committee is useful outside of strict committee meetings. Faculty on the committee may be helpful in resolving disagreements between student and supervisor, or in helping the student develop their skills for the job market. You can find more details on the [department website](http://www.astro.utoronto.ca/academics/graduate-studies/current/program/supervision/).
 
 ### Thesis
 
@@ -1313,7 +1317,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTM3NzIyOTcsLTE1OTg4NDk5MzgsLT
+eyJoaXN0b3J5IjpbLTIxNDE5MTUxMDQsLTE1OTg4NDk5MzgsLT
 E5MDU4NTg3MDEsLTE4NzQwOTk2OSwtNjY4MjY1MzIxLDQ3Mjcw
 Mzc2MywtMjQyNjQ0OTMsNjAyNzkyNDA2LC04MzU2NjA0NzAsMT
 YwMDkxNzUzMSwyMjk5MDA0NjksLTE1MzIzNzc0MDksNzE2NTEy
