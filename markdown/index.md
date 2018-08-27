@@ -860,6 +860,8 @@ There are quite a few department events that occur on a weekly basis, which can 
 - [Dunlap Calendar](http://www.dunlap.utoronto.ca/about/dunlap-calendar/)
 - [GASA Calendar](http://www.astro.utoronto.ca/~gasa/calendar.html)
 
+Note that many of these events are not held during the summer.
+
 ### Scientific Events
 
 - **Colloquium**
@@ -887,18 +889,19 @@ There are quite a few department events that occur on a weekly basis, which can 
 	- 1 hour long
 	- Open to all
 - **Pulsar Coffee**
-	- Informal presentations of recent results in the field of pulsars, held in the [CITA Lounge](#mp-common-rooms).
+	- Weekly informal presentations of recent results in the field of pulsars, held in the [CITA Lounge](#mp-common-rooms).
 	- 1 hour long
 	- Open to all
 - **Talk Show**
-	- Informal presentations/discussion of graduate student research with other graduate students.
+	- Weekly informal presentations/discussion of graduate student research with other graduate students.
 	- 1 hour long
 	- Open to graduate students
 - **Cosmology Lunch**
-	- Informal presentation of recent results in cosmology, held in [15th floor conference room](#mp-common-rooms).
+	- Weekly informal presentation of recent results in cosmology, held in [15th floor conference room](#mp-common-rooms).
 	- 1 hour long
 	- Open to all
 - **CPS Planet Lunches**
+	- Weekly informal presentation on the recent res
 - [Colloquium](#colloquium)
 		- [CITA Seminars](#cita-seminars)
 		- [Blackboard Talks](#blackboard-talks)
@@ -1488,7 +1491,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQyNTYwNjU1LDE1MDk3MjE3Miw3ODcyOD
+eyJoaXN0b3J5IjpbMjUxMDc5Nzg3LDE1MDk3MjE3Miw3ODcyOD
 U1NywtNzk2ODQxODQ0LC0xNTk4ODQ5OTM4LC0xOTA1ODU4NzAx
 LC0xODc0MDk5NjksLTY2ODI2NTMyMSw0NzI3MDM3NjMsLTI0Mj
 Y0NDkzLDYwMjc5MjQwNiwtODM1NjYwNDcwLDE2MDA5MTc1MzEs
