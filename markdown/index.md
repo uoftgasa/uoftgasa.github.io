@@ -522,7 +522,9 @@ I've described here the typical timeline to graduation for someone in the direct
 - **First Year**
 	- Fall
 		- Identify an AST1501Y supervisor and fulfill the requirements outlined in [the following section](#ast1501y-and-ast1500y). 
-		- Enrol in one 
+		- Enrol in one [preparatory or elective course](http://www.astro.utoronto.ca/academics/graduate-studies/current/courses/)
+		- [TA](#teaching) AST101
+		- 
 
 ### AST1501Y and AST1500Y
 
@@ -571,6 +573,7 @@ The full schedule of courses and their descriptions are outlined on the [departm
 ### Thesis Committee
 
 ## Teaching
+Buy-outs
 
 ### Courses to TA
 
@@ -1204,7 +1207,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3ODYxNjk3NSwtNjY4MjY1MzIxLDQ3Mj
+eyJoaXN0b3J5IjpbLTU2MjgyNzQxMywtNjY4MjY1MzIxLDQ3Mj
 cwMzc2MywtMjQyNjQ0OTMsNjAyNzkyNDA2LC04MzU2NjA0NzAs
 MTYwMDkxNzUzMSwyMjk5MDA0NjksLTE1MzIzNzc0MDksNzE2NT
 EyOTY1LC0xMjE4MzUyMTMwLDQ0Mjk4NjQ1NCwtMTQ4ODkwNDYx
