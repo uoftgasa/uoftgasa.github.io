@@ -807,7 +807,7 @@ To see who currently holds these positions, check the [GASA website](http://www.
 	- **Coffee Master**
 		- Submits orders for more coffee in the [AB](#astronomy-building) lounge
 	- **Tea Master** (3)
-		- Organizes weekly GASA Tea, to which all are welcome, and collect donation to purchase more tea. 
+		- Organizes weekly [GASA Tea](#non-scientific), to which all are welcome, and collect donation to purchase more tea. 
 	- **Paint Master**
 		- Organizes roughly monthly GASA watercolour paint nights.
 	- 	**Friends of the Editor** (2)
@@ -854,6 +854,7 @@ AstroTours is GASA's primary outreach initiative, offering an opportunity for st
 ## Regular Department Events
 [**Table of Contents**](#table-of-contents)
 
+There are quite a few department events that occur on a weekly basis, which can be divided into those with a scientific focus, and those t
 
 ### Scientific
 
@@ -1444,11 +1445,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgwMTQ2MTE4LDc4NzI4NTU3LC03OTY4ND
-E4NDQsLTE1OTg4NDk5MzgsLTE5MDU4NTg3MDEsLTE4NzQwOTk2
-OSwtNjY4MjY1MzIxLDQ3MjcwMzc2MywtMjQyNjQ0OTMsNjAyNz
-kyNDA2LC04MzU2NjA0NzAsMTYwMDkxNzUzMSwyMjk5MDA0Njks
-LTE1MzIzNzc0MDksNzE2NTEyOTY1LC0xMjE4MzUyMTMwLDQ0Mj
-k4NjQ1NCwtMTQ4ODkwNDYxNiwxMTA4NDU1NTUyLC0xOTAwODgy
-NDM5XX0=
+eyJoaXN0b3J5IjpbLTcwMzk5NDQwNyw3ODcyODU1NywtNzk2OD
+QxODQ0LC0xNTk4ODQ5OTM4LC0xOTA1ODU4NzAxLC0xODc0MDk5
+NjksLTY2ODI2NTMyMSw0NzI3MDM3NjMsLTI0MjY0NDkzLDYwMj
+c5MjQwNiwtODM1NjYwNDcwLDE2MDA5MTc1MzEsMjI5OTAwNDY5
+LC0xNTMyMzc3NDA5LDcxNjUxMjk2NSwtMTIxODM1MjEzMCw0ND
+I5ODY0NTQsLTE0ODg5MDQ2MTYsMTEwODQ1NTU1MiwtMTkwMDg4
+MjQzOV19
 -->
