@@ -703,7 +703,10 @@ In some cases, a professor you work with might prefer you focus solely on resear
 Conversely, you may wish to earn additional money on top of the base [funding package](#funding-package). Additional TAships may be available for you to take on, but you should consult with your supervisor on whether you are making sufficient research progress to allow more time spent on teaching. Note that while students are guaranteed a fall and winter TAship, summer courses are TA'd on a first-come first-served basis, and are a common option for students looking to take on additional TAships.
 
 ### Courses to TA
-Grad students are typically assigned to 
+Grad students are typically assigned to astronomy department courses, although you may take on a TAship in another department if one is advertised. The undergrad courses that take on TAs are listed below.
+
+- AST101 - The Sun and its Neighbours
+	- This and it's counterpart AST201 are the larger
 
 ### Teaching Assistant Training Program
 
@@ -1335,11 +1338,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMjI1NzM2MSwtMTU5ODg0OTkzOCwtMT
-kwNTg1ODcwMSwtMTg3NDA5OTY5LC02NjgyNjUzMjEsNDcyNzAz
-NzYzLC0yNDI2NDQ5Myw2MDI3OTI0MDYsLTgzNTY2MDQ3MCwxNj
-AwOTE3NTMxLDIyOTkwMDQ2OSwtMTUzMjM3NzQwOSw3MTY1MTI5
-NjUsLTEyMTgzNTIxMzAsNDQyOTg2NDU0LC0xNDg4OTA0NjE2LD
-ExMDg0NTU1NTIsLTE5MDA4ODI0MzksMTg5NDk0Nzc4NiwzMzMy
-NDUwMDJdfQ==
+eyJoaXN0b3J5IjpbMTA0MzM0OTU4LC0xNTk4ODQ5OTM4LC0xOT
+A1ODU4NzAxLC0xODc0MDk5NjksLTY2ODI2NTMyMSw0NzI3MDM3
+NjMsLTI0MjY0NDkzLDYwMjc5MjQwNiwtODM1NjYwNDcwLDE2MD
+A5MTc1MzEsMjI5OTAwNDY5LC0xNTMyMzc3NDA5LDcxNjUxMjk2
+NSwtMTIxODM1MjEzMCw0NDI5ODY0NTQsLTE0ODg5MDQ2MTYsMT
+EwODQ1NTU1MiwtMTkwMDg4MjQzOSwxODk0OTQ3Nzg2LDMzMzI0
+NTAwMl19
 -->
