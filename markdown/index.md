@@ -703,7 +703,7 @@ In some cases, a professor you work with might prefer you focus solely on resear
 Conversely, you may wish to earn additional money on top of the base [funding package](#funding-package). Additional TAships may be available for you to take on, but you should consult with your supervisor on whether you are making sufficient research progress to allow more time spent on teaching. Note that while students are guaranteed a fall and winter TAship, summer courses are TA'd on a first-come first-served basis, and are a common option for students looking to take on additional TAships.
 
 ### Courses to TA
-Grad students are typically assigned to astronomy department courses, although you may take on a TAship in another department if one is advertised. The undergrad courses that take on TAs are listed below. Note that a trailing 'H' in the course code indicates that the course is offered for one semester
+Grad students are typically assigned to astronomy department courses, although you may take on a TAship in another department if one is advertised. The undergrad courses that take on TAs are listed below. Note that a trailing 'H' in the course code indicates that the course is offered over one semester (Fall, Winter or Summer), while a trailing 'Y' indicates a course takes two semesters to complete (Fall and Winter).
 
 - AST101H - The Sun and its Neighbours (Fall and Summer)
 	- This course is an introductory astronomy course for non-majors. It's a common choice for students looking to fill their science credit requirement during undergrad. This and it's counterpart AST201 are the largest offerings from the department. The course accepts around 1300 undergrads, and has about 30 TAs. TA duties include running tutorials, hosting planetarium shows and observing nights, marking assignments and tests, and answering the student forum. There are additional TAs whose primary responsibilities are to divide up marking duties, or develop material for tutorials. First year students are usually assigned to AST101 (in the fall) and AST201 (in the winter) for that first year.
@@ -718,7 +718,7 @@ Grad students are typically assigned to astronomy department courses, although y
 - AST222H - Galaxies and Cosmology (Winter)
 	- The continuation of AST221H, this course involves very similar duties.
 - AST325H/AST326Y - Practical Astronomy (Fall/Full Year)
-	- This is the undergraduate degree lab course. Students not pursuing a specialist in astronomy may take only the first half of the course by enrolling in AST325, but they share lectures and lab time with AST326 students, who continue the course into the winter semester.
+	- This is the undergraduate degree lab course. Students not pursuing a specialist in astronomy may take only the first half of the course by enrolling in AST325, but they share lectures and lab time with AST326 students, who continue the course into the winter semester. The combination of these two courses results in a total of 5 TAs
 
 ### Teaching Assistant Training Program
 
@@ -1350,11 +1350,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI2NDAwNjM4LC0xNTk4ODQ5OTM4LC0xOT
-A1ODU4NzAxLC0xODc0MDk5NjksLTY2ODI2NTMyMSw0NzI3MDM3
-NjMsLTI0MjY0NDkzLDYwMjc5MjQwNiwtODM1NjYwNDcwLDE2MD
-A5MTc1MzEsMjI5OTAwNDY5LC0xNTMyMzc3NDA5LDcxNjUxMjk2
-NSwtMTIxODM1MjEzMCw0NDI5ODY0NTQsLTE0ODg5MDQ2MTYsMT
-EwODQ1NTU1MiwtMTkwMDg4MjQzOSwxODk0OTQ3Nzg2LDMzMzI0
-NTAwMl19
+eyJoaXN0b3J5IjpbLTE5NjcxMDM3ODgsLTE1OTg4NDk5MzgsLT
+E5MDU4NTg3MDEsLTE4NzQwOTk2OSwtNjY4MjY1MzIxLDQ3Mjcw
+Mzc2MywtMjQyNjQ0OTMsNjAyNzkyNDA2LC04MzU2NjA0NzAsMT
+YwMDkxNzUzMSwyMjk5MDA0NjksLTE1MzIzNzc0MDksNzE2NTEy
+OTY1LC0xMjE4MzUyMTMwLDQ0Mjk4NjQ1NCwtMTQ4ODkwNDYxNi
+wxMTA4NDU1NTUyLC0xOTAwODgyNDM5LDE4OTQ5NDc3ODYsMzMz
+MjQ1MDAyXX0=
 -->
