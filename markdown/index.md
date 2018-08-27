@@ -814,10 +814,6 @@ To see who currently holds these positions, check the [GASA website](http://www.
 	- Building Committee Rep
 	- Astronomy Union Ambassador
 
-The opt out process is as simple as speaking to one of the executive members (President, Secretary or Treasurer), and can be reverted at any time.
-
-View the [current list of positions](../gasajobs.html).
-
 ### AstroTours
 
 AstroTours Co-Director
@@ -1435,7 +1431,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzUwMTQ4MzQsLTc5Njg0MTg0NCwtMT
+eyJoaXN0b3J5IjpbLTE0NDI5MTI0MjgsLTc5Njg0MTg0NCwtMT
 U5ODg0OTkzOCwtMTkwNTg1ODcwMSwtMTg3NDA5OTY5LC02Njgy
 NjUzMjEsNDcyNzAzNzYzLC0yNDI2NDQ5Myw2MDI3OTI0MDYsLT
 gzNTY2MDQ3MCwxNjAwOTE3NTMxLDIyOTkwMDQ2OSwtMTUzMjM3
