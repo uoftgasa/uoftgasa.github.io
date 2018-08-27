@@ -511,6 +511,11 @@ Graduate student residence that is affiliated with but independent from UofT. Yo
 
 The graduate program is described in detail on the [department website](http://www.astro.utoronto.ca/academics/graduate-studies/current/program/). By default, students entering the program are in the 5-year direct entry PhD or 4-year PhD. The MSc degree is not typically used as a point of entry, but rather awarded to students who exit the direct entry program early having completed some of its requirements. 
 
+### Program Outline
+
+- **First Year**
+	- 
+
 ### Direct Entry vs Standard PhD
 
 The 'Direct Entry PhD' refers to the 5-year program in which most students are enrolled. Students attending UofT already in possession of a MSc will be entered into the 4-year 'Standard PhD' track. The sections below describe the direct entry PhD, but the requirements for the standard PhD are the same except that standard PhD students are expected to identify their supervisor prior to entering the program, are not required to take any courses, and are expected to complete the qualifying exams in their first year instead of their second.
@@ -550,8 +555,9 @@ Along with these formal requirements, students work with their supervisors to es
 
 ### Courses
 
-The full schedule of courses and their descriptions are outlined on the [department website](http://www.astro.utoronto.ca/academics/graduate-studies/current/courses/). Courses are divided into 4 categories. The 'research' courses are [AST1501Y and AST1500Y](#ast1501y-and-ast1500y), described above. In addition to these, you have the option to take 'preparatory' courses (1000-level), in introductory topics, and 'elective' courses (2000-level) with a more tighter focus on one aspect of astronomy. Advanced topics are taught in 'specialized' courses (3000-level). In undergrad, the leading number of a course code roughly corresponds to the year in which it's appropriate to take that course 
+The full schedule of courses and their descriptions are outlined on the [department website](http://www.astro.utoronto.ca/academics/graduate-studies/current/courses/). Courses are divided into 4 categories. The 'research' courses are [AST1501Y and AST1500Y](#ast1501y-and-ast1500y), described above. In addition to these, you have the option to take 'preparatory' courses (1000-level), in introductory topics, and 'elective' courses (2000-level) with a more tighter focus on one aspect of astronomy. Advanced topics are taught in 'specialized' courses (3000-level). In undergrad, the leading number of a course code roughly corresponds to the year in which it's appropriate to take that course, but that isn't the case for grad courses. You may take any course at any point during your degree, although students typically try to finish their courses in their first two years (prior to the qualifying exam).
 
+#### Courses from other departments
 #### Mini Courses
 
 ### General Qualifier
@@ -1194,11 +1200,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTczNTU2ODksLTY2ODI2NTMyMSw0Nz
-I3MDM3NjMsLTI0MjY0NDkzLDYwMjc5MjQwNiwtODM1NjYwNDcw
-LDE2MDA5MTc1MzEsMjI5OTAwNDY5LC0xNTMyMzc3NDA5LDcxNj
-UxMjk2NSwtMTIxODM1MjEzMCw0NDI5ODY0NTQsLTE0ODg5MDQ2
-MTYsMTEwODQ1NTU1MiwtMTkwMDg4MjQzOSwxODk0OTQ3Nzg2LD
-MzMzI0NTAwMiwtMTY3NzA5OTMxOSwtMTM3MDAwNjg4OSw5NzQz
-NDU5MDFdfQ==
+eyJoaXN0b3J5IjpbMTAyNTAxNjIzOCwtNjY4MjY1MzIxLDQ3Mj
+cwMzc2MywtMjQyNjQ0OTMsNjAyNzkyNDA2LC04MzU2NjA0NzAs
+MTYwMDkxNzUzMSwyMjk5MDA0NjksLTE1MzIzNzc0MDksNzE2NT
+EyOTY1LC0xMjE4MzUyMTMwLDQ0Mjk4NjQ1NCwtMTQ4ODkwNDYx
+NiwxMTA4NDU1NTUyLC0xOTAwODgyNDM5LDE4OTQ5NDc3ODYsMz
+MzMjQ1MDAyLC0xNjc3MDk5MzE5LC0xMzcwMDA2ODg5LDk3NDM0
+NTkwMV19
 -->
