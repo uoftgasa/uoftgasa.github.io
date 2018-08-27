@@ -705,14 +705,16 @@ Conversely, you may wish to earn additional money on top of the base [funding pa
 ### Courses to TA
 Grad students are typically assigned to astronomy department courses, although you may take on a TAship in another department if one is advertised. The undergrad courses that take on TAs are listed below.
 
-- AST101H - The Sun and its Neighbours (Fall)
-	- This course is an introductory astronomy course for non-majors. It's a common choice for students looking to fill their science credit requirement during undergrad. This and it's counterpart AST201 are the largest offerings from the department. The course accepts around 1300 undergrads, and has about 30 TAs. TA duties include running tutorials, hosting planetarium shows and observing nights, marking assignments and tests, and answering the student forum. There are additional TAs whose primary responsibilities are to divide up marking duties, or develop material for tutorials. First year students are usually assigned to AST101 and AST201 for that first year.
-- AST201H - Stars and Galaxies (Winter)
+- AST101H - The Sun and its Neighbours (Fall and Summer)
+	- This course is an introductory astronomy course for non-majors. It's a common choice for students looking to fill their science credit requirement during undergrad. This and it's counterpart AST201 are the largest offerings from the department. The course accepts around 1300 undergrads, and has about 30 TAs. TA duties include running tutorials, hosting planetarium shows and observing nights, marking assignments and tests, and answering the student forum. There are additional TAs whose primary responsibilities are to divide up marking duties, or develop material for tutorials. First year students are usually assigned to AST101 (in the fall) and AST201 (in the winter) for that first year.
+	- Note that the summer offering of this course has smaller enrolment and much different responsibilities, closer to those listed for AST210H.
+- AST201H - Stars and Galaxies (Winter and Summer)
 	- This course is a complement to AST101, offered in the following semester (although neither is required in order to take the other). It is in every respect but the material basically identical to AST101. 
+	- Note that the summer offering of this course has smaller enrolment and much different responsibilities, closer to those listed for AST210H.
 - AST210H - Great Moments in Astronomy (Fall or Winter)
 	- This course focuses on the development of astronomy as a science, with special attention paid to the great discoveries of the past and unsolved problems of today.  The course accepts a couple hundred students who are enrolled in a science program, and has 4 TAs. Duties are more focussed on project and exam marking, with additional office hour requirements.
 -  AST221H - Stars and Planets (Fall)
-	- This course is the first requirement in the astronomy undergraduate degree program, and is more technical than previous list items. The enrolment limit is 65, and the two TAs are primarily responsible for marking problem sets 
+	- This course is the first requirement in the astronomy undergraduate degree program, and is more technical than previous list items. The enrolment limit is 65, and the two TAs are primarily responsible for marking problem sets and tests, although they also provide office hours.
 
 ### Teaching Assistant Training Program
 
@@ -1344,11 +1346,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1ODgwMjY5MCwtMTU5ODg0OTkzOCwtMT
-kwNTg1ODcwMSwtMTg3NDA5OTY5LC02NjgyNjUzMjEsNDcyNzAz
-NzYzLC0yNDI2NDQ5Myw2MDI3OTI0MDYsLTgzNTY2MDQ3MCwxNj
-AwOTE3NTMxLDIyOTkwMDQ2OSwtMTUzMjM3NzQwOSw3MTY1MTI5
-NjUsLTEyMTgzNTIxMzAsNDQyOTg2NDU0LC0xNDg4OTA0NjE2LD
-ExMDg0NTU1NTIsLTE5MDA4ODI0MzksMTg5NDk0Nzc4NiwzMzMy
-NDUwMDJdfQ==
+eyJoaXN0b3J5IjpbLTE1ODkwMjMwMDUsLTE1OTg4NDk5MzgsLT
+E5MDU4NTg3MDEsLTE4NzQwOTk2OSwtNjY4MjY1MzIxLDQ3Mjcw
+Mzc2MywtMjQyNjQ0OTMsNjAyNzkyNDA2LC04MzU2NjA0NzAsMT
+YwMDkxNzUzMSwyMjk5MDA0NjksLTE1MzIzNzc0MDksNzE2NTEy
+OTY1LC0xMjE4MzUyMTMwLDQ0Mjk4NjQ1NCwtMTQ4ODkwNDYxNi
+wxMTA4NDU1NTUyLC0xOTAwODgyNDM5LDE4OTQ5NDc3ODYsMzMz
+MjQ1MDAyXX0=
 -->
