@@ -717,8 +717,11 @@ Grad students are typically assigned to astronomy department courses, although y
 	- This course is the first requirement in the astronomy undergraduate degree program, and is more technical than previous list items. The enrolment limit is 65, and the two TAs are primarily responsible for marking problem sets and tests, although they also provide office hours.
 - AST222H - Galaxies and Cosmology (Winter)
 	- The continuation of AST221H, this course involves very similar duties.
+- AST251H- Life on Other Worlds (Winter)
+	- Another course for non-science students, this one focusses more on exoplanet detection and p
 - AST325H/AST326Y - Practical Astronomy (Fall/Full Year)
-	- This is the undergraduate degree lab course. Students not pursuing a specialist in astronomy may take only the first half of the course by enrolling in AST325, but they share lectures and lab time with AST326 students, who continue the course into the winter semester. Total enrolment is around 80 students, with a total of 5 TAs. Since this course includes a lab component, TAs offer help sessions in the lab in addition to assisting assignment deve
+	- This is the undergraduate degree lab course. Students not pursuing a specialist in astronomy may take only the first half of the course by enrolling in AST325, but they share lectures and lab time with AST326 students, who continue the course into the winter semester. Total enrolment is around 80 students, with a total of 5 TAs. Since this course includes a lab component, TAs offer help sessions in the lab in addition to assisting assignment development and marking completed labs.
+-
 
 ### Teaching Assistant Training Program
 
@@ -1350,11 +1353,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzQ3NTIxMjQsLTE1OTg4NDk5MzgsLT
-E5MDU4NTg3MDEsLTE4NzQwOTk2OSwtNjY4MjY1MzIxLDQ3Mjcw
-Mzc2MywtMjQyNjQ0OTMsNjAyNzkyNDA2LC04MzU2NjA0NzAsMT
-YwMDkxNzUzMSwyMjk5MDA0NjksLTE1MzIzNzc0MDksNzE2NTEy
-OTY1LC0xMjE4MzUyMTMwLDQ0Mjk4NjQ1NCwtMTQ4ODkwNDYxNi
-wxMTA4NDU1NTUyLC0xOTAwODgyNDM5LDE4OTQ5NDc3ODYsMzMz
-MjQ1MDAyXX0=
+eyJoaXN0b3J5IjpbLTY2MjEzMDgwNiwtMTU5ODg0OTkzOCwtMT
+kwNTg1ODcwMSwtMTg3NDA5OTY5LC02NjgyNjUzMjEsNDcyNzAz
+NzYzLC0yNDI2NDQ5Myw2MDI3OTI0MDYsLTgzNTY2MDQ3MCwxNj
+AwOTE3NTMxLDIyOTkwMDQ2OSwtMTUzMjM3NzQwOSw3MTY1MTI5
+NjUsLTEyMTgzNTIxMzAsNDQyOTg2NDU0LC0xNDg4OTA0NjE2LD
+ExMDg0NTU1NTIsLTE5MDA4ODI0MzksMTg5NDk0Nzc4NiwzMzMy
+NDUwMDJdfQ==
 -->
