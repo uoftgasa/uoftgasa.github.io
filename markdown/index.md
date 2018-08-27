@@ -854,13 +854,11 @@ AstroTours is GASA's primary outreach initiative, offering an opportunity for st
 ## Regular Department Events
 [**Table of Contents**](#table-of-contents)
 
-There are quite a few department events that occur on a weekly basis, which can be divided into those with a scientific focus, and those t
+There are quite a few department events that occur on a weekly basis, which can be divided into those with a scientific focus, and those without.
 
 ### Scientific
 
-### Non-Scientific
-Calendars
-		- [Colloquium](#colloquium)
+- [Colloquium](#colloquium)
 		- [CITA Seminars](#cita-seminars)
 		- [Blackboard Talks](#blackboard-talks)
 		- [astro-ph Coffee](#astro-ph-coffee)
@@ -869,6 +867,10 @@ Calendars
 		- [Talk Show](#talk-show)
 		- [Cosmology Lunch](#cosmology-lunch)
 		- [CPS Planet Lunches](#cps-planet-lunches)
+
+### Non-Scientific
+Calendars
+		
 		- [Morning Coffee](#morning-coffee)
 		- [GASA Tea](#gasa-tea)
 		- [Dunlap Outreach Meeting](#dunlap-outreach-meeting)
@@ -1445,7 +1447,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMzk5NDQwNyw3ODcyODU1NywtNzk2OD
+eyJoaXN0b3J5IjpbMTY5MjAyMjQyNyw3ODcyODU1NywtNzk2OD
 QxODQ0LC0xNTk4ODQ5OTM4LC0xOTA1ODU4NzAxLC0xODc0MDk5
 NjksLTY2ODI2NTMyMSw0NzI3MDM3NjMsLTI0MjY0NDkzLDYwMj
 c5MjQwNiwtODM1NjYwNDcwLDE2MDA5MTc1MzEsMjI5OTAwNDY5
