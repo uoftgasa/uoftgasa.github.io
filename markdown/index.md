@@ -259,13 +259,13 @@ The Astronomy and Astrophysics community at UofT is composed of several units: t
 ### Department of Astronomy and Astrophysics
 [Website](http://www.astro.utoronto.ca)
 
-All astronomy graduate students at UofT are officially affiliated with the Department of Astronomy and Astrophysics (DAA), primarily spread across two buildings, the [Astronomy Building](#astronomy-building) and the 12th, 13th and 14th floors of the [Burton Tower attached to McLennan Physical Labs](#mclennan-physical-labs-and-burton-tower).  The department is responsible for running the graduate program, and paying you in your first year, as well as offering scholarships and travel grants. The department is also responsible for offering graduate courses and employing you for TA work.
+All astronomy graduate students at UofT are officially affiliated with the Department of Astronomy and Astrophysics (DAA), primarily spread across two buildings, the [Astronomy Building](#astronomy-building) and the 12th floor of  the [Burton Tower attached to McLennan Physical Labs](#mclennan-physical-labs-and-burton-tower).  The department is responsible for running the graduate program, and paying you in your first year, as well as offering scholarships and travel grants. The department is also responsible for offering graduate courses and employing you for TA work.
 
 ### Dunlap Institute
 
 [Website](http://www.dunlap.utoronto.ca)
 
-The Dunlap Institute (Dunlap) is primarily focused on instrumentation and outreach. Dunlap members (professors and post-docs) are located in the [Astronomy Building](#astronomy-building). Graduate students can become affiliated with the Dunlap if they are supervised by a Dunlap prof. These students can apply for additional funding not available to the rest of their cohort and are invited to Dunlap specific events like holiday parties and the 3 day Dunlap Retreat.
+The Dunlap Institute (Dunlap) is primarily focused on instrumentation and outreach. Dunlap members (professors and post-docs) are located in the [Astronomy Building](#astronomy-building). Graduate students can become affiliated with the Dunlap if they are supervised by a Dunlap prof. These students can apply for additional funding not available to the rest of their cohort.
 
 ### Canadian Institute for Theoretical Astrophysics
 
@@ -1191,11 +1191,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODczNTA4NCw0NzI3MDM3NjMsLTI0Mj
-Y0NDkzLDYwMjc5MjQwNiwtODM1NjYwNDcwLDE2MDA5MTc1MzEs
-MjI5OTAwNDY5LC0xNTMyMzc3NDA5LDcxNjUxMjk2NSwtMTIxOD
-M1MjEzMCw0NDI5ODY0NTQsLTE0ODg5MDQ2MTYsMTEwODQ1NTU1
-MiwtMTkwMDg4MjQzOSwxODk0OTQ3Nzg2LDMzMzI0NTAwMiwtMT
-Y3NzA5OTMxOSwtMTM3MDAwNjg4OSw5NzQzNDU5MDEsLTY4ODc4
-OTAyXX0=
+eyJoaXN0b3J5IjpbLTEyODI0MTU2MzIsNDcyNzAzNzYzLC0yND
+I2NDQ5Myw2MDI3OTI0MDYsLTgzNTY2MDQ3MCwxNjAwOTE3NTMx
+LDIyOTkwMDQ2OSwtMTUzMjM3NzQwOSw3MTY1MTI5NjUsLTEyMT
+gzNTIxMzAsNDQyOTg2NDU0LC0xNDg4OTA0NjE2LDExMDg0NTU1
+NTIsLTE5MDA4ODI0MzksMTg5NDk0Nzc4NiwzMzMyNDUwMDIsLT
+E2NzcwOTkzMTksLTEzNzAwMDY4ODksOTc0MzQ1OTAxLC02ODg3
+ODkwMl19
 -->
