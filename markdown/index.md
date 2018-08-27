@@ -656,7 +656,9 @@ You may find an interesting graduate course offering from another department. Ta
 A course may catch your interest that isn't necessary for you to complete your program requirements. Auditing courses is permitted, but you should keep in mind that if no one signs up to take the course for credit, then the course won't run. Different profs will have different standards for auditing students - some may be fine with you just sitting in lectures, but others may require you to make attempts at the assignments, whether they be problem sets or final presentations. Speak to the prof teaching the course you're interested in to find out what they expect from auditing students.
 
 ### General Qualifier
-In the winter semester of your second year, you'll need to pass the general qualifying exam, intended to ensure that your astronomical knowledge has been broadened beyond the specific focus of your research. The exam is composed of 15 questions, that are answered orally with two minutes of response per question. There is a five minute period following each question during which the panel of three faculty examiners may ask follow up questions. Question are taken from a test bank of roughly 100 questions, which are made available to students prior to the exam. The question bank is divided into five categories: Cosmology, Extragalactic Astronomy, 
+In the winter semester of your second year, you'll need to pass the general qualifying exam, intended to ensure that your astronomical knowledge has been broadened beyond the specific focus of your research. The exam is composed of 15 questions, that are answered orally with two minutes of response per question. There is a five minute period following each question during which the panel of three faculty examiners may ask follow up questions. Question are taken from a test bank of roughly 100 questions, which are made available to students prior to the exam. The question bank is divided into five categories: Cosmology, Extragalactic Astronomy, Galactic Astronomy, Stars and Planets, and Physics and Mathematics. Five questions are drawn from each section, of which the examiners choose three to avoid overlap.
+
+In the past, this exam has been split into two parts, separated by a few weeks to give students time to prepare for each section.
 
 ### Thesis Qualifier
 
@@ -1301,11 +1303,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYyMzMyNDc0LC0xOTA1ODU4NzAxLC0xOD
-c0MDk5NjksLTY2ODI2NTMyMSw0NzI3MDM3NjMsLTI0MjY0NDkz
-LDYwMjc5MjQwNiwtODM1NjYwNDcwLDE2MDA5MTc1MzEsMjI5OT
-AwNDY5LC0xNTMyMzc3NDA5LDcxNjUxMjk2NSwtMTIxODM1MjEz
-MCw0NDI5ODY0NTQsLTE0ODg5MDQ2MTYsMTEwODQ1NTU1MiwtMT
-kwMDg4MjQzOSwxODk0OTQ3Nzg2LDMzMzI0NTAwMiwtMTY3NzA5
-OTMxOV19
+eyJoaXN0b3J5IjpbMTExODY1Njg5OSwtMTkwNTg1ODcwMSwtMT
+g3NDA5OTY5LC02NjgyNjUzMjEsNDcyNzAzNzYzLC0yNDI2NDQ5
+Myw2MDI3OTI0MDYsLTgzNTY2MDQ3MCwxNjAwOTE3NTMxLDIyOT
+kwMDQ2OSwtMTUzMjM3NzQwOSw3MTY1MTI5NjUsLTEyMTgzNTIx
+MzAsNDQyOTg2NDU0LC0xNDg4OTA0NjE2LDExMDg0NTU1NTIsLT
+E5MDA4ODI0MzksMTg5NDk0Nzc4NiwzMzMyNDUwMDIsLTE2Nzcw
+OTkzMTldfQ==
 -->
