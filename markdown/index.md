@@ -698,7 +698,9 @@ Also called the Final Oral Examination, the thesis defense is the ultimate evalu
 
 Part of your base [funding package](#funding-package) at UofT is a TAship in the fall and winter semesters. These TAships are 70 hours per semester, earning at a union specified rate in excess of $42/hour. Duties include running tutorials, holding office hours, running planetarium shows and observing nights, and marking assignments and tests, although they vary depending on the course you choose. 
 
-In some cases, a professor you work with might prefer you focus solely on research instead of splitting your attention with 
+In some cases, a professor you work with might prefer you focus solely on research instead of splitting your attention with teaching responsibilities. A professor may choose to buy you out of your teaching contract, taking on responsibility for your funding that would normally come from teaching. 
+
+Conversely, you may wish to earn additional money on top of the base [funding package](#funding-package). Additional TAships may be available for you to take on, but you should consult with your supervisor on whether you ar em
 Buy-outs
 Summer/additional TAships
 ### Courses to TA
@@ -1333,7 +1335,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc5NjY1NjAwLC0xNTk4ODQ5OTM4LC0xOT
+eyJoaXN0b3J5IjpbMzcyMDA1NzA1LC0xNTk4ODQ5OTM4LC0xOT
 A1ODU4NzAxLC0xODc0MDk5NjksLTY2ODI2NTMyMSw0NzI3MDM3
 NjMsLTI0MjY0NDkzLDYwMjc5MjQwNiwtODM1NjYwNDcwLDE2MD
 A5MTc1MzEsMjI5OTAwNDY5LC0xNTMyMzc3NDA5LDcxNjUxMjk2
