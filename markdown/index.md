@@ -807,7 +807,7 @@ To see who currently holds these positions, check the [GASA website](http://www.
 	- **Coffee Master**
 		- Submits orders for more coffee in the [AB](#astronomy-building) lounge
 	- **Tea Master** (3)
-		- Organizes weekly [GASA Tea](#non-scientific), to which all are welcome, and collect donation to purchase more tea. 
+		- Organizes weekly [GASA Tea](#non-scientific-events), to which all are welcome, and collect donation to purchase more tea. 
 	- **Paint Master**
 		- Organizes roughly monthly GASA watercolour paint nights.
 	- 	**Friends of the Editor** (2)
@@ -860,7 +860,7 @@ There are quite a few department events that occur on a weekly basis, which can 
 - [Dunlap Calendar](http://www.dunlap.utoronto.ca/about/dunlap-calendar/)
 - [GASA Calendar](http://www.astro.utoronto.ca/~gasa/calendar.html)
 
-### Scientific
+### Scientific Events
 
 - [Colloquium](#colloquium)
 		- [CITA Seminars](#cita-seminars)
@@ -872,7 +872,7 @@ There are quite a few department events that occur on a weekly basis, which can 
 		- [Cosmology Lunch](#cosmology-lunch)
 		- [CPS Planet Lunches](#cps-planet-lunches)
 
-### Non-Scientific
+### Non-Scientific Events
 Calendars
 		
 		- [Morning Coffee](#morning-coffee)
@@ -1451,11 +1451,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwOTcyMTcyLDc4NzI4NTU3LC03OTY4ND
-E4NDQsLTE1OTg4NDk5MzgsLTE5MDU4NTg3MDEsLTE4NzQwOTk2
-OSwtNjY4MjY1MzIxLDQ3MjcwMzc2MywtMjQyNjQ0OTMsNjAyNz
-kyNDA2LC04MzU2NjA0NzAsMTYwMDkxNzUzMSwyMjk5MDA0Njks
-LTE1MzIzNzc0MDksNzE2NTEyOTY1LC0xMjE4MzUyMTMwLDQ0Mj
-k4NjQ1NCwtMTQ4ODkwNDYxNiwxMTA4NDU1NTUyLC0xOTAwODgy
-NDM5XX0=
+eyJoaXN0b3J5IjpbMTIxOTExNDk5NCwxNTA5NzIxNzIsNzg3Mj
+g1NTcsLTc5Njg0MTg0NCwtMTU5ODg0OTkzOCwtMTkwNTg1ODcw
+MSwtMTg3NDA5OTY5LC02NjgyNjUzMjEsNDcyNzAzNzYzLC0yND
+I2NDQ5Myw2MDI3OTI0MDYsLTgzNTY2MDQ3MCwxNjAwOTE3NTMx
+LDIyOTkwMDQ2OSwtMTUzMjM3NzQwOSw3MTY1MTI5NjUsLTEyMT
+gzNTIxMzAsNDQyOTg2NDU0LC0xNDg4OTA0NjE2LDExMDg0NTU1
+NTJdfQ==
 -->
