@@ -511,14 +511,18 @@ Graduate student residence that is affiliated with but independent from UofT. Yo
 
 The graduate program is described in detail on the [department website](http://www.astro.utoronto.ca/academics/graduate-studies/current/program/). By default, students entering the program are in the 5-year direct entry PhD or 4-year PhD. The MSc degree is not typically used as a point of entry, but rather awarded to students who exit the direct entry program early having completed some of its requirements. 
 
-### Program Outline
-
-- **First Year**
-	- 
-
 ### Direct Entry vs Standard PhD
 
 The 'Direct Entry PhD' refers to the 5-year program in which most students are enrolled. Students attending UofT already in possession of a MSc will be entered into the 4-year 'Standard PhD' track. The sections below describe the direct entry PhD, but the requirements for the standard PhD are the same except that standard PhD students are expected to identify their supervisor prior to entering the program, are not required to take any courses, and are expected to complete the qualifying exams in their first year instead of their second.
+
+
+### Direct Entry Program Outline
+
+
+- **First Year**
+	- Fall
+		- Identify an AST1501Y supervisor and fulfill the requirements outlined in [the following section](#ast1501y-and-ast1500y). 
+		- Enrol in 
 
 ### AST1501Y and AST1500Y
 
@@ -1200,7 +1204,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNTAxNjIzOCwtNjY4MjY1MzIxLDQ3Mj
+eyJoaXN0b3J5IjpbMTc3Nzk3NjcwNiwtNjY4MjY1MzIxLDQ3Mj
 cwMzc2MywtMjQyNjQ0OTMsNjAyNzkyNDA2LC04MzU2NjA0NzAs
 MTYwMDkxNzUzMSwyMjk5MDA0NjksLTE1MzIzNzc0MDksNzE2NT
 EyOTY1LC0xMjE4MzUyMTMwLDQ0Mjk4NjQ1NCwtMTQ4ODkwNDYx
