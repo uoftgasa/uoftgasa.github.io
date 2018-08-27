@@ -781,14 +781,19 @@ To see who currently holds these positions, check the [GASA website](http://www.
 	- The treasurer is responsible for maintaining access to GASA finances, subject to additional approval of the president. The treasurer makes regular reports on the status of GASA finances.
 - **Secretary**
 	- The secretary is responsible for recording events relevant to GASA and disseminating notes to the membership.
-- **Mediation Committee**
-- **Course Committee**
-- **Professional Development Committee**
-- **Social Committee**
+- **Internal Committees**
+	- Mediation Committee
+	- Course Committee
+	- Professional Development Committee
+	- Mental Health Committee
+	- Social Committee
 - **Representatives to external committees/organizations**
 	- CASCA Rep
-	- Astronomy Union Ambassador
+	- GSU Rep
+	- CUPE Rep
+	- Health and Safety Rep
 	- Building Committee Rep
+	- Astronomy Union Ambassador
 
 Astronomy Union Ambassador
 
@@ -1486,7 +1491,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMTQ0NDY5LC03OTY4NDE4NDQsLTE1OT
+eyJoaXN0b3J5IjpbNzU5NzI2MzYzLC03OTY4NDE4NDQsLTE1OT
 g4NDk5MzgsLTE5MDU4NTg3MDEsLTE4NzQwOTk2OSwtNjY4MjY1
 MzIxLDQ3MjcwMzc2MywtMjQyNjQ0OTMsNjAyNzkyNDA2LC04Mz
 U2NjA0NzAsMTYwMDkxNzUzMSwyMjk5MDA0NjksLTE1MzIzNzc0
