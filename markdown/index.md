@@ -718,7 +718,7 @@ Grad students are typically assigned to astronomy department courses, although y
 - AST222H - Galaxies and Cosmology (Winter)
 	- The continuation of AST221H, this course involves very similar duties.
 - AST325H/AST326Y - Practical Astronomy (Fall/Full Year)
-	- This is the undergraduate degree lab course. Students not pursuing a specialist in astronomy may take only the first half of the course by enrolling in AST325, but they share lectures and lab time with AST326 students, who continue the course into the winter semester. The combination of these two courses results in a total of 5 TAs
+	- This is the undergraduate degree lab course. Students not pursuing a specialist in astronomy may take only the first half of the course by enrolling in AST325, but they share lectures and lab time with AST326 students, who continue the course into the winter semester. Total enrolment is around 80 students, with a total of 5 TAs. Since this course includes a lab component, TAs offer help sessions in the lab in addition to assisting assignment deve
 
 ### Teaching Assistant Training Program
 
@@ -1350,7 +1350,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjcxMDM3ODgsLTE1OTg4NDk5MzgsLT
+eyJoaXN0b3J5IjpbLTEwNzQ3NTIxMjQsLTE1OTg4NDk5MzgsLT
 E5MDU4NTg3MDEsLTE4NzQwOTk2OSwtNjY4MjY1MzIxLDQ3Mjcw
 Mzc2MywtMjQyNjQ0OTMsNjAyNzkyNDA2LC04MzU2NjA0NzAsMT
 YwMDkxNzUzMSwyMjk5MDA0NjksLTE1MzIzNzc0MDksNzE2NTEy
