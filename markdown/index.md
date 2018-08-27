@@ -830,16 +830,18 @@ To see who currently holds these positions, check the [GASA website](http://www.
 
 AstroTours is GASA's primary outreach initiative, offering an opportunity for students to practice presenting their work to an audience of the general public. An AstroTour occurs on the first Thursday of most months. In addition to a 45-minute talk, attendees can enjoy the sights through the telescopes on the top of [MP](#mclennan-physical-labs-and-burton-tower) and planetarium shows in the basement of [AB](#astronomy-building). You can find out more about AstroTours on [their website](https://www.astro.utoronto.ca/astrotours/).
 
--**Co-Director**
--**Volunteer Coordinator**
--**Plantarium Director**
--**Telescope Director**
--**Refreshments**
--**Interactive Media**
--**Webmaster**
--**Filmographer**
--**Photographer**
--**Keynote Director (2)**
+- **Co-Director** (2)
+	- Responsible for finding speakers, booking auditoriums, and MCing the talk, the co-directors have myriad other organizational duties that are outlined in their detailed running document.
+- **Volunteer Coordinator**
+	- Collects and organizes volunteers to run all of the stations for each AstroTour, including 
+- **Plantarium Director**
+- **Telescope Director**
+- **Refreshments**
+- **Interactive Media**
+- **Webmaster**
+- **Filmographer**
+- **Photographer**
+- **Keynote Director (2)**
 
 ## Regular Department Events
 [**Table of Contents**](#table-of-contents)
@@ -847,7 +849,7 @@ AstroTours is GASA's primary outreach initiative, offering an opportunity for st
 
 ### Scientific
 
-##
+### Non-Scientific
 Calendars
 		- [Colloquium](#colloquium)
 		- [CITA Seminars](#cita-seminars)
@@ -1434,11 +1436,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNjkxNTg3Nyw3ODcyODU1NywtNzk2OD
-QxODQ0LC0xNTk4ODQ5OTM4LC0xOTA1ODU4NzAxLC0xODc0MDk5
-NjksLTY2ODI2NTMyMSw0NzI3MDM3NjMsLTI0MjY0NDkzLDYwMj
-c5MjQwNiwtODM1NjYwNDcwLDE2MDA5MTc1MzEsMjI5OTAwNDY5
-LC0xNTMyMzc3NDA5LDcxNjUxMjk2NSwtMTIxODM1MjEzMCw0ND
-I5ODY0NTQsLTE0ODg5MDQ2MTYsMTEwODQ1NTU1MiwtMTkwMDg4
-MjQzOV19
+eyJoaXN0b3J5IjpbLTE0NzE0NTg2NzksNzg3Mjg1NTcsLTc5Nj
+g0MTg0NCwtMTU5ODg0OTkzOCwtMTkwNTg1ODcwMSwtMTg3NDA5
+OTY5LC02NjgyNjUzMjEsNDcyNzAzNzYzLC0yNDI2NDQ5Myw2MD
+I3OTI0MDYsLTgzNTY2MDQ3MCwxNjAwOTE3NTMxLDIyOTkwMDQ2
+OSwtMTUzMjM3NzQwOSw3MTY1MTI5NjUsLTEyMTgzNTIxMzAsND
+QyOTg2NDU0LC0xNDg4OTA0NjE2LDExMDg0NTU1NTIsLTE5MDA4
+ODI0MzldfQ==
 -->
