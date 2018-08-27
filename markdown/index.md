@@ -818,11 +818,17 @@ To see who currently holds these positions, check the [GASA website](http://www.
 	- GSU Rep
 		- Representative to the Graduate Student Union.
 	- CUPE Rep
+		- Representative to the teaching assistant's union.
 	- Health and Safety Rep
+		- Representative to the department's health and safety committee.
 	- Building Committee Rep
+		- Representative to the department's committee for planning the new building to replace [AB](#astronomy-building).
 	- Astronomy Union Ambassador
+		- Representative to the undergraduate Astronomy Union.
 
 ### AstroTours
+
+AstroTours is GASA's primary 
 
 AstroTours Co-Director
 
@@ -1439,7 +1445,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMTcxMDk3NCwtNzk2ODQxODQ0LC0xNT
+eyJoaXN0b3J5IjpbMTYxMTkzMzc4OSwtNzk2ODQxODQ0LC0xNT
 k4ODQ5OTM4LC0xOTA1ODU4NzAxLC0xODc0MDk5NjksLTY2ODI2
 NTMyMSw0NzI3MDM3NjMsLTI0MjY0NDkzLDYwMjc5MjQwNiwtOD
 M1NjYwNDcwLDE2MDA5MTc1MzEsMjI5OTAwNDY5LC0xNTMyMzc3
