@@ -735,9 +735,11 @@ Personal computers are the responsibility of the student to maintain. The depart
 
 ### SciNet
 
-SciNet is a high performance computing network associated with several institutions across Canada. Graduate students must be sponsored by a professor in order to access these resources, but they are ideal for batch processing intensive computations. You can learn more about how to use SciNet by attending one of their intro sessions
+SciNet is a high performance computing network associated with several institutions across Canada. Graduate students must be sponsored by a professor in order to access these resources, but they are ideal for batch processing intensive computations. You can learn more about how to use SciNet by attending one of their intro sessions listed on their [course page](https://support.scinet.utoronto.ca/education/browse.php). If you're already comfortable with bash prompt, you can probably find enough to get started on their [Niagara Quickstart page](https://docs.computecanada.ca/wiki/Niagara_Quickstart).
 
 ### Sunnyvale
+
+Sunnyvale is a smaller high perfomance network hosted at [CITA](#canadian-institute-for-theoretical-astrophysics)
 
 ## Useful Links
 [**Table of Contents**](#table-of-contents)
@@ -1367,11 +1369,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYzOTc0MDY3LC03OTY4NDE4NDQsLTE1OT
-g4NDk5MzgsLTE5MDU4NTg3MDEsLTE4NzQwOTk2OSwtNjY4MjY1
-MzIxLDQ3MjcwMzc2MywtMjQyNjQ0OTMsNjAyNzkyNDA2LC04Mz
-U2NjA0NzAsMTYwMDkxNzUzMSwyMjk5MDA0NjksLTE1MzIzNzc0
-MDksNzE2NTEyOTY1LC0xMjE4MzUyMTMwLDQ0Mjk4NjQ1NCwtMT
-Q4ODkwNDYxNiwxMTA4NDU1NTUyLC0xOTAwODgyNDM5LDE4OTQ5
-NDc3ODZdfQ==
+eyJoaXN0b3J5IjpbLTE5MzYwMTM0MDYsLTc5Njg0MTg0NCwtMT
+U5ODg0OTkzOCwtMTkwNTg1ODcwMSwtMTg3NDA5OTY5LC02Njgy
+NjUzMjEsNDcyNzAzNzYzLC0yNDI2NDQ5Myw2MDI3OTI0MDYsLT
+gzNTY2MDQ3MCwxNjAwOTE3NTMxLDIyOTkwMDQ2OSwtMTUzMjM3
+NzQwOSw3MTY1MTI5NjUsLTEyMTgzNTIxMzAsNDQyOTg2NDU0LC
+0xNDg4OTA0NjE2LDExMDg0NTU1NTIsLTE5MDA4ODI0MzksMTg5
+NDk0Nzc4Nl19
 -->
