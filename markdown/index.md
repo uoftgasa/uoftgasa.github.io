@@ -705,21 +705,21 @@ Conversely, you may wish to earn additional money on top of the base [funding pa
 ### Courses to TA
 Grad students are typically assigned to astronomy department courses, although you may take on a TAship in another department if one is advertised. The undergrad courses that take on TAs are listed below. Note that a trailing 'H' in the course code indicates that the course is offered over one semester (Fall, Winter or Summer), while a trailing 'Y' indicates a course takes two semesters to complete (Fall and Winter).
 
-- AST101H - The Sun and its Neighbours (Fall and Summer)
+- **AST101H** - The Sun and its Neighbours (Fall and Summer)
 	- This course is an introductory astronomy course for non-majors. It's a common choice for students looking to fill their science credit requirement during undergrad. This and it's counterpart AST201 are the largest offerings from the department. The course accepts around 1300 undergrads, and has about 30 TAs. TA duties include running tutorials, hosting planetarium shows and observing nights, marking assignments and tests, and answering the student forum. There are additional TAs whose primary responsibilities are to divide up marking duties, or develop material for tutorials. First year students are usually assigned to AST101 (in the fall) and AST201 (in the winter) for that first year.
 	- Note that the summer offering of this course has smaller enrolment and much different responsibilities, closer to those listed for AST210H.
-- AST201H - Stars and Galaxies (Winter and Summer)
+- **AST201H** - Stars and Galaxies (Winter and Summer)
 	- This course is a complement to AST101, offered in the following semester (although neither is required in order to take the other). It is in every respect but the material basically identical to AST101. 
 	- Note that the summer offering of this course has smaller enrolment and much different responsibilities, closer to those listed for AST210H.
-- AST210H - Great Moments in Astronomy (Fall or Winter)
+- **AST210H** - Great Moments in Astronomy (Fall or Winter)
 	- This course focuses on the development of astronomy as a science, with special attention paid to the great discoveries of the past and unsolved problems of today.  The course accepts a couple hundred students who are enrolled in a science program, and has 4 TAs. Duties are more focussed on project and exam marking, with additional office hour requirements.
--  AST221H - Stars and Planets (Fall)
+-  **AST221H** - Stars and Planets (Fall)
 	- This course is the first requirement in the astronomy undergraduate degree program, and is more technical than previous list items. The enrolment limit is 65, and the two TAs are primarily responsible for marking problem sets and tests, although they also provide office hours.
-- AST222H - Galaxies and Cosmology (Winter)
+- **AST222H** - Galaxies and Cosmology (Winter)
 	- The continuation of AST221H, this course involves very similar duties.
-- AST251H- Life on Other Worlds (Winter)
+- **AST251H**- Life on Other Worlds (Winter)
 	- Another course for non-science students, this one focuses on exoplanet detection and potentials for life elsewhere in the Galaxy.  This course accepts 400 students, and has [] TAs, whose duties are primarily marking assignments and tests and holding office hours.
-- AST325H/AST326Y - Practical Astronomy (Fall/Full Year)
+- **AST325H/AST326Y** - Practical Astronomy (Fall/Full Year)
 	- This is the undergraduate degree lab course. Students not pursuing a specialist in astronomy may take only the first half of the course by enrolling in AST325, but they share lectures and lab time with AST326 students, who continue the course into the winter semester. Total enrolment is around 80 students, with a total of 5 TAs. Since this course includes a lab component, TAs offer help sessions in the lab in addition to assisting assignment development and marking completed labs.
 
 ### Teaching Assistant Training Program
@@ -776,7 +776,7 @@ GASA is the Graduate Astronomy Student Association, and all astronomy graduate s
 
 To see who currently holds these positions, check the [GASA website](http://www.astro.utoronto.ca/~gasa/). Parenthetical numbers next to a position imply multiple people can hold the position simultaneously.
 - **Executive Team**
-	- President
+	- **President** 
 		- Leader of GASA, the president represents GASA in department discussion (particularly faculty meetings), and serves as a first point of contact for anyone wishing to solicit graduate student opinion or support.
 	- Treasurer
 		- The treasurer is responsible for maintaining access to GASA finances, subject to additional approval of the president. The treasurer makes regular reports on the status of GASA finances.
@@ -1430,11 +1430,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg3Mjg1NTcsLTc5Njg0MTg0NCwtMTU5OD
-g0OTkzOCwtMTkwNTg1ODcwMSwtMTg3NDA5OTY5LC02NjgyNjUz
-MjEsNDcyNzAzNzYzLC0yNDI2NDQ5Myw2MDI3OTI0MDYsLTgzNT
-Y2MDQ3MCwxNjAwOTE3NTMxLDIyOTkwMDQ2OSwtMTUzMjM3NzQw
-OSw3MTY1MTI5NjUsLTEyMTgzNTIxMzAsNDQyOTg2NDU0LC0xND
-g4OTA0NjE2LDExMDg0NTU1NTIsLTE5MDA4ODI0MzksMTg5NDk0
-Nzc4Nl19
+eyJoaXN0b3J5IjpbNzUxNjA0MTQ3LDc4NzI4NTU3LC03OTY4ND
+E4NDQsLTE1OTg4NDk5MzgsLTE5MDU4NTg3MDEsLTE4NzQwOTk2
+OSwtNjY4MjY1MzIxLDQ3MjcwMzc2MywtMjQyNjQ0OTMsNjAyNz
+kyNDA2LC04MzU2NjA0NzAsMTYwMDkxNzUzMSwyMjk5MDA0Njks
+LTE1MzIzNzc0MDksNzE2NTEyOTY1LC0xMjE4MzUyMTMwLDQ0Mj
+k4NjQ1NCwtMTQ4ODkwNDYxNiwxMTA4NDU1NTUyLC0xOTAwODgy
+NDM5XX0=
 -->
