@@ -620,6 +620,8 @@ Over the course of your degree, you are expected to take 2 credits worth of grad
 
 The following courses are the full offering from the department, but not all of these courses are offered every year. Check the top of [this page](http://www.astro.utoronto.ca/academics/graduate-studies/current/courses/) to see current offerings.
 
+***Is there actually a prep course limit***
+
 **Preparatory Courses**
 
 -   [AST 1410H Stars](http://www.astro.utoronto.ca/academics/graduate-studies/ast-1410h-stars/)
@@ -635,10 +637,20 @@ The following courses are the full offering from the department, but not all of 
 -   [AST 2060H General Relativity I: Theory](http://www.astro.utoronto.ca/academics/graduate-studies/current-graduate-students/current-course-offerings/ast-2060hf-general-relativity-i/)
 -   [AST 2070H General Relativity II: Applications and Cosmology](http://www.astro.utoronto.ca/academics/graduate-studies/ast-2070s-general-relativity-ii-applications-cosmology/)
 
-#### Courses from other departments
-You may find an interesting graduate course offering from another department. Taking these course for credit is subject to the approval [the graduate chair](#graduate-associate-chair-chris-matzner), but you can find a list of preapproved courses from the physics department on the department [webpage](http://www.astro.utoronto.ca/academics/graduate-studies/current/courses/).
+**Specialized Courses**
+
+-   [AST 3010H Advanced Topics in Stellar and Galactic Astronomy  
+    ](http://www.astro.utoronto.ca/academics/graduate-studies/current-graduate-students/current-course-offerings/ast-3010h-advanced-topics-in-stellar-and-galactic-astronomy/)
+-   [AST 3020H Advanced Topics in Interstellar Matter and Star Formation I](http://www.astro.utoronto.ca/academics/graduate-studies/current-graduate-students/current-course-offerings/ast-3020h-advanced-topics-in-ism-and-starformation-star-formation/)
+-   [AST 3021H Advanced Topics in Interstellar Matter and Star Formation II](http://www.astro.utoronto.ca/academics/graduate-studies/current-graduate-students/current-course-offerings/ast-3020h-advanced-topics-in-ism-and-starformation-star-formation/)
+-   [AST 3050H Theoretical Cosmology](http://www.astro.utoronto.ca/academics/graduate-studies/ast-3050h-theoretical-cosmology/)
 
 #### Mini Courses
+
+In addition to the regular courses, the department also offers 'Mini Courses' 
+
+#### Courses from other departments
+You may find an interesting graduate course offering from another department. Taking these course for credit is subject to the approval [the graduate chair](#graduate-associate-chair-chris-matzner), but you can find a list of preapproved courses from the physics department on the department [webpage](http://www.astro.utoronto.ca/academics/graduate-studies/current/courses/).
 
 #### Auditing a course
 A course may catch your interest that isn't necessary for you to complete your program requirements. Auditing courses is permitted, but you should keep in mind that if no one signs up to take the course for credit, then the course won't run. Different profs will have different standards for auditing students - some may be fine with you just sitting in lectures, but others may require you to make attempts at the assignments, whether they be problem sets or final presentations. Speak to the prof teaching the course you're interested in to find out what they expect from auditing students.
@@ -1288,7 +1300,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NTE0NzU4NCwtMTg3NDA5OTY5LC02Nj
+eyJoaXN0b3J5IjpbMTUyNTMwMDk2OSwtMTg3NDA5OTY5LC02Nj
 gyNjUzMjEsNDcyNzAzNzYzLC0yNDI2NDQ5Myw2MDI3OTI0MDYs
 LTgzNTY2MDQ3MCwxNjAwOTE3NTMxLDIyOTkwMDQ2OSwtMTUzMj
 M3NzQwOSw3MTY1MTI5NjUsLTEyMTgzNTIxMzAsNDQyOTg2NDU0
