@@ -568,9 +568,15 @@ I've described here the typical timeline to graduation for someone in the direct
 - **Fifth Year**
 	- Fall Semester
 		- Continue work on thesis project
-		- Write t
 		- Hold [thesis committee](#thesis-committee) meeting
 		- [TA](#teaching) a course	
+	- Winter Semester
+		- Continue work on thesis project
+		- Hold [thesis committee](#thesis-committee) meeting
+		- [TA](#teaching) a course
+	- Summer Semester
+		- Finish [thesis](#thesis)
+		- Complete [thesis defense](#thesis-defense)
 	
 
 ### AST1501Y and AST1500Y
@@ -618,6 +624,10 @@ The full schedule of courses and their descriptions are outlined on the [departm
 ### Thesis Qualifier
 
 ### Thesis Committee
+
+### Thesis
+
+### Thesis Defense
 
 ## Teaching
 Buy-outs
@@ -1254,11 +1264,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU3MjYxMjIzLC0xODc0MDk5NjksLTY2OD
-I2NTMyMSw0NzI3MDM3NjMsLTI0MjY0NDkzLDYwMjc5MjQwNiwt
-ODM1NjYwNDcwLDE2MDA5MTc1MzEsMjI5OTAwNDY5LC0xNTMyMz
-c3NDA5LDcxNjUxMjk2NSwtMTIxODM1MjEzMCw0NDI5ODY0NTQs
-LTE0ODg5MDQ2MTYsMTEwODQ1NTU1MiwtMTkwMDg4MjQzOSwxOD
-k0OTQ3Nzg2LDMzMzI0NTAwMiwtMTY3NzA5OTMxOSwtMTM3MDAw
-Njg4OV19
+eyJoaXN0b3J5IjpbLTczNjMxMzQyMCwtMTg3NDA5OTY5LC02Nj
+gyNjUzMjEsNDcyNzAzNzYzLC0yNDI2NDQ5Myw2MDI3OTI0MDYs
+LTgzNTY2MDQ3MCwxNjAwOTE3NTMxLDIyOTkwMDQ2OSwtMTUzMj
+M3NzQwOSw3MTY1MTI5NjUsLTEyMTgzNTIxMzAsNDQyOTg2NDU0
+LC0xNDg4OTA0NjE2LDExMDg0NTU1NTIsLTE5MDA4ODI0MzksMT
+g5NDk0Nzc4NiwzMzMyNDUwMDIsLTE2NzcwOTkzMTksLTEzNzAw
+MDY4ODldfQ==
 -->
