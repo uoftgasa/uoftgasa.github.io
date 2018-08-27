@@ -705,8 +705,8 @@ Conversely, you may wish to earn additional money on top of the base [funding pa
 ### Courses to TA
 Grad students are typically assigned to astronomy department courses, although you may take on a TAship in another department if one is advertised. The undergrad courses that take on TAs are listed below.
 
-- AST101 - The Sun and its Neighbours
-	- This and it's counterpart AST201 are the larger
+- AST101H - The Sun and its Neighbours (Fall)
+	- This and it's counterpart AST201 are the largest offerings from the department. The course accepts around 1300 undergrads, and has about 30 TAs. TA duties include running tutorials, hosting planetarium shows and observing nights, marking assignments and tests,  answering the student forum
 
 ### Teaching Assistant Training Program
 
@@ -1338,7 +1338,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MzM0OTU4LC0xNTk4ODQ5OTM4LC0xOT
+eyJoaXN0b3J5IjpbMjkxOTcxNjAzLC0xNTk4ODQ5OTM4LC0xOT
 A1ODU4NzAxLC0xODc0MDk5NjksLTY2ODI2NTMyMSw0NzI3MDM3
 NjMsLTI0MjY0NDkzLDYwMjc5MjQwNiwtODM1NjYwNDcwLDE2MD
 A5MTc1MzEsMjI5OTAwNDY5LC0xNTMyMzc3NDA5LDcxNjUxMjk2
