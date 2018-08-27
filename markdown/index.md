@@ -614,10 +614,13 @@ Along with these formal requirements, students work with their supervisors to es
 
 ### Courses
 
-The full schedule of courses and their descriptions are outlined on the [department website](http://www.astro.utoronto.ca/academics/graduate-studies/current/courses/). Courses are divided into 4 categories. The 'research' courses are [AST1501Y and AST1500Y](#ast1501y-and-ast1500y), described above. In addition to these, you have the option to take 'preparatory' courses (1000-level), in introductory topics, and 'elective' courses (2000-level) with a more tighter focus on one aspect of astronomy. Advanced topics are taught in 'specialized' courses (3000-level). In undergrad, the leading number of a course code roughly corresponds to the year in which it's appropriate to take that course, but that isn't the case for grad courses. You may take any course at any point during your degree, although students typically try to finish their courses in their first two years (prior to the qualifying exam).
+The full schedule of courses and their descriptions are outlined on the [department website](http://www.astro.utoronto.ca/academics/graduate-studies/current/courses/). Courses are divided into 4 categories. The 'research' courses are [AST1501Y and AST1500Y](#ast1501y-and-ast1500y), described above. In addition to these, you have the option to take 'preparatory' courses (1000-level), in introductory topics, and 'elective' courses (2000-level) with a more tighter focus on one aspect of astronomy. Advanced topics are taught in 'specialized' courses (3000-level). In undergrad, the leading number of a course code roughly corresponds to the year in which it's appropriate to take that course, but that isn't the case for grad courses. You may take any course at any point during your degree, although students typically try to finish their courses in their first two years (prior to the qualifying exam). Each course is expected to take approximately 8-10 hours of work a week, including lectures, reading, and homework assignments, but workload varies between courses.
 
 #### Courses from other departments
 #### Mini Courses
+
+#### Auditing a course
+A course may catch your interest that isn't necessary for you to complete your program requirements. Auditing courses 
 
 ### General Qualifier
 
@@ -1264,11 +1267,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNjMxMzQyMCwtMTg3NDA5OTY5LC02Nj
-gyNjUzMjEsNDcyNzAzNzYzLC0yNDI2NDQ5Myw2MDI3OTI0MDYs
-LTgzNTY2MDQ3MCwxNjAwOTE3NTMxLDIyOTkwMDQ2OSwtMTUzMj
-M3NzQwOSw3MTY1MTI5NjUsLTEyMTgzNTIxMzAsNDQyOTg2NDU0
-LC0xNDg4OTA0NjE2LDExMDg0NTU1NTIsLTE5MDA4ODI0MzksMT
-g5NDk0Nzc4NiwzMzMyNDUwMDIsLTE2NzcwOTkzMTksLTEzNzAw
-MDY4ODldfQ==
+eyJoaXN0b3J5IjpbLTEyNDU0MTA2OTEsLTE4NzQwOTk2OSwtNj
+Y4MjY1MzIxLDQ3MjcwMzc2MywtMjQyNjQ0OTMsNjAyNzkyNDA2
+LC04MzU2NjA0NzAsMTYwMDkxNzUzMSwyMjk5MDA0NjksLTE1Mz
+IzNzc0MDksNzE2NTEyOTY1LC0xMjE4MzUyMTMwLDQ0Mjk4NjQ1
+NCwtMTQ4ODkwNDYxNiwxMTA4NDU1NTUyLC0xOTAwODgyNDM5LD
+E4OTQ5NDc3ODYsMzMzMjQ1MDAyLC0xNjc3MDk5MzE5LC0xMzcw
+MDA2ODg5XX0=
 -->
