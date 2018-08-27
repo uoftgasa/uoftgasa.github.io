@@ -727,11 +727,11 @@ If you'd like to hone your teaching skills, UofT offers an on campus training pr
 
 ## Computing
 
-Computer resources are provided by the department in your first year, and by your supervisor in subsequent years. Students may request a desktop Linux machine from the department through [Hugh Zhao](#computing-manager-hugh-zhao). Students working in [CITA](#canadian-institute-for-theoretical-astrophysics) will be provided with a desktop computer to access the [CITA network](
+Computer resources are provided by the department in your first year, and by your supervisor in subsequent years. Students may request a desktop Linux machine from the department through [Hugh Zhao](#computing-manager-hugh-zhao). Students working in [CITA](#canadian-institute-for-theoretical-astrophysics) will be provided with a desktop computer to access the [CITA network](https://wiki.cita.utoronto.ca/index.php/Quickstart).
 
 ### Personal Computers
 
-Personal computers are the responsibility of the student to maintain. The department staff may be able to assist with installations and set up, but cannot guarantee support for personal computers. All personal computers can access UofT services like journal licenses when on the 'UofT' wireless network, available throughout campus. Printing from a personal computer in [AB](#astronomy-building) requires the registration of your MAC address with [Hugh Zhao](#computing-manager-hugh-zhao).
+Personal computers are the responsibility of the student to maintain. The department staff may be able to assist with installations and set up, but cannot guarantee support for personal computers. All personal computers can access UofT services like journal licenses when on the 'UofT' wireless network, available throughout campus. Printing from a personal computer in [AB](#astronomy-building) requires the registration of your MAC address with [Hugh Zhao](#computing-manager-hugh-zhao).  Printing from a personal computer in [MP](#mclennan-physical-labs-and-burton-tower)
 
 ### SciNet
 
@@ -1367,11 +1367,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDQ2ODY4MywtNzk2ODQxODQ0LC0xNT
-k4ODQ5OTM4LC0xOTA1ODU4NzAxLC0xODc0MDk5NjksLTY2ODI2
-NTMyMSw0NzI3MDM3NjMsLTI0MjY0NDkzLDYwMjc5MjQwNiwtOD
-M1NjYwNDcwLDE2MDA5MTc1MzEsMjI5OTAwNDY5LC0xNTMyMzc3
-NDA5LDcxNjUxMjk2NSwtMTIxODM1MjEzMCw0NDI5ODY0NTQsLT
-E0ODg5MDQ2MTYsMTEwODQ1NTU1MiwtMTkwMDg4MjQzOSwxODk0
-OTQ3Nzg2XX0=
+eyJoaXN0b3J5IjpbMTQyODg4NDM4LC03OTY4NDE4NDQsLTE1OT
+g4NDk5MzgsLTE5MDU4NTg3MDEsLTE4NzQwOTk2OSwtNjY4MjY1
+MzIxLDQ3MjcwMzc2MywtMjQyNjQ0OTMsNjAyNzkyNDA2LC04Mz
+U2NjA0NzAsMTYwMDkxNzUzMSwyMjk5MDA0NjksLTE1MzIzNzc0
+MDksNzE2NTEyOTY1LC0xMjE4MzUyMTMwLDQ0Mjk4NjQ1NCwtMT
+Q4ODkwNDYxNiwxMTA4NDU1NTUyLC0xOTAwODgyNDM5LDE4OTQ5
+NDc3ODZdfQ==
 -->
