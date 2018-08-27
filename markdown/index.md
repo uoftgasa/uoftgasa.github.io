@@ -647,10 +647,10 @@ The following courses are the full offering from the department, but not all of 
 
 #### Mini Courses
 
-In addition to the regular courses, the department also offers 'Mini Courses', which are worth (1/3) of a half credit course (with about 1/3 the time commitment and workload). These courses are meant to focus on an extremely specialized topic that wouldn't fill out a regular course in the scope of the PhD program. In the past these courses have been offered on specialized technical skills, like running hydrodynamic code or N-body simulations, particular astronomical phenomena, like transients or compact objects, or soft skills like order of magnitude assessment, teaching or giving presentations. These courses may be offered when a prof is inspired about something particular or when students request instruction in a particular subject. Unlike the courses described above, enrolment is informal, occurring by direct email to the instructing professor and the [graduate administrator](#graduate-administrator-margaret-meaney) rather than through [ACORN](
+In addition to the regular courses, the department also offers 'Mini Courses', which are worth (1/3) of a half credit course (with about 1/3 the time commitment and workload). These courses are meant to focus on an extremely specialized topic that wouldn't fill out a regular course in the scope of the PhD program. In the past these courses have been offered on specialized technical skills, like running hydrodynamic code or N-body simulations, particular astronomical phenomena, like transients or compact objects, or soft skills like order of magnitude assessment, teaching or giving presentations. These courses may be offered when a prof is inspired about something particular or when students request instruction in a particular subject. Unlike the courses described above, enrolment is informal, occurring by direct email to the instructing professor and the [graduate administrator](#graduate-administrator-margaret-meaney) rather than through [ACORN](acorn.utoronto.ca). Once you've taken three mini courses, they're entered in to your academic record to give you half a credit towards your degree.
 
 #### Courses from other departments
-You may find an interesting graduate course offering from another department. Taking these course for credit is subject to the approval [the graduate chair](#graduate-associate-chair-chris-matzner), but you can find a list of preapproved courses from the physics department on the department [webpage](http://www.astro.utoronto.ca/academics/graduate-studies/current/courses/).
+You may find an interesting graduate course offering from another department. Taking these course for credit is subject to the approval [the graduate chair](#graduate-associate-chair-chris-matzner), but you can find a list of preapproved courses from the physics department on the department [webpage](http://www.astro.utoronto.ca/academics/graduate-studies/current/courses/). [Scinet](https://www.scinethpc.ca/training-outreach-and-education/), a high performance computing centre associated with UofT offers a course in three modu
 
 #### Auditing a course
 A course may catch your interest that isn't necessary for you to complete your program requirements. Auditing courses is permitted, but you should keep in mind that if no one signs up to take the course for credit, then the course won't run. Different profs will have different standards for auditing students - some may be fine with you just sitting in lectures, but others may require you to make attempts at the assignments, whether they be problem sets or final presentations. Speak to the prof teaching the course you're interested in to find out what they expect from auditing students.
@@ -1300,11 +1300,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTIwNjQ4MDIsLTE4NzQwOTk2OSwtNj
-Y4MjY1MzIxLDQ3MjcwMzc2MywtMjQyNjQ0OTMsNjAyNzkyNDA2
-LC04MzU2NjA0NzAsMTYwMDkxNzUzMSwyMjk5MDA0NjksLTE1Mz
-IzNzc0MDksNzE2NTEyOTY1LC0xMjE4MzUyMTMwLDQ0Mjk4NjQ1
-NCwtMTQ4ODkwNDYxNiwxMTA4NDU1NTUyLC0xOTAwODgyNDM5LD
-E4OTQ5NDc3ODYsMzMzMjQ1MDAyLC0xNjc3MDk5MzE5LC0xMzcw
-MDA2ODg5XX0=
+eyJoaXN0b3J5IjpbLTg1NzU0MDA1NSwtMTg3NDA5OTY5LC02Nj
+gyNjUzMjEsNDcyNzAzNzYzLC0yNDI2NDQ5Myw2MDI3OTI0MDYs
+LTgzNTY2MDQ3MCwxNjAwOTE3NTMxLDIyOTkwMDQ2OSwtMTUzMj
+M3NzQwOSw3MTY1MTI5NjUsLTEyMTgzNTIxMzAsNDQyOTg2NDU0
+LC0xNDg4OTA0NjE2LDExMDg0NTU1NTIsLTE5MDA4ODI0MzksMT
+g5NDk0Nzc4NiwzMzMyNDUwMDIsLTE2NzcwOTkzMTksLTEzNzAw
+MDY4ODldfQ==
 -->
