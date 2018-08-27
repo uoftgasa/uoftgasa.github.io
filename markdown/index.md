@@ -664,7 +664,7 @@ You can find the [2018 question bank online](http://www.cita.utoronto.ca/~matzne
 
 ### Thesis Qualifier
 
-The thesis qualifying exam is intended to test your expertise in the topic you've chosen for your thesis. The exam consists of a 15-20 minute presentation which focuses on how your work will fit in with the current state of the field, and, more importantly, the reasons that you are most qualified to do this work. The goal of the presentation is to convince the committee of five faculty members (including your [thesis committee](#thesis-committee)) that you have a clear and concrete plan toward completing your thesis on time, and that the project you propose is appropriate for a thesis work. Your sup
+The thesis qualifying exam is intended to test your expertise in the topic you've chosen for your thesis. Prior to the exam, you'll need to turn in a 10 page thesis proposal, that outlines your planned work and includes a timeline. The exam consists of a 15-20 minute presentation which focuses on how your work will fit in with the current state of the field, and, more importantly, the reasons that you are most qualified to do this work. The goal of the presentation is to convince the committee of five faculty members (including your [thesis committee](#thesis-committee)) that you have a clear and concrete plan toward completing your thesis on time, and that the project you propose is appropriate for a thesis work. Your supervisor should be able to help you determine how best to discuss your work. After the presentation, there's an extended question period
 
 ### Thesis Committee
 
@@ -1307,11 +1307,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMjE1NTMzMywtMTU5ODg0OTkzOCwtMT
-kwNTg1ODcwMSwtMTg3NDA5OTY5LC02NjgyNjUzMjEsNDcyNzAz
-NzYzLC0yNDI2NDQ5Myw2MDI3OTI0MDYsLTgzNTY2MDQ3MCwxNj
-AwOTE3NTMxLDIyOTkwMDQ2OSwtMTUzMjM3NzQwOSw3MTY1MTI5
-NjUsLTEyMTgzNTIxMzAsNDQyOTg2NDU0LC0xNDg4OTA0NjE2LD
-ExMDg0NTU1NTIsLTE5MDA4ODI0MzksMTg5NDk0Nzc4NiwzMzMy
-NDUwMDJdfQ==
+eyJoaXN0b3J5IjpbLTExOTM5NDk4MTMsLTE1OTg4NDk5MzgsLT
+E5MDU4NTg3MDEsLTE4NzQwOTk2OSwtNjY4MjY1MzIxLDQ3Mjcw
+Mzc2MywtMjQyNjQ0OTMsNjAyNzkyNDA2LC04MzU2NjA0NzAsMT
+YwMDkxNzUzMSwyMjk5MDA0NjksLTE1MzIzNzc0MDksNzE2NTEy
+OTY1LC0xMjE4MzUyMTMwLDQ0Mjk4NjQ1NCwtMTQ4ODkwNDYxNi
+wxMTA4NDU1NTUyLC0xOTAwODgyNDM5LDE4OTQ5NDc3ODYsMzMz
+MjQ1MDAyXX0=
 -->
