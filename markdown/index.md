@@ -815,20 +815,20 @@ To see who currently holds these positions, check the [GASA website](http://www.
 - **Representatives to external committees/organizations**
 	- **CASCA Rep**
 		- Representative to the Canadian Astronomical Society.
-	- GSU Rep
+	- **GSU Rep**
 		- Representative to the Graduate Student Union.
-	- CUPE Rep
+	- **CUPE Rep**
 		- Representative to the teaching assistant's union.
-	- Health and Safety Rep
+	- **Health and Safety Rep**
 		- Representative to the department's health and safety committee.
-	- Building Committee Rep
+	- **Building Committee Rep**
 		- Representative to the department's committee for planning the new building to replace [AB](#astronomy-building).
-	- Astronomy Union Ambassador
+	- **Astronomy Union Ambassador**
 		- Representative to the undergraduate Astronomy Union.
 
 ### AstroTours
 
-AstroTours is GASA's primary outreach initiative, offering an opportunity for students to practice presenting their work to an audience of the general public.
+AstroTours is GASA's primary outreach initiative, offering an opportunity for students to practice presenting their work to an audience of the general public. An AstroTour occurs on the first Thursday of most months. In addition to a 45-minute talk, attendees can enjoy the sights through the telescopes on the top of [MP](#mclennan-physical-labs-and-burton-tower) and planetarium shows 
 
 -**Co-Director**
 -**Volunteer Coordinator**
@@ -1430,11 +1430,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzczMTU1MjY2LDc4NzI4NTU3LC03OTY4ND
-E4NDQsLTE1OTg4NDk5MzgsLTE5MDU4NTg3MDEsLTE4NzQwOTk2
-OSwtNjY4MjY1MzIxLDQ3MjcwMzc2MywtMjQyNjQ0OTMsNjAyNz
-kyNDA2LC04MzU2NjA0NzAsMTYwMDkxNzUzMSwyMjk5MDA0Njks
-LTE1MzIzNzc0MDksNzE2NTEyOTY1LC0xMjE4MzUyMTMwLDQ0Mj
-k4NjQ1NCwtMTQ4ODkwNDYxNiwxMTA4NDU1NTUyLC0xOTAwODgy
-NDM5XX0=
+eyJoaXN0b3J5IjpbLTIwMjc3MjgwNzcsNzg3Mjg1NTcsLTc5Nj
+g0MTg0NCwtMTU5ODg0OTkzOCwtMTkwNTg1ODcwMSwtMTg3NDA5
+OTY5LC02NjgyNjUzMjEsNDcyNzAzNzYzLC0yNDI2NDQ5Myw2MD
+I3OTI0MDYsLTgzNTY2MDQ3MCwxNjAwOTE3NTMxLDIyOTkwMDQ2
+OSwtMTUzMjM3NzQwOSw3MTY1MTI5NjUsLTEyMTgzNTIxMzAsND
+QyOTg2NDU0LC0xNDg4OTA0NjE2LDExMDg0NTU1NTIsLTE5MDA4
+ODI0MzldfQ==
 -->
