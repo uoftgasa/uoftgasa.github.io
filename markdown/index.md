@@ -309,7 +309,7 @@ Rooms labelled ABXX are in the basement, those labelled AB1XX are on the first f
 	 - accessible via key in the mailroom
 	- this room must be booked prior to use
 	- you must attend a training session to use the planetarium
- - **AB83** - 3D printer and miscellaneous outreach material
+ - **AB85** - 3D printer and miscellaneous outreach material
 	 -  accessible via key from the 3D printing rep or IT Technologist
 	 - this room must be booked prior to use
 	 - you must attend a training session to use the 3D printer
@@ -331,7 +331,7 @@ Rooms labelled ABXX are in the basement, those labelled AB1XX are on the first f
 		 - paper shedder
 		 - projectors and laptops in the tech cabinet
  - **AB107 (Cody Hall)** - Lecture hall
-	 - open to all
+	 - this room must be booked through the office of [Academic and Campus Events (ACE)](#https://www.ace.utoronto.ca)
 	 - location of [astronomy colloquiua](#colloquium)
  - **AB111** - Graduate student meeting room
 	 - accessible via your mailroom key
@@ -1193,7 +1193,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3OTIwNzE3NSw0NzI3MDM3NjMsLTI0Mj
+eyJoaXN0b3J5IjpbLTI3Njk1NDkwNCw0NzI3MDM3NjMsLTI0Mj
 Y0NDkzLDYwMjc5MjQwNiwtODM1NjYwNDcwLDE2MDA5MTc1MzEs
 MjI5OTAwNDY5LC0xNTMyMzc3NDA5LDcxNjUxMjk2NSwtMTIxOD
 M1MjEzMCw0NDI5ODY0NTQsLTE0ODg5MDQ2MTYsMTEwODQ1NTU1
