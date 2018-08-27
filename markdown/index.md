@@ -282,14 +282,14 @@ The Centre for Planetary Sciences (CPS) is located on UofT's [Scarborough campus
 [**Table of Contents**](#table-of-contents)
 
 ### St George
-Also called UTSG, this is UofT's "downtown" campus, located in the heart of Toronto. You can reach this campus easily on foot, by bicycle, or by taking the [TTC](#toronto-transit-commission) to Line 1 subway stations (Queen's Park, Museum, St George, Spadina), to Line 2 subway stations (St George, Spadina),  by using the 506 and 510 streetcar lines or by taking the 94 Wellesley bus. There is limited street parking available, as well as underground parking lots that can be entered for a fee, some requiring a permit. This campus hosts the two main astronomy buildings, [AB](#astronomy-building) and [MP](#mclennan-physical-labs-and-burton-tower), where you can find the [department](#department-of-astronomy-and-astrophysics), the [Dunlap Institute]
+Also called UTSG, this is UofT's "downtown" campus, located in the heart of Toronto. You can reach this campus easily on foot, by bicycle, or by taking the [TTC](#toronto-transit-commission) to Line 1 subway stations (Queen's Park, Museum, St George, Spadina), to Line 2 subway stations (St George, Spadina),  by using the 506 and 510 streetcar lines or by taking the 94 Wellesley bus. There is limited street parking available, as well as underground parking lots that can be entered for a fee, some requiring a permit. This campus hosts the two main astronomy buildings, [AB](#astronomy-building) and [MP](#mclennan-physical-labs-and-burton-tower), where you can find the [department](#department-of-astronomy-and-astrophysics), the [Dunlap Institute](#dunlap-institute) and [CITA](#canadian-institute-for-theoretical-astrophysics).
 
 ### Scarborough
 
-The UTSC campus is UofT's eastern satellite campus, in the Scarborough suburb of Toronto. This campus can be reached by car via the 401 highway, or by [TTC](#toronto-transit-commission) by taking a bus from the York Mills (on Line 1) or from Kennedy Station (Line 2).  This campus is home to [CPS](#centre-for-planetary-sciences), and hosts the [Scarborough Planet Days](#scarborough-planet-days) and [Scarborough Planet Lunches](#scarborough-planet-lunches).
+The UTSC campus is UofT's eastern satellite campus, in the Scarborough suburb of Toronto. This campus can be reached by car via the 401 highway, or by [TTC](#toronto-transit-commission) by taking a bus from the York Mills (on Line 1) or from Kennedy Station (Line 2).  This campus is home to [CPS](#centre-for-planetary-sciences), and hosts the [Scarborough Planet Days](#scarborough-planet-days) and [Scarborough Planet Lunches](#scarborough-planet-lunches). Astronomy courses are taught there, and you may have the option to TA one of them.
 
 ### Mississauga
-Also called UTM, this is UofT's western satellite campus, located in the neighbouring city of Mississauga. There is a shuttle that runs between [Hart House](#hart-house) on the [UTSG](#st-george) campus and the UTM Instructional Centre. The shuttle is free for students with their [TCard](#tcard). There is only one faculty member appointed to the  UTM campus, but astronomy courses are taught there, and you may have the option to TA ones them.
+Also called UTM, this is UofT's western satellite campus, located in the neighbouring city of Mississauga. There is a shuttle that runs between [Hart House](#hart-house) on the [UTSG](#st-george) campus and the UTM Instructional Centre. The shuttle is free for students with their [TCard](#tcard). There is only one faculty member appointed to the  UTM campus, but astronomy courses are taught there, and you may have the option to TA one of them.
 
 ## Buildings
 [**Table of Contents**](#table-of-contents)
@@ -1193,7 +1193,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMDkwNDI3Myw0NzI3MDM3NjMsLTI0Mj
+eyJoaXN0b3J5IjpbLTc3OTIwNzE3NSw0NzI3MDM3NjMsLTI0Mj
 Y0NDkzLDYwMjc5MjQwNiwtODM1NjYwNDcwLDE2MDA5MTc1MzEs
 MjI5OTAwNDY5LC0xNTMyMzc3NDA5LDcxNjUxMjk2NSwtMTIxOD
 M1MjEzMCw0NDI5ODY0NTQsLTE0ODg5MDQ2MTYsMTEwODQ1NTU1
