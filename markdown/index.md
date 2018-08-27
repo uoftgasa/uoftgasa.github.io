@@ -647,7 +647,7 @@ The following courses are the full offering from the department, but not all of 
 
 #### Mini Courses
 
-In addition to the regular courses, the department also offers 'Mini Courses', which are worth (1/3) of a half credit course (with about 1/3 the time commitment and wor
+In addition to the regular courses, the department also offers 'Mini Courses', which are worth (1/3) of a half credit course (with about 1/3 the time commitment and workload). These courses are meant to focus on an extremely specialized topic that wouldn't fill out a regular course in the scope of the PhD program. In the past these courses have been offered on specialized technical skills, like running hydrodynamic code or N-body simulations, 
 
 #### Courses from other departments
 You may find an interesting graduate course offering from another department. Taking these course for credit is subject to the approval [the graduate chair](#graduate-associate-chair-chris-matzner), but you can find a list of preapproved courses from the physics department on the department [webpage](http://www.astro.utoronto.ca/academics/graduate-studies/current/courses/).
@@ -1300,7 +1300,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NTk3NTQwOCwtMTg3NDA5OTY5LC02Nj
+eyJoaXN0b3J5IjpbMTY3MzMxMzU3MSwtMTg3NDA5OTY5LC02Nj
 gyNjUzMjEsNDcyNzAzNzYzLC0yNDI2NDQ5Myw2MDI3OTI0MDYs
 LTgzNTY2MDQ3MCwxNjAwOTE3NTMxLDIyOTkwMDQ2OSwtMTUzMj
 M3NzQwOSw3MTY1MTI5NjUsLTEyMTgzNTIxMzAsNDQyOTg2NDU0
