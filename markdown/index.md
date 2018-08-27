@@ -913,15 +913,21 @@ Note that many of these events are not held during the summer.
 	- 1/2 hour long
 	- Open to all
 - **Dunlap Tea**
-	- Free snacks in the [AB Lounge](#ab-common-rooms) at 2pm on Mondays
+	- Free snacks in the [AB Lounge](#ab-common-rooms) at 2pm on Mondays.
 	- 1 hour long
 	- Open to all
 - **GASA Tea**
-	- Tea by donation in the [AB Lounge](#ab-common-rooms) at 4pm on Tuesdays
+	- Tea by donation in the [AB Lounge](#ab-common-rooms) at 4pm on Tuesdays.
 	- 1 hour long
 	- Open to all
 - **Dunlap Outreach Meeting**
-	- Weekly meetings to discuss outreach initiatives
+	- Weekly meetings to discuss outreach initiatives in the [AB Lounge](#ab-common-rooms).
+- **Sci-Fi Friday**
+	- Weekly lunch discussion of science fiction at 12:15 on Fridays in the [AB Lounge](#ab-common-rooms).
+	- 1 hour long
+	- Open to all, but beware spoilers
+- **CITA Desserts**
+	- Weekly free 
 - [Morning Coffee](#morning-coffee)
 - [GASA Tea](#gasa-tea)
 - [Dunlap Outreach Meeting](#dunlap-outreach-meeting)
@@ -1498,11 +1504,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMjgwMTEwNCwxNTA5NzIxNzIsNzg3Mj
-g1NTcsLTc5Njg0MTg0NCwtMTU5ODg0OTkzOCwtMTkwNTg1ODcw
-MSwtMTg3NDA5OTY5LC02NjgyNjUzMjEsNDcyNzAzNzYzLC0yND
-I2NDQ5Myw2MDI3OTI0MDYsLTgzNTY2MDQ3MCwxNjAwOTE3NTMx
-LDIyOTkwMDQ2OSwtMTUzMjM3NzQwOSw3MTY1MTI5NjUsLTEyMT
-gzNTIxMzAsNDQyOTg2NDU0LC0xNDg4OTA0NjE2LDExMDg0NTU1
-NTJdfQ==
+eyJoaXN0b3J5IjpbMTUwODQwNDk0NywxMDIyODAxMTA0LDE1MD
+k3MjE3Miw3ODcyODU1NywtNzk2ODQxODQ0LC0xNTk4ODQ5OTM4
+LC0xOTA1ODU4NzAxLC0xODc0MDk5NjksLTY2ODI2NTMyMSw0Nz
+I3MDM3NjMsLTI0MjY0NDkzLDYwMjc5MjQwNiwtODM1NjYwNDcw
+LDE2MDA5MTc1MzEsMjI5OTAwNDY5LC0xNTMyMzc3NDA5LDcxNj
+UxMjk2NSwtMTIxODM1MjEzMCw0NDI5ODY0NTQsLTE0ODg5MDQ2
+MTZdfQ==
 -->
