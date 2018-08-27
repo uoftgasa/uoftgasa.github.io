@@ -860,7 +860,8 @@ There are quite a few department events that occur on a weekly basis, which can 
 - [Dunlap Calendar](http://www.dunlap.utoronto.ca/about/dunlap-calendar/)
 - [GASA Calendar](http://www.astro.utoronto.ca/~gasa/calendar.html)
 
-While the lists below are extensive, the Colloquium is the main required event. It's expected you'll attend relevant CITA Seminars, and the Blackboard talks and astro-ph Co are excellent value
+While the lists below are extensive, the Colloquium is the main required event. It's expected you'll attend relevant CITA Seminars, and the Blackboard talks and astro-ph Coffees are excellent ways to stay abreast of happenings outside your chosen field. However, aside from those events it's up to you (or your supervisor) to decide what's important for you to attend.
+
 Note that many of these events are not held during the summer.
 
 ### Scientific Events
@@ -905,23 +906,14 @@ Note that many of these events are not held during the summer.
 	- Weekly informal presentation of recent results in planetary science, held in [Scarborough](#scarborough).
 	- 1 hour long
 	- Open to all
-- [Colloquium](#colloquium)
-		- [CITA Seminars](#cita-seminars)
-		- [Blackboard Talks](#blackboard-talks)
-		- [astro-ph Coffee](#astro-ph-coffee)
-		- [Stars and Planets Discussion Group](#stars-and-planets-discussion-group)
-		- [Pulsar Coffee](#pulsar-coffee)
-		- [Talk Show](#talk-show)
-		- [Cosmology Lunch](#cosmology-lunch)
-		- [CPS Planet Lunches](#cps-planet-lunches)
 
-### Non-Scientific Events
-Calendars
-		
-		- [Morning Coffee](#morning-coffee)
-		- [GASA Tea](#gasa-tea)
-		- [Dunlap Outreach Meeting](#dunlap-outreach-meeting)
-		- [Sci-Fi Friday](#sci-fi-friday)
+### Non-Scientific Events		
+- **Morning Coffee**
+	- 
+- [Morning Coffee](#morning-coffee)
+- [GASA Tea](#gasa-tea)
+- [Dunlap Outreach Meeting](#dunlap-outreach-meeting)
+- [Sci-Fi Friday](#sci-fi-friday)
 
 ## Finances
 [**Table of Contents**](#table-of-contents)
@@ -1494,11 +1486,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTc2NzI4NDksMTUwOTcyMTcyLDc4Nz
-I4NTU3LC03OTY4NDE4NDQsLTE1OTg4NDk5MzgsLTE5MDU4NTg3
-MDEsLTE4NzQwOTk2OSwtNjY4MjY1MzIxLDQ3MjcwMzc2MywtMj
-QyNjQ0OTMsNjAyNzkyNDA2LC04MzU2NjA0NzAsMTYwMDkxNzUz
-MSwyMjk5MDA0NjksLTE1MzIzNzc0MDksNzE2NTEyOTY1LC0xMj
-E4MzUyMTMwLDQ0Mjk4NjQ1NCwtMTQ4ODkwNDYxNiwxMTA4NDU1
-NTUyXX0=
+eyJoaXN0b3J5IjpbLTc2NjcyNTA2LDE1MDk3MjE3Miw3ODcyOD
+U1NywtNzk2ODQxODQ0LC0xNTk4ODQ5OTM4LC0xOTA1ODU4NzAx
+LC0xODc0MDk5NjksLTY2ODI2NTMyMSw0NzI3MDM3NjMsLTI0Mj
+Y0NDkzLDYwMjc5MjQwNiwtODM1NjYwNDcwLDE2MDA5MTc1MzEs
+MjI5OTAwNDY5LC0xNTMyMzc3NDA5LDcxNjUxMjk2NSwtMTIxOD
+M1MjEzMCw0NDI5ODY0NTQsLTE0ODg5MDQ2MTYsMTEwODQ1NTU1
+Ml19
 -->
