@@ -801,9 +801,13 @@ To see who currently holds these positions, check the [GASA website](http://www.
 		- Maintains and updates the GASA website, with visual updates when necessary.
 - **Social Positions**
 	- Dinner with the Speaker	
+		- Organizes weekly dinners with the graduate students and the colloquium speaker.
 	- Quals/Thesis Celebration
+		- Purchases refreshments for celebrating a successful qualifying exam or thesis defense.
 	- Coffee Master
-	- Tea Master
+		- Submits orders for more coffee in the [AB](#astronomy-building) lounge
+	- Tea Master (3)
+		- Organizes weekly GASA Tea, to which all are welcome, and collect donation to purchase more tea.
 	- Paint Master
 	- 	Friends of the Editor
 - **Representatives to external committees/organizations**
@@ -1431,11 +1435,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDI5MTI0MjgsLTc5Njg0MTg0NCwtMT
-U5ODg0OTkzOCwtMTkwNTg1ODcwMSwtMTg3NDA5OTY5LC02Njgy
-NjUzMjEsNDcyNzAzNzYzLC0yNDI2NDQ5Myw2MDI3OTI0MDYsLT
-gzNTY2MDQ3MCwxNjAwOTE3NTMxLDIyOTkwMDQ2OSwtMTUzMjM3
-NzQwOSw3MTY1MTI5NjUsLTEyMTgzNTIxMzAsNDQyOTg2NDU0LC
-0xNDg4OTA0NjE2LDExMDg0NTU1NTIsLTE5MDA4ODI0MzksMTg5
-NDk0Nzc4Nl19
+eyJoaXN0b3J5IjpbMTI0NzA4NDUxNCwtNzk2ODQxODQ0LC0xNT
+k4ODQ5OTM4LC0xOTA1ODU4NzAxLC0xODc0MDk5NjksLTY2ODI2
+NTMyMSw0NzI3MDM3NjMsLTI0MjY0NDkzLDYwMjc5MjQwNiwtOD
+M1NjYwNDcwLDE2MDA5MTc1MzEsMjI5OTAwNDY5LC0xNTMyMzc3
+NDA5LDcxNjUxMjk2NSwtMTIxODM1MjEzMCw0NDI5ODY0NTQsLT
+E0ODg5MDQ2MTYsMTEwODQ1NTU1MiwtMTkwMDg4MjQzOSwxODk0
+OTQ3Nzg2XX0=
 -->
