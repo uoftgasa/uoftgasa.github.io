@@ -664,6 +664,8 @@ You can find the [2018 question bank online](http://www.cita.utoronto.ca/~matzne
 
 ### Thesis Qualifier
 
+The thesis qualifying exam is intended to test your expertise in the topic you've chosen for your thesis. The exam consists of a 15-20 minute presentation which focuses on how your work will fit in with the current state of the field, and, more importantly, the reasons that you are most qualified to do this work.
+
 ### Thesis Committee
 
 ### Thesis
@@ -1305,11 +1307,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTg4NDk5MzgsLTE5MDU4NTg3MDEsLT
-E4NzQwOTk2OSwtNjY4MjY1MzIxLDQ3MjcwMzc2MywtMjQyNjQ0
-OTMsNjAyNzkyNDA2LC04MzU2NjA0NzAsMTYwMDkxNzUzMSwyMj
-k5MDA0NjksLTE1MzIzNzc0MDksNzE2NTEyOTY1LC0xMjE4MzUy
-MTMwLDQ0Mjk4NjQ1NCwtMTQ4ODkwNDYxNiwxMTA4NDU1NTUyLC
-0xOTAwODgyNDM5LDE4OTQ5NDc3ODYsMzMzMjQ1MDAyLC0xNjc3
-MDk5MzE5XX0=
+eyJoaXN0b3J5IjpbLTIxMDk3NTczNzYsLTE1OTg4NDk5MzgsLT
+E5MDU4NTg3MDEsLTE4NzQwOTk2OSwtNjY4MjY1MzIxLDQ3Mjcw
+Mzc2MywtMjQyNjQ0OTMsNjAyNzkyNDA2LC04MzU2NjA0NzAsMT
+YwMDkxNzUzMSwyMjk5MDA0NjksLTE1MzIzNzc0MDksNzE2NTEy
+OTY1LC0xMjE4MzUyMTMwLDQ0Mjk4NjQ1NCwtMTQ4ODkwNDYxNi
+wxMTA4NDU1NTUyLC0xOTAwODgyNDM5LDE4OTQ5NDc3ODYsMzMz
+MjQ1MDAyXX0=
 -->
