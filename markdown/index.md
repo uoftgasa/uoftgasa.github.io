@@ -678,9 +678,13 @@ The thesis committee is intended to provide you with valuable context for their 
 
 The thesis committee is useful outside of strict committee meetings. Faculty on the committee may be helpful in resolving disagreements between student and supervisor, or in helping the student develop their skills for the job market. You can find more details on the [department website](http://www.astro.utoronto.ca/academics/graduate-studies/current/program/supervision/).
 
+### Publications
+
+As a graduate student, you are expected to do publication worth r
+
 ### Thesis
 
-The 
+The thesis is the culmination of your work in the program. This is a significant work in excess of 100 pages, incorporating the results of three publication
 
 ### Thesis Defense
 
@@ -1319,11 +1323,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ3MjM3ODExLC0xNTk4ODQ5OTM4LC0xOT
-A1ODU4NzAxLC0xODc0MDk5NjksLTY2ODI2NTMyMSw0NzI3MDM3
-NjMsLTI0MjY0NDkzLDYwMjc5MjQwNiwtODM1NjYwNDcwLDE2MD
-A5MTc1MzEsMjI5OTAwNDY5LC0xNTMyMzc3NDA5LDcxNjUxMjk2
-NSwtMTIxODM1MjEzMCw0NDI5ODY0NTQsLTE0ODg5MDQ2MTYsMT
-EwODQ1NTU1MiwtMTkwMDg4MjQzOSwxODk0OTQ3Nzg2LDMzMzI0
-NTAwMl19
+eyJoaXN0b3J5IjpbODk5NTEzODQsLTE1OTg4NDk5MzgsLTE5MD
+U4NTg3MDEsLTE4NzQwOTk2OSwtNjY4MjY1MzIxLDQ3MjcwMzc2
+MywtMjQyNjQ0OTMsNjAyNzkyNDA2LC04MzU2NjA0NzAsMTYwMD
+kxNzUzMSwyMjk5MDA0NjksLTE1MzIzNzc0MDksNzE2NTEyOTY1
+LC0xMjE4MzUyMTMwLDQ0Mjk4NjQ1NCwtMTQ4ODkwNDYxNiwxMT
+A4NDU1NTUyLC0xOTAwODgyNDM5LDE4OTQ5NDc3ODYsMzMzMjQ1
+MDAyXX0=
 -->
