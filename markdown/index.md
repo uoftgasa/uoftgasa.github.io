@@ -874,27 +874,31 @@ There are quite a few department events that occur on a weekly basis, which can 
 	- Open to all
 	- Recorded and posted on [YouTube](https://www.youtube.com/user/citaseminars).
 - **Blackboard Talk**
-	- Informal talk given over lunch by local speakers, held in [MP1318A](#mp-common-rooms)
+	- Weekly informal talk given over lunch by local speakers, held in [MP1318A](#mp-common-rooms)
 	- Talks are intended to interrupted with questions, and have a method/procedure focus
 	- 1 hour long
 	- Open to all
 - **astro-ph Coffee**
-	- Informal discussion of recent arXiv papers in the [AB Lounge](#ab-common-rooms)
+	- Twice weekly informal discussion of recent arXiv papers in the [AB Lounge](#ab-common-rooms)
 	- 1/2 hour long
 	- Open to all
 - **Stars and Planets Discussion Group**
-	- Informal presentations of recent results in the field of stars in planets, held in a seminar room announced by email
+	- Weekly informal presentations of recent results in the field of stars in planets, held in a seminar room announced by email
 	- 1 hour long
 	- Open to all
 - **Pulsar Coffee**
-	- Informal presentations of recent results in the field of pulsars, held in the [CITA Lounge](#mp-common-rooms)
+	- Informal presentations of recent results in the field of pulsars, held in the [CITA Lounge](#mp-common-rooms).
 	- 1 hour long
 	- Open to all
 - **Talk Show**
-	- Informal presentations/discussion of graduate student research with other graduate students
+	- Informal presentations/discussion of graduate student research with other graduate students.
 	- 1 hour long
 	- Open to graduate students
-- **Comology Lunch
+- **Cosmology Lunch**
+	- Informal presentation of recent results in cosmology, held in [15th floor conference room](#mp-common-rooms).
+	- 1 hour long
+	- Open to all
+- **CPS Planet Lunches**
 - [Colloquium](#colloquium)
 		- [CITA Seminars](#cita-seminars)
 		- [Blackboard Talks](#blackboard-talks)
@@ -1484,11 +1488,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxOTMxODAzMiwxNTA5NzIxNzIsNzg3Mj
-g1NTcsLTc5Njg0MTg0NCwtMTU5ODg0OTkzOCwtMTkwNTg1ODcw
-MSwtMTg3NDA5OTY5LC02NjgyNjUzMjEsNDcyNzAzNzYzLC0yND
-I2NDQ5Myw2MDI3OTI0MDYsLTgzNTY2MDQ3MCwxNjAwOTE3NTMx
-LDIyOTkwMDQ2OSwtMTUzMjM3NzQwOSw3MTY1MTI5NjUsLTEyMT
-gzNTIxMzAsNDQyOTg2NDU0LC0xNDg4OTA0NjE2LDExMDg0NTU1
-NTJdfQ==
+eyJoaXN0b3J5IjpbNTQyNTYwNjU1LDE1MDk3MjE3Miw3ODcyOD
+U1NywtNzk2ODQxODQ0LC0xNTk4ODQ5OTM4LC0xOTA1ODU4NzAx
+LC0xODc0MDk5NjksLTY2ODI2NTMyMSw0NzI3MDM3NjMsLTI0Mj
+Y0NDkzLDYwMjc5MjQwNiwtODM1NjYwNDcwLDE2MDA5MTc1MzEs
+MjI5OTAwNDY5LC0xNTMyMzc3NDA5LDcxNjUxMjk2NSwtMTIxOD
+M1MjEzMCw0NDI5ODY0NTQsLTE0ODg5MDQ2MTYsMTEwODQ1NTU1
+Ml19
 -->
