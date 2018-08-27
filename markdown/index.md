@@ -866,22 +866,35 @@ There are quite a few department events that occur on a weekly basis, which can 
 	- Weekly formal talks with visiting speakers, held in [Cody Hall](#ab-common-rooms)
 	- Talks are intended to be accessible to astronomy academics, and are from a range of disciplines
 	- 1 hour long
+	- Open to all
 - **CITA Seminars**
 	- Twice weekly formal talks with visiting speakers, held in [MP1318A](#mp-common-rooms)
 	- Talks are intended to be accessible to astronomy academics, and have a theoretical focus
 	- 1 hour long
+	- Open to all
 	- Recorded and posted on [YouTube](https://www.youtube.com/user/citaseminars).
 - **Blackboard Talk**
 	- Informal talk given over lunch by local speakers, held in [MP1318A](#mp-common-rooms)
 	- Talks are intended to interrupted with questions, and have a method/procedure focus
 	- 1 hour long
+	- Open to all
 - **astro-ph Coffee**
 	- Informal discussion of recent arXiv papers in the [AB Lounge](#ab-common-rooms)
+	- 1/2 hour long
+	- Open to all
 - **Stars and Planets Discussion Group**
 	- Informal presentations of recent results in the field of stars in planets, held in a seminar room announced by email
-	- Talks are intended to interrupted with questions
+	- 1 hour long
+	- Open to all
 - **Pulsar Coffee**
 	- Informal presentations of recent results in the field of pulsars, held in the [CITA Lounge](#mp-common-rooms)
+	- 1 hour long
+	- Open to all
+- **Talk Show**
+	- Informal presentations/discussion of graduate student research with other graduate students
+	- 1 hour long
+	- Open to graduate students
+- **Comology Lunch
 - [Colloquium](#colloquium)
 		- [CITA Seminars](#cita-seminars)
 		- [Blackboard Talks](#blackboard-talks)
@@ -1471,11 +1484,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTQ5MjA2NDUsMTUwOTcyMTcyLDc4Nz
-I4NTU3LC03OTY4NDE4NDQsLTE1OTg4NDk5MzgsLTE5MDU4NTg3
-MDEsLTE4NzQwOTk2OSwtNjY4MjY1MzIxLDQ3MjcwMzc2MywtMj
-QyNjQ0OTMsNjAyNzkyNDA2LC04MzU2NjA0NzAsMTYwMDkxNzUz
-MSwyMjk5MDA0NjksLTE1MzIzNzc0MDksNzE2NTEyOTY1LC0xMj
-E4MzUyMTMwLDQ0Mjk4NjQ1NCwtMTQ4ODkwNDYxNiwxMTA4NDU1
-NTUyXX0=
+eyJoaXN0b3J5IjpbLTQxOTMxODAzMiwxNTA5NzIxNzIsNzg3Mj
+g1NTcsLTc5Njg0MTg0NCwtMTU5ODg0OTkzOCwtMTkwNTg1ODcw
+MSwtMTg3NDA5OTY5LC02NjgyNjUzMjEsNDcyNzAzNzYzLC0yND
+I2NDQ5Myw2MDI3OTI0MDYsLTgzNTY2MDQ3MCwxNjAwOTE3NTMx
+LDIyOTkwMDQ2OSwtMTUzMjM3NzQwOSw3MTY1MTI5NjUsLTEyMT
+gzNTIxMzAsNDQyOTg2NDU0LC0xNDg4OTA0NjE2LDExMDg0NTU1
+NTJdfQ==
 -->
