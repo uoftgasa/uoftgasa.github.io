@@ -670,7 +670,7 @@ Failing the thesis qualifying exam will mean taking it again within a few months
 
 ### Thesis Committee
 
-The thesis committee is intended to provide students with valuable context for their project, by incorporating voices of faculty not directly involved i
+The thesis committee is intended to provide you with valuable context for their project, by incorporating voices of faculty not directly involved in your thesis work. Thesis committees are typically 3 faculty, although that number may increase if you have co-supervisors. Students should meet with their thesis committee in the months of October and March, composing a report of their progress for each meeting. 
 
 ### Thesis
 
@@ -1311,11 +1311,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODE4ODY3MjIsLTE1OTg4NDk5MzgsLT
-E5MDU4NTg3MDEsLTE4NzQwOTk2OSwtNjY4MjY1MzIxLDQ3Mjcw
-Mzc2MywtMjQyNjQ0OTMsNjAyNzkyNDA2LC04MzU2NjA0NzAsMT
-YwMDkxNzUzMSwyMjk5MDA0NjksLTE1MzIzNzc0MDksNzE2NTEy
-OTY1LC0xMjE4MzUyMTMwLDQ0Mjk4NjQ1NCwtMTQ4ODkwNDYxNi
-wxMTA4NDU1NTUyLC0xOTAwODgyNDM5LDE4OTQ5NDc3ODYsMzMz
-MjQ1MDAyXX0=
+eyJoaXN0b3J5IjpbLTczODU5MDExOCwtMTU5ODg0OTkzOCwtMT
+kwNTg1ODcwMSwtMTg3NDA5OTY5LC02NjgyNjUzMjEsNDcyNzAz
+NzYzLC0yNDI2NDQ5Myw2MDI3OTI0MDYsLTgzNTY2MDQ3MCwxNj
+AwOTE3NTMxLDIyOTkwMDQ2OSwtMTUzMjM3NzQwOSw3MTY1MTI5
+NjUsLTEyMTgzNTIxMzAsNDQyOTg2NDU0LC0xNDg4OTA0NjE2LD
+ExMDg0NTU1NTIsLTE5MDA4ODI0MzksMTg5NDk0Nzc4NiwzMzMy
+NDUwMDJdfQ==
 -->
