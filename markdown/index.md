@@ -828,13 +828,14 @@ To see who currently holds these positions, check the [GASA website](http://www.
 
 ### AstroTours
 
-AstroTours is GASA's primary 
+AstroTours is GASA's primary outreach initiative, offering an opportunity for students to practice presenting their work to an audience of the general public.
 
-AstroTours Co-Director
-
-AstroTours Co-Director (partial)
-
-AstroTours Co-Director (partial)
+-**Co-Director**
+-**Volunteer Coordinator**
+-**Plantarium Director**
+-**Telescope Director**
+-**Refreshments**
+-**Interactive Media**
 
 AstroTours Filmographer
 
@@ -1445,11 +1446,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMTkzMzc4OSwtNzk2ODQxODQ0LC0xNT
-k4ODQ5OTM4LC0xOTA1ODU4NzAxLC0xODc0MDk5NjksLTY2ODI2
-NTMyMSw0NzI3MDM3NjMsLTI0MjY0NDkzLDYwMjc5MjQwNiwtOD
-M1NjYwNDcwLDE2MDA5MTc1MzEsMjI5OTAwNDY5LC0xNTMyMzc3
-NDA5LDcxNjUxMjk2NSwtMTIxODM1MjEzMCw0NDI5ODY0NTQsLT
-E0ODg5MDQ2MTYsMTEwODQ1NTU1MiwtMTkwMDg4MjQzOSwxODk0
-OTQ3Nzg2XX0=
+eyJoaXN0b3J5IjpbOTcwMDc1MDc3LC03OTY4NDE4NDQsLTE1OT
+g4NDk5MzgsLTE5MDU4NTg3MDEsLTE4NzQwOTk2OSwtNjY4MjY1
+MzIxLDQ3MjcwMzc2MywtMjQyNjQ0OTMsNjAyNzkyNDA2LC04Mz
+U2NjA0NzAsMTYwMDkxNzUzMSwyMjk5MDA0NjksLTE1MzIzNzc0
+MDksNzE2NTEyOTY1LC0xMjE4MzUyMTMwLDQ0Mjk4NjQ1NCwtMT
+Q4ODkwNDYxNiwxMTA4NDU1NTUyLC0xOTAwODgyNDM5LDE4OTQ5
+NDc3ODZdfQ==
 -->
