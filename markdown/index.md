@@ -672,7 +672,7 @@ Failing the thesis qualifying exam will mean taking it again within a few months
 
 The thesis committee is intended to provide you with valuable context for their project, by incorporating voices of faculty not directly involved in your thesis work. Thesis committees are typically 3 faculty, although that number may increase if you have co-supervisors. Students should meet with their thesis committee in the months of October and March, composing a report of their progress for each meeting. The thesis committee assesses your work on the basis of both the report and the meeting, and assigns a letter grade of A or B, where A corresponds to satisfactory progress and B indicates improvement is necessary.
 
-The thesis committee is useful outside of strict committee meetings. Faculty on the committr
+The thesis committee is useful outside of strict committee meetings. Faculty on the committee may be helpful in resolving disagreements between student and supervisor, or in helping the student develop their skills for the job market.
 
 ### Thesis
 
@@ -1313,11 +1313,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM2NjY2MzE3LC0xNTk4ODQ5OTM4LC0xOT
-A1ODU4NzAxLC0xODc0MDk5NjksLTY2ODI2NTMyMSw0NzI3MDM3
-NjMsLTI0MjY0NDkzLDYwMjc5MjQwNiwtODM1NjYwNDcwLDE2MD
-A5MTc1MzEsMjI5OTAwNDY5LC0xNTMyMzc3NDA5LDcxNjUxMjk2
-NSwtMTIxODM1MjEzMCw0NDI5ODY0NTQsLTE0ODg5MDQ2MTYsMT
-EwODQ1NTU1MiwtMTkwMDg4MjQzOSwxODk0OTQ3Nzg2LDMzMzI0
-NTAwMl19
+eyJoaXN0b3J5IjpbLTE1MTM3NzIyOTcsLTE1OTg4NDk5MzgsLT
+E5MDU4NTg3MDEsLTE4NzQwOTk2OSwtNjY4MjY1MzIxLDQ3Mjcw
+Mzc2MywtMjQyNjQ0OTMsNjAyNzkyNDA2LC04MzU2NjA0NzAsMT
+YwMDkxNzUzMSwyMjk5MDA0NjksLTE1MzIzNzc0MDksNzE2NTEy
+OTY1LC0xMjE4MzUyMTMwLDQ0Mjk4NjQ1NCwtMTQ4ODkwNDYxNi
+wxMTA4NDU1NTUyLC0xOTAwODgyNDM5LDE4OTQ5NDc3ODYsMzMz
+MjQ1MDAyXX0=
 -->
