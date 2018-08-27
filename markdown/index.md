@@ -722,8 +722,8 @@ Grad students are typically assigned to astronomy department courses, although y
 - AST325H/AST326Y - Practical Astronomy (Fall/Full Year)
 	- This is the undergraduate degree lab course. Students not pursuing a specialist in astronomy may take only the first half of the course by enrolling in AST325, but they share lectures and lab time with AST326 students, who continue the course into the winter semester. Total enrolment is around 80 students, with a total of 5 TAs. Since this course includes a lab component, TAs offer help sessions in the lab in addition to assisting assignment development and marking completed labs.
 
-
 ### Teaching Assistant Training Program
+If you'd like to hone your teaching skills, UofT offers an on campus training program, TATP. Take enough courses with them, and you can o
 
 ## Computing
 
@@ -1353,7 +1353,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NzMyNjg4MywtMTU5ODg0OTkzOCwtMT
+eyJoaXN0b3J5IjpbMTUwMTIzNDc3MywtMTU5ODg0OTkzOCwtMT
 kwNTg1ODcwMSwtMTg3NDA5OTY5LC02NjgyNjUzMjEsNDcyNzAz
 NzYzLC0yNDI2NDQ5Myw2MDI3OTI0MDYsLTgzNTY2MDQ3MCwxNj
 AwOTE3NTMxLDIyOTkwMDQ2OSwtMTUzMjM3NzQwOSw3MTY1MTI5
