@@ -697,6 +697,8 @@ Also called the Final Oral Examination, the thesis defense is the ultimate evalu
 ## Teaching
 
 Part of your base [funding package](#funding-package) at UofT is a TAship in the fall and winter semesters. These TAships are 70 hours per semester, earning at a union specified rate in excess of $42/hour. Duties include running tutorials, holding office hours, running planetarium shows and observing nights, and marking assignments and tests, although they vary depending on the course you choose. 
+
+In some cases, a professor you work with might prefer you focus solely on research instead of splitting your attention with 
 Buy-outs
 Summer/additional TAships
 ### Courses to TA
@@ -1331,11 +1333,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NjgzNzI3OCwtMTU5ODg0OTkzOCwtMT
-kwNTg1ODcwMSwtMTg3NDA5OTY5LC02NjgyNjUzMjEsNDcyNzAz
-NzYzLC0yNDI2NDQ5Myw2MDI3OTI0MDYsLTgzNTY2MDQ3MCwxNj
-AwOTE3NTMxLDIyOTkwMDQ2OSwtMTUzMjM3NzQwOSw3MTY1MTI5
-NjUsLTEyMTgzNTIxMzAsNDQyOTg2NDU0LC0xNDg4OTA0NjE2LD
-ExMDg0NTU1NTIsLTE5MDA4ODI0MzksMTg5NDk0Nzc4NiwzMzMy
-NDUwMDJdfQ==
+eyJoaXN0b3J5IjpbOTc5NjY1NjAwLC0xNTk4ODQ5OTM4LC0xOT
+A1ODU4NzAxLC0xODc0MDk5NjksLTY2ODI2NTMyMSw0NzI3MDM3
+NjMsLTI0MjY0NDkzLDYwMjc5MjQwNiwtODM1NjYwNDcwLDE2MD
+A5MTc1MzEsMjI5OTAwNDY5LC0xNTMyMzc3NDA5LDcxNjUxMjk2
+NSwtMTIxODM1MjEzMCw0NDI5ODY0NTQsLTE0ODg5MDQ2MTYsMT
+EwODQ1NTU1MiwtMTkwMDg4MjQzOSwxODk0OTQ3Nzg2LDMzMzI0
+NTAwMl19
 -->
