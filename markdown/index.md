@@ -769,15 +769,120 @@ Sunnyvale is a smaller high perfomance network hosted at [CITA](#canadian-instit
 ## GASA
 [**Table of Contents**](#table-of-contents)
 
-GASA is the Graduate Astronomy Student Association, and all astronomy graduate students are members unless they choose to opt out.  GASA represents the interests and concerns of graduate students to the rest of the department. All members of GASA are encouraged to take on one of the positions below, even in their first year.
+GASA is the Graduate Astronomy Student Association, and all astronomy graduate students are members unless they choose to opt out.  GASA represents the interests and concerns of graduate students to the rest of the department. The full scope of the organization is most clear when the variety of associated positions are listed. All members of GASA are encouraged to take on one of the positions below, even in their first year.
 
 
 ### GASA Positions
+
+- **President**
+	- Leader of GASA, the president represents GASA in department discussion (particularly faculty meetings), and serves as a first point of contact for
+
+Astronomy Union Ambassador
+
+Building Committee Representative
+
+CASCA Representative
+
+Co-President
+
+Co-President
+
+Coffee Master
+
+Course Committee
+
+Course Committee
+
+CUPE Representative
+
+Dinner with the Speaker
+
+Friend of the Editor
+
+Friend of the Editor
+
+GASA Paint Master
+
+GASA Tea Master
+
+GASA Tea Master
+
+GASA Tea Master
+
+GASA Webmaster
+
+GSU Representative
+
+Health and Safety Committee
+
+Mediation Committee (Justice League)
+
+Mediation Committee (Justice League)
+
+Mediation Committee (Justice League)
+
+Mental Health Committee
+
+Mental Health Committee
+
+Mental Health Committee
+
+Mini-Course Coordinator
+
+Professional Development Committeee
+
+Professional Development Committeee
+
+Professional Development Committeee
+
+Quals/Thesis Celebration
+
+Secretary
+
+Social Committee
+
+Social Committee
+
+Social Committee
+
+Social Committee
+
+Social Committee
+
+Talk Show Host
+
+Treasurer
 The opt out process is as simple as speaking to one of the executive members (President, Secretary or Treasurer), and can be reverted at any time.
 
 View the [current list of positions](../gasajobs.html).
 
 ### AstroTours
+
+AstroTours Co-Director
+
+AstroTours Co-Director (partial)
+
+AstroTours Co-Director (partial)
+
+AstroTours Filmographer
+
+AstroTours Interactive Media
+
+AstroTours Keynote Director
+
+AstroTours Keynote Director
+
+AstroTours Photographer
+
+AstroTours Planetarium Director
+
+AstroTours Refreshments
+
+AstroTours Telescope Director
+
+AstroTours Volunteer Coordinator
+
+AstroTours Webmaster
 
 ## Regular Department Events
 [**Table of Contents**](#table-of-contents)
@@ -1368,7 +1473,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTQ0OTUzMzYsLTc5Njg0MTg0NCwtMT
+eyJoaXN0b3J5IjpbLTE3NDQxNDYxNTIsLTc5Njg0MTg0NCwtMT
 U5ODg0OTkzOCwtMTkwNTg1ODcwMSwtMTg3NDA5OTY5LC02Njgy
 NjUzMjEsNDcyNzAzNzYzLC0yNDI2NDQ5Myw2MDI3OTI0MDYsLT
 gzNTY2MDQ3MCwxNjAwOTE3NTMxLDIyOTkwMDQ2OSwtMTUzMjM3
