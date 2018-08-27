@@ -845,9 +845,11 @@ AstroTours is GASA's primary outreach initiative, offering an opportunity for st
 - **Webmaster**
 	- Updates the AstroTours website with information for each tour.
 - **Filmographer**
-	- Films the talk at each AstroTour
+	- Films the talk at each AstroTour, and uploads it to YouTube.
 - **Photographer**
+	- Takes photos for the website/marketing at each AstroTour.
 - **Keynote Director (2)**
+	- Organizes the annual Keynote special event that occurs during the summer.
 
 ## Regular Department Events
 [**Table of Contents**](#table-of-contents)
@@ -1442,7 +1444,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIyMzExNjM5LDc4NzI4NTU3LC03OTY4ND
+eyJoaXN0b3J5IjpbNDgwMTQ2MTE4LDc4NzI4NTU3LC03OTY4ND
 E4NDQsLTE1OTg4NDk5MzgsLTE5MDU4NTg3MDEsLTE4NzQwOTk2
 OSwtNjY4MjY1MzIxLDQ3MjcwMzc2MywtMjQyNjQ0OTMsNjAyNz
 kyNDA2LC04MzU2NjA0NzAsMTYwMDkxNzUzMSwyMjk5MDA0Njks
