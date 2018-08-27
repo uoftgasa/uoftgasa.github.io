@@ -550,7 +550,7 @@ Along with these formal requirements, students work with their supervisors to es
 
 ### Courses
 
-The full schedule of courses and their descriptions are outlined on the [department website](http://www.astro.utoronto.ca/academics/graduate-studies/current/courses/). Courses are divided into 'core'
+The full schedule of courses and their descriptions are outlined on the [department website](http://www.astro.utoronto.ca/academics/graduate-studies/current/courses/). Courses are divided into 4 categories. The 'research' courses are [AST1501Y and AST1500](#ast1501y-and-ast1500y)
 
 ### Mini Courses
 
@@ -1194,11 +1194,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MTI2NDA0NSwtNjY4MjY1MzIxLDQ3Mj
-cwMzc2MywtMjQyNjQ0OTMsNjAyNzkyNDA2LC04MzU2NjA0NzAs
-MTYwMDkxNzUzMSwyMjk5MDA0NjksLTE1MzIzNzc0MDksNzE2NT
-EyOTY1LC0xMjE4MzUyMTMwLDQ0Mjk4NjQ1NCwtMTQ4ODkwNDYx
-NiwxMTA4NDU1NTUyLC0xOTAwODgyNDM5LDE4OTQ5NDc3ODYsMz
-MzMjQ1MDAyLC0xNjc3MDk5MzE5LC0xMzcwMDA2ODg5LDk3NDM0
-NTkwMV19
+eyJoaXN0b3J5IjpbLTE2OTg3NDEyMDUsLTY2ODI2NTMyMSw0Nz
+I3MDM3NjMsLTI0MjY0NDkzLDYwMjc5MjQwNiwtODM1NjYwNDcw
+LDE2MDA5MTc1MzEsMjI5OTAwNDY5LC0xNTMyMzc3NDA5LDcxNj
+UxMjk2NSwtMTIxODM1MjEzMCw0NDI5ODY0NTQsLTE0ODg5MDQ2
+MTYsMTEwODQ1NTU1MiwtMTkwMDg4MjQzOSwxODk0OTQ3Nzg2LD
+MzMzI0NTAwMiwtMTY3NzA5OTMxOSwtMTM3MDAwNjg4OSw5NzQz
+NDU5MDFdfQ==
 -->
