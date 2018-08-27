@@ -769,7 +769,7 @@ Sunnyvale is a smaller high perfomance network hosted at [CITA](#canadian-instit
 ## GASA
 [**Table of Contents**](#table-of-contents)
 
-GASA is the Graduate Astronomy Student Association, and all astronomy graduate students are members unless they choose to opt out.  GASA represents the interests and concerns of graduate students to the rest of the departmentAll members of GASA are encouraged to take on one of the positions below, even in their first year.
+GASA is the Graduate Astronomy Student Association, and all astronomy graduate students are members unless they choose to opt out.  GASA represents the interests and concerns of graduate students to the rest of the department, as well as organizing social activities like picnics, parties, and board game nights. All members of GASA are encouraged to take on one of the positions below, even in their first year.
 
 
 
@@ -1369,7 +1369,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMjA0NzYxOSwtNzk2ODQxODQ0LC0xNT
+eyJoaXN0b3J5IjpbMTkyNTAzNDg2MSwtNzk2ODQxODQ0LC0xNT
 k4ODQ5OTM4LC0xOTA1ODU4NzAxLC0xODc0MDk5NjksLTY2ODI2
 NTMyMSw0NzI3MDM3NjMsLTI0MjY0NDkzLDYwMjc5MjQwNiwtOD
 M1NjYwNDcwLDE2MDA5MTc1MzEsMjI5OTAwNDY5LC0xNTMyMzc3
