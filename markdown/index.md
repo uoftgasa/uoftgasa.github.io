@@ -538,10 +538,14 @@ I've described here the typical timeline to graduation for someone in the direct
 	- Winter Semester:
 		- Continue work on thesis project
 		- Enrol in one [preparatory or elective course](http://www.astro.utoronto.ca/academics/graduate-studies/current/courses/) - see [Courses](#courses) below for more details
-		- Complete general qualifying exam
+		- Complete [general qualifying exam](#general-qualifier)
 	- Summer Semester:
 		- Continue work on thesis project
-		- 
+		- Organize first committee meeting and submit draft of thesis proposal
+		- Complete [thesis qualifying exam](#thesis-qualifier)
+- **Third Year**
+	- 
+	
 
 ### AST1501Y and AST1500Y
 
@@ -1224,11 +1228,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzQwOTk2OSwtNjY4MjY1MzIxLDQ3Mj
-cwMzc2MywtMjQyNjQ0OTMsNjAyNzkyNDA2LC04MzU2NjA0NzAs
-MTYwMDkxNzUzMSwyMjk5MDA0NjksLTE1MzIzNzc0MDksNzE2NT
-EyOTY1LC0xMjE4MzUyMTMwLDQ0Mjk4NjQ1NCwtMTQ4ODkwNDYx
-NiwxMTA4NDU1NTUyLC0xOTAwODgyNDM5LDE4OTQ5NDc3ODYsMz
-MzMjQ1MDAyLC0xNjc3MDk5MzE5LC0xMzcwMDA2ODg5LDk3NDM0
-NTkwMV19
+eyJoaXN0b3J5IjpbLTgzOTQwNjY0NSwtMTg3NDA5OTY5LC02Nj
+gyNjUzMjEsNDcyNzAzNzYzLC0yNDI2NDQ5Myw2MDI3OTI0MDYs
+LTgzNTY2MDQ3MCwxNjAwOTE3NTMxLDIyOTkwMDQ2OSwtMTUzMj
+M3NzQwOSw3MTY1MTI5NjUsLTEyMTgzNTIxMzAsNDQyOTg2NDU0
+LC0xNDg4OTA0NjE2LDExMDg0NTU1NTIsLTE5MDA4ODI0MzksMT
+g5NDk0Nzc4NiwzMzMyNDUwMDIsLTE2NzcwOTkzMTksLTEzNzAw
+MDY4ODldfQ==
 -->
