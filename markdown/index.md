@@ -1139,7 +1139,14 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 		- TTC: 30 minutes
 			- Served by the [Line 1](https://www.ttc.ca/Subway/Yonge_University_Spadina.jsp) Subway
 		- Car: 20 minutes
+	- Types of housing: mostly condos, some apartments and houses
+	- Features:
+		- Plenty of restaurants
+		- Yonge-Eglinton Centre Mall
+		- Eglinton Cross-Town construction hellscape
 - **St Clair - \$**
+	- North of St George
+	- Centered on St Clair and Ba
 - **Trinity Bellwoods -\$\$**
 - **Waterfront -\$\$\$**
 
@@ -1355,7 +1362,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzA5MTUxMiwtNzk2ODQxODQ0LC0xNT
+eyJoaXN0b3J5IjpbMjAwODU5NTM1MSwtNzk2ODQxODQ0LC0xNT
 k4ODQ5OTM4LC0xOTA1ODU4NzAxLC0xODc0MDk5NjksLTY2ODI2
 NTMyMSw0NzI3MDM3NjMsLTI0MjY0NDkzLDYwMjc5MjQwNiwtOD
 M1NjYwNDcwLDE2MDA5MTc1MzEsMjI5OTAwNDY5LC0xNTMyMzc3
