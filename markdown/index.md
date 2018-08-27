@@ -690,7 +690,7 @@ This document must be prepared in advance of the [thesis defense](#thesis-defens
 
 ### Thesis Defense
 
-Also called the Final Oral Examination, the thesis defense is the ultimate evaluation of your thesis work. The timeline to this defense is outlined on the [department website](http://www.astro.utoronto.ca/theses/theses.html) in great detail. After your [thesis committee](#thesis-committee) agrees that you are ready to defend, the committee recommends an external examiner, who will be brought in from 
+Also called the Final Oral Examination, the thesis defense is the ultimate evaluation of your thesis work. The timeline to this defense is outlined on the [department website](http://www.astro.utoronto.ca/theses/theses.html) in great detail. After your [thesis committee](#thesis-committee) agrees that you are ready to defend, the committee recommends an external examiner, who will be brought in from outside UofT to assess your work. This must be done 8 weeks in advance of the planned date of defense. The [graduate administrator](#graduate-administrator-margaret-meaney) will help with scheduling of the examination room. The thesis itself should be submitted to the external examiner 8 weeks before the planned
 
 ## Teaching
 Buy-outs
@@ -1327,7 +1327,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTQzNjk0ODQsLTE1OTg4NDk5MzgsLT
+eyJoaXN0b3J5IjpbLTIwMjI2NzE4NTIsLTE1OTg4NDk5MzgsLT
 E5MDU4NTg3MDEsLTE4NzQwOTk2OSwtNjY4MjY1MzIxLDQ3Mjcw
 Mzc2MywtMjQyNjQ0OTMsNjAyNzkyNDA2LC04MzU2NjA0NzAsMT
 YwMDkxNzUzMSwyMjk5MDA0NjksLTE1MzIzNzc0MDksNzE2NTEy
