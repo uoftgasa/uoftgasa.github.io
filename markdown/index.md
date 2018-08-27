@@ -1103,6 +1103,7 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 	- Types of housing: mostly houses, some apartments
 	- Features:
 		- Proximity to Line 2
+		- Close to a variety of nightlife venues
 - **Liberty Village - \$\$\$**
 	- Southwest of [St George](#st-george)
 	- Approximately bounded by: Jameson Ave, Lake Ontario, Strachan Ave, Queen St
@@ -1127,6 +1128,8 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 		- Car: 10 minutes
 	- Types of housing: mostly houses, some apartments
 	- Features:
+		- Amazing restaurants
+		- Plenty of greenspace
 - **Midtown - \$\$**
 	- Northeast of [St George](#st-george)
 	- Centered around Yonge St and Eglinton Ave
@@ -1352,11 +1355,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY5MTA3MjczLC03OTY4NDE4NDQsLTE1OT
-g4NDk5MzgsLTE5MDU4NTg3MDEsLTE4NzQwOTk2OSwtNjY4MjY1
-MzIxLDQ3MjcwMzc2MywtMjQyNjQ0OTMsNjAyNzkyNDA2LC04Mz
-U2NjA0NzAsMTYwMDkxNzUzMSwyMjk5MDA0NjksLTE1MzIzNzc0
-MDksNzE2NTEyOTY1LC0xMjE4MzUyMTMwLDQ0Mjk4NjQ1NCwtMT
-Q4ODkwNDYxNiwxMTA4NDU1NTUyLC0xOTAwODgyNDM5LDE4OTQ5
-NDc3ODZdfQ==
+eyJoaXN0b3J5IjpbLTE3NzA5MTUxMiwtNzk2ODQxODQ0LC0xNT
+k4ODQ5OTM4LC0xOTA1ODU4NzAxLC0xODc0MDk5NjksLTY2ODI2
+NTMyMSw0NzI3MDM3NjMsLTI0MjY0NDkzLDYwMjc5MjQwNiwtOD
+M1NjYwNDcwLDE2MDA5MTc1MzEsMjI5OTAwNDY5LC0xNTMyMzc3
+NDA5LDcxNjUxMjk2NSwtMTIxODM1MjEzMCw0NDI5ODY0NTQsLT
+E0ODg5MDQ2MTYsMTEwODQ1NTU1MiwtMTkwMDg4MjQzOSwxODk0
+OTQ3Nzg2XX0=
 -->
