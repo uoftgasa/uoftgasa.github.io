@@ -775,18 +775,23 @@ GASA is the Graduate Astronomy Student Association, and all astronomy graduate s
 ### GASA Positions
 
 To see who currently holds these positions, check the [GASA website](http://www.astro.utoronto.ca/~gasa/).
-- **President**
-	- Leader of GASA, the president represents GASA in department discussion (particularly faculty meetings), and serves as a first point of contact for anyone wishing to solicit graduate student opinion or support.
-- **Treasurer**
-	- The treasurer is responsible for maintaining access to GASA finances, subject to additional approval of the president. The treasurer makes regular reports on the status of GASA finances.
-- **Secretary**
-	- The secretary is responsible for recording events relevant to GASA and disseminating notes to the membership.
-- **Internal Committees**
+- **Executive Team**
+	- President
+		- Leader of GASA, the president represents GASA in department discussion (particularly faculty meetings), and serves as a first point of contact for anyone wishing to solicit graduate student opinion or support.
+	- Treasurer
+		- The treasurer is responsible for maintaining access to GASA finances, subject to additional approval of the president. The treasurer makes regular reports on the status of GASA finances.
+	- Secretary
+		- The secretary is responsible for recording events relevant to GASA and disseminating notes to the membership.
+- **Internal Positions/Committees**
 	- Mediation Committee
+	- Talk Show Host
 	- Course Committee
+	- Mini Course Coordinatory
 	- Professional Development Committee
 	- Mental Health Committee
 	- Social Committee
+- **Social Positions**
+	- 
 - **Representatives to external committees/organizations**
 	- CASCA Rep
 	- GSU Rep
@@ -1491,11 +1496,11 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU5NzI2MzYzLC03OTY4NDE4NDQsLTE1OT
-g4NDk5MzgsLTE5MDU4NTg3MDEsLTE4NzQwOTk2OSwtNjY4MjY1
-MzIxLDQ3MjcwMzc2MywtMjQyNjQ0OTMsNjAyNzkyNDA2LC04Mz
-U2NjA0NzAsMTYwMDkxNzUzMSwyMjk5MDA0NjksLTE1MzIzNzc0
-MDksNzE2NTEyOTY1LC0xMjE4MzUyMTMwLDQ0Mjk4NjQ1NCwtMT
-Q4ODkwNDYxNiwxMTA4NDU1NTUyLC0xOTAwODgyNDM5LDE4OTQ5
-NDc3ODZdfQ==
+eyJoaXN0b3J5IjpbLTExNzA5ODM3NTEsLTc5Njg0MTg0NCwtMT
+U5ODg0OTkzOCwtMTkwNTg1ODcwMSwtMTg3NDA5OTY5LC02Njgy
+NjUzMjEsNDcyNzAzNzYzLC0yNDI2NDQ5Myw2MDI3OTI0MDYsLT
+gzNTY2MDQ3MCwxNjAwOTE3NTMxLDIyOTkwMDQ2OSwtMTUzMjM3
+NzQwOSw3MTY1MTI5NjUsLTEyMTgzNTIxMzAsNDQyOTg2NDU0LC
+0xNDg4OTA0NjE2LDExMDg0NTU1NTIsLTE5MDA4ODI0MzksMTg5
+NDk0Nzc4Nl19
 -->
