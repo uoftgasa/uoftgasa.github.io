@@ -864,10 +864,11 @@ There are quite a few department events that occur on a weekly basis, which can 
 
 - **Colloquium**
 	- Weekly afternoon talks with visiting speakers, held in [Cody Hall](#ab-common-rooms)
-	- Talks are ususally
+	- Talks are intended to be accessible to astronomy academics, and are from a range of disciplines
+	- 1 hour long
 - **CITA Seminars**
 	- Twice weekly afternoon talks with visiting speakers, held in [MP1318A](#mp-common-rooms)
-- 
+	- Talks are in
 - [Colloquium](#colloquium)
 		- [CITA Seminars](#cita-seminars)
 		- [Blackboard Talks](#blackboard-talks)
@@ -1457,7 +1458,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMDc0ODI2MSwxNTA5NzIxNzIsNzg3Mj
+eyJoaXN0b3J5IjpbMTMxNTk1MjI2NCwxNTA5NzIxNzIsNzg3Mj
 g1NTcsLTc5Njg0MTg0NCwtMTU5ODg0OTkzOCwtMTkwNTg1ODcw
 MSwtMTg3NDA5OTY5LC02NjgyNjUzMjEsNDcyNzAzNzYzLC0yND
 I2NDQ5Myw2MDI3OTI0MDYsLTgzNTY2MDQ3MCwxNjAwOTE3NTMx
