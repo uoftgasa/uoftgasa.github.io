@@ -616,10 +616,10 @@ Along with these formal requirements, students work with their supervisors to es
 
 The full schedule of courses and their descriptions are outlined on the [department website](http://www.astro.utoronto.ca/academics/graduate-studies/current/courses/). Courses are divided into 4 categories. The 'research' courses are [AST1501Y and AST1500Y](#ast1501y-and-ast1500y), described above. In addition to these, you have the option to take 'preparatory' courses (1000-level), in introductory topics, and 'elective' courses (2000-level) with a more tighter focus on one aspect of astronomy. Advanced topics are taught in 'specialized' courses (3000-level). In undergrad, the leading number of a course code roughly corresponds to the year in which it's appropriate to take that course, but that isn't the case for grad courses. You may take any course at any point during your degree, although students typically try to finish their courses in their first two years (prior to the qualifying exam). Each course is expected to take approximately 8-10 hours of work a week, including lectures, reading, and homework assignments, but workload varies between courses.
 
-Over the course of your degree, you are expected to take 4 credits worth of graduate courses (in addition to research courses [AST1501Y and AST1500Y](#ast1501y-and-ast1500y). Courses with a trailing 'Y' (like the reare worth 1 credit, while courses with a trailing 'H' are worth 0.5 credits. 
+Over the course of your degree, you are expected to take 2 credits worth of graduate courses (in addition to research courses [AST1501Y and AST1500Y](#ast1501y-and-ast1500y). Courses with a trailing 'Y' (like the research course) are worth 1 credit, while courses with a trailing 'H' are worth 0.5 credits. Since most 'preparatory', 'elective', and 'specialized' courses are 'H' courses, this corresponds to taking 4 courses.
 
 #### Courses from other departments
-
+You may find an interesting graduate course offering from another department. The
 
 #### Mini Courses
 
@@ -1271,7 +1271,7 @@ Located north of the city centre, the Science Centre offers everyone an opportun
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUwMzAxNDQ4LC0xODc0MDk5NjksLTY2OD
+eyJoaXN0b3J5IjpbMzE3MzM2NDc4LC0xODc0MDk5NjksLTY2OD
 I2NTMyMSw0NzI3MDM3NjMsLTI0MjY0NDkzLDYwMjc5MjQwNiwt
 ODM1NjYwNDcwLDE2MDA5MTc1MzEsMjI5OTAwNDY5LC0xNTMyMz
 c3NDA5LDcxNjUxMjk2NSwtMTIxODM1MjEzMCw0NDI5ODY0NTQs
