@@ -4,23 +4,44 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{files.0.name}}</title>
+  <title>$title$</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Lato:wght@400;600;700&display=swap"
+    rel="stylesheet"
+  />
   <link rel="stylesheet" href="https://uoftgasa.github.io/html-template/style.css" />
+  <style>
+    /* Ensure TOC placed inside the main content uses real bullets */
+    .stackedit__html .toc ul {
+      list-style-type: disc;
+      margin: 0 0 0 1.25rem;
+      padding-left: 0;
+    }
+    .stackedit__html .toc ul ul {
+      list-style-type: circle;
+      margin-left: 1rem;
+    }
+    .stackedit__html .toc li {
+      margin: 0.25rem 0;
+    }
+    .stackedit__html .toc a {
+      color: inherit;
+      text-decoration: none;
+    }
+  </style>
 </head>
 
-{{#if pdf}}
-<body class="stackedit stackedit--pdf">
-{{else}}
 <body class="stackedit">
-{{/if}}
   <div class="stackedit__left">
     <div class="stackedit__toc">
-      {{#tocToHtml files.0.content.toc 2}}{{/tocToHtml}}
+      $toc$
     </div>
   </div>
   <div class="stackedit__right">
     <div class="stackedit__html">
-      {{{files.0.content.html}}}
+      $body$
     </div>
   </div>
 </body>

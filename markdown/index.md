@@ -7,7 +7,9 @@ Welcome to graduate school at UofT's Department of Astronomy and Astrophysics! W
 This is a living document, you can contribute to its creation by following the directions on the [how-to page](howto.html).
 
 ## Table of Contents
+
 The contents of this document, accompanied by a frequently asked question that may be answered in each question.
+
  - [**Jargon**](#jargon) - What's a UofT time?
  - [**Important Dates**](#important-dates) - When do I need to enroll in courses? 
  - [**New Student To Do List**](#new-student-to-do-list) - I just got here, what's next?
@@ -91,7 +93,7 @@ The contents of this document, accompanied by a frequently asked question that m
 
 
 ## Jargon
-[**Table of Contents**](#table-of-contents)
+[[Back to Table of Contents]](#table-of-contents)
 
 Here find a contextful definition for all those terms you hear thrown about the department.
 
@@ -136,7 +138,7 @@ Here find a contextful definition for all those terms you hear thrown about the 
  - **UTSG** - University of Toronto's [St George Campus](#st-george), also often referred to as the "downtown" campus. This is where UofT has the most students and where graduate student offices are located by default.
 
 ## Important Dates
-[**Table of Contents**](#table-of-contents)
+[[Back to Table of Contents]](#table-of-contents)
 
 There's a lot that goes on at the university. UofT's Faculty of Arts and Science (of which this Department is a member), maintains an exhaustive list of the [sessional dates](https://fas.calendar.utoronto.ca/sessional-dates), but these are primarily undergraduate focused. The list below is a summary of some relevant dates:
 
@@ -774,57 +776,8 @@ GASA is the Graduate Astronomy Student Association, and all astronomy graduate s
 
 ### GASA Positions
 
-To see who currently holds these positions, check the [GASA website](http://www.astro.utoronto.ca/~gasa/). Parenthetical numbers next to a position imply multiple people can hold the position simultaneously.
-- **Executive Team**
-	- **President** (2)
-		- Leader of GASA, the president represents GASA in department discussion (particularly faculty meetings), and serves as a first point of contact for anyone wishing to solicit graduate student opinion or support.
-	- **Treasurer**
-		- The treasurer is responsible for maintaining access to GASA finances, subject to additional approval of the president. The treasurer makes regular reports on the status of GASA finances.
-	- **Secretary**
-		- The secretary is responsible for recording events relevant to GASA and disseminating notes to the membership.
-- **Internal Positions/Committees**
-	- **Mediation Committee** (3)
-		- The mediation committee takes responsibility for specific issues that effect one or many graduate student(s), doing research and compiling reports to submit to the department as a whole.
-	- **Talk Show Host**
-		- Organizes a weekly hour for graduate students to share their work, practice their presentations, or just enjoy some [Timbits](http://www.timhortons.com/ca/en/menu/timbits.php).
-	- **Course Committee** (2-3)
-		- Committee that communicates with the department about concerns specifically related to courses. 
-	- **Mini Course Coordinator**
-		- Collates requests for mini courses from the membership and communicates them to the graduate chair and potential instructors.
-	- **Professional Development Committee** (3)
-		- Researches and hosts workshops and panels to help graduate students develop their soft skills and otherwise prepare for the job market.
-	- **Mental Health Committee** (3)
-		- Researches and hosts workshops and panels to help graduate students improve their mental health.
-	- **Social Committee** (4-5)
-		- Organizes social events for the membership and the department as a whole. Annual responsibilities include organizing movie nights, the holiday party, and the summer picnic.
-	- **Webmaster**
-		- Maintains and updates the GASA website, with visual updates when necessary.
-- **Social Positions**
-	- **Dinner with the Speaker**
-		- Organizes weekly dinners with the graduate students and the colloquium speaker.
-	- **Quals/Thesis Celebration**
-		- Purchases refreshments for celebrating a successful qualifying exam or thesis defense.
-	- **Coffee Master**
-		- Submits orders for more coffee in the [AB](#astronomy-building) lounge
-	- **Tea Master** (3)
-		- Organizes weekly [GASA Tea](#non-scientific-events), to which all are welcome, and collect donation to purchase more tea. 
-	- **Paint Master**
-		- Organizes roughly monthly GASA watercolour paint nights.
-	- 	**Friends of the Editor** (2)
-		- Serve as a buffer between the membership and the mysterious 'editor' who composes the satirical 'Droppings' magazine from membership submissions in time for the holiday party.
-- **Representatives to external committees/organizations**
-	- **CASCA Rep**
-		- Representative to the Canadian Astronomical Society.
-	- **GSU Rep**
-		- Representative to the Graduate Student Union.
-	- **CUPE Rep**
-		- Representative to the teaching assistant's union.
-	- **Health and Safety Rep**
-		- Representative to the department's health and safety committee.
-	- **Building Committee Rep**
-		- Representative to the department's committee for planning the new building to replace [AB](#astronomy-building).
-	- **Astronomy Union Ambassador**
-		- Representative to the undergraduate Astronomy Union.
+The live document describing all of the GASA positions can be found [here](https://docs.google.com/document/d/1crzydm6BaOiuBqtqv_kaTghfLQyC1AedTicb_E6cw_k/edit?usp=sharing). To see who currently holds these positions, check the [GASA website](http://www.astro.utoronto.ca/~gasa/)
+
 
 ### AstroTours
 
