@@ -805,6 +805,7 @@ For a nice summary of Toronto living, checkout [WalkScore's overview](https://ww
 
 - [On-Campus](#on-campus)
 	- [Grad House](#grad-house)
+	- [Oak House](#massey-college)
 	- [Massey College](#massey-college)
 - [Off-Campus](#off-campus)
 	- [Rental FAQs](#rental-faqs)
