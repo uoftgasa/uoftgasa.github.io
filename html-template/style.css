@@ -1721,7 +1721,8 @@ img{
     max-width:750px
 }
 .stackedit__toc ul{
-    padding:0
+    padding:0;
+    margin:0
 }
 .stackedit__toc ul a{
     margin:.5rem 0;
@@ -1729,7 +1730,13 @@ img{
 }
 .stackedit__toc ul ul{
     color:#888;
-    font-size:.9em
+    font-size:.9em;
+    margin-left:.5rem;
+    padding-left:.5rem
+}
+.stackedit__toc ul ul ul{
+    margin-left:.5rem;
+    padding-left:.5rem
 }
 .stackedit__toc ul ul a{
     margin:0;

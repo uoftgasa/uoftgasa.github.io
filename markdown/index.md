@@ -814,38 +814,44 @@ For a nice summary of Toronto living, checkout [WalkScore's overview](https://ww
 #### On-Campus
 Graduate students have a few on-campus residence options. Incoming graduate students are not guaranteed on-campus housing the same way undergraduates are, but as most grad students opt for off-campus housing, it is possible to find an on-campus option. 
 
-In this section, find descriptions of the two major graduate student on-campus housing options [Grad House](#grad-house) and [Massey College](#massey-college). 
+In this section, find descriptions of the a few of the major graduate student on-campus housing options [Grad House](#grad-house), the new [Oak House](#oak-house), and [Massey College](#massey-college).
 
 ##### Grad House
 
-Grad House is conveniently located at [Harbord and Spadina](https://goo.gl/maps/bx41Yz85wQ32), a couple of blocks away from [AB](#astronomy-building), and offers housing for graduate students enrolled in fulltime programs at UofT. They receive more applications than they can accept, but do maintain a waiting list. First year graduate students tend to get preference in the application process, as Grad House provides a stable first step for students first moving to the city.
+Grad House ([https://gradhouse.utoronto.ca/](https://gradhouse.utoronto.ca/)) is conveniently located at [Harbord and Spadina](https://goo.gl/maps/bx41Yz85wQ32), a couple of blocks away from [AB](#astronomy-building) and right across the street from [AC](#athletic-centre), and offers housing for graduate students enrolled in fulltime programs at UofT. They receive more applications than they can accept, but do maintain a waiting list. First year graduate students tend to get preference in the application process, as Grad House provides a stable first step for students first moving to the city.
 
-Rent in Grad House varies from year to year, but works out to roughly what one might expect to pay to rent a bedroom in a relatively new two bedroom apartment in downtown Toronto. Note however that Grad House rent includes the heat, hydro, and water utilities, in addition to internet and air conditioning. Unlike [Massey College](#massey-college) below, Grad House does not include food in this fee, as residents are responsible for their own meals.
+[Rent in Grad House](https://utoronto.starrezhousing.com/StarRezPortalX/D0B4F468/13/142/The_Residences-Graduate_House) varies from year to year, and currently ranges from ~$1,200-$1,700 per month depending on specific configuration. Note however that Grad House rent includes the heat, hydro, and water utilities, in addition to internet and air conditioning. Unlike [Massey College](#massey-college) below, Grad House does not include food in this fee, as residents are responsible for their own meals.
 
-To facilitate this, Grad House features apartment style suites, with four bedrooms, two bathrooms, and one kitchen each. The decor has been described as 'fifty shades of concrete' (Roman, A. 2018), but the rooms are functional, and air conditioning is a surprising bonus in such affordable housing. With the [AC](#athletic-centre) right across Harbord, you'll have ample opportunity to work off any junk food you might pick up in the convenience store located in the first level of Grad House.
+To facilitate this, Grad House features apartment style suites, with four bedrooms, two bathrooms, and one kitchen each. The decor has been described as 'fifty shades of concrete' (Roman, A. 2018), but the rooms are functional, and air conditioning is a surprising bonus in such affordable housing. There is also a brand new suite cleaning service that cleans kitchens, floors and bathrooms weekly, and staff will help if you report any maintenance issues without any extra charges. Unfortunately, anecdotally there do seem to be frequent maintenance issues such as malfunctioning toilets and elevators, and false fire alarms.
 
-Many thanks to Alex Roman for his descriptions of Grad House life!
+
+##### Oak House
+
+Oak House ([https://oakhouse.utoronto.ca/](https://oakhouse.utoronto.ca/)) is a new residence located right at Spadina/Sussex, just minutes from the Spadina TTC station and less than a 15 minute walk from [AB](#astronomy-building).
+
+The suites have four bedrooms (some suites are completely filled, some only have 3 people right now), 2 bathrooms and a kitchen area. It is more spacious than Grad house, but also more expensive with monthly rent being $2,200+. The meal plan costs roughly $6,000-$7,000 a year but is not mandatory for grad students. There is also a $2,000 deposit paid when applying and accepting a spot. All of this does include water, electricity, heating, air conditioning, and internet. Paid laundry is also available in the building at $4.25/load (for wash + dry).
+
+Since it is new, they’re still trying to get their footing when it comes to events. Most events are open to all students (and thus have predominantly undergrads), however they have recently tried to do some grad only events (e.g. free tiramisu + arts and crafts). At the time of writing this (April 2026), the Oak House mascot is about to finally be unveiled!!!
+
 
 ##### Massey College
 
-Massey College is located just a block north of [AB](#astronomy-building) at [4 Devonshire Pl](https://goo.gl/maps/zae1vZud8oK2) and offers a unique experience to it's fellows. The formal dinners on weekday evenings offer a dining experience where the dress code is strictly more 'Harry Potter' than 'Slovenly Academic'. If you've been waiting for your chance to wear robes to school, Massey College may just be for you. In addition to the formal dinners, breakfast and lunch are provided cafeteria style every day except Sundays. Paying the [Resident Junior Fellow Fees](https://www.masseycollege.ca/admissions/junior-fellow-admissions/junior-fellow-fees/) gives Massey fellows access to their own bedroom and adjoining study, and the fee includes a house cleaning service as well as the cost of the meals. Massey fellows are also invited to special College events, including fancy dress "high table" dinners.
+Massey College ([https://masseycollege.ca/](https://masseycollege.ca/)is located just a block north of [AB](#astronomy-building) at [4 Devonshire Pl](https://goo.gl/maps/zae1vZud8oK2) and offers a unique experience to it's fellows. The formal dinners on weekday evenings offer a dining experience where the dress code is strictly more 'Harry Potter' than 'Slovenly Academic'. If you've been waiting for your chance to wear robes to school, Massey College may just be for you. In addition to the formal dinners, breakfast and lunch are provided cafeteria style every day except Sundays. Paying the [Resident Junior Fellow Fees](https://www.masseycollege.ca/admissions/junior-fellow-admissions/junior-fellow-fees/) gives Massey fellows access to their own bedroom and adjoining study, and the fee includes a house cleaning service as well as the cost of the meals. Massey fellows are also invited to special College events, including fancy dress "high table" dinners.
 
 Massey Junior Fellow Fees work out to what one might expect to pay to rent a bedroom in a relatively new two bedroom apartment in downtown Toronto, and the latter doesn't even include food and utilities as Massey does. However, the application process for Massey College is competitive; there are typically only 20-40 spots available, with about 100 applicants. The process is outlined on their [website](https://www.masseycollege.ca/admissions/junior-fellow-admissions/), with applications accepted up until early May and results announced in June. Your cover letter, CV, and transcripts will be considered along with two reference letters.
 
 The beautiful study spaces of Massey College offer it's fellows a great atmosphere, and the shared environment fosters meetings across a wide variety of disciplines. However, the College has high expectations for the commitment of it's fellows - participation in College clubs and committees is expected. If that environment appeals to you, you can join Massey without living there as a Non-Resident Junior Fellow.
 
-Many thanks to Deborah Lokhorst for her descriptions of Massey College life!
-
 #### Off-Campus
 Housing in Toronto is pricey, and off-campus options have a range of associated costs. In this section, we'll talk about what you can expect to rent and at what price point, as well as where you might expect to live.
 
-If you take one thing away from this section, please take this link to a page with [your rights when renting in Ontario](https://www.ontario.ca/page/renting-ontario-your-rights). You have many rights as a tenant renting in Ontario, and it pays to be familiar with what restrictions your landlord is permitted to make. Note that as of April 2018, your landlord is required to serve you a standard lease that summarizes the information in [Rental FAQs](#rental-faqs) in clear language - you can read a template [here](http://www.forms.ssb.gov.on.ca/mbs/ssb/forms/ssbforms.nsf/FormDetail?OpenForm&ACT=RDR&TAB=PROFILE&SRCH=&ENV=WWE&TIT=2229E&NO=047-2229E).
+If you take one thing away from this section, please take this link to a page with [your rights when renting in Ontario](https://www.ontario.ca/page/renting-ontario-your-rights). You have many rights as a tenant renting in Ontario, and it pays to be familiar with what restrictions your landlord is permitted to make. Note that as of April 2018, your landlord is required to serve you a standard lease that summarizes the information in [Rental FAQs](#rental-faqs) in clear language - you can read a template [here](https://forms.mgcs.gov.on.ca/en/dataset/047-2229).
 
-If you feel your rights have been ignored, you can appeal to the [Landlord and Tenant Board](http://www.sjto.gov.on.ca/ltb/).
+If you feel your rights have been ignored, you can appeal to the [Landlord and Tenant Board](https://tribunalsontario.ca/ltb/).
 
 ##### Rental FAQs
 
-I've provided a quick list of common restrictions in Ontario housing, but you can find an exhaustive list on the [Landlord and Tenant Board website](http://www.sjto.gov.on.ca/ltb/faqs/). Note that the below does not constitute legal advice - if you're uncertain of your rights check the [Ontario Residential Tenancies Act](https://www.ontario.ca/laws/statute/06r17).
+I've provided a quick list of common restrictions in Ontario housing, but you can find an exhaustive list on the Landlord and Tenant Board website. Note that the below does not constitute legal advice - if you're uncertain of your rights check the [Ontario Residential Tenancies Act](https://www.ontario.ca/laws/statute/06r17).
 
 **Can my landlord ask me for a deposit?**
 
@@ -853,7 +859,7 @@ Your landlord is only permitted to ask you for a rent deposit, not exceeding the
 
 **What's included in my lease?**
 
-Read your lease! Every one is a little different - you can look at the [standard lease template](http://www.forms.ssb.gov.on.ca/mbs/ssb/forms/ssbforms.nsf/FormDetail?OpenForm&ACT=RDR&TAB=PROFILE&SRCH=&ENV=WWE&TIT=2229E&NO=047-2229E) to get a sense of things that may or may not be included.
+Read your lease! Every one is a little different - you can look at the [standard lease template](https://forms.mgcs.gov.on.ca/en/dataset/047-2229) to get a sense of things that may or may not be included.
 
 **What happens when my lease expires?**
 
@@ -861,7 +867,7 @@ In Toronto, tenants typically begin by signing a year long lease with monthly re
 
 **Can my landlord increase my rent?**
 
-Your landlord can increase your rent by no more than 1.8% no more than once every 12 months. Changes to your rent must be communicated to you 90 days in advance and cannot contravene your lease unless agreed upon by the landlord and the tenant.
+There are annual rental increase limits set by the Government of Ontario (e.g. for 2026 the limit is 2.1%). You can find more details [here](https://www.ontario.ca/page/residential-rent-increases). Note that this does not apply to most buildings or units built since 2018, and does not apply when the tenants change.
 
 **Is my landlord allowed to enter my rental unit?**
 
@@ -891,11 +897,13 @@ Before you begin your search, you should be able to answer some basic questions 
 
 - **What's my budget for rent?**
 	- You can see how rent in Toronto has evolved over time with [data collected by the Canada Mortgage and Housing Corporation](https://www03.cmhc-schl.gc.ca/hmip-pimh/en/TableMapChart/Table?TableId=2.2.11&GeographyId=2270&GeographyTypeId=3&DisplayAs=Table&GeograghyName=Toronto#) (click chart view to see the table as a graph).
-	- As of 2018, typical rents in Toronto (averaged across the entire GTA) are as follows:
-		- Bachelor's/Studio: $1000/month
-		- 1 Bedroom: $1200/month
-		- 2 Bedroom: $1400/month
-		- 3+ Bedroom: $1600/month 
+	- As of 2025, typical rents in Toronto (averaged across the entire GTA) are as follows:
+		- Bachelor's/Studio: $1500/month
+		- 1 Bedroom: $1800/month
+		- 2 Bedroom: $2050/month
+		- 3+ Bedroom: $2300/month
+	
+		Note that if you want to live close to campus, prices will typically be significantly higher than this baseline.
 - **What type of rental housing am I interested in?**
 	- Toronto has 3 main types of rental housing: condos, apartments, and houses
 		- Condos: Typically the most expensive, but with the most included amenities - buildings often have gyms or pools, and the unit itself will likely have a dishwasher, laundry machine, air conditioning, and its own thermostat. The level of maintenance varies by building - if you're considering a condo, identify the property management company and investigate their history with resolving complaints.
@@ -904,16 +912,18 @@ Before you begin your search, you should be able to answer some basic questions 
 - **What's my maximum commute time?**
 	- Check out [WalkScore's webapp](https://www.walkscore.com/score/50-saint-george-st-toronto-on-canada?utm_campaign=tilefooter&utm_medium=address_search&utm_source=padmapper.com) and click the pencil next to 'Commute to Downtown Toronto' to enter an new address and calculate commute times.
 - **What utilities am I prepared to cover in addition to rent?**
-	- Heat - strongly depends on the type of heating the insulation of the rental unit, usually upwards of $70/month but can be $0 is your heating fully electric
+	- Heat - strongly depends on the type of heating the insulation of the rental unit, usually upwards of $70/month but can be $0 if your heating is fully electric
 	- Water - typically around $30/month in a one bedroom, but can be higher if you have appliances like a dishwasher or laundry machine
 	- Hydro - typically around $75/month in a one bedroom apartment, but can be much higher if your heating system is electricity based (i.e. electric baseboards)
+
+	Overall, utilities can cost anywhere from $50-$200 per month depending on your type of residence. If you are renting part of a house, utilities are more likely to be included in your rental rate, but you should check with your landlord explicitly about all. utilities.
 - **Does the building I'm considering take part in the city's recycling/composting program?**
 	- If sustainability is important to you, it's worth investigating how garbage collection works. Make sure you check on the disposal area when you visit - if your bins are accessible from the street they might fill up before you have a chance to deposit your trash.
 - **Are things like internet and cable included in my budget?**
-	- Ontario telecoms are dominated by two major players, Bell and Rogers, who offer services at pretty exorbitant prices (although some of their bundled services may have value). Paying the higher price doesn't guarantee you better service than their smaller competitors provide, and it's worth investigating internet-only alternatives like TekSavvy, Start, and VMedia.
+	- These are almost never included in any rental. Ontario telecoms are dominated by two major players, Bell and Rogers. They are generally the most expensive options, although some of their bundled services may have value. It's worth investigating internet-only alternatives like TekSavvy, Start, and VMedia.
 - **Are there other amenities I'm interested in?**
 	- Seriously consider whether you need air conditioning - Canada may have a reputation as a cold country, but typical summer days in Toronto have a [humidex](https://www.ccohs.ca/oshanswers/phys_agents/humidex.html) (a combination of temperature and relative humidity) over 30. Basement apartments tend to remain relatively cool, but above ground units benefit from window or central AC.
-	- I talked a lot about air conditioning, can you tell I wrote this during the summer? For winter concerns, remember that regardless of where you live, if you're not on a major road, you'll be low priority for road and sidewalk clearing. The solution in Toronto seems to be for everyone and their dog to absolutely blanket the sidewalks with salt- this has a lot of its own dangers, turning fluffy snow into half melty ice slicks. Invest in some waterproof footwear with decent traction and it won't matter what kind of street you live on!
+	- For winter concerns, remember that regardless of where you live, if you're not on a major road, you'll be low priority for road and sidewalk clearing. The solution in Toronto seems to be for everyone and their dog to absolutely blanket the sidewalks with salt- this has a lot of its own dangers, turning fluffy snow into half melty ice slicks. Invest in some waterproof footwear with decent traction and it won't matter what kind of street you live on!
 
 ##### Rental Listing Sites
 
