@@ -1,13 +1,13 @@
 # The Comprehensive Guide to Graduate School
 
-## Introduction
-
 Welcome to graduate school at UofT's Department of Astronomy and Astrophysics! We (the current graduate students) have written this guide to try and help you through all of the administrative details so you can get straight to your research. If you like, you can skip ahead to our suggested [to-do list](#new-student-to-do-list) for new students, or use the table of contents on the left to navigate to the appropriate section (note that the table of contents is not currently available on small screens).
 
 This is a living document, you can contribute to its creation by following the directions on the [how-to page](howto.html).
 
 ## Table of Contents
+
 The contents of this document, accompanied by a frequently asked question that may be answered in each question.
+
  - [**Jargon**](#jargon) - What's a UofT time?
  - [**Important Dates**](#important-dates) - When do I need to enroll in courses? 
  - [**New Student To Do List**](#new-student-to-do-list) - I just got here, what's next?
@@ -86,135 +86,7 @@ The contents of this document, accompanied by a frequently asked question that m
 	- [Toronto Public Library](#toronto-public-library)
 - [**Things to do in Toronto**](#things-to-do-in-toronto) - How tall is the CN Tower anyway?
 
-	 
-
-
-
-## Jargon
-[**Table of Contents**](#table-of-contents)
-
-Here find a contextful definition for all those terms you hear thrown about the department.
-
- - **AB** - [Astronomy Building](#astronomy-building) (50 St George St) - office building
- - **ACORN** - [website](acorn.utoronto.ca) where you can enrol in courses, view your academic history, manage your tuition payments, and set up direct deposit. Successor to **ROSI**
- - **ADS** - Astrophysics Data System - a very searchable repository of astronomical papers with links to pdfs where applicable. Available in [classic](http://adsabs.harvard.edu/abstract_service.html) and [modern](https://ui.adsabs.harvard.edu) flavours.
- - **ARO** - Algonquin Radio Observatory, located about 7 hours drive from campus in Algonquin Provincial Park - a good trip to join in the summer if you can swing it
- - **arxiv** - chronological listing of recent papers pronounced "archive". In our department, almost exclusively used to refer to the [astro-ph](https://arxiv.org/archive/astro-ph/Astrophysics) listings
- - **Astronomy on Tap** - the [Dunlap Institute's](#dunlap-institute) regular outreach event, occuring a few times a year
- - **AstroTours** - monthly public talks organized and given by graduate students, discussed exhaustively in the [AstroTours](#astrotours) section.
- - **B-Force** - research group run by [Prof Bryan Gaensler](http://phoenix.dunlap.utoronto.ca/~bgaensler/) studying magnetic fields
- - **CASCA** - [Canadian Astronomical Society - Societe Canadienne D'Astronomie](#canadian-astronomical-society). Usually used to refer to their annual meeting, as in the phrase "I'm going to CASCA this year"
- - **CHIME** - radio telescope in Penticton, British Columbia 
- - **CITA** - [Canadian Institute for Theoretical Astrophysics](#canadian-institute-for-theoretical-astrophysics)
- - **Cody Hall** - refers to AB107, the lecture hall in the [Astronomy Building](#astronomy-building)
- - **CPS** - the [Centre for Planetary Sciences](#centre-for-planetary-sciences) at UofT's Scarborough campus
- - **Crowdmark** - online marking system
- - **CUPE** - Canadian Union of Public Employees. Used to colloquially refer to CUPE 3902 Unit 1; all teaching assistants are part of this union, which negotiates pay and offers health insurance
- - **DAA** - [Department of Astronomy and Astrophysics](#department-of-astronomy-and-astrophysics)
- - **Dragonfly** - optical telescope developed by [Prof Bob Abraham](http://www.dunlap.utoronto.ca/dunlap-people/prof-roberto-abraham/) that resembles a dragonfly's eye
- - **DWTS** - [Dinner with the Speaker](#dinner-with-the-speaker): graduate student hosted dinner with the colloquium speaker
- - **Dunlap** - colloquial way to refer to the [Dunlap Institute](#dunlap-institute)
- - **GSU** - the [Graduate Student Union](#graduate-student-union) that draws representatives from each UofT department with a graduate program and votes on stuff. Also offers health insurance
- - **H-Nauts** - research group run by [Prof Renee Hlozek](http://reneehlozek.moonfruit.com) focused on cosmology
- - **Long Wavelength Lab** - [Prof Keith Vanderlinde's lab](http://lwlab.dunlap.utoronto.ca/index.html) - a good place to find screwdrivers
- - **MP** - [McLennan Physical Labs and Burton Tower](#mclennan-physical-labs-and-burton-tower) (60 St George St) - office building
- - **OHIP** - [Ontario's health insurance plan](https://www.ontario.ca/page/apply-ohip-and-get-health-card). This can be used by domestic students, international students must use **UHIP**
- - **Portal** - website meant to consolidate course content from courses you are enrolled in and courses you for which you are a teaching assistant. It's horribly clunky and they're trying to replace it
- - **quals** - short for '[qualification exams](#qualification-exams)'
- - **RandoAstro** -  [Prof Norman Murray's](http://www.cita.utoronto.ca/~murray/) research group
- - **ROSI** - see **ACORN**
- - **scinet** - 
- - **scintellometry** - subject of study for a large research group based at CITA, run by [Prof Ue-Li Pen](http://www.cita.utoronto.ca/~pen/wordpress/) and [Prof Marten van Kerkwijk](http://www.astro.utoronto.ca/~mhvk/) with [Prof Keith Vanderlinde](http://phoenix.dunlap.utoronto.ca/~vanderlinde/)
- - **Sunnyvale**
- - **TA** - teaching assistant, but also verbified, as in "I'm TAing AST101"
- - **TTC** - [Toronto Transit Commission](#toronto-transit-commission) - Toronto's public transit agency, responsible for subway trains, streetcars and buses.
- - **UHIP** - [Ontario's health insurance plan for international university students](https://www.studentlife.utoronto.ca/cie/uhip)for international students
- - **UofT Time** - undergraduate classes start 10 minutes after the hour to allow for travel time between lectures, so something beginning at 2pm in 'UofT Time' really begins at 2:10 pm. Technically the department does not have to adhere to this, but many things do. Best to arrive on the hour to be safe.
- - **UTORid** - your unique online identifier at UofT, given to you when you get your TCard (see the [to-do list below](#to-do)). You use this to log in to [ACORN](acorn.utoronto.ca) and [Portal](portal.utoronto.ca) which are discussed below in the [Online](#online) section.
- - **UTM** - University of Toronto's [Mississauga Campus](#mississauga)
- - **UTSC** - University of Toronto's [Scarborough Campus](#scarborough)
- - **UTSG** - University of Toronto's [St George Campus](#st-george), also often referred to as the "downtown" campus. This is where UofT has the most students and where graduate student offices are located by default.
-
-## Important Dates
-[**Table of Contents**](#table-of-contents)
-
-There's a lot that goes on at the university. UofT's Faculty of Arts and Science (of which this Department is a member), maintains an exhaustive list of the [sessional dates](https://fas.calendar.utoronto.ca/sessional-dates), but these are primarily undergraduate focused. The list below is a summary of some relevant dates:
-
-- **First week of September** - Graduate student orientation and teaching assistant training meeting, [NSERC PGS-D](#nserc-pgsd) and [Vanier](#vanier) scholarship deadlines for domestic upper year students
-- **Second week of September** - First semester classes begin
-- **End of September** - First [GASA](#gasa) meeting
-- **Last Monday of September** - Deadline to enrol in courses on [ACORN](acorn.utoronto.ca)
-- **Last Monday of October** - Deadline to drop courses on [ACORN](acorn.utoronto.ca)
-- **End of October** - Undergraduate exam schedule posted, relevant for invigilating TAs
-- **Early December** -[NSERC CGS-M](#nserc-cgsm) scholarship deadline for domestic first year students
-- **Early December** - Classes end, exam period begins
-- **Early December** - Winter holiday party
-- **First week of January** - Second semester classes begin 
-- **Last Monday of January** - Deadline to enroll in courses on [ACORN](acorn.utoronto.ca)
-- **End of January** - Second [GASA](#gasa) meeting
-- **Last Monday in February** - Deadline to drop courses on [ACORN](acorn.utoronto.ca)
-- **Late March** - [OGS](#ogs) scholarship deadline for international students
-- **Early April** - Classes end, exam period begins
-- **Mid-May** - [OGS](#ogs) scholarship deadline for domestic students
-- **End of May** - Third [GASA](#gasa) meeting
-
-
-## Human Resources
-[**Table of Contents**](#table-of-contents)
-
-While this guide is meant to serve as a handy reference, it may not be able to answer all of your questions. Here are some friendly faces that may be able to help answer your questions
-
-#### Graduate Associate Chair Chris Matzner
-Office: [MP](#mclennan-physical-labs-and-burton-tower)1207A
-
-Chris has done a great job as graduate chair ensuring that graduate concerns are represented in the department and updating some of the more dated parts of the PhD assessment process.  Chris is a good first point of contact for questions and concerns about the [graduate program](#graduate-program).
-
-#### Graduate Administrator Margaret Meaney
-Office: [AB](#astronomy-building)101-**X**
-
-Margaret works hard to coordinate all of the administrative details of graduate student life, and is an excellent resource for many of your questions. She can help you understand your financial account, outline the details of the program, and deadlines of [scholarship applications](#scholarships),
-
-#### Office Administrator Ingrid Small
-Office: [AB](#astronomy-building)101-**X**
-
-Ingrid Small is a good point of contact for additional administrative questions. She can assist with getting keys, as well as booking rooms that are not on the department's booking calendar (accessible in the internal section of the department's website).
-
-#### CITA Administrative Officer Jenny Jung
-Office: [MP](#mclennan-physical-labs-and-burton-tower)14**XX**
-
-Jenny Jung is the person to talk to about all things CITA, and she's the one who can assist you with getting keys to the [15th floor conference room](#meeting-rooms).
-
-#### Financial Officer Gautam Patel
-Office: [AB](#astronomy-building)101-D
-
-Gautam Patel processes reimbursement claims for the department. This can be for anything from purchasing something for a department event to claiming the flights for a trip. He'll go through your expenses with you and make sure they get charged to the correct account.
-
-#### Computing Manager Hugh Zhao
-Office: [AB](#astronomy-building)101-**X**
-
-Hugh Zhao provides technical support for the department, including managing the [website](https://astro.utoronto.ca) where you can find plenty of useful information in the Internal tab. He's the person to talk to about registering your MAC address so you can use the department [printers](#printers-and-copiers).
-
-#### CITA Computing Manager John Dubinski
-Office: [MP](#mclennan-physical-labs-and-burton-tower)1408
-
-John Dubinksi is the primary manager of [CITA](#canadian-institute-for-theoretical-astrophysics)'s [Sunnyvale](#sunnyvale) computing cluster, and will be getting in touch with you about the jobs you run there.
-
-#### CITA HPC Specialist Claire Yu
-Office: [MP](#mclennan-physical-labs-and-burton-tower)1410
-
-Claire Yu's position is well titled, as she is indeed a high performance computing expert. She can help with [CITA](#canadian-institute-for-theoretical-astrophysics)'s [Sunnyvale](#sunnyvale) computing cluster, as well as help you manage installations for your CITA account.
-
-#### Astronomy Librarian Lee Robbins
-Office: Astronomy Library
-
-Lee Robbins works hard to make that [Astronomy Library](#mp-common-rooms) a valuable resource. The associated [website](http://www.astro.utoronto.ca/AALibrary/) is an excellent place to find quick links to online astronomical resources and her [Astronomy Reference Recommendations](http://www.astro.utoronto.ca/AALibrary/recommendations.html) is an excellent place to find introductory texts for those diving into new fields.
-
-#### TA Admin and Observatory Director Michael Williams
-Office: [AB](#astronomy-building)2**XX**
-
-Michael Williams is a great person to talk to about the on-campus instrumentation, whether it be for a class you're TAing or for a public event you want to run. Mike is also very knowledgeable about our planetarium, and can get you started on adding your own content to the existing software.
-
-## New Student To Do List
+## New Student To-Do List
 [**Table of Contents**](#table-of-contents)
 
 You'll receive emails about nearly everything on this list, but its good to keep in mind that these are the things you'll need to do to get up and running.
@@ -250,266 +122,32 @@ You'll receive emails about nearly everything on this list, but its good to keep
  - Get your printer/copier codes from Ingrid Small
  - Get the library door code from librarian Lee Robbins
 
-
-## Units
+## Graduate Program Overview
 [**Table of Contents**](#table-of-contents)
 
-The Astronomy and Astrophysics community at UofT is composed of several units: the Department of Astronomy and Astrophysics, the Dunlap Institute, the Canadian Institute for Theoretical Astrophysics, and the Centre for Planetary Sciences. The relationships between these bodies can be a bit complex, but each unit is a part of the overall fabric of the department. Most importantly, a student can work with a professor affiliated with any of the units, and your program will be the same.
+The graduate program is described in detail on the [department website](http://www.astro.utoronto.ca/academics/graduate-studies/current/program/). By default, students entering the program are in the 5-year direct entry PhD or 4-year PhD. The MSc degree is not typically used as a point of entry, but rather awarded to students who exit the direct entry program early having completed some of its requirements.
 
-### Department of Astronomy and Astrophysics
-[Website](http://www.astro.utoronto.ca)
+### Important Dates
+[[Back to Table of Contents]](#table-of-contents)
 
-All astronomy graduate students at UofT are officially affiliated with the Department of Astronomy and Astrophysics (DAA), primarily spread across two buildings, the [Astronomy Building](#astronomy-building) and the 12th floor of  the [Burton Tower attached to McLennan Physical Labs](#mclennan-physical-labs-and-burton-tower).  The department is responsible for running the graduate program, and paying you in your first year, as well as offering scholarships and travel grants. The department is also responsible for offering graduate courses and employing you for TA work.
+There's a lot that goes on at the university. UofT's Faculty of Arts and Science (of which this Department is a member), maintains an exhaustive list of the [sessional dates](https://fas.calendar.utoronto.ca/sessional-dates), but these are primarily undergraduate focused. The list below is a summary of some relevant dates:
 
-### Dunlap Institute
-
-[Website](http://www.dunlap.utoronto.ca)
-
-The Dunlap Institute (Dunlap) is primarily focused on instrumentation and outreach. Dunlap members (professors and post-docs) are located in the [Astronomy Building](#astronomy-building). Graduate students can become affiliated with the Dunlap if they are supervised by a Dunlap prof. These students can apply for additional funding not available to the rest of their cohort.
-
-### Canadian Institute for Theoretical Astrophysics
-
-[Website](https://www.cita.utoronto.ca)
-
-The Canadian Institute for Theoretical Astrophysics (CITA) focuses on theoretical work CITA is located on the 13th and 14th floors of the [Burton Tower attached to McLennan Physical Labs](#mclennan-physical-labs-and-burton-tower), and graduate students working with a CITA prof usually have offices on the 12th, 13th, and 14th floors of that building.
-
-### Centre for Planetary Sciences
-[Website](https://cps.utoronto.ca)
-
-The Centre for Planetary Sciences (CPS) is located on UofT's [Scarborough campus](#scarborough). Most offices are on the 5th floor of the Science Wing.
-
-## Campuses
-[**Table of Contents**](#table-of-contents)
-
-### St George
-Also called UTSG, this is UofT's "downtown" campus, located in the heart of Toronto. You can reach this campus easily on foot, by bicycle, or by taking the [TTC](#toronto-transit-commission) to Line 1 subway stations (Queen's Park, Museum, St George, Spadina), to Line 2 subway stations (St George, Spadina),  by using the 506 and 510 streetcar lines or by taking the 94 Wellesley bus. There is limited street parking available, as well as underground parking lots that can be entered for a fee, some requiring a permit. This campus hosts the two main astronomy buildings, [AB](#astronomy-building) and [MP](#mclennan-physical-labs-and-burton-tower), where you can find the [department](#department-of-astronomy-and-astrophysics), the [Dunlap Institute](#dunlap-institute) and [CITA](#canadian-institute-for-theoretical-astrophysics).
-
-### Scarborough
-
-The UTSC campus is UofT's eastern satellite campus, in the Scarborough suburb of Toronto. This campus can be reached by car via the 401 highway, or by [TTC](#toronto-transit-commission) by taking a bus from the York Mills (on Line 1) or from Kennedy Station (Line 2).  This campus is home to [CPS](#centre-for-planetary-sciences), and hosts the [Scarborough Planet Days](#scarborough-planet-days) and [Scarborough Planet Lunches](#scarborough-planet-lunches). Astronomy courses are taught there, and you may have the option to TA one of them.
-
-### Mississauga
-Also called UTM, this is UofT's western satellite campus, located in the neighbouring city of Mississauga. There is a shuttle that runs between [Hart House](#hart-house) on the [UTSG](#st-george) campus and the UTM Instructional Centre. The shuttle is free for students with their [TCard](#tcard). There is only one faculty member appointed to the  UTM campus, but astronomy courses are taught there, and you may have the option to TA one of them.
-
-## Buildings
-[**Table of Contents**](#table-of-contents)
-
-The [DAA's](#department-of-astronomy-and-astrophysics) two main buildings contain many common rooms, which are described below. You can also find a [list of all meeting rooms](#meeting-rooms) and their associated features below.
-
-### Astronomy Building
-
-Located at [50 St George Street](https://goo.gl/maps/jdwZv75EraG2), the Astronomy Building (AB) is a two storey building housing primarily graduate student, post-doc and professor offices, in addition to several basement labs and a couple of undergraduate lecture rooms. The building has two entrances, one from St George St and one from Russell St. Neither entrance is accessible; getting to any room inside this building requires climbing or descending stairs. The St George St doors are locked after 6pm, while the Russell St doors and the internal doors leading to the office sections of the building (which can be opened with your mailroom key) are locked after 9pm. 
-
-#### AB Common Rooms
-Rooms labelled ABXX are in the basement, those labelled AB1XX are on the first floor, and those labelled AB2XX are on the second (and top) floor. Some rooms require bookings through the online booking calendar 
-
- - **AB74** - Storage room for graduate students
-	 -  accessible via your mailroom key
- - **AB79** - Planetarium,
-	 - accessible via key in the mailroom
-	- this room must be booked prior to use
-	- you must attend a training session to use the planetarium
- - **AB85** - 3D printer and miscellaneous outreach material
-	 -  accessible via key from the 3D printing rep or IT Technologist
-	 - this room must be booked prior to use
-	 - you must attend a training session to use the 3D printer
- - **AB88** - Conference room
-	 - accessible via key in the mailroom
-	 - this room must be booked prior to use with the booking calendar in the Internal tab of the [astronomy website](https://astro.utoronto.ca)
-	 - capacity of ~20 people
- - **AB101-H** - Conference room 
-	 - accessible via your mailroom key
-	 - this room must be booked prior to use with the booking calendar in the Internal tab of the [astronomy website](https://astro.utoronto.ca)
-	 - capacity ~ 8
- - **AB101-J** - Mailroom
-	 - accessible via your mailroom key
-	 - contains:
-		 -  mailslots
-		 - [hpd](#printers) printer 
-		 - [ricoh](#printers) printer and copier
-		 - paper cutter
-		 - paper shedder
-		 - projectors and laptops in the tech cabinet
- - **AB107 (Cody Hall)** - Lecture hall
-	 - this room must be booked through the office of [Academic and Campus Events (ACE)](#https://www.ace.utoronto.ca)
-	 - location of [astronomy colloquiua](#colloquium)
- - **AB111** - Graduate student meeting room
-	 - accessible via your mailroom key
-	 - this room must be booked prior to use with the booking calendar in the Internal tab of the [astronomy website](https://astro.utoronto.ca)
-	 - capacity ~2
- - **AB113** - Conference room
-	 - accessible via a key in the mailroom
-	 - this room must be booked prior to use with the booking calendar in the Internal tab of the [astronomy website](https://astro.utoronto.ca)
-	 - capacity ~15
- - **AB201** - Lounge
-	 - open to all
-	 - contains a fridge, microwave and sink, as well as tables and couches
-
-
-### McLennan Physical Labs and Burton Tower
-McLennan Physical Labs is at [60 St George St](https://goo.gl/maps/ShCfL48w2iF2). The lower two floors of the building are entirely undergraduate lecture halls and labs, but also feature a snack shop and vending machines. The tower in the southwest corner of the building houses offices for the physics department, with the 12th, 13th and 14th floors containing [DAA](#department-of-astronomy-and-astrophysics) and [CITA](#canadian-institute-for-theoretical-astrophysics) offices. Unlike [AB](#astronomy-building), this building is accessible up to the 14th floor, and doors remain unlocked until 9pm.
-
-
-#### MP Common Rooms
-- **MP110** - Physics Lounge
-	- must be booked through third floor physics administrative office
-	- capacity ~ 50
-- **MP211C** - Physics Library
-	- physics books can be borrowed with your TCard
-- **MP1318A** - Seminar Room
-	- must be booked through the CITA administrative office
-	- location of [CITA seminars](#cita-seminars)
-- **MP1318C** - Undergraduate office
-	- contains CITA printer [sunflower](#printers)
-- **Astronomy Library** - 13th floor	
-	- turn right out of the elevators
-	- gain access by asking for the code from [Lee Robbins](#astronomy-librarian-lee-robbins)
-	- books on this [reference list](http://www.astro.utoronto.ca/AALibrary/recommendations.html) can be found here
-	- books are borrowed by filling out one of the slips on the front desk, and may be checked out until the next inventory
-- **CITA Administrative Office**
-	- across from the elevators on the 14th floor
-- **Mailroom** 
-	- south (or right) of the CITA administrative office on the 14th floor
-	- contains CITA printer [violet](#printers)
-- **CITA Lounge**
-	- left out of the elevators on the 14th floor
-	- contains a fridge, microwave, coffee machine, sink and dishwasher, as well as some couches
-	- contains CITA printer [canna](#printers)
-- **15th Floor Conference Room**
-	- must be booked through the CITA administrative office
-	- pick up keys from CITA administrative office
-	- access this room by taking the north side stairs up from the 14th floor (turn left out of the elevator)
-	- capacity ~15
-- **Telescope Domes**
-	- access the telescopes by taking the south side stairs up from the 14th floor (turn right out of the elevators)
-	- requires keys from the [campus observer](#positions) or [Mike Williams](#ta-admin-and-observatory-director-michael-williams)
-
-### Meeting Rooms
-
-You may have need of a room larger than your office in which to hold a meeting. Most rooms are managed centrally by UofT and must be booked through the [Office of Academic and Campus Events](http://www.ace.utoronto.ca). You can check the availability of a room with their [booking calendar](http://www.ace.utoronto.ca/bookings/f?p=200:3:1579470581440301::NO:::). However, some rooms can be booked more conveniently by visiting an administrative office in the building or through an online calendar. These are summarized below in order of increasing size.
-
- - **[AB](#astronomy-building)111** - Graduate student meeting room
-	 - accessible via your mailroom key
-	 - this room must be booked prior to use with the booking calendar in the Internal tab of the [astronomy website](https://astro.utoronto.ca)
-	 - capacity ~2
- - **[AB](#astronomy-building)101-H** - Conference room 
-	 - accessible via your mailroom key
-	 - this room must be booked prior to use with the booking calendar in the Internal tab of the [astronomy website](https://astro.utoronto.ca)
-	 - capacity ~ 8
- - **[AB](#astronomy-building)113** - Conference room
-	 - accessible via a key in the mailroom
-	 - this room must be booked prior to use with the booking calendar in the Internal tab of the [astronomy website](https://astro.utoronto.ca)
-	 - capacity ~15
-- **15th Floor Conference Room** - in [MP](#mclennan-physical-labs-and-burton-tower)
-	- must be booked through the CITA administrative office
-	- pick up keys from CITA administrative office
-	- access this room by taking the north side stairs up from the 14th floor (turn left out of the elevator)
-	- capacity ~15
- - **[AB](#astronomy-building)88** - Conference room
-	 - accessible via key in the mailroom
-	 - this room must be booked prior to use with the booking calendar in the Internal tab of the [astronomy website](https://astro.utoronto.ca)
-	 - capacity of ~20 people
-- **[MP](#mclennan-physical-labs-and-burton-tower)1318A** - Seminar Room
-	- must be booked through the CITA administrative office
-	- location of [CITA seminars](#cita-seminars)
-	- capacity ~ 30
-- **[MP](#mclennan-physical-labs-and-burton-tower)110** - Physics Lounge
-	- must be booked through third floor physics administrative office
-	- capacity ~ 50
-
-### Other Relevant Locations
-These locations currently organized in rough order from south to north.
-
-#### The Koffler Student Centre
-On the next block south of [AB](#astronomy-building) and [MP](#mclennan-physical-labs-and-burton-tower).
-- Contains:
-	- [TCard Services](http://tcard.utoronto.ca)
-	- [Health and Wellness Centre](https://www.studentlife.utoronto.ca/hwc)
-	- [UofT Bookstore](https://uoftbookstore.com)
-	- [Career Centre](https://www.studentlife.utoronto.ca/cc/contact-us)
-	- Second Cup coffee shop
-
-#### Bahen Centre
-On the next block south of [AB](#astronomy-building) and [MP](#mclennan-physical-labs-and-burton-tower).
-- Contains
-	- Multi-Faith space
-	- [The Cube](https://ueat.utoronto.ca/the-cube/) lunch spot
-
-#### Koffler House
-Surprisingly not all that close to the Koffler Centre. A frequent location for [GSU](#gsu-rep) meetings.
-- Contains:
-	- [The Multi-Faith Centre](http://www.studentlife.utoronto.ca/mf)
-	-  Veda - Healthy Indian Takeout *some students dispute the validity of calling this Indian food*
-
-#### UTGSU Building
-Next to Koffler House.
-- Contains:
-	- [UTGSU](#gsu-rep) offices
-	- [GSU pub](https://www.utgsu.ca/pubcafe/)
-	- [GSU Gym](https://www.utgsu.ca/gym/), a single room available by registration only.
-
-#### Gerstein Library
-A broad science library, with extensive stacks of reference texts and ample places to study. Books can be borrowed with your TCard.
-
-- Contains
-	- group study rooms
-	- presentation practice rooms
-	- 3D printer and VR equipment rental
-
-#### Hart House
-There is so much in Hart House, and their [website](http://harthouse.ca) has it all, but highlights are listed below.
-
-- Contains
-	- [Hart House Fitness Centre](http://harthouse.ca/fitness/) (entry requires your TCard)
-	- [Hart House Theatre](http://harthouse.ca/hart-house-theatre/)
-	- [Justina M. Barnicke Gallery](http://harthouse.ca/justina-m-barnicke-gallery/)
-	- [Gallery Grill and Hart House Cafe](http://harthouse.ca/gallery-grill/)
-	- [rentable rooms for all of your events](http://harthouse.ca/rooms-spaces/)
-	- drop off point for [UTM](#mississauga) shuttle
-
-#### Athletic Centre
-The AC is the gymiest gym at UofT.  Your TCard is required to enter. Like Hart House, there's way too much here to list it all, but highlights are below. The rest can be found on their [website](https://kpe.utoronto.ca/facility/athletic-centre).
-
-- Contains
-	- [Field house](https://kpe.utoronto.ca/node/358): strength and cardio machines, a running track and courts for a variety of sports
-	- [Upper Gym](https://kpe.utoronto.ca/node/363): badminton, or basketball by appointment or drop in.
-	- [Lower Gym](https://kpe.utoronto.ca/node/359): a gymnastics gym accessible through classes
-	- [Sports Gym](https://kpe.utoronto.ca/node/360): drop in badminton, basketball, indoor cricket, volleyball and indoor hockey
-	- [Strength and Conditioning Centre](https://kpe.utoronto.ca/node/362)
-	- [Squash and Table Tennis Courts](https://kpe.utoronto.ca/node/361)
-	- [Varsity Pool](https://kpe.utoronto.ca/node/85)
-
-#### Robarts Library
-If the [AC](#athletic-centre) is the gymiest gym, Robarts is the librariest library. It is a massive space for reference material, and a reasonably quiet space to study (outside of undergraduate exam periods). Books may be borrowed with your TCard.
-
-- Contains
-	- Stacks (floors 9-13) - your TCard is required to enter
-	- [Cafeteria](https://ueat.utoronto.ca/robarts-cafeteria/)
-	- Multi-Faith space
-
-#### Grad House and Grad Room
-[Grad House](http://gradhouse.utoronto.ca) is a suite-style graduate residence. [Grad Room](http://www.sgs.utoronto.ca/currentstudents/Pages/Grad-Room.aspx) is located in its base, and offers coffee shop fare and graduate student specific programming, including weekly writing groups, yoga, and meditation. You can learn more about living in Grad House in the [Housing](#grad-house) section.
-
-#### Massey College
-
-Graduate student residence that is affiliated with but independent from UofT. You can find out more about their suite housing on their [website](https://www.masseycollege.ca/about/), or by reading on to the [Housing](#massey-college) section.
-
-#### Goldring Centre for High Perfomance Sport
-
-[Goldring](https://kpe.utoronto.ca/facility/goldring-centre-high-performance-sport) is UofT's newest athletic space. As with all of UofT's athletic facilities, you'll need your TCard to enter.
-
-- Contains:
-	- Strength and conditioning centre
-	- [Sport medicine clinic](https://kpe.utoronto.ca/david-l-macintosh-sport-medicine-clinic)
-	- Fitness studio (for classes)
-
-#### The Varsity Centre
-[The Varsity Centre](https://kpe.utoronto.ca/facility/varsity-centre) is UofT's stadium, and can be accessed through the Devonshire Place pavilion with your TCard. The outdoor stadium is covered in the fall and winter for intramural sports. The centre also includes a skating rink.
-
-## Graduate Program
-[**Table of Contents**](#table-of-contents)
-
-The graduate program is described in detail on the [department website](http://www.astro.utoronto.ca/academics/graduate-studies/current/program/). By default, students entering the program are in the 5-year direct entry PhD or 4-year PhD. The MSc degree is not typically used as a point of entry, but rather awarded to students who exit the direct entry program early having completed some of its requirements. 
+- **First week of September** - Graduate student orientation and teaching assistant training meeting, [NSERC PGS-D](#nserc-pgsd) and [Vanier](#vanier) scholarship deadlines for domestic upper year students
+- **Second week of September** - First semester classes begin
+- **Last Monday of September** - Deadline to enrol in courses on [ACORN](acorn.utoronto.ca)
+- **Early-Mid October** - GASA elections
+- **Last Monday of October** - Deadline to drop courses on [ACORN](acorn.utoronto.ca)
+- **End of October** - Undergraduate exam schedule posted, relevant for invigilating TAs
+- **Early December** -[NSERC CGS-M](#nserc-cgsm) scholarship deadline for domestic first year students
+- **Early December** - Classes end, exam period begins
+- **Early December** - Winter holiday party
+- **First week of January** - Second semester classes begin 
+- **Last Monday of January** - Deadline to enroll in courses on [ACORN](acorn.utoronto.ca)
+- **End of January** - Second [GASA](#gasa) meeting
+- **Last Monday in February** - Deadline to drop courses on [ACORN](acorn.utoronto.ca)
+- **Late March** - [OGS](#ogs) scholarship deadline for international students
+- **Early April** - Classes end, exam period begins
+- **Mid-May** - [OGS](#ogs) scholarship deadline for domestic students
 
 ### Direct Entry vs Standard PhD
 
@@ -620,8 +258,6 @@ Over the course of your degree, you are expected to take 2 credits worth of grad
 
 The following courses are the full offering from the department, but not all of these courses are offered every year. Current courses will be available for enrolment on [ACORN](acorn.utoronto.ca). Check the top of [this page](http://www.astro.utoronto.ca/academics/graduate-studies/current/courses/) to see current offerings.
 
-***Is there actually a prep course limit***
-
 **Preparatory Courses**
 
 -   [AST 1410H Stars](http://www.astro.utoronto.ca/academics/graduate-studies/ast-1410h-stars/)
@@ -656,17 +292,10 @@ You may find an interesting graduate course offering from another department. Ta
 A course may catch your interest that isn't necessary for you to complete your program requirements. Auditing courses is permitted, but you should keep in mind that if no one signs up to take the course for credit, then the course won't run. Different profs will have different standards for auditing students - some may be fine with you just sitting in lectures, but others may require you to make attempts at the assignments, whether they be problem sets or final presentations. Speak to the prof teaching the course you're interested in to find out what they expect from auditing students.
 
 
-### Qualifying Exams:
+### Literature Qualifying Exams:
 You can find a more detailed description of the qualifying exams on the [department website](http://www.astro.utoronto.ca/academics/graduate-studies/current/program/quals/)
 
-#### General Qualifier
-In the winter semester of your second year, you'll need to pass the general qualifying exam, intended to ensure that your astronomical knowledge has been broadened beyond the specific focus of your research. The exam is composed of 15 questions, that are answered orally with two minutes of response per question. There is a five minute period following each question during which the panel of three faculty examiners may ask follow up questions. Question are taken from a test bank of roughly 100 questions, which are made available to students prior to the exam. The question bank is divided into five categories: Cosmology, Extragalactic Astronomy, Galactic Astronomy, Stars and Planets, and Physics and Mathematics. Five questions are drawn from each section, of which the examiners choose three to avoid overlap.
-
-In the past, this exam has been split into two parts, separated by a few weeks to give students time to prepare for each section. Students may be awarded a pass, conditional pass, or fail. Failing necessitates a retake of the entire exam, after a period for further study, while a conditional pass requires a retake of one category or taking a preparatory level course.
-
-You can find the [2018 question bank online](http://www.cita.utoronto.ca/~matzner/Quals/QualQuestionBank2018.pdf).
-
-#### Thesis Qualifier
+### Thesis Qualifier
 
 The thesis qualifying exam is intended to test your expertise in the topic you've chosen for your thesis. Prior to the exam, you'll need to turn in a 10 page thesis proposal, that outlines your planned work and includes a timeline. The exam consists of a 20-25 minute presentation which focuses on how your work will fit in with the current state of the field, and, more importantly, the reasons that you are most qualified to do this work. The goal of the presentation is to convince the committee of five faculty members (including your [thesis committee](#thesis-committee)) that you have a clear and concrete plan toward completing your thesis on time, and that the project you propose is appropriate for a thesis work. Your supervisor should be able to help you determine how best to discuss your work. After the presentation, there will be two rounds of questions, where each examiner has about 10 minutes per round. The questions will be inspired by your presentation, but may enquire about the details of specific methods, your plans to publicize your research, or how your work relates to that of other researchers.
 
@@ -694,7 +323,7 @@ Also called the Final Oral Examination, the thesis defense is the ultimate evalu
 
 The exam itself takes place over a minimum of two hours. Things kick off with a 20 minute presentation. The examination committee then takes turns asking questions, and when they are finished questioning, they vote on whether your defense was successful. More than one negative vote will adjourn the defense. An non-voting member from the School of Graduate Studies will be present to ensure voting proceeds appropriately.
 
-## Teaching
+### Teaching
 
 Part of your base [funding package](#funding-package) at UofT is a TAship in the fall and winter semesters. These TAships are 70 hours per semester, earning at a union specified rate in excess of $42/hour. Duties include running tutorials, holding office hours, running planetarium shows and observing nights, and marking assignments and tests, although they vary depending on the course you choose. 
 
@@ -702,7 +331,7 @@ In some cases, a professor you work with might prefer you focus solely on resear
 
 Conversely, you may wish to earn additional money on top of the base [funding package](#funding-package). Additional TAships may be available for you to take on, but you should consult with your supervisor on whether you are making sufficient research progress to allow more time spent on teaching. Note that while students are guaranteed a fall and winter TAship, summer courses are TA'd on a first-come first-served basis, and are a common option for students looking to take on additional TAships.
 
-### Courses to TA
+#### Courses to TA
 Grad students are typically assigned to astronomy department courses, although you may take on a TAship in another department if one is advertised. The undergrad courses that take on TAs are listed below. Note that a trailing 'H' in the course code indicates that the course is offered over one semester (Fall, Winter or Summer), while a trailing 'Y' indicates a course takes two semesters to complete (Fall and Winter).
 
 - **AST101H** - The Sun and its Neighbours (Fall and Summer)
@@ -722,136 +351,227 @@ Grad students are typically assigned to astronomy department courses, although y
 - **AST325H/AST326Y** - Practical Astronomy (Fall/Full Year)
 	- This is the undergraduate degree lab course. Students not pursuing a specialist in astronomy may take only the first half of the course by enrolling in AST325, but they share lectures and lab time with AST326 students, who continue the course into the winter semester. Total enrolment is around 80 students, with a total of 5 TAs. Since this course includes a lab component, TAs offer help sessions in the lab in addition to assisting assignment development and marking completed labs.
 
-### Teaching Assistant Training Program
+#### Teaching Assistant Training Program
 If you'd like to hone your teaching skills, UofT offers an on campus training program, TATP. Take enough courses with them, and you can earn a Teaching Fundamentals certification. If you take more courses and undergo an classroom evaluation, you can receive the Advanced University Teaching Preparation certification. You can find a list of their courses and workshops on [their website](https://tatp.utoronto.ca/events/list/).
 
-## Computing
-
-Computer resources are provided by the department in your first year, and by your supervisor in subsequent years. Students may request a desktop Linux machine from the department through [Hugh Zhao](#computing-manager-hugh-zhao). Students working in [CITA](#canadian-institute-for-theoretical-astrophysics) will be provided with a desktop computer to access the [CITA network](https://wiki.cita.utoronto.ca/index.php/Quickstart).
-
-### Personal Computers
-
-Personal computers are the responsibility of the student to maintain. The department staff may be able to assist with installations and set up, but cannot guarantee support for personal computers. All personal computers can access UofT services like journal licenses when on the 'UofT' wireless network, available throughout campus. Printing from a personal computer in [AB](#astronomy-building) requires the registration of your MAC address with [Hugh Zhao](#computing-manager-hugh-zhao).  Printing from a personal computer in [MP](#mclennan-physical-labs-and-burton-tower) requires registration of your MAC address with [John Dubinski](#cita-computing-manager-john-dubinski).
-
-### SciNet
-
-SciNet is a high performance computing network associated with several institutions across Canada. Graduate students must be sponsored by a professor in order to access these resources, but they are ideal for batch processing intensive computations. You'll need a [Compute Canada](https://ccdb.computecanada.ca/security/login) account (as will your sponsor) before you can gain access. You can learn more about how to use SciNet by attending one of their intro sessions listed on their [course page](https://support.scinet.utoronto.ca/education/browse.php). If you're already comfortable with bash prompt, you can probably find enough to get started on their [Niagara Quickstart page](https://docs.computecanada.ca/wiki/Niagara_Quickstart).
-
-### Sunnyvale
-
-Sunnyvale is a smaller high perfomance network hosted at [CITA](#canadian-institute-for-theoretical-astrophysics). No student sponsorship is required, but a CITA account is necessary. In other respects, Sunnyvale's batch processing system is similar to SciNet's. You can find out more on how to access CITA's network and Sunnyvale in particular in their [Quickstart](wiki.cita.utoronto.ca/index.php/Quickstart).
-
-## Useful Links
+## Your GASA Family
 [**Table of Contents**](#table-of-contents)
 
-- [NASA ADS](https://ui.adsabs.harvard.edu) - paper database with citation exports
-- [arXiv astro-ph](https://arxiv.org/list/astro-ph/recent) - paper database
-- [Department Internal Webpage](http://www.astro.utoronto.ca/internal/) - password is in your welcome packet - find facility booking calendar, printer set up, MAC address registration
-- [School of Graduate Studies Website](http://www.sgs.utoronto.ca/Pages/default.aspx)
-- [Employee Self-Service Website](http://aws.utoronto.ca/services/employee-self-service-ess/) - update personal information, download tax forms
-- [ACORN](http://acorn.utoronto.ca) - check academic and financial history, download tax forms
-- [Portal](http://portal.utoronto.ca) - find class pages
-- [Health Services](https://www.studentlife.utoronto.ca/hwc/medical-services) - make doctor's appointments
-- [Accessibility Services](https://www.studentlife.utoronto.ca/as) - set up accommodations
-- [Greenshield Information](http://studentcare.ca/rte/en/IHaveAPlan_UniversityofTorontoGraduateStudentsUnionUTGSU_Home) - find out what the health plan covers
-- [Greenshield Login](https://onlineservices.greenshield.ca/PlanMember/AccessMgmt/Public/SignOn.aspx) - make insurance claims
-
-## Common Tools
-[**Table of Contents**](#table-of-contents)
-
-- [Slack](https://slack.com) - messaging forum 
-- [Mendeley](https://www.mendeley.com) - free paper manager
-- [ShareLatex](https://www.sharelatex.com) - online Latex editor
-- [Anaconda](https://conda.io/docs/user-guide/install/download.html) - Python distribution with its own package manager
-- [Jupyter Notebook/Lab](http://jupyter.org) - cell based Python coding
-- [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb) - online Jupyter Notebook editor linked to Google Drive
-
-## GASA
-[**Table of Contents**](#table-of-contents)
-
-GASA is the Graduate Astronomy Student Association, and all astronomy graduate students are members unless they choose to opt out.  GASA represents the interests and concerns of graduate students to the rest of the department. The full scope of the organization is most clear when the variety of associated positions are listed. All members of GASA are encouraged to take on at least one of the positions below, even in their first year, as an individual position usually represents a fairly minimal time commitment.
+GASA is the Graduate Astronomy Student Association, and all astronomy graduate students are members unless they choose to opt out.  GASA represents the interests and concerns of graduate students to the rest of the department. There are many committees within GASA, which range from advocating to ensure we receive fair compensation, to organizing outreach activities, to liaising with other organizations, to planning social events.
 
 
 ### GASA Positions
 
-To see who currently holds these positions, check the [GASA website](http://www.astro.utoronto.ca/~gasa/). Parenthetical numbers next to a position imply multiple people can hold the position simultaneously.
-- **Executive Team**
-	- **President** (2)
-		- Leader of GASA, the president represents GASA in department discussion (particularly faculty meetings), and serves as a first point of contact for anyone wishing to solicit graduate student opinion or support.
-	- **Treasurer**
-		- The treasurer is responsible for maintaining access to GASA finances, subject to additional approval of the president. The treasurer makes regular reports on the status of GASA finances.
-	- **Secretary**
-		- The secretary is responsible for recording events relevant to GASA and disseminating notes to the membership.
-- **Internal Positions/Committees**
-	- **Mediation Committee** (3)
-		- The mediation committee takes responsibility for specific issues that effect one or many graduate student(s), doing research and compiling reports to submit to the department as a whole.
-	- **Talk Show Host**
-		- Organizes a weekly hour for graduate students to share their work, practice their presentations, or just enjoy some [Timbits](http://www.timhortons.com/ca/en/menu/timbits.php).
-	- **Course Committee** (2-3)
-		- Committee that communicates with the department about concerns specifically related to courses. 
-	- **Mini Course Coordinator**
-		- Collates requests for mini courses from the membership and communicates them to the graduate chair and potential instructors.
-	- **Professional Development Committee** (3)
-		- Researches and hosts workshops and panels to help graduate students develop their soft skills and otherwise prepare for the job market.
-	- **Mental Health Committee** (3)
-		- Researches and hosts workshops and panels to help graduate students improve their mental health.
-	- **Social Committee** (4-5)
-		- Organizes social events for the membership and the department as a whole. Annual responsibilities include organizing movie nights, the holiday party, and the summer picnic.
-	- **Webmaster**
-		- Maintains and updates the GASA website, with visual updates when necessary.
-- **Social Positions**
-	- **Dinner with the Speaker**
-		- Organizes weekly dinners with the graduate students and the colloquium speaker.
-	- **Quals/Thesis Celebration**
-		- Purchases refreshments for celebrating a successful qualifying exam or thesis defense.
-	- **Coffee Master**
-		- Submits orders for more coffee in the [AB](#astronomy-building) lounge
-	- **Tea Master** (3)
-		- Organizes weekly [GASA Tea](#non-scientific-events), to which all are welcome, and collect donation to purchase more tea. 
-	- **Paint Master**
-		- Organizes roughly monthly GASA watercolour paint nights.
-	- 	**Friends of the Editor** (2)
-		- Serve as a buffer between the membership and the mysterious 'editor' who composes the satirical 'Droppings' magazine from membership submissions in time for the holiday party.
-- **Representatives to external committees/organizations**
-	- **CASCA Rep**
-		- Representative to the Canadian Astronomical Society.
-	- **GSU Rep**
-		- Representative to the Graduate Student Union.
-	- **CUPE Rep**
-		- Representative to the teaching assistant's union.
-	- **Health and Safety Rep**
-		- Representative to the department's health and safety committee.
-	- **Building Committee Rep**
-		- Representative to the department's committee for planning the new building to replace [AB](#astronomy-building).
-	- **Astronomy Union Ambassador**
-		- Representative to the undergraduate Astronomy Union.
+All members of GASA are expected to take on at least one position every year, except their final year when they are preparing to defend. This includes first year students, however first years often assume roles with less time committment and responsibility.
 
-### AstroTours
+The live document describing all of the GASA positions can be found [here](https://docs.google.com/document/d/1crzydm6BaOiuBqtqv_kaTghfLQyC1AedTicb_E6cw_k/edit?usp=sharing). To see who currently holds these positions, check the [GASA website](http://www.astro.utoronto.ca/~gasa/)
+
+### Social Events
+
+GASA's Social Committee organizes social events for GASA members and guests throughout the year.
+
+There are 2 big annual events:
+
+1. The **Toronto Islands Party** usually occurs in late September. It is an opportunity for graduate students, post-docs and faculty to all get together at the start of the academic year, and in particular for everyone to meet the incoming graduate students.
+
+2. The **Holiday Party** occurs in early-mid December, and provides an opportunity for graduate students, undergraduates, post-docs, faculty, and guests to let loose in a fun, social environment. Outrageous holiday outfits are encouraged!
+
+## Life in Astronomy & Astrophysics
+
+
+### Units
+[**Table of Contents**](#table-of-contents)
+
+The Astronomy and Astrophysics community at UofT is composed of several units: the Department of Astronomy and Astrophysics, the Dunlap Institute, the Canadian Institute for Theoretical Astrophysics, and the Centre for Planetary Sciences. The relationships between these bodies can be a bit complex, but each unit is a part of the overall fabric of the department. Most importantly, a student can work with a professor affiliated with any of the units, and your program will be the same.
+
+#### Department of Astronomy and Astrophysics
+[Website](http://www.astro.utoronto.ca)
+
+All astronomy graduate students at UofT are officially affiliated with the Department of Astronomy and Astrophysics (DAA), primarily spread across two buildings, the [Astronomy Building](#astronomy-building) and the 12th floor of  the [Burton Tower attached to McLennan Physical Labs](#mclennan-physical-labs-and-burton-tower).  The department is responsible for running the graduate program, and paying you in your first year, as well as offering scholarships and travel grants. The department is also responsible for offering graduate courses and employing you for TA work.
+
+#### Key Contacts
+
+#### Dunlap Institute
+
+[Website](http://www.dunlap.utoronto.ca)
+
+The Dunlap Institute (Dunlap) is primarily focused on instrumentation and outreach. Dunlap members (professors and post-docs) are located in the [Astronomy Building](#astronomy-building). Graduate students can become affiliated with the Dunlap if they are supervised by a Dunlap prof. These students can apply for additional funding not available to the rest of their cohort.
+
+#### Canadian Institute for Theoretical Astrophysics
+
+[Website](https://www.cita.utoronto.ca)
+
+The Canadian Institute for Theoretical Astrophysics (CITA) focuses on theoretical work CITA is located on the 13th and 14th floors of the [Burton Tower attached to McLennan Physical Labs](#mclennan-physical-labs-and-burton-tower), and graduate students working with a CITA prof usually have offices on the 12th, 13th, and 14th floors of that building.
+
+#### Centre for Planetary Sciences
+[Website](https://cps.utoronto.ca)
+
+The Centre for Planetary Sciences (CPS) is located on UofT's [Scarborough campus](#scarborough). Most offices are on the 5th floor of the Science Wing.
+
+
+### Buildings and Common Spaces
+[**Table of Contents**](#table-of-contents)
+
+The [DAA's](#department-of-astronomy-and-astrophysics) two main buildings contain many common rooms, which are described below. You can also find a [list of all meeting rooms](#meeting-rooms) and their associated features below.
+
+#### Astronomy Building
+
+Located at [50 St George Street](https://goo.gl/maps/jdwZv75EraG2), the Astronomy Building (AB) is a two storey building housing primarily graduate student, post-doc and professor offices, in addition to several basement labs and a couple of undergraduate lecture rooms. The building has two entrances, one from St George St and one from Russell St. Neither entrance is accessible; getting to any room inside this building requires climbing or descending stairs. The St George St doors are locked after 6pm, while the Russell St doors and the internal doors leading to the office sections of the building (which can be opened with your mailroom key) are locked after 9pm. 
+
+##### AB Common/Meeting Rooms
+Rooms labelled ABXX are in the basement, those labelled AB1XX are on the first floor, and those labelled AB2XX are on the second (and top) floor. Some rooms require bookings through the online booking calendar 
+
+ - **AB88** - Conference room
+	 - accessible via key in the mailroom
+	 - this room must be booked prior to use with the booking calendar in the Internal tab of the [astronomy website](https://astro.utoronto.ca)
+	 - capacity of ~20 people
+ - **AB101-H** - Conference room 
+	 - accessible via your mailroom key
+	 - this room must be booked prior to use with the booking calendar in the Internal tab of the [astronomy website](https://astro.utoronto.ca)
+	 - capacity ~ 8
+ - **AB101-J** - Mailroom
+	 - accessible via your mailroom key
+	 - contains:
+		 -  mailslots
+		 - [hpd](#printers) printer 
+		 - [ricoh](#printers) printer and copier
+		 - paper cutter
+		 - paper shedder
+		 - projectors and laptops in the tech cabinet
+ - **AB107 (Cody Hall)** - Lecture hall
+	 - this room must be booked through the office of [Academic and Campus Events (ACE)](#https://www.ace.utoronto.ca)
+	 - location of [astronomy colloquiua](#colloquium)
+ - **AB113** - Conference room
+	 - accessible via a key in the mailroom
+	 - this room must be booked prior to use with the booking calendar in the Internal tab of the [astronomy website](https://astro.utoronto.ca)
+	 - capacity ~15
+ - **AB201** - Lounge
+	 - open to all
+	 - contains a fridge, microwave and sink, as well as tables and couches
+
+
+#### McLennan Physical Labs and Burton Tower
+McLennan Physical Labs is at [60 St George St](https://goo.gl/maps/ShCfL48w2iF2). The lower two floors of the building are entirely undergraduate lecture halls and labs, but also feature a snack shop and vending machines. The tower in the southwest corner of the building houses offices for the physics department, with the 12th, 13th and 14th floors containing [DAA](#department-of-astronomy-and-astrophysics) and [CITA](#canadian-institute-for-theoretical-astrophysics) offices. Unlike [AB](#astronomy-building), this building is accessible up to the 14th floor, and doors remain unlocked until 9pm.
+
+
+##### MP Common/Meeting Rooms
+- **MP110** - Physics Lounge
+	- must be booked through third floor physics administrative office
+	- capacity ~ 50
+- **MP211C** - Physics Library
+	- physics books can be borrowed with your TCard
+- **MP1318A** - Seminar Room
+	- must be booked through the CITA administrative office
+	- location of [CITA seminars](#cita-seminars)
+- **MP1318C** - Undergraduate office
+	- contains CITA printer [sunflower](#printers)
+- **Astronomy Library** - 13th floor	
+	- turn right out of the elevators
+	- gain access by asking for the code from [Lee Robbins](#astronomy-librarian-lee-robbins)
+	- books on this [reference list](http://www.astro.utoronto.ca/AALibrary/recommendations.html) can be found here
+	- books are borrowed by filling out one of the slips on the front desk, and may be checked out until the next inventory
+- **CITA Administrative Office**
+	- across from the elevators on the 14th floor
+- **Mailroom** 
+	- south (or right) of the CITA administrative office on the 14th floor
+	- contains CITA printer [violet](#printers)
+- **CITA Lounge**
+	- left out of the elevators on the 14th floor
+	- contains a fridge, microwave, coffee machine, sink and dishwasher, as well as some couches
+	- contains CITA printer [canna](#printers)
+- **15th Floor Conference Room**
+	- must be booked through the CITA administrative office
+	- pick up keys from CITA administrative office
+	- access this room by taking the north side stairs up from the 14th floor (turn left out of the elevator)
+	- capacity ~15
+- **Telescope Domes**
+	- access the telescopes by taking the south side stairs up from the 14th floor (turn right out of the elevators)
+	- requires keys from the [campus observer](#positions) or [Mike Williams](#ta-admin-and-observatory-director-michael-williams)
+
+#### Booking a meeting room
+
+### Computing
+
+Computer resources are provided by the department in your first year, and by your supervisor in subsequent years. Students may request a desktop Linux machine from the department through [Hugh Zhao](#computing-manager-hugh-zhao). Students working in [CITA](#canadian-institute-for-theoretical-astrophysics) will be provided with a desktop computer to access the [CITA network](https://wiki.cita.utoronto.ca/index.php/Quickstart).
+
+#### Personal Computers
+
+Personal computers are the responsibility of the student to maintain. The department staff may be able to assist with installations and set up, but cannot guarantee support for personal computers. All personal computers can access UofT services like journal licenses when on the 'UofT' wireless network, available throughout campus. Printing from a personal computer in [AB](#astronomy-building) requires the registration of your MAC address with [Hugh Zhao](#computing-manager-hugh-zhao).  Printing from a personal computer in [MP](#mclennan-physical-labs-and-burton-tower) requires registration of your MAC address with [John Dubinski](#cita-computing-manager-john-dubinski).
+
+#### SciNet
+
+SciNet is a high performance computing network associated with several institutions across Canada. Graduate students must be sponsored by a professor in order to access these resources, but they are ideal for batch processing intensive computations. You'll need a [Compute Canada](https://ccdb.computecanada.ca/security/login) account (as will your sponsor) before you can gain access. You can learn more about how to use SciNet by attending one of their intro sessions listed on their [course page](https://support.scinet.utoronto.ca/education/browse.php). If you're already comfortable with bash prompt, you can probably find enough to get started on their [Niagara Quickstart page](https://docs.computecanada.ca/wiki/Niagara_Quickstart).
+
+#### Sunnyvale
+
+Sunnyvale is a smaller high perfomance network hosted at [CITA](#canadian-institute-for-theoretical-astrophysics). No student sponsorship is required, but a CITA account is necessary. In other respects, Sunnyvale's batch processing system is similar to SciNet's. You can find out more on how to access CITA's network and Sunnyvale in particular in their [Quickstart](wiki.cita.utoronto.ca/index.php/Quickstart).
+
+
+### Key Contacts
+[**Table of Contents**](#table-of-contents)
+
+While this guide is meant to serve as a handy reference, it may not be able to answer all of your questions. Here are some friendly faces that may be able to help answer your questions
+
+#### Graduate Associate Chair Chris Matzner
+Office: [MP](#mclennan-physical-labs-and-burton-tower)1207A
+
+Chris has done a great job as graduate chair ensuring that graduate concerns are represented in the department and updating some of the more dated parts of the PhD assessment process.  Chris is a good first point of contact for questions and concerns about the [graduate program](#graduate-program).
+
+#### Graduate Administrator Margaret Meaney
+Office: [AB](#astronomy-building)101-**X**
+
+Margaret works hard to coordinate all of the administrative details of graduate student life, and is an excellent resource for many of your questions. She can help you understand your financial account, outline the details of the program, and deadlines of [scholarship applications](#scholarships),
+
+#### Office Administrator Ingrid Small
+Office: [AB](#astronomy-building)101-**X**
+
+Ingrid Small is a good point of contact for additional administrative questions. She can assist with getting keys, as well as booking rooms that are not on the department's booking calendar (accessible in the internal section of the department's website).
+
+#### CITA Administrative Officer Jenny Jung
+Office: [MP](#mclennan-physical-labs-and-burton-tower)14**XX**
+
+Jenny Jung is the person to talk to about all things CITA, and she's the one who can assist you with getting keys to the [15th floor conference room](#meeting-rooms).
+
+#### Financial Officer Gautam Patel
+Office: [AB](#astronomy-building)101-D
+
+Gautam Patel processes reimbursement claims for the department. This can be for anything from purchasing something for a department event to claiming the flights for a trip. He'll go through your expenses with you and make sure they get charged to the correct account.
+
+#### Computing Manager Hugh Zhao
+Office: [AB](#astronomy-building)101-**X**
+
+Hugh Zhao provides technical support for the department, including managing the [website](https://astro.utoronto.ca) where you can find plenty of useful information in the Internal tab. He's the person to talk to about registering your MAC address so you can use the department [printers](#printers-and-copiers).
+
+#### CITA Computing Manager John Dubinski
+Office: [MP](#mclennan-physical-labs-and-burton-tower)1408
+
+John Dubinksi is the primary manager of [CITA](#canadian-institute-for-theoretical-astrophysics)'s [Sunnyvale](#sunnyvale) computing cluster, and will be getting in touch with you about the jobs you run there.
+
+#### CITA HPC Specialist Claire Yu
+Office: [MP](#mclennan-physical-labs-and-burton-tower)1410
+
+Claire Yu's position is well titled, as she is indeed a high performance computing expert. She can help with [CITA](#canadian-institute-for-theoretical-astrophysics)'s [Sunnyvale](#sunnyvale) computing cluster, as well as help you manage installations for your CITA account.
+
+#### Astronomy Librarian Lee Robbins
+Office: Astronomy Library
+
+Lee Robbins works hard to make that [Astronomy Library](#mp-common-rooms) a valuable resource. The associated [website](http://www.astro.utoronto.ca/AALibrary/) is an excellent place to find quick links to online astronomical resources and her [Astronomy Reference Recommendations](http://www.astro.utoronto.ca/AALibrary/recommendations.html) is an excellent place to find introductory texts for those diving into new fields.
+
+#### TA Admin and Observatory Director Michael Williams
+Office: [AB](#astronomy-building)2**XX**
+
+Michael Williams is a great person to talk to about the on-campus instrumentation, whether it be for a class you're TAing or for a public event you want to run. Mike is also very knowledgeable about our planetarium, and can get you started on adding your own content to the existing software.
+
+
+### Outreach
+
+#### AstroTours
 
 AstroTours is GASA's primary outreach initiative, offering an opportunity for students to practice presenting their work to an audience of the general public. An AstroTour occurs on the first Thursday of most months. In addition to a 45-minute talk, attendees can enjoy the sights through the telescopes on the top of [MP](#mclennan-physical-labs-and-burton-tower) and planetarium shows in the basement of [AB](#astronomy-building). You can find out more about AstroTours on [their website](https://www.astro.utoronto.ca/astrotours/).
 
-- **Co-Director** (2)
-	- Responsible for finding speakers, booking auditoriums, and MCing the talk, the co-directors have myriad other organizational duties that are outlined in their detailed running document.
-- **Volunteer Coordinator**
-	- Collects and organizes volunteers to run all of the stations for each AstroTour, including giving them training if needed. Also sets up the free lunch for everyone who helped out!
-- **Plantarium Director**
-	- Works with a volunteer presenter to develop a 12 minute planetarium show to be delivered 3 times on the night of the AstroTour.
-- **Telescope Director**
-	- Chooses targets for each telescope on the night of the AstroTour and works with volunteers to ensure they know how to operate their telescope.
-- **Refreshments**
-	- Retrieves the refreshments for each AstroTour, and is reimbursed by the department after purchase.
-- **Interactive Media**
-	- Ensures volunteers are appropriate trained on the Oculus Rift and Kinect-controlled World Wide Telescope.
-- **Webmaster**
-	- Updates the AstroTours website with information for each tour.
-- **Filmographer**
-	- Films the talk at each AstroTour, and uploads it to [YouTube](https://www.youtube.com/channel/UCTjzCZm5Zz6a_rKhczGB0nA).
-- **Photographer**
-	- Takes photos for the website/marketing at each AstroTour.
-- **Keynote Director (2)**
-	- Organizes the annual Keynote special event that occurs during the summer.
+#### Astro On Tap
 
-## Regular Department Events
+### Regular Department Events
 [**Table of Contents**](#table-of-contents)
 
 There are quite a few department events that occur on a weekly basis, which can be divided into those with a scientific focus, and those without. To see the full suite of events, you can follow one of several calendars.
@@ -864,7 +584,7 @@ While the lists below are extensive, the Colloquium is the main required event. 
 
 Note that many of these events are not held during the summer.
 
-### Scientific Events
+#### Scientific Events
 
 - **Colloquium**
 	- Weekly formal talks with visiting speakers, held in [Cody Hall](#ab-common-rooms)
@@ -886,69 +606,139 @@ Note that many of these events are not held during the summer.
 	- Twice weekly informal discussion of recent arXiv papers in the [AB Lounge](#ab-common-rooms)
 	- 1/2 hour long
 	- Open to all
-- **Stars and Planets Discussion Group**
-	- Weekly informal presentations of recent results in the field of stars in planets, held in a seminar room announced by email
-	- 1 hour long
-	- Open to all
-- **Pulsar Coffee**
-	- Weekly informal presentations of recent results in the field of pulsars, held in the [CITA Lounge](#mp-common-rooms).
-	- 1 hour long
-	- Open to all
-- **Talk Show**
-	- Weekly informal presentations/discussion of graduate student research with other graduate students.
-	- 1 hour long
-	- Open to graduate students
-- **Cosmology Lunch**
-	- Weekly informal presentation of recent results in cosmology, held in [15th floor conference room](#mp-common-rooms).
-	- 1 hour long
-	- Open to all
-- **CPS Planet Lunches**
-	- Weekly informal presentation of recent results in planetary science, held in [Scarborough](#scarborough).
-	- 1 hour long
-	- Open to all
-
-### Non-Scientific Events		
-- **Morning Coffee**
-	- Free coffee and discussion of current events every morning at 10:30 in the [AB Lounge](#ab-common-rooms).
-	- 1/2 hour long
-	- Open to all
-- **Dunlap Tea**
-	- Conversation and free snacks in the [AB Lounge](#ab-common-rooms) at 2pm on Mondays.
-	- 1 hour long
-	- Open to all
-- **GASA Tea**
-	- Conversation and tea by donation in the [AB Lounge](#ab-common-rooms) at 4pm on Tuesdays.
-	- 1 hour long
-	- Open to all
-- **Dunlap Outreach Meeting**
-	- Weekly meetings to discuss outreach initiatives in the [AB Lounge](#ab-common-rooms).
-- **Sci-Fi Friday**
-	- Weekly lunch discussion of science fiction at 12:15 on Fridays in the [AB Lounge](#ab-common-rooms).
-	- 1 hour long
-	- Open to all, but beware spoilers
 - **CITA Desserts**
 	- Weekly conversation and free desserts on Friday afternoons in the [CITA Lounge](#mp-common-rooms)
 	- 1 hour long
 	- Open to all
 
 
-## Finances
+### Finances
 [**Table of Contents**](#table-of-contents)
 
-### Funding Package
+#### Funding Package
 
 - payment schedule
 - defering tuition
 
-### Scholarships
+#### Scholarships
 
-### Travel Grants
+#### Travel Grants
 
-### Reimbursements 
+#### Reimbursements 
 
  - Department
  - GASA
  - CITA
+
+## Life at UofT
+
+
+### Campuses
+[**Table of Contents**](#table-of-contents)
+
+#### St George
+Also called UTSG, this is UofT's "downtown" campus, located in the heart of Toronto. You can reach this campus easily on foot, by bicycle, or by taking the [TTC](#toronto-transit-commission) to Line 1 subway stations (Queen's Park, Museum, St George, Spadina), to Line 2 subway stations (St George, Spadina),  by using the 506 and 510 streetcar lines or by taking the 94 Wellesley bus. There is limited street parking available, as well as underground parking lots that can be entered for a fee, some requiring a permit. This campus hosts the two main astronomy buildings, [AB](#astronomy-building) and [MP](#mclennan-physical-labs-and-burton-tower), where you can find the [department](#department-of-astronomy-and-astrophysics), the [Dunlap Institute](#dunlap-institute) and [CITA](#canadian-institute-for-theoretical-astrophysics).
+
+#### Scarborough
+
+The UTSC campus is UofT's eastern satellite campus, in the Scarborough suburb of Toronto. This campus can be reached by car via the 401 highway, or by [TTC](#toronto-transit-commission) by taking a bus from the York Mills (on Line 1) or from Kennedy Station (Line 2).  This campus is home to [CPS](#centre-for-planetary-sciences), and hosts the [Scarborough Planet Days](#scarborough-planet-days) and [Scarborough Planet Lunches](#scarborough-planet-lunches). Astronomy courses are taught there, and you may have the option to TA one of them.
+
+#### Mississauga
+Also called UTM, this is UofT's western satellite campus, located in the neighbouring city of Mississauga. There is a shuttle that runs between [Hart House](#hart-house) on the [UTSG](#st-george) campus and the UTM Instructional Centre. The shuttle is free for students with their [TCard](#tcard). There is only one faculty member appointed to the  UTM campus, but astronomy courses are taught there, and you may have the option to TA one of them.
+
+
+### Relevant Locations
+These locations currently organized in rough order from south to north.
+
+#### The Koffler Student Centre
+On the next block south of [AB](#astronomy-building) and [MP](#mclennan-physical-labs-and-burton-tower).
+- Contains:
+	- [TCard Services](http://tcard.utoronto.ca)
+	- [Health and Wellness Centre](https://www.studentlife.utoronto.ca/hwc)
+	- [UofT Bookstore](https://uoftbookstore.com)
+	- [Career Centre](https://www.studentlife.utoronto.ca/cc/contact-us)
+	- Second Cup coffee shop
+
+#### Bahen Centre
+On the next block south of [AB](#astronomy-building) and [MP](#mclennan-physical-labs-and-burton-tower).
+- Contains
+	- Multi-Faith space
+	- [The Cube](https://ueat.utoronto.ca/the-cube/) lunch spot
+
+#### Koffler House
+Surprisingly not all that close to the Koffler Centre. A frequent location for [GSU](#gsu-rep) meetings.
+- Contains:
+	- [The Multi-Faith Centre](http://www.studentlife.utoronto.ca/mf)
+	-  Veda - Healthy Indian Takeout *some students dispute the validity of calling this Indian food*
+
+#### UTGSU Building
+Next to Koffler House.
+- Contains:
+	- [UTGSU](#gsu-rep) offices
+	- [GSU pub](https://www.utgsu.ca/pubcafe/)
+	- [GSU Gym](https://www.utgsu.ca/gym/), a single room available by registration only.
+
+#### Gerstein Library
+A broad science library, with extensive stacks of reference texts and ample places to study. Books can be borrowed with your TCard.
+
+- Contains
+	- group study rooms
+	- presentation practice rooms
+	- 3D printer and VR equipment rental
+
+#### Hart House
+There is so much in Hart House, and their [website](http://harthouse.ca) has it all, but highlights are listed below.
+
+- Contains
+	- [Hart House Fitness Centre](http://harthouse.ca/fitness/) (entry requires your TCard)
+	- [Hart House Theatre](http://harthouse.ca/hart-house-theatre/)
+	- [Justina M. Barnicke Gallery](http://harthouse.ca/justina-m-barnicke-gallery/)
+	- [Gallery Grill and Hart House Cafe](http://harthouse.ca/gallery-grill/)
+	- [rentable rooms for all of your events](http://harthouse.ca/rooms-spaces/)
+	- drop off point for [UTM](#mississauga) shuttle
+
+#### Athletic Centre
+The AC is the gymiest gym at UofT.  Your TCard is required to enter. Like Hart House, there's way too much here to list it all, but highlights are below. The rest can be found on their [website](https://kpe.utoronto.ca/facility/athletic-centre).
+
+- Contains
+	- [Field house](https://kpe.utoronto.ca/node/358): strength and cardio machines, a running track and courts for a variety of sports
+	- [Upper Gym](https://kpe.utoronto.ca/node/363): badminton, or basketball by appointment or drop in.
+	- [Lower Gym](https://kpe.utoronto.ca/node/359): a gymnastics gym accessible through classes
+	- [Sports Gym](https://kpe.utoronto.ca/node/360): drop in badminton, basketball, indoor cricket, volleyball and indoor hockey
+	- [Strength and Conditioning Centre](https://kpe.utoronto.ca/node/362)
+	- [Squash and Table Tennis Courts](https://kpe.utoronto.ca/node/361)
+	- [Varsity Pool](https://kpe.utoronto.ca/node/85)
+
+#### Robarts Library
+If the [AC](#athletic-centre) is the gymiest gym, Robarts is the librariest library. It is a massive space for reference material, and a reasonably quiet space to study (outside of undergraduate exam periods). Books may be borrowed with your TCard.
+
+- Contains
+	- Stacks (floors 9-13) - your TCard is required to enter
+	- [Cafeteria](https://ueat.utoronto.ca/robarts-cafeteria/)
+	- Multi-Faith space
+
+#### Grad House and Grad Room
+[Grad House](http://gradhouse.utoronto.ca) is a suite-style graduate residence. [Grad Room](http://www.sgs.utoronto.ca/currentstudents/Pages/Grad-Room.aspx) is located in its base, and offers coffee shop fare and graduate student specific programming, including weekly writing groups, yoga, and meditation. You can learn more about living in Grad House in the [Housing](#grad-house) section.
+
+#### Massey College
+
+Graduate student residence that is affiliated with but independent from UofT. You can find out more about their suite housing on their [website](https://www.masseycollege.ca/about/), or by reading on to the [Housing](#massey-college) section.
+
+#### Goldring Centre for High Perfomance Sport
+
+[Goldring](https://kpe.utoronto.ca/facility/goldring-centre-high-performance-sport) is UofT's newest athletic space. As with all of UofT's athletic facilities, you'll need your TCard to enter.
+
+- Contains:
+	- Strength and conditioning centre
+	- [Sport medicine clinic](https://kpe.utoronto.ca/david-l-macintosh-sport-medicine-clinic)
+	- Fitness studio (for classes)
+
+#### The Varsity Centre
+[The Varsity Centre](https://kpe.utoronto.ca/facility/varsity-centre) is UofT's stadium, and can be accessed through the Devonshire Place pavilion with your TCard. The outdoor stadium is covered in the fall and winter for intramural sports. The centre also includes a skating rink.
+
+
+### Health Insurance
+[**Table of Contents**](#table-of-contents)
 
 ### Saving Money as a Student
 
@@ -967,11 +757,48 @@ Note that many of these events are not held during the summer.
  - Royal Ontario Museum - Free on Tuesdays with a student card
 
 
-## Health Insurance
+
+### UofT Services
 [**Table of Contents**](#table-of-contents)
 
+#### TCard
+Students at UofT are furnished with a TCard. This card allows you to borrow books from the library, access card-locked areas to which you are entitled (e.g. limited access classrooms, athletic facilities), purchase food if you choose a meal plan in residence, and access the on campus health services. You'll need the card to gain access to UofT's online administrative tools like [Portal](#portal) and [ACORN](#acorn). The card also gives you access to student discounts at a variety of cultural and retail locations (see the [Saving Money as a Student](#saving-money-as-a-student) section).
 
-## Housing
+#### School of Graduate Studies
+[**Table of Contents**](#table-of-contents)
+
+The School of Graduate Studies (SGS) sends out frequent emails with the many workshops and events they run for graduate students, which are primarily located in [Grad Room](http://www.sgs.utoronto.ca/currentstudents/Pages/Grad-Room.aspx) at the base of Grad House on the corner of Harbord Street and Spadina Ave. These events range from career focused workshops to subsidized trips.
+
+The SGS also maintains the [Graduate Centre for Academic Communication](http://www.sgs.utoronto.ca/currentstudents/Pages/GCAC.aspx), which runs workshops and courses on academic communication as well as one-on-one writing consultations. This is an excellent service; with enough advance notice they will help you edit your writing to make it truly excellent.
+
+In addition, the SGS offers many courses to help you enhance skills that may not be explicitly taught elsewhere. These courses are offered under the umbrella of the [Graduate Professional Skills Program](http://www.sgs.utoronto.ca/currentstudents/Pages/Professional-Development.aspx)  (GPS), and categorized into Communication, Personal Effectiveness, Teaching Competency and Research-Related Skills. Completing enough courses will earn you a GPS notation on your transcript. Highlights for astronomy students include
+
+- Oral Presentation Skills (for Native and Non-Native Speakers of English)
+- Understanding the Research Article: Reading Towards Writing
+- Let's Talk Science: Introduction to Science Outreach
+- Writing NSERC Proposals
+- Time Management
+- Prewriting Strategies for Developing and Organizing Your Ideas
+- Teaching Fundamental Certificate and the Advanced University Teaching Preparation Certificate (see the [TATP](#teaching-assistant-training-program) section for more information on these)
+- Effective Journal Research for Graduate Students and Faculty
+- Introduction to Data and Information Visualization
+- Introduction to Research Management
+- Online Tools for Organizing your Research
+
+Sadly there are no links to these courses, as they are offered only sporadically. Checking the GPS link above will reveal the scheduled programming for the upcoming academic year.
+
+#### Health and Wellness
+[**Table of Contents**](#table-of-contents)
+
+#### Fitness
+[**Table of Contents**](#table-of-contents)
+
+#### UofT Library
+[**Table of Contents**](#table-of-contents)
+
+## Life in Toronto
+
+### Housing
 [**Table of Contents**](#table-of-contents)
 
 For a nice summary of Toronto living, checkout [WalkScore's overview](https://www.walkscore.com/CA-ON/Toronto).
@@ -984,41 +811,47 @@ For a nice summary of Toronto living, checkout [WalkScore's overview](https://ww
 	- [Finding a Rental Unit](#finding-a-rental-unit)
 	- [Rental Listing Sites](#rental-listing-sites)
 
-### On-Campus
+#### On-Campus
 Graduate students have a few on-campus residence options. Incoming graduate students are not guaranteed on-campus housing the same way undergraduates are, but as most grad students opt for off-campus housing, it is possible to find an on-campus option. 
 
-In this section, find descriptions of the two major graduate student on-campus housing options [Grad House](#grad-house) and [Massey College](#massey-college). 
+In this section, find descriptions of the a few of the major graduate student on-campus housing options [Grad House](#grad-house), the new [Oak House](#oak-house), and [Massey College](#massey-college).
 
-#### Grad House
+##### Grad House
 
-Grad House is conveniently located at [Harbord and Spadina](https://goo.gl/maps/bx41Yz85wQ32), a couple of blocks away from [AB](#astronomy-building), and offers housing for graduate students enrolled in fulltime programs at UofT. They receive more applications than they can accept, but do maintain a waiting list. First year graduate students tend to get preference in the application process, as Grad House provides a stable first step for students first moving to the city.
+Grad House ([https://gradhouse.utoronto.ca/](https://gradhouse.utoronto.ca/)) is conveniently located at [Harbord and Spadina](https://goo.gl/maps/bx41Yz85wQ32), a couple of blocks away from [AB](#astronomy-building) and right across the street from [AC](#athletic-centre), and offers housing for graduate students enrolled in fulltime programs at UofT. They receive more applications than they can accept, but do maintain a waiting list. First year graduate students tend to get preference in the application process, as Grad House provides a stable first step for students first moving to the city.
 
-Rent in Grad House varies from year to year, but works out to roughly what one might expect to pay to rent a bedroom in a relatively new two bedroom apartment in downtown Toronto. Note however that Grad House rent includes the heat, hydro, and water utilities, in addition to internet and air conditioning. Unlike [Massey College](#massey-college) below, Grad House does not include food in this fee, as residents are responsible for their own meals.
+[Rent in Grad House](https://utoronto.starrezhousing.com/StarRezPortalX/D0B4F468/13/142/The_Residences-Graduate_House) varies from year to year, and currently ranges from ~$1,200-$1,700 per month depending on specific configuration. Note however that Grad House rent includes the heat, hydro, and water utilities, in addition to internet and air conditioning. Unlike [Massey College](#massey-college) below, Grad House does not include food in this fee, as residents are responsible for their own meals.
 
-To facilitate this, Grad House features apartment style suites, with four bedrooms, two bathrooms, and one kitchen each. The decor has been described as 'fifty shades of concrete' (Roman, A. 2018), but the rooms are functional, and air conditioning is a surprising bonus in such affordable housing. With the [AC](#athletic-centre) right across Harbord, you'll have ample opportunity to work off any junk food you might pick up in the convenience store located in the first level of Grad House.
+To facilitate this, Grad House features apartment style suites, with four bedrooms, two bathrooms, and one kitchen each. The decor has been described as 'fifty shades of concrete' (Roman, A. 2018), but the rooms are functional, and air conditioning is a surprising bonus in such affordable housing. There is also a brand new suite cleaning service that cleans kitchens, floors and bathrooms weekly, and staff will help if you report any maintenance issues without any extra charges. Unfortunately, anecdotally there do seem to be frequent maintenance issues such as malfunctioning toilets and elevators, and false fire alarms.
 
-Many thanks to Alex Roman for his descriptions of Grad House life!
 
-#### Massey College
+##### Oak House
 
-Massey College is located just a block north of [AB](#astronomy-building) at [4 Devonshire Pl](https://goo.gl/maps/zae1vZud8oK2) and offers a unique experience to it's fellows. The formal dinners on weekday evenings offer a dining experience where the dress code is strictly more 'Harry Potter' than 'Slovenly Academic'. If you've been waiting for your chance to wear robes to school, Massey College may just be for you. In addition to the formal dinners, breakfast and lunch are provided cafeteria style every day except Sundays. Paying the [Resident Junior Fellow Fees](https://www.masseycollege.ca/admissions/junior-fellow-admissions/junior-fellow-fees/) gives Massey fellows access to their own bedroom and adjoining study, and the fee includes a house cleaning service as well as the cost of the meals. Massey fellows are also invited to special College events, including fancy dress "high table" dinners.
+Oak House ([https://oakhouse.utoronto.ca/](https://oakhouse.utoronto.ca/)) is a new residence located right at Spadina/Sussex, just minutes from the Spadina TTC station and less than a 15 minute walk from [AB](#astronomy-building).
+
+The suites have four bedrooms (some suites are completely filled, some only have 3 people right now), 2 bathrooms and a kitchen area. It is more spacious than Grad house, but also more expensive with monthly rent being $2,200+. The meal plan costs roughly $6,000-$7,000 a year but is not mandatory for grad students. There is also a $2,000 deposit paid when applying and accepting a spot. All of this does include water, electricity, heating, air conditioning, and internet. Paid laundry is also available in the building at $4.25/load (for wash + dry).
+
+Since it is new, they’re still trying to get their footing when it comes to events. Most events are open to all students (and thus have predominantly undergrads), however they have recently tried to do some grad only events (e.g. free tiramisu + arts and crafts). At the time of writing this (April 2026), the Oak House mascot is about to finally be unveiled!!!
+
+
+##### Massey College
+
+Massey College ([https://masseycollege.ca/](https://masseycollege.ca/)is located just a block north of [AB](#astronomy-building) at [4 Devonshire Pl](https://goo.gl/maps/zae1vZud8oK2) and offers a unique experience to it's fellows. The formal dinners on weekday evenings offer a dining experience where the dress code is strictly more 'Harry Potter' than 'Slovenly Academic'. If you've been waiting for your chance to wear robes to school, Massey College may just be for you. In addition to the formal dinners, breakfast and lunch are provided cafeteria style every day except Sundays. Paying the [Resident Junior Fellow Fees](https://www.masseycollege.ca/admissions/junior-fellow-admissions/junior-fellow-fees/) gives Massey fellows access to their own bedroom and adjoining study, and the fee includes a house cleaning service as well as the cost of the meals. Massey fellows are also invited to special College events, including fancy dress "high table" dinners.
 
 Massey Junior Fellow Fees work out to what one might expect to pay to rent a bedroom in a relatively new two bedroom apartment in downtown Toronto, and the latter doesn't even include food and utilities as Massey does. However, the application process for Massey College is competitive; there are typically only 20-40 spots available, with about 100 applicants. The process is outlined on their [website](https://www.masseycollege.ca/admissions/junior-fellow-admissions/), with applications accepted up until early May and results announced in June. Your cover letter, CV, and transcripts will be considered along with two reference letters.
 
 The beautiful study spaces of Massey College offer it's fellows a great atmosphere, and the shared environment fosters meetings across a wide variety of disciplines. However, the College has high expectations for the commitment of it's fellows - participation in College clubs and committees is expected. If that environment appeals to you, you can join Massey without living there as a Non-Resident Junior Fellow.
 
-Many thanks to Deborah Lokhorst for her descriptions of Massey College life!
-
-### Off-Campus
+#### Off-Campus
 Housing in Toronto is pricey, and off-campus options have a range of associated costs. In this section, we'll talk about what you can expect to rent and at what price point, as well as where you might expect to live.
 
-If you take one thing away from this section, please take this link to a page with [your rights when renting in Ontario](https://www.ontario.ca/page/renting-ontario-your-rights). You have many rights as a tenant renting in Ontario, and it pays to be familiar with what restrictions your landlord is permitted to make. Note that as of April 2018, your landlord is required to serve you a standard lease that summarizes the information in [Rental FAQs](#rental-faqs) in clear language - you can read a template [here](http://www.forms.ssb.gov.on.ca/mbs/ssb/forms/ssbforms.nsf/FormDetail?OpenForm&ACT=RDR&TAB=PROFILE&SRCH=&ENV=WWE&TIT=2229E&NO=047-2229E).
+If you take one thing away from this section, please take this link to a page with [your rights when renting in Ontario](https://www.ontario.ca/page/renting-ontario-your-rights). You have many rights as a tenant renting in Ontario, and it pays to be familiar with what restrictions your landlord is permitted to make. Note that as of April 2018, your landlord is required to serve you a standard lease that summarizes the information in [Rental FAQs](#rental-faqs) in clear language - you can read a template [here](https://forms.mgcs.gov.on.ca/en/dataset/047-2229).
 
-If you feel your rights have been ignored, you can appeal to the [Landlord and Tenant Board](http://www.sjto.gov.on.ca/ltb/).
+If you feel your rights have been ignored, you can appeal to the [Landlord and Tenant Board](https://tribunalsontario.ca/ltb/).
 
-#### Rental FAQs
+##### Rental FAQs
 
-I've provided a quick list of common restrictions in Ontario housing, but you can find an exhaustive list on the [Landlord and Tenant Board website](http://www.sjto.gov.on.ca/ltb/faqs/). Note that the below does not constitute legal advice - if you're uncertain of your rights check the [Ontario Residential Tenancies Act](https://www.ontario.ca/laws/statute/06r17).
+I've provided a quick list of common restrictions in Ontario housing, but you can find an exhaustive list on the Landlord and Tenant Board website. Note that the below does not constitute legal advice - if you're uncertain of your rights check the [Ontario Residential Tenancies Act](https://www.ontario.ca/laws/statute/06r17).
 
 **Can my landlord ask me for a deposit?**
 
@@ -1026,7 +859,7 @@ Your landlord is only permitted to ask you for a rent deposit, not exceeding the
 
 **What's included in my lease?**
 
-Read your lease! Every one is a little different - you can look at the [standard lease template](http://www.forms.ssb.gov.on.ca/mbs/ssb/forms/ssbforms.nsf/FormDetail?OpenForm&ACT=RDR&TAB=PROFILE&SRCH=&ENV=WWE&TIT=2229E&NO=047-2229E) to get a sense of things that may or may not be included.
+Read your lease! Every one is a little different - you can look at the [standard lease template](https://forms.mgcs.gov.on.ca/en/dataset/047-2229) to get a sense of things that may or may not be included.
 
 **What happens when my lease expires?**
 
@@ -1034,7 +867,7 @@ In Toronto, tenants typically begin by signing a year long lease with monthly re
 
 **Can my landlord increase my rent?**
 
-Your landlord can increase your rent by no more than 1.8% no more than once every 12 months. Changes to your rent must be communicated to you 90 days in advance and cannot contravene your lease unless agreed upon by the landlord and the tenant.
+There are annual rental increase limits set by the Government of Ontario (e.g. for 2026 the limit is 2.1%). You can find more details [here](https://www.ontario.ca/page/residential-rent-increases). Note that this does not apply to most buildings or units built since 2018, and does not apply when the tenants change.
 
 **Is my landlord allowed to enter my rental unit?**
 
@@ -1056,7 +889,7 @@ Your landlord is permitted to evict you to make room for themselves or one of th
 
 Your first step should be contacting the [Landlord and Tenant Board](http://www.sjto.gov.on.ca/ltb/) to learn whether your landlord is acting outside the law and what your next steps should be.
 
-#### Finding a rental unit
+##### Finding a rental unit
 
 The rental market in Toronto is competitive, but you have some options when locating a place to live. The [next section](#rental-listing-sites) will summarize tools you can use to find an apartment yourself, but before we dig deeper, I'd like to highlight the possibility of using a realtor. This can take a lot of the stress out of finding somewhere to live, and is often free for the person searching. Regardless of how you choose to search, competition for units means that good listings can be taken only 2-3 days after being posted, so it pays to keep on top of your search. In a [following section](#neighbourhoods) you can find out more about Toronto's neighbourhoods to help you narrow your search area. 
 
@@ -1064,11 +897,13 @@ Before you begin your search, you should be able to answer some basic questions 
 
 - **What's my budget for rent?**
 	- You can see how rent in Toronto has evolved over time with [data collected by the Canada Mortgage and Housing Corporation](https://www03.cmhc-schl.gc.ca/hmip-pimh/en/TableMapChart/Table?TableId=2.2.11&GeographyId=2270&GeographyTypeId=3&DisplayAs=Table&GeograghyName=Toronto#) (click chart view to see the table as a graph).
-	- As of 2018, typical rents in Toronto (averaged across the entire GTA) are as follows:
-		- Bachelor's/Studio: $1000/month
-		- 1 Bedroom: $1200/month
-		- 2 Bedroom: $1400/month
-		- 3+ Bedroom: $1600/month 
+	- As of 2025, typical rents in Toronto (averaged across the entire GTA) are as follows:
+		- Bachelor's/Studio: $1500/month
+		- 1 Bedroom: $1800/month
+		- 2 Bedroom: $2050/month
+		- 3+ Bedroom: $2300/month
+	
+		Note that if you want to live close to campus, prices will typically be significantly higher than this baseline.
 - **What type of rental housing am I interested in?**
 	- Toronto has 3 main types of rental housing: condos, apartments, and houses
 		- Condos: Typically the most expensive, but with the most included amenities - buildings often have gyms or pools, and the unit itself will likely have a dishwasher, laundry machine, air conditioning, and its own thermostat. The level of maintenance varies by building - if you're considering a condo, identify the property management company and investigate their history with resolving complaints.
@@ -1077,18 +912,20 @@ Before you begin your search, you should be able to answer some basic questions 
 - **What's my maximum commute time?**
 	- Check out [WalkScore's webapp](https://www.walkscore.com/score/50-saint-george-st-toronto-on-canada?utm_campaign=tilefooter&utm_medium=address_search&utm_source=padmapper.com) and click the pencil next to 'Commute to Downtown Toronto' to enter an new address and calculate commute times.
 - **What utilities am I prepared to cover in addition to rent?**
-	- Heat - strongly depends on the type of heating the insulation of the rental unit, usually upwards of $70/month but can be $0 is your heating fully electric
+	- Heat - strongly depends on the type of heating the insulation of the rental unit, usually upwards of $70/month but can be $0 if your heating is fully electric
 	- Water - typically around $30/month in a one bedroom, but can be higher if you have appliances like a dishwasher or laundry machine
 	- Hydro - typically around $75/month in a one bedroom apartment, but can be much higher if your heating system is electricity based (i.e. electric baseboards)
+
+	Overall, utilities can cost anywhere from $50-$200 per month depending on your type of residence. If you are renting part of a house, utilities are more likely to be included in your rental rate, but you should check with your landlord explicitly about all. utilities.
 - **Does the building I'm considering take part in the city's recycling/composting program?**
 	- If sustainability is important to you, it's worth investigating how garbage collection works. Make sure you check on the disposal area when you visit - if your bins are accessible from the street they might fill up before you have a chance to deposit your trash.
 - **Are things like internet and cable included in my budget?**
-	- Ontario telecoms are dominated by two major players, Bell and Rogers, who offer services at pretty exorbitant prices (although some of their bundled services may have value). Paying the higher price doesn't guarantee you better service than their smaller competitors provide, and it's worth investigating internet-only alternatives like TekSavvy, Start, and VMedia.
+	- These are almost never included in any rental. Ontario telecoms are dominated by two major players, Bell and Rogers. They are generally the most expensive options, although some of their bundled services may have value. It's worth investigating internet-only alternatives like TekSavvy, Start, and VMedia.
 - **Are there other amenities I'm interested in?**
 	- Seriously consider whether you need air conditioning - Canada may have a reputation as a cold country, but typical summer days in Toronto have a [humidex](https://www.ccohs.ca/oshanswers/phys_agents/humidex.html) (a combination of temperature and relative humidity) over 30. Basement apartments tend to remain relatively cool, but above ground units benefit from window or central AC.
-	- I talked a lot about air conditioning, can you tell I wrote this during the summer? For winter concerns, remember that regardless of where you live, if you're not on a major road, you'll be low priority for road and sidewalk clearing. The solution in Toronto seems to be for everyone and their dog to absolutely blanket the sidewalks with salt- this has a lot of its own dangers, turning fluffy snow into half melty ice slicks. Invest in some waterproof footwear with decent traction and it won't matter what kind of street you live on!
+	- For winter concerns, remember that regardless of where you live, if you're not on a major road, you'll be low priority for road and sidewalk clearing. The solution in Toronto seems to be for everyone and their dog to absolutely blanket the sidewalks with salt- this has a lot of its own dangers, turning fluffy snow into half melty ice slicks. Invest in some waterproof footwear with decent traction and it won't matter what kind of street you live on!
 
-#### Rental Listing Sites
+##### Rental Listing Sites
 
 - **[Condos.ca](condos.ca)**
 
@@ -1118,7 +955,7 @@ Before you begin your search, you should be able to answer some basic questions 
 
 	- WalkScore is a data paradise, compiling travel times across various transportation methods to score neighbourhoods in terms of accessibility (their methodology is described in detail [here](https://www.walkscore.com/methodology.shtml)). They also having [apartment listings](https://www.walkscore.com/apartments/search/loc?lat=43.667615239322735&lng=-79.38142695770262) with the usual filters as well as transit and WalkScore ratings specific to the site.
 
-#### Neighbourhoods
+##### Neighbourhoods
 Below is a list of neighbourhoods in which graduate students have recently lived off campus. The neighbourhoods are ranked in terms of price: \$\$\$ = significantly more expensive than median, \$\$ = similar to median, \$ = cheaper than the median. The ranking system was pretty slapdash but seems to match the general impression of the costliness of neighbourhoods. You can find a good deal anywhere, but some neighbourhoods make it harder than others. Higher typical rents also tend to mean higher costs of living for other things like groceries and medical care.
 
 ![A map of Toronto neighbourhoods](https://i.imgur.com/49LmvEF.jpg)
@@ -1291,19 +1128,18 @@ Below is a list of neighbourhoods in which graduate students have recently lived
 - **Trinity Bellwoods -\$\$**
 - **Waterfront -\$\$\$**
 
-
-## Getting Around
+### Getting Around
 [**Table of Contents**](#table-of-contents)
 
 While many students opt to live close enough to campus to walk, this can be financially challenging. There are many alternative ways to get around the city.
 
-### Public Transit
+#### Public Transit
 
 There are two primary transit options in downtown Toronto, the TTC and GO transit, which connect to other transit agencies in nearby cities. 
 
 Transit vehicle schedules are available online as well as through a variety of transit apps (e.g. [Transit](https://transitapp.com)).
 
-#### Toronto Transit Commission
+##### Toronto Transit Commission
 
 This system of subways, streetcars, and buses is the primary public transit option within the city. You can find the full system map [here](https://www.ttc.ca/PDF/Maps/TTC_SystemMap.pdf).  If you're interested in reading about developments to the system, Steve Munro keeps an excellent and informative [blog](https://stevemunro.ca).
 
@@ -1368,73 +1204,37 @@ Presto card users typically enjoy reduced fares when switching between transit a
 
 As in any city, there are times of day when more people are trying to get around. At these times, vehicles might be packed to crush capacity, making it difficult or impossible to board. Graduate students are lucky to have typically flexible working hours; if you take transit regularly, it's worth investigating the times are which your routes are busiest so you can give yourself the option of a peaceful trip to the office. Peak hours for transit are typically 7am-10am and 4pm-7pm. Maximum capacity is usually reached at 8am-9am and 5pm-6pm. As you might expect, crowding is worst on routes going into the city in the morning and out of the city in the evening.
 
-#### GO Transit
+##### GO Transit
 
-### Cycling
+#### Cycling
 
-### Cars
+#### Cars
 
 #### Car-share programs
 
 #### Taxis, Uber, and Lyft
 
-### Air Travel
+#### Air Travel
 
 Toronto has two international airports: Pearson International Airport (YYZ) in the north and the much smaller Billy Bishop Airport (YTZ) on Lake Ontario.
 
-#### Pearson International Airport
+##### Pearson International Airport
 Pearson is a behemoth of an airport, reachable by car or a variety of [public transit options](https://www.torontopearson.com/en/toandfrom/public/#), including the Union Pearson Express, a train with $9 fares for Presto card users (see the [TTC](#toronto-transit-commission) section for more details on the Presto Card).
 
 Pearson has two terminals, helpfully labelled Terminal 1 (for higher-end airlines and Air Canada) and Terminal 3 (typically budget airlines and often domestic destinations). Both terminals are recently renovated, and they are connected by a free monorail. For a full list of which airline flies out of which terminal, you can check [Pearson's website](https://www.torontopearson.com/en/flights/airlines-destinations/#).
 
 This airport has customs pre-clearance for destinations in the US, meaning you do US customs before you board the plane instead of after.
 
-#### Billy Bishop Airport
+##### Billy Bishop Airport
 
 This airport offers flights to domestic and US destinations, mostly via the budget Porter Airlines. It's conveniently accessible at the foot of Bathurst street, with a free shuttle service between the main terminal and the Line 1 subway Union Station. It's also easily reachable by public transit, either by the 509 Harbourfront or 511 Bathurst streetcar lines.
 
-## UofT Services
+
+
+### Public Services
 [**Table of Contents**](#table-of-contents)
 
-### TCard
-Students at UofT are furnished with a TCard. This card allows you to borrow books from the library, access card-locked areas to which you are entitled (e.g. limited access classrooms, athletic facilities), purchase food if you choose a meal plan in residence, and access the on campus health services. You'll need the card to gain access to UofT's online administrative tools like [Portal](#portal) and [ACORN](#acorn). The card also gives you access to student discounts at a variety of cultural and retail locations (see the [Saving Money as a Student](#saving-money-as-a-student) section).
-
-### School of Graduate Studies
-[**Table of Contents**](#table-of-contents)
-
-The School of Graduate Studies (SGS) sends out frequent emails with the many workshops and events they run for graduate students, which are primarily located in [Grad Room](http://www.sgs.utoronto.ca/currentstudents/Pages/Grad-Room.aspx) at the base of Grad House on the corner of Harbord Street and Spadina Ave. These events range from career focused workshops to subsidized trips.
-
-The SGS also maintains the [Graduate Centre for Academic Communication](http://www.sgs.utoronto.ca/currentstudents/Pages/GCAC.aspx), which runs workshops and courses on academic communication as well as one-on-one writing consultations. This is an excellent service; with enough advance notice they will help you edit your writing to make it truly excellent.
-
-In addition, the SGS offers many courses to help you enhance skills that may not be explicitly taught elsewhere. These courses are offered under the umbrella of the [Graduate Professional Skills Program](http://www.sgs.utoronto.ca/currentstudents/Pages/Professional-Development.aspx)  (GPS), and categorized into Communication, Personal Effectiveness, Teaching Competency and Research-Related Skills. Completing enough courses will earn you a GPS notation on your transcript. Highlights for astronomy students include
-
-- Oral Presentation Skills (for Native and Non-Native Speakers of English)
-- Understanding the Research Article: Reading Towards Writing
-- Let's Talk Science: Introduction to Science Outreach
-- Writing NSERC Proposals
-- Time Management
-- Prewriting Strategies for Developing and Organizing Your Ideas
-- Teaching Fundamental Certificate and the Advanced University Teaching Preparation Certificate (see the [TATP](#teaching-assistant-training-program) section for more information on these)
-- Effective Journal Research for Graduate Students and Faculty
-- Introduction to Data and Information Visualization
-- Introduction to Research Management
-- Online Tools for Organizing your Research
-
-Sadly there are no links to these courses, as they are offered only sporadically. Checking the GPS link above will reveal the scheduled programming for the upcoming academic year.
-
-### Health and Wellness
-[**Table of Contents**](#table-of-contents)
-
-### Fitness
-[**Table of Contents**](#table-of-contents)
-
-### UofT Library
-[**Table of Contents**](#table-of-contents)
-
-## Public Services
-[**Table of Contents**](#table-of-contents)
-
-### [Service Canada](https://www.canada.ca/en/employment-social-development/corporate/portfolio/service-canada.html)
+#### [Service Canada](https://www.canada.ca/en/employment-social-development/corporate/portfolio/service-canada.html)
 
 Service Canada provides a contact point for federal government services so you don't need to apply by mail. You can visit a branch to apply for a Social Insurance Number (SIN) or renew a Canadian passport. The nearest Service Canada locations to campus are
 
@@ -1442,14 +1242,14 @@ Service Canada provides a contact point for federal government services so you d
 - [100 Queen Street West](https://maps.google.com/?q=100+Queen+Street+West&entry=gmail&source=g)
 - [25 St Clair Avenue East](https://maps.google.com/?q=25+St+Clair+Avenue+East+(St.+Clair+Avenue&entry=gmail&source=g)) 
 
-### [Service Ontario](https://www.ontario.ca/page/serviceontario)
+#### [Service Ontario](https://www.ontario.ca/page/serviceontario)
 Service Ontario provides a contact point for provincial government services like driver's license renewal and health card applications. The nearest Service Ontario locations to campus are
 
 - [777 Bay Street](https://goo.gl/maps/T31rgMt4hTt)
 - [33 Victoria Street](https://goo.gl/maps/Sth1GacDvHC2)
 - [839 Yonge Street](https://goo.gl/maps/PXGf5buEXvB2)
 
-### [Toronto Public Library](https://www.torontopubliclibrary.ca)
+#### [Toronto Public Library](https://www.torontopubliclibrary.ca)
 
 As they say, having fun isn't hard if you have a library card. The [UofT Library](#uoft-library) can certainly meet your academic needs, but the TPL has more on offer than astronomy text books. Getting a TPL card requires proof that you live at a Toronto address (addressed mail to where you live will do), and once you have one it's good for a year. The card gives you access to the TPL's enormous catalogue, including their collection of ebooks,  digital newspapers, and audiobooks. But in addition to this traditional library offerings, the TPL offers access to 'digital innovation hubs', where you can use 3D printers, digital design workstations and recording studios. They also have a partnership with the Toronto Tool Library for all of your tinkering needs. The TPL also offers plenty of programming to give you a chance to pick up a new skill or hone an old one, so there's no reason not to get a card. However, if all of this blatant fawning hasn't convinced you to get a card, you can still work in any of the 100 branches. I can certainly attest to the fact that the atmosphere in the Toronto Reference Library at Yonge and Bloor is much more positive than that in [Robarts](#robarts). The nearest Toronto Public Library locations are 
 
@@ -1457,49 +1257,50 @@ As they say, having fun isn't hard if you have a library card. The [UofT Library
 - [Toronto Reference Library - 789 Yonge St](https://www.torontopubliclibrary.ca/torontoreferencelibrary/)
 - [Spadina Road - 10 Spadina Road](https://www.torontopubliclibrary.ca/spadina/)
 
-## Things to do in Toronto
+### Things to do in Toronto
+
 [**Table of Contents**](#table-of-contents)
 
-### [The Royal Ontario Museum](https://www.rom.on.ca/en)
+#### [The Royal Ontario Museum](https://www.rom.on.ca/en)
 Canada's largest museum is a marvel inside and out - the interesting architechtural choices made for this building are best experienced in person. The special exhibitions bring extra variety to the usual displays on the museum's four floors. The geology exhibit is a close favourite of mine, but locals will have fond memories of the bat cave, and the new dinosaur exhibit can't help but impress. If you want to take a look, visit on a Tuesday with your student card for free entry. The museum is easily accessible from the Line 1 subway Museum Station, or by a 10 minute walk from the DAA.
 
-### [The Art Gallery of Ontario](https://ago.ca)
+#### [The Art Gallery of Ontario](https://ago.ca)
 
 This art gallery is another architechtural marvel, and is embedded in a neighbourhood of other smaller galleries and art stores. Arrive after 6pm on a Wednesday for free admission (no student id required!). The AGO curates a huge selection of classical and modern art in its light filled space, although my personal highlight is the collection of model ships in the basement. The AGO is easily reachable by the 505 Dundas streetcar line or by walking from St Patrick Station on the Line 1 subway. It's also only a 10 minute walk from the DAA.
 
-### [The Don Valley Park](https://donrivervalleypark.ca/park-map/)
+#### [The Don Valley Park](https://donrivervalleypark.ca/park-map/)
 If big city living has you hungry for greenery, look no farther than the Don River Valley Park. While Don Valley in casual conversation almost exclusively refers to the major highway that runs along the valley, the park is surprisingly tranquil. There is an extensive trail system suitable for walking or cycling, and at the right time of year you can visit the river to see the salmon run. At the south end of the park you can visit [Riverdale Farm](https://www.toronto.ca/explore-enjoy/parks-gardens-beaches/zoos-farms/riverdalefarm/), a working farm hosting beautiful gardens, historic buildings, and a pig and poultry barn. In the north you can find the [Evergreen Brick Works](https://www.evergreen.ca/evergreen-brick-works/), a former brick making factory that now hosts a variety of events to encourage sustainability, including regular markets, swap meets and art exhibitions. The Evergreen Brick Works runs a shuttle from the Line 2 subway Broadway Station, but one can also walk down into the valley from the Line 2 subway Castle Frank Station.
 
 
-### [The PATH](http://torontopath.com/path-map/)
+#### [The PATH](http://torontopath.com/path-map/)
 
 The ultimate test of your navigational abilities, the PATH will take only the hardiest souls to their intended destinations. Much of Toronto's business district is connected by underground tunnels filled with shops, food courts, and desperately turned around tourists. Hop off the Line 1 subway at any station south of Queen St and follow the signs for the PATH to start exploring.
 
-### [The Eaton Centre](https://www.cfshops.com/toronto-eaton-centre.html)
+#### [The Eaton Centre](https://www.cfshops.com/toronto-eaton-centre.html)
 
 Sitting between the Times Square wannabe of Yonge and Dundas Square to the North and Nathan Phillips Square to the South, this mall is equipped to help you shop until well after your standard dropping point with four floors of retail, and two food courts. If you feel the need to step outside, there are good odds that either of the bounding squares are hosting an event; if nothing else the strange alien spaceship of Toronto's new City Hall is worth a look. Nearer to the mall you can also find the [Toronto Public Labyrinth](http://www.labyrinthnetwork.ca/toronto-public-labyrinth/). You can easily reach the mall by taking the Line 1 subway to Queen or Dundas stations.
 
-### [Roundhouse Park and CN Tower](https://goo.gl/maps/3oZbcarwnRr)
+#### [Roundhouse Park and CN Tower](https://goo.gl/maps/3oZbcarwnRr)
 
 If you've seen one Toronto sizzle reel, this area was probably heavily featured. Surrounded by glass walled condos, the Roundhouse Park is easy walking distance from the [SkyDome](https://www.mlb.com/bluejays/tickets) (now often known by the inferior moniker *The Rogers Centre*), the [Air Canada Centre](https://www.aircanadacentre.com) (go Raptors!),  [Ripley's Aquarium](https://www.ripleyaquariums.com), [Steamwhistle Breweries](https://steamwhistle.ca), and of course, the [CN Tower](http://www.cntower.ca/en-ca/home.html) (it's 553 m tall, if you read the [Table of Contents](#table-of-contents)). This area is a short walk from Union Station at the bottom of the Line 1 subway or from the 510 Spadina and 509 Harbourfront streetcar lines.
 
-### [The Harbourfront Centre](http://www.harbourfrontcentre.com)
+#### [The Harbourfront Centre](http://www.harbourfrontcentre.com)
 
 Just steps to the south of the Roundhouse park awaits a smorgasbord of free artistic offerings spread along Toronto's waterfront. Two free art galleries, a winter skating rink and summer artisan markets make this area worth a visit at any time of the year. It's easily reachable by foot from Union Station at the bottom of the Line 1 subway or more directly by the 510 Spadina or 509 Harbourfront streetcar lines.
 
-### [Toronto Islands](http://www.torontoisland.com)
+#### [Toronto Islands](http://www.torontoisland.com)
 
 The islands are a surprising escape from the city only a 15 minute ferry ride away from the bustling downtown core. Centre Island is often considered the jewel of the bunch, with public picnic sites, Centreville amusement park (including a petting zoo) and the massive Lake Ontario Pedestrian Pier. However, while Centre Island ferries only travel in the summer months, Ward's Island ferries sail year-round to service the residents of that island. Visiting Ward's Island in the spring and fall is my preferred way to visit the lake while avoiding the crowds that throng Centre Island in the summer. You can also visit Hanlan's Point in the summer for this effect, with the added bonus of the option of visiting the clothing optional beach. You can reach the ferry to the islands by walking south from Union Station at the bottom of the Line 1 subway or by taking the 510 Spadina or 509 Harbourfront streetcar lines.
 
-### [High Park](http://www.highparktoronto.com)
+#### [High Park](http://www.highparktoronto.com)
 
 The only park in Toronto that I've visited that you can get in deep enough to lose sight of the city. High Park is a massive green space to the west of the city. In addition to the wilder woods of the off-leash dog park, you can enjoy their more cultivated gardens as well as the ever popular spring cherry blossoms. The park also includes numerous sports fields, picnic areas and a mini zoo (with free admission). The park can be reached from the Line 2 High Park station, or by the 506 Carlton or 508 Lakeshore streetcar lines.
 
-### [Ontario Science Centre](https://www.ontariosciencecentre.ca)
+#### [Ontario Science Centre](https://www.ontariosciencecentre.ca)
 
 Located north of the city centre, the Science Centre offers everyone an opportunity to get hands on with science. Despite my feelings being biased by the frankly horrifying human body exhibit I was forced to witness as a child, I still find myself able to enjoy the virtual koi pond, the kinetic experiment room, and the rainforest exhibit. The Science Centre had virtual reality eagle flight before it was trendy and also boasts a full sized IMAX theatre. The Science Centre can be reached by taking the Line 1 subway to Eglinton station, followed by a bus, or by taking the Line 2 subway to Pape Station, also followed by a bus.
 
-### [Scarborough Bluffs](https://www.toronto.ca/explore-enjoy/parks-gardens-beaches/scarborough-bluffs/)
+#### [Scarborough Bluffs](https://www.toronto.ca/explore-enjoy/parks-gardens-beaches/scarborough-bluffs/)
 
 Travel far enough east and stick to the lake and you'll encounter the towering Scarborough Bluffs. Majestic in their slow motion crumble, the parks around their base are popular with adventurers and wedding photographers alike. In addition to the surrounding trails, you can find the Rosetta McClain gardens at the top of the bluffs and a restaurant at their base. You can reach the bluffs by taking the Line 2 subway to either Warden or Kennedy Station, followed by a bus.
 <!--stackedit_data:
@@ -1511,3 +1312,66 @@ LDE2MDA5MTc1MzEsMjI5OTAwNDY5LC0xNTMyMzc3NDA5LDcxNj
 UxMjk2NSwtMTIxODM1MjEzMCw0NDI5ODY0NTQsLTE0ODg5MDQ2
 MTZdfQ==
 -->
+
+## Appendix: other useful information
+
+### Useful Links
+[**Table of Contents**](#table-of-contents)
+
+- [NASA ADS](https://ui.adsabs.harvard.edu) - paper database with citation exports
+- [arXiv astro-ph](https://arxiv.org/list/astro-ph/recent) - paper database
+- [Department Internal Webpage](http://www.astro.utoronto.ca/internal/) - password is in your welcome packet - find facility booking calendar, printer set up, MAC address registration
+- [School of Graduate Studies Website](http://www.sgs.utoronto.ca/Pages/default.aspx)
+- [Employee Self-Service Website](http://aws.utoronto.ca/services/employee-self-service-ess/) - update personal information, download tax forms
+- [ACORN](http://acorn.utoronto.ca) - check academic and financial history, download tax forms
+- [Portal](http://portal.utoronto.ca) - find class pages
+- [Health Services](https://www.studentlife.utoronto.ca/hwc/medical-services) - make doctor's appointments
+- [Accessibility Services](https://www.studentlife.utoronto.ca/as) - set up accommodations
+- [Greenshield Information](http://studentcare.ca/rte/en/IHaveAPlan_UniversityofTorontoGraduateStudentsUnionUTGSU_Home) - find out what the health plan covers
+- [Greenshield Login](https://onlineservices.greenshield.ca/PlanMember/AccessMgmt/Public/SignOn.aspx) - make insurance claims
+
+
+### Jargon
+[[Back to Table of Contents]](#table-of-contents)
+
+Here find a contextful definition for all those terms you hear thrown about the department.
+
+ - **AB** - [Astronomy Building](#astronomy-building) (50 St George St) - office building
+ - **ACORN** - [website](acorn.utoronto.ca) where you can enrol in courses, view your academic history, manage your tuition payments, and set up direct deposit. Successor to **ROSI**
+ - **ADS** - Astrophysics Data System - a very searchable repository of astronomical papers with links to pdfs where applicable. Available in [classic](http://adsabs.harvard.edu/abstract_service.html) and [modern](https://ui.adsabs.harvard.edu) flavours.
+ - **ARO** - Algonquin Radio Observatory, located about 7 hours drive from campus in Algonquin Provincial Park - a good trip to join in the summer if you can swing it
+ - **arxiv** - chronological listing of recent papers pronounced "archive". In our department, almost exclusively used to refer to the [astro-ph](https://arxiv.org/archive/astro-ph/Astrophysics) listings
+ - **Astronomy on Tap** - the [Dunlap Institute's](#dunlap-institute) regular outreach event, occuring a few times a year
+ - **AstroTours** - monthly public talks organized and given by graduate students, discussed exhaustively in the [AstroTours](#astrotours) section.
+ - **B-Force** - research group run by [Prof Bryan Gaensler](http://phoenix.dunlap.utoronto.ca/~bgaensler/) studying magnetic fields
+ - **CASCA** - [Canadian Astronomical Society - Societe Canadienne D'Astronomie](#canadian-astronomical-society). Usually used to refer to their annual meeting, as in the phrase "I'm going to CASCA this year"
+ - **CHIME** - radio telescope in Penticton, British Columbia 
+ - **CITA** - [Canadian Institute for Theoretical Astrophysics](#canadian-institute-for-theoretical-astrophysics)
+ - **Cody Hall** - refers to AB107, the lecture hall in the [Astronomy Building](#astronomy-building)
+ - **CPS** - the [Centre for Planetary Sciences](#centre-for-planetary-sciences) at UofT's Scarborough campus
+ - **Crowdmark** - online marking system
+ - **CUPE** - Canadian Union of Public Employees. Used to colloquially refer to CUPE 3902 Unit 1; all teaching assistants are part of this union, which negotiates pay and offers health insurance
+ - **DAA** - [Department of Astronomy and Astrophysics](#department-of-astronomy-and-astrophysics)
+ - **Dragonfly** - optical telescope developed by [Prof Bob Abraham](http://www.dunlap.utoronto.ca/dunlap-people/prof-roberto-abraham/) that resembles a dragonfly's eye
+ - **DWTS** - [Dinner with the Speaker](#dinner-with-the-speaker): graduate student hosted dinner with the colloquium speaker
+ - **Dunlap** - colloquial way to refer to the [Dunlap Institute](#dunlap-institute)
+ - **GSU** - the [Graduate Student Union](#graduate-student-union) that draws representatives from each UofT department with a graduate program and votes on stuff. Also offers health insurance
+ - **H-Nauts** - research group run by [Prof Renee Hlozek](http://reneehlozek.moonfruit.com) focused on cosmology
+ - **Long Wavelength Lab** - [Prof Keith Vanderlinde's lab](http://lwlab.dunlap.utoronto.ca/index.html) - a good place to find screwdrivers
+ - **MP** - [McLennan Physical Labs and Burton Tower](#mclennan-physical-labs-and-burton-tower) (60 St George St) - office building
+ - **OHIP** - [Ontario's health insurance plan](https://www.ontario.ca/page/apply-ohip-and-get-health-card). This can be used by domestic students, international students must use **UHIP**
+ - **Portal** - website meant to consolidate course content from courses you are enrolled in and courses you for which you are a teaching assistant. It's horribly clunky and they're trying to replace it
+ - **quals** - short for '[qualification exams](#qualification-exams)'
+ - **RandoAstro** -  [Prof Norman Murray's](http://www.cita.utoronto.ca/~murray/) research group
+ - **ROSI** - see **ACORN**
+ - **scinet** - 
+ - **scintellometry** - subject of study for a large research group based at CITA, run by [Prof Ue-Li Pen](http://www.cita.utoronto.ca/~pen/wordpress/) and [Prof Marten van Kerkwijk](http://www.astro.utoronto.ca/~mhvk/) with [Prof Keith Vanderlinde](http://phoenix.dunlap.utoronto.ca/~vanderlinde/)
+ - **Sunnyvale**
+ - **TA** - teaching assistant, but also verbified, as in "I'm TAing AST101"
+ - **TTC** - [Toronto Transit Commission](#toronto-transit-commission) - Toronto's public transit agency, responsible for subway trains, streetcars and buses.
+ - **UHIP** - [Ontario's health insurance plan for international university students](https://www.studentlife.utoronto.ca/cie/uhip)for international students
+ - **UofT Time** - undergraduate classes start 10 minutes after the hour to allow for travel time between lectures, so something beginning at 2pm in 'UofT Time' really begins at 2:10 pm. Technically the department does not have to adhere to this, but many things do. Best to arrive on the hour to be safe.
+ - **UTORid** - your unique online identifier at UofT, given to you when you get your TCard (see the [to-do list below](#to-do)). You use this to log in to [ACORN](acorn.utoronto.ca) and [Portal](portal.utoronto.ca) which are discussed below in the [Online](#online) section.
+ - **UTM** - University of Toronto's [Mississauga Campus](#mississauga)
+ - **UTSC** - University of Toronto's [Scarborough Campus](#scarborough)
+ - **UTSG** - University of Toronto's [St George Campus](#st-george), also often referred to as the "downtown" campus. This is where UofT has the most students and where graduate student offices are located by default.
